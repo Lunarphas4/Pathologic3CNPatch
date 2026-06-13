@@ -1,8 +1,12 @@
 # Pathologic 3 简体中文补丁
 
-Pathologic 3 简体中文本地化补丁工程仓库。
+Pathologic 3 简体中文本地化补丁工程仓库。补丁非官方、非商业、无盈利。
 
 本仓库用于维护源码、脚本、术语表、翻译 overlay 和报告文档；玩家实际安装请下载 GitHub Release 中的压缩包。
+
+## 发布许可
+
+<img width="1199" height="3275" alt="Screenshot_2026-06-13-15-42-32-937_com discord_17" src="https://github.com/user-attachments/assets/0257b2fb-f291-4505-b558-c7993e572f6b" />
 
 ## 下载方式
 
@@ -34,12 +38,6 @@ Pathologic 3 简体中文本地化补丁工程仓库。
 
 - 当前整理版本：`2026-06-13`
 - 补丁目录名：`Pathologic3CNpatch`
-- 主要内容：
-  - 简体中文文本 overlay
-  - 字体与标签显示修复
-  - feedback/3 反馈修正
-  - `Khulan` 统一为 `库兰`
-  - 一键安装与一键卸载脚本
 
 ## 卸载方式
 
@@ -52,14 +50,6 @@ Pathologic 3 简体中文本地化补丁工程仓库。
 
 如果备份已经被删除，请在 Steam 中使用“验证游戏文件完整性”恢复原版资源。
 
-## 注意事项
-
-- 本补丁不包含完整游戏资源，不包含 `resources.assets`、`sharedassets*.assets` 或 `.resS` 文件。
-- 安装器会读取玩家本机已有的游戏文件，并在本机写入中文文本和字体修复。
-- 安装或卸载前请先关闭游戏。
-- 如果杀毒软件拦截 `.bat` 或 PowerShell 脚本，请先确认文件来自本仓库 Release，再手动允许执行。
-- 本仓库不提供游戏本体，也不包含任何需要从 Steam 安装目录复制的原始游戏资产。
-
 ## 仓库内容
 
 - `src/`：BepInEx 插件源码。
@@ -69,16 +59,3 @@ Pathologic 3 简体中文本地化补丁工程仓库。
 - `docs/`：当前状态、反馈处理记录和关键校验报告。
 - `package/`：可安装补丁的说明与入口脚本示例。
 
-仓库保持精简：翻译过程批次、旧扫描报告、临时备份、发布 zip 和完整游戏资源不进入 Git。玩家安装包只通过 Release 发布。
-
-## 开发说明
-
-插件项目需要引用本机游戏目录中的 BepInEx、Harmony 和 Unity DLL。仓库不会提交这些 DLL。
-
-示例：
-
-```powershell
-dotnet build .\src\tags-font-swap\Pathologic3CnTagsFontSwap.csproj -p:Pathologic3GameDir="D:\Pathologic3_CN_Work\Pathologic 3"
-```
-
-上传前请确认没有游戏资产、发布 zip、DLL、EXE 或本地备份进入 Git 历史。
