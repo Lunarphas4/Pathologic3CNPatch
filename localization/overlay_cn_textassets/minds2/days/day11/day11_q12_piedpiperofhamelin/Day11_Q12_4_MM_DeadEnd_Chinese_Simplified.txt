@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_4_MM_DeadEnd.Name} 死胡同
+{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_4_MM_DeadEnd.Description} 鼠先知本愿助我把孩子从多面体撤出。可叹——即便是他的力量，也不足以清空一座失去首领的高塔。

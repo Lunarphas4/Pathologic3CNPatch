@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_StaffDaysTutorial_Prologue.Name} 不当法令
+{Prologue.Notifications.Tutorial.Notification_StaffDaysTutorial_Prologue.Description} 当前法令引发问题。按<InputActions/UI/RemoveStaffCommand>移除

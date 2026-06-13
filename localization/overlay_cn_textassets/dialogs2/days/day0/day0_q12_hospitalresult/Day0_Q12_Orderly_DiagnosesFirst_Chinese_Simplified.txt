@@ -1,0 +1,10 @@
+﻿{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Orderly_DiagnosesFirst.12070} 护工三十三号向紧急指挥部报到。也就是说，我来报到履职——我是三十三号。
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Orderly_DiagnosesFirst.14933} 你有名字吗？
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Orderly_DiagnosesFirst.1869} 我面具另一侧有编号——谁有这个编号，谁就是我。至于名字，每次都不一样，但职责总一样：这里搬尸体，那里检查瘟疫屋。干我们这行，名字换得很快。
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Orderly_DiagnosesFirst.37595} 这几天，我也觉得自己正在溶解进职责里。你来这里做什么，三十三号？
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Orderly_DiagnosesFirst.7249} 医院有什么消息，三十三号？
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Orderly_DiagnosesFirst.8585} 我带来了今天您检查过的那些可怜人的治疗结果。卢塔、芬奇，还有一个……我忘了第三个是谁——我这是怎么了？不过纸上都有。\n\n以后每天晚上，我们都会留下这样的文件——报告、图表、死后记录……
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Orderly_DiagnosesFirst.12144} “死后记录”是怎么回事？我很确定我的病人本该活下来！
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Orderly_DiagnosesFirst.835} 也许是我弄混了。也许是感谢信。您最好亲自看看——谁知道这面具底下，我的脑子缠成什么样了？所以我们才要保存书面记录，医生！
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Orderly_DiagnosesFirst.55172} 书面记录很好。我也快分不清昨天发生了什么，或者明天会发生什么。
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Orderly_DiagnosesFirst.3200} 别走远。我确信我们会有疫苗。微弱、粗糙、第一版——但它会救人，不会杀人。到时会派你去传达消息。我希望……

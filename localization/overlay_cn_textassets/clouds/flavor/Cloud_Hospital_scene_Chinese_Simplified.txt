@@ -1,0 +1,5 @@
+{Clouds.Flavor.Cloud_Hospital_scene.17796} 维多利亚·奥尔吉姆斯卡娅。
+{Clouds.Flavor.Cloud_Hospital_scene.29271} 维多利亚·奥尔吉姆斯卡娅。
+{Clouds.Flavor.Cloud_Hospital_scene.30685} 妮娜·凯娜。
+{Clouds.Flavor.Cloud_Hospital_scene.57707} 她们曾统治这座城。
+{Clouds.Flavor.Cloud_Hospital_scene.5367} 如今她们只是纸。

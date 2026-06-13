@@ -1,0 +1,3 @@
+{Clouds.Flavor.Cloud_RegionKhebtovka_BigRock.17796} 像一颗公牛的头。
+{Clouds.Flavor.Cloud_RegionKhebtovka_BigRock.24085} 像一颗公牛的头。
+{Clouds.Flavor.Cloud_RegionKhebtovka_BigRock.22235} 本地人崇拜公牛。

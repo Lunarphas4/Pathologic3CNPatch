@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_MM_HelpVlad.Name} 份量足够的理由
+{Minds2.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_MM_HelpVlad.Description} 弗拉德在为一步自寻死路的举动鼓起勇气——在金族的审判前认罪。我有什么话要对他说吗？

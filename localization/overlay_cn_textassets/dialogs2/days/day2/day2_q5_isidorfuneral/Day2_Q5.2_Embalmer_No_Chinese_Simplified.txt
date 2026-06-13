@@ -1,0 +1,19 @@
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.32841} Haishaagshad（住手）！退后。这具身体已不再让血流经诸线。不要用你不安分的生命打扰它死亡的安息。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.22413} 我是医生，我知道怎么验尸。我在学院停尸间解剖过几十具尸体。我想提供帮助。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.51247} 你在破坏我们的khuulinuud（律法）——我们的法律。必须由我来照料身体。\n\n我为它准备下葬时，所有人都会离开村子。免得打扰它。Ede manai khuulinuud（这是我们的律法）。活人的目光不应擦过死者的身体。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.18061} 所以你才失明？这是仪式的一部分？
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.22988} 处理身体不需要眼睛——需要手。鼻子。有时需要耳朵。你需要你的感官，turshalga（经验）。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.56146} 我需要检查遗体。这至关重要。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.16294} 我想查出是谁杀了伊西多尔。如果你不让我检查遗体，至少能不能描述伤口的性质？我相信你经验足够，能说得准确。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.50195} 顽固得像石头！伤口属于身体，不得打扰，正如身体不得被目光打扰。目光就像灼伤。谢亨必须空无一人、没有眼睛——这就是仪式。\n\n把你健康的眼睛从这里带走。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.2878} 你们这些草原人就没人想查清伊西多尔出了什么事吗？
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.62999} 我们知道出了什么事。Boddho（大地母亲）召唤了他，所以他现在必须离开。就像你一样。你也得离开。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.24942} 这一切太野蛮了。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.28998} 或者你是凶手的同谋？也许你正以这场仪式为幌子，毁掉尸体上本可帮助调查的证据？
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.38365} 先用眼睛伤人，再用言语伤人，好像还不够！走吧，你这个蛇人。你的毒足以毒死死人。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.50114} 如果你在帮凶手，你的行为至少还有目的。若不是，你就只是个迷信的蠢货。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.50209} 抱歉。我不该侮辱你。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.59200} 抱歉。我不是有意妨碍你。我不会看。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.57463} 你能让我靠近吗？我想弄清这个人的死因。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.57063} 你的眼睛……你什么也看不见。这样怎么处理尸体？
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Embalmer_No.30894} 处理身体不需要眼睛——需要手。鼻子。有时需要耳朵。你需要你的感官，turshalga（经验）。\n\n我为身体准备下葬时，所有人都会离开村子。免得打扰它。Ede manai khuulinuud（这是我们的律法）。活人的目光不应擦过死者的身体。

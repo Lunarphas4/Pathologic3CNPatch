@@ -1,0 +1,2 @@
+{Minds2.Days.Day11.Day11_Q3_DeadTownTwo.Day11_Q0_MM_ChangeThePast.Name} 改写过去
+{Minds2.Days.Day11.Day11_Q3_DeadTownTwo.Day11_Q0_MM_ChangeThePast.Description} 没有了司令，军队失控了。

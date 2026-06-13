@@ -1,0 +1,23 @@
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.59659} ……那些掌权者始终没有做出同一个决定。炮兵既没有向镇子开火，也没有向那座怪诞的高塔开火。瘟疫没有被击败……而你所谓的人造奇迹，经不住现实一碰。它碎了——仅此而已。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.11762} 那卡尔明斯基呢？他说他知道一种办法，能把多面体加入他的收藏。虽然令人厌恶——我当时以为那会有帮助……
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.61060} 他没有从镇子回来。审判官的印章也挡不住瘟疫。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.53650} 活该。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.41061} 方案乙：不管卡尔明斯基是怎样的人，他明白多面体的价值。而他也被愚弄了……
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.10946} 奇怪的是，我本来确信没有什么能碰到卡尔明斯基。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.3643} 这不是白费。我们解开了瘟疫。利特尔解开了。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.59633} 我们看过你的计算。很漂亮——可你拿着它们赶到学院会议时已经迟了。要是你有点头脑，早几天到，而不是等到镇子里那场可耻的收场之后就好了！
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.27005} 我不想丢下未完成的工作。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.22372} 你在撒谎。我们的研究仍会发挥作用。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.36413} 我只是想把孩子们的王国留给他们。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.27024} 我试图和你谈话的整个过程中，你像最固执的蠢驴一样死扛。你编出最荒唐的故事。最后你做了……什么也没有？ 每一步都迟到，什么都没解决。你毁掉了人，也毁掉了多面体。我遗憾——真心遗憾——我在你身上浪费了时间。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.14456} 如果多面体承受不住瘟疫，那它就不是奇迹。它的设计里有缺陷。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.38232} 明白一件事。我追究的案子不是关于镇子，不是关于瘟疫，也不是关于多面体。是关于你。所以想想你到底成了什么：一种乏味、犹疑不决的物质。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.45959} 你又在撒谎。我是有意识地选择不撤走孩子们。谁能知道结局会这样……
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.11605} 走吧，学士。你已经证明自己是个无趣的研究对象。 你的助手们正在塔纳提卡等你——等着剩下的那点塔纳提卡。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.62349} 永别。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.58586} 我们还会再见。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.39639} 错不在我；掌权者只是无力达成一致。我陈述了我的理由。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.11713} 下地狱去吧。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.35220} 那你就不该浪费它。现在我能走了吗？
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.61160} 你想要什么？要我告诉你我恶心得反胃吗？我恶心得反胃。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Inspector_Rot.49497} 我后悔了。

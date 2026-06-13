@@ -1,0 +1,3 @@
+{Npcs.Egor.Name} 访客水鸭
+{Npcs.Egor.FullName} ⁠
+{Npcs.Egor.Description} ⁠

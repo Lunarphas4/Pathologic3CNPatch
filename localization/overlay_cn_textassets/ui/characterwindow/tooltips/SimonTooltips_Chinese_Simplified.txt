@@ -1,0 +1,5 @@
+﻿{UI.CharacterWindow.Tooltips.SimonTooltips.Death} 西蒙·凯恩在我抵达前一天死去
+{UI.CharacterWindow.Tooltips.SimonTooltips.Intro} 西蒙·凯恩——小镇不死的统治者
+{UI.CharacterWindow.Tooltips.SimonTooltips.Memory} 西蒙的记忆保存在多面体里。我将在那里见到他
+{UI.CharacterWindow.Tooltips.SimonTooltips.Plague} 西蒙·凯恩放任瘟疫发生，以考验小镇的强度并保存它
+{UI.CharacterWindow.Tooltips.SimonTooltips.Bachelor} 我成了西蒙

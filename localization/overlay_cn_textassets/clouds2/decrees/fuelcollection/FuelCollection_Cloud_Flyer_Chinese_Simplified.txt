@@ -1,0 +1,5 @@
+{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Flyer.19196} “交出多余燃料——帮助城镇！”
+{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Flyer.17306} “交出多余燃料——帮助城镇！”
+{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Flyer.23431} “每天有超过一吨燃料在篝火中燃烧！”
+{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Flyer.21880} “火能驱走瘟疫！”
+{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Flyer.24980} 我们的传单为什么会在废纸里？！

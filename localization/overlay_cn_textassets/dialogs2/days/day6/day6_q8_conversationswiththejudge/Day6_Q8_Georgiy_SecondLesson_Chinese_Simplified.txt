@@ -1,0 +1,58 @@
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.48309} 学者，你来了。我原以为你未必会……不过看来，你确实想把握西蒙，理解他的思维方式。被告已经在等我们了，但先回答我：你相信什么？
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.1951} 格奥尔基，在说别的之前，我必须先警告您：后天您会被召去水塔边裁断一场争端。不要去。您会死在那里。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.54956} 我还是来了。你以为第一场争端就能吓退我？顺便问一句——那个被告，那个男孩，后来怎样了？
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.33237} 你想知道我选择的是法，还是正义？那就接受这堂临时加上的课吧：西蒙不会问。   他会，姑且这么说，移开目光——不让自己的注视之力确认另一个人的意志，不赋予它实体。很多时候，现实本身也就会转向合他心意的方向。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.874} 你的意思是，只要我永远不知道您如何决定上一个被告的命运，它就会变成我所希望的样子？
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.46130} 我说的是西蒙会怎样做。是否效法他，由你自己决定。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.25765} 我会的。上一桩案子什么都别告诉我。我们直接进入今天的案子吧。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.11478} 很好——但在那之前，你仍要回答我：你相信什么？
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.20064} 不。我想知道您是怎么处置那个男孩的。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.52598} 我还没有。至少暂时没有。我把判决推迟了，等到搜集到更多证据再说。失望么？   在转向下一场争端之前，你仍要回答我：你相信什么？
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.12627} 只相信科学知识。除此之外的任何信念，都是狂信者才涉足的领域。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.6132} 是么？你相当武断。西蒙说过，武断的判断很危险——它会夺走心智的弹性。   今天我们要裁断三名被告的命运。他们合谋闯入一名裁缝家中，将一些贵重物品据为己有。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.40707} 我的母亲曾是个虔诚的信徒。我告诉她世上并无神明时，她很难过。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.16527} 唉，在你们这座镇子的第六天，我似乎已经什么也不信了，什么都怀疑。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.10136} 怀疑，正如你肯定还记得，是任何司法争端的基石。   今天我们要裁断三名被告的命运。他们合谋闯入一名裁缝家中，将一些贵重物品据为己有。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.32458} 谎话。那破窝里根本没有值得拿的东西。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.50217} 屋主当时在家，而且就在犯罪发生之际，他心脏破裂而死。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.30366} 至少这句你没说谎。他是自己倒下死的——跟我们没有关系。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.52261} 怎么会与你们无关？他是因为你们闯进他家才死的。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.5469} 如果确是如此，那么裁缝之死的确只是悲剧性的巧合。我不会把这项罪责归到窃贼身上。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.6219} 那你为什么要闯进去，既然你自己说那只是个没什么可拿的破窝？
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.26354} 那裁缝是个守财奴。活得像烂泥，却坐着一堆钱。爱数钱，恨花钱。  邻居说他会出门，我就爬了进去。结果他就在那儿，那个混账，躺床上打鼾。他醒了，看见我们，然后就喘起来——当场倒下死了……
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.20487} 现在钱还有什么用？还能买到什么？我只是饿了。  你们市政厅的人吃着上等肉，写着你们那些该死的法令，而我三天没一口东西进嘴。我连垃圾堆都翻过——那里也什么都没有……
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.25530} 你怎么说，学者？你能在内心的天平上称量他们的罪责么？你会把多少怀疑加诸其身，又会给出多少怜悯？
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.17580} 他们两个都说了。但这个Odongh（金族牧人）为什么沉默？
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.9587} 这是我的罪。我有罪，审判者。他看见了我，Boddho（大地母亲）便用她公牛的蹄子踏碎了他的心。这是我的罪。我是耻辱，令父母蒙羞。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.59499} 这个男人在诉诸怜悯，试图把罪责推到我身上——也推到所有有财力的人身上——仿佛这镇上的饥饿是我们造成的。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.7207} 你懂什么罪，首都来的耗子？你以为我们闯进去，是因为日子过得太容易？你以为那东西不咬我们？当然咬……可饥饿咬得比良心更狠。你又懂什么——你只在书里读过饥饿，你这畜生。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.53979} 那个女人说她是为钱而来。但在一座被隔离封死的镇子里，钱对她还有什么用？
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.30413} 我当初来到这里，是因为我相信乌托邦。他们许诺一座如同一个身体般活着的城镇，人人都为未来工作。  而那个裁缝把钱藏了起来——这就意味着他从城镇那里偷走了钱。我需要那笔钱继续建造乌托邦。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.2677} 从富人手里拿走一切，分给众人，再投进一个不可能的未来？这话我似乎在哪里听过。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.17326} 西蒙确实曾梦想建造一座会成为熔炉的城镇——在那里，不同的人和信念能够和平共处，彼此补足，彼此丰富。他以每一个人的真理为坐标，因此受到所有人的尊敬——虫民与符号者皆然。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.26527} 西蒙比我更睿智。我不相信乌托邦，也不相信一个人能够以每个人的真理为坐标。真理太多了。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.25527} 你认为西蒙会怎么做？他会如何处置这些人——如何解决这场争端？
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.36779} 三人都有罪。如果我们寻求正义，他们就必须承受同样的惩罚，不论动机如何。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.18213} 可惜。我原以为你开始明白了——看来我的结论下得太急。很好。谢谢你的尝试，学者。   后天来吧——还会有一场争端等着你。也许那会是通向理解西蒙之路的最后一场。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.4361} 我会来的。我保证。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.279} 我还不明白这些课会把我引向哪里。也许有一天我会明白。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.50555} 我有一个请求，格奥尔基：后天您会被召去水塔边裁断一场争端。不要去。您会死在那里。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.25797} 我裁断争端已有许多年了，学者。我听过的威胁多得数不清。若真有人对我生出恶意，我会与他当面对峙——一如既往。若不如此，便有失体面。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.27058} 我求您——我真心求您——不要去水塔。凯恩家族已经承受了足够多的失去。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.24147} 这座城镇也承受了失去——所以此刻我没有权利不走到人们面前。这是我的职责，学者。   如果有人叫你抛下病人，躲开风险——你会怎样回答？有人等待治疗，有人等待司法判决。两者同样急迫。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.53773} 至少试着……后天，试着别激怒人群。也许仅仅这样……
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.26876} 格奥尔基，您不相信我吗？您不相信我知道自己在说什么吗？
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.57013} 我为什么不信？我相信你。我也无意舍弃自己的性命。但是，学者，每个人都必须走自己的路——否则他便背叛了自己。若镇上的人召我去水塔，我就会去。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.37652} 现在还不晚，您要放弃的不是自己，而是宿命论。还有两天。请您想一想，我求您。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.16332} 我确信西蒙会反对。至少以我对他的理解，他正是最不肯只走单一路径的人。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.57774} 三人之中，只有Odongh（金族牧人）表现出悔意。我会判他最轻——毕竟他什么也没偷。另两人应更重地处罚。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.56239} 释放Odongh（金族牧人），给那个男人吃的，把那个女人送到某个工地去。她若想建造乌托邦，就让她亲手去建。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.38503} 维克多会把你的方法称为“差异化”的。选择性的仁慈——还带一点讽刺。我很高兴你没有草率出手，把同一把尺子压到所有人身上。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.45137} 所以现在会怎样？
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.56278} 但您会亲自审判他们，对吗？您不会只是把我的话当作判决吧？
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.16575} 我尚未决定。我仍在内心的天平上称量他们的罪责。而你，学者，方才帮我调整了这架天平。   后天来吧——还会有一场争端等着你。也许那会是通向理解西蒙之路的最后一场。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.8429} 这正是乌托邦永恒的问题。西蒙的理念很美——可他刚一离去，人们便急着扭曲并重塑他所创造的一切。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.38388} 在真正的熔炉里，化学过程从不停止。也就是说，和谐永远不可能一劳永逸地达成。也许这正是乌托邦的意义？
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.28540} 所以你打算拿裁缝的钱建乌托邦？那是他凭自己的劳动挣来的——没有任何乌托邦赋予你夺走它的权利。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.44167} 看来三人之中，只有Odongh（金族牧人）真正受良心折磨。
+{Dialogs2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_Georgiy_SecondLesson.38585} 你懂什么良心，首都来的耗子？你以为我们闯进去，是因为日子过得太容易？你以为那东西不咬我们？当然咬……可饥饿咬得比良心更狠。你又懂什么——你只在书里读过饥饿，你这畜生。

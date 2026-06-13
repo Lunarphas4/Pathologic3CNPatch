@@ -1,0 +1,10 @@
+{Clouds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_Cloud_Floor.19121} 大扫除？
+{Clouds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_Cloud_Floor.28496} 大扫除？
+{Clouds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_Cloud_Floor.15464} 还是某件事之后留下的痕迹？
+{Clouds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_Cloud_Floor.18585} 这里是不是洒过什么？
+{Clouds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_Cloud_Floor.30439} 菲拉特是不是在这里吐过？
+{Clouds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_Cloud_Floor.48609} 邻居确信他是喝酒喝坏了
+{Clouds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_Cloud_Floor.43325} 虽然他自己否认酗酒
+{Clouds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_Cloud_Floor.25741} 菲拉特吐了，但不是因为酒精
+{Clouds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_Cloud_Floor.15923} 一开始他被强烈的饥饿感压倒
+{Clouds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_Cloud_Floor.18900} 然后恶心感袭来

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q2_MeetingInAdministration.Day3_Q2_MM_Done.Name} 临时同盟
+{Minds2.Days.Day3.Day3_Q2_MeetingInAdministration.Day3_Q2_MM_Done.Description} 只有一场致命瘟疫，才能逼这个镇上几大权门坐到一起合作。可惜，他们合作得相当糟糕。

@@ -1,0 +1,3 @@
+{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Result1_Death.Name} 绷带
+{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Result1_Death.Description} 血已经干了，散发着脓臭。
+{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Result1_Death.Description2} 血已经干了，散发着脓臭。

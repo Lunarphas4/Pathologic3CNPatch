@@ -1,0 +1,3 @@
+{Npcs.PlagueBachelor.Name} ？？？
+{Npcs.PlagueBachelor.FullName} ⁠
+{Npcs.PlagueBachelor.Description} ⁠

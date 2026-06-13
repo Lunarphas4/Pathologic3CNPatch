@@ -1,0 +1,15 @@
+{Dialogs2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Mortus_Fireworks.34679} 我听说有几只乌鸦在屋顶筑了巢。这是不祥之兆。
+{Dialogs2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Mortus_Fireworks.57435} 乌鸦现在不是我们最大的问题。
+{Dialogs2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Mortus_Fireworks.43820} 那要看怎么说。乌鸦喜欢偷亮晶晶的东西，藏进自己的窝里。
+{Dialogs2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Mortus_Fireworks.1981} 我觉得你把乌鸦和喜鹊弄混了。
+{Dialogs2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Mortus_Fireworks.44942} 有一只差点叼走一罐药！我亲眼看见的！好不容易才把它赶走。
+{Dialogs2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Mortus_Fireworks.29326} 别管乌鸦了。你知道二楼有个标着“爆炸物。危险”的箱子吗？就在一盏灯旁边。
+{Dialogs2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Mortus_Fireworks.47354} 你不同情它们吗？
+{Dialogs2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Mortus_Fireworks.10322} 你是说因为我们这身护工衣服？那都是假的。乌鸦不是我们的亲族。
+{Dialogs2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Mortus_Fireworks.8437} 二楼有个标着“爆炸物。危险”的箱子。就在一盏灯旁边。你知道吗？
+{Dialogs2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Mortus_Fireworks.19424} 哦，那个？我还以为是你们的。从没打开看过。我以为是治高血压用的硝酸甘油，寻常东西。
+{Dialogs2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Mortus_Fireworks.57061} 里面全是烟花。请把它们从火源旁移开。我们最不需要的，就是把这栋楼烧掉。
+{Dialogs2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Mortus_Fireworks.40494} 哦，我喜欢烟花。镇上要是有场烟花表演就好了！
+{Dialogs2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Mortus_Fireworks.52775} 先把灯从它们旁边挪开，再告诉你的同事们小心一点。
+{Dialogs2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Mortus_Fireworks.23517} 点燃它们也许真有好处。火药很适合给空气消毒。
+{Dialogs2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Mortus_Fireworks.47934} 军队马上就要给我们放一场烟花了，我们一辈子都会记得。

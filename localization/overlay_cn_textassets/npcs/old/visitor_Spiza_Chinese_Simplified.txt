@@ -1,0 +1,3 @@
+{Npcs.Old.visitor_Spiza.Name} ⁠
+{Npcs.Old.visitor_Spiza.FullName} ⁠
+{Npcs.Old.visitor_Spiza.Description} ⁠

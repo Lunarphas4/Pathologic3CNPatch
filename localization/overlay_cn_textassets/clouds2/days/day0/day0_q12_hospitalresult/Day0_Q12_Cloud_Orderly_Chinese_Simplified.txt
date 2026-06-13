@@ -1,0 +1,3 @@
+{Clouds2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Cloud_Orderly.1064} 大胆得吓人的勤务员
+{Clouds2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Cloud_Orderly.25103} 大胆得吓人的勤务员
+{Clouds2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Cloud_Orderly.4752} 我不记得那些数字，它们变得太频繁

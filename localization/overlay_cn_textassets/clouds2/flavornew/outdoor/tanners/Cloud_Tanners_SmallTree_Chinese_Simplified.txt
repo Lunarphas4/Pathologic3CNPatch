@@ -1,0 +1,5 @@
+{Clouds2.FlavorNew.Outdoor.Tanners.Cloud_Tanners_SmallTree.44925} 饥渴草原的自然
+{Clouds2.FlavorNew.Outdoor.Tanners.Cloud_Tanners_SmallTree.10340} 饥渴草原的自然
+{Clouds2.FlavorNew.Outdoor.Tanners.Cloud_Tanners_SmallTree.6639} 在愤怒之日生出了它
+{Clouds2.FlavorNew.Outdoor.Tanners.Cloud_Tanners_SmallTree.56689} 又把死去枝条的绿意
+{Clouds2.FlavorNew.Outdoor.Tanners.Cloud_Tanners_SmallTree.61752} 和根须一同喂满毒液

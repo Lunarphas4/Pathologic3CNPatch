@@ -1,0 +1,2 @@
+{UI.Credits.Narrative.VasiliyKrasilnikov.Name} Vasiliy „Anmoris“ Krasilnikov
+{UI.Credits.Narrative.VasiliyKrasilnikov.Description} 叙事设计师

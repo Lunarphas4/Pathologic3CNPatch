@@ -1,0 +1,2 @@
+{Prologue.Notifications.Notification_Prologue_Day4.Name} 第四天，
+{Prologue.Notifications.Notification_Prologue_Day4.Description} 学者被迫以非常之法对抗死神

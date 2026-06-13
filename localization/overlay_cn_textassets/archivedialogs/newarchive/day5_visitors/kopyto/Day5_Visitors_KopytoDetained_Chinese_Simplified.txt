@@ -1,0 +1,15 @@
+{ArchiveDialogs.NewArchive.Day5_Visitors.Kopyto.Day5_Visitors_KopytoDetained.7103} 喂，你乱逛什么，头儿？！站住，聊聊！
+{ArchiveDialogs.NewArchive.Day5_Visitors.Kopyto.Day5_Visitors_KopytoDetained.15850} 谁在那里？你的声音我熟悉。
+{ArchiveDialogs.NewArchive.Day5_Visitors.Kopyto.Day5_Visitors_KopytoDetained.3522} 谢苗·科佩托。是你吗，医生？
+{ArchiveDialogs.NewArchive.Day5_Visitors.Kopyto.Day5_Visitors_KopytoDetained.20992} 萨布罗夫到底还是抓住你们了。
+{ArchiveDialogs.NewArchive.Day5_Visitors.Kopyto.Day5_Visitors_KopytoDetained.1117} 把我卖了，又来观赏？那就看吧，看吧。也看不了多久了。
+{ArchiveDialogs.NewArchive.Day5_Visitors.Kopyto.Day5_Visitors_KopytoDetained.27186} 我没有出卖你。我只是没有干预。
+{ArchiveDialogs.NewArchive.Day5_Visitors.Kopyto.Day5_Visitors_KopytoDetained.4914} 希望我真能快点离开你们这座镇子。
+{ArchiveDialogs.NewArchive.Day5_Visitors.Kopyto.Day5_Visitors_KopytoDetained.28113} 我的弟兄从地下都能把你挖出来！听见了吗，医生？！你还在这儿？！
+{ArchiveDialogs.NewArchive.Day5_Visitors.Kopyto.Day5_Visitors_KopytoDetained.17072} 不幸的是，暂时还在。毕竟没有通往大世界的火车。
+{ArchiveDialogs.NewArchive.Day5_Visitors.Kopyto.Day5_Visitors_KopytoDetained.13054} 你会跟我们所有人一起烂死在这儿！
+{ArchiveDialogs.NewArchive.Day5_Visitors.Kopyto.Day5_Visitors_KopytoDetained.13344} 我们第一次见面时，您就这么威胁过。
+{ArchiveDialogs.NewArchive.Day5_Visitors.Kopyto.Day5_Visitors_KopytoDetained.21519} 这次我是认真的！
+{ArchiveDialogs.NewArchive.Day5_Visitors.Kopyto.Day5_Visitors_KopytoDetained.25937} 您知道吗，我该走了。
+{ArchiveDialogs.NewArchive.Day5_Visitors.Kopyto.Day5_Visitors_KopytoDetained.21867} 哪儿都没法清静！
+{ArchiveDialogs.NewArchive.Day5_Visitors.Kopyto.Day5_Visitors_KopytoDetained.15084} 医生，是你吗？认出我了？我是谢苗·科佩托。

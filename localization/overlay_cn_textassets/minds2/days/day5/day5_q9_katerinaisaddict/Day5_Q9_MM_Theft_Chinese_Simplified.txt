@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_MM_Theft.Name} 盗窃
+{Minds2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_MM_Theft.Description} 吗啡从医院消失了。若不是换生灵干的，还能是谁？

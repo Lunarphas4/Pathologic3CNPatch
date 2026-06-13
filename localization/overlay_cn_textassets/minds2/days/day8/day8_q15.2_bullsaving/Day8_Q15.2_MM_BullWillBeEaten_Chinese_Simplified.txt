@@ -1,0 +1,2 @@
+{Minds2.Days.Day8.Day8_Q15.2_BullSaving.Day8_Q15.2_MM_BullWillBeEaten.Name} 对照组
+{Minds2.Days.Day8.Day8_Q15.2_BullSaving.Day8_Q15.2_MM_BullWillBeEaten.Description} 明天这头牛会被吃掉

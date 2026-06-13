@@ -1,0 +1,3 @@
+{Npcs.patient_Lun.Name} 秧鸡
+{Npcs.patient_Lun.FullName} ⁠
+{Npcs.patient_Lun.Description} ⁠

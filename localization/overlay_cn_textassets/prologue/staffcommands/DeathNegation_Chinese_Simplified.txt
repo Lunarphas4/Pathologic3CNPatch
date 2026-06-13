@@ -1,0 +1,2 @@
+{Prologue.StaffCommands.DeathNegation.Name} 死亡禁令
+{Prologue.StaffCommands.DeathNegation.Description} 禁止死亡

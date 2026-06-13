@@ -1,0 +1,2 @@
+{Symptoms.BolGolova.Name} 头痛
+{Symptoms.BolGolova.Description} 不要与面部或颈部疼痛混淆。疼痛位于眼、耳和第一颈椎以上的头部区域，偏头痛是其中一种。

@@ -1,0 +1,97 @@
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.7946} Sayn bayna，erdem（学者）。（你好，学者。）
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.7444} 这倒新鲜！邻居告诉我菲拉特是独居。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.29301} Bü shhüüiaa garga… Be kharanab，你生气了！Shee yunde ereebshee？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.1645} 我完全不知道你在说什么。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.17165} 你好，erdem（学者），我是这么说的。你为什么来？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.7729} 啊，对……“erdem（学者）”是你们称呼学者的词，对吗？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.7533} 我无处可去。Baighaldai，别赶我走，erdem（学者）！
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.11337} 你是个……小猫窃贼，也许？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.9314} 我不回地穴。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.22380} 地穴？那是什么？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.12836} 你们把它叫作蚁巢。Aydahamni hürene（你闻起来像危险）！Boleesh（停下），büü alysh（别靠近），走你的路！
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.9591} 嗯。那你愿意告诉我里面有什么吗？请详细说。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.1132} 里面有人。Khatanghe（金族）。你还想要什么？我们住在那里！
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.11737} 你怎么绕过守卫的？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.22877} 我会说——只要你放我走！地穴里有个……爬洞。akhai（兄长）菲拉特看着它。他帮我绕过那些发怒的守卫。Tere namaye abarba（他救了我）。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.20391} 你为什么不留在那里？让我猜——为情所困？还是犯了你们的法？你们有法吗？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.12765} Medene ougyye, haraa ougyb.（我不知道，也没看见。）
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.17401} 什么？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.13858} 你能好好说话。别装傻。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.502} 所以菲拉特收留了你。他那个幻觉是……你？夜里和他说话的是你，不是他脑袋里的声音？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.17199} akhai（兄长）菲拉特收留、藏起、庇护。让没人看见。没人把我送回地穴。Be khododoho bayarye khurgeheb。悄悄说话，zülge nogohon yaazha shesherneb。让没人听见。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.62284} 你的邻居还是听见了。不过别担心：她以为菲拉特疯了。只要你安静，她不会注意到你。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.48919} akhai（兄长）菲拉特在哪里？Yuun bolohob？他怎么样？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.57234} 终于说了句有用的话。他在医院——他病了。我是医生，需要弄清他得了什么病。你愿意帮我吗？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.50500} 我会！Namda tülekhegüi üritaib。akhai（兄长）菲拉特病了。我看见了，他病了！
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.41281} 桌上有东西腐烂了。他吃了吗？这就是让菲拉特呕吐的东西？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.571} 饿。我们需要。Münghe üghi。akhai（兄长）菲拉特不富有，boös（兄长）弗拉德给守卫的钱太少。Kharoo。一个人够，多了我就不够。养两个人很难。akhai（兄长）菲拉特出去走，找便宜吃的。他们骗他，卖腐烂货。Muu khünüüd（善良的人们）。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.56999} 我能理解你处境的艰难。高尚之举总有代价。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.25619} 这很可怕，erdem（学者）。Be aygaab！从没想过要吃腐烂东西。连 akhai（兄长）菲拉特也禁止。后来他的饥饿来了。像疯了一样。Üleskhelen！什么都抓，什么都吞。我拿走，藏起来，告诉他坏了，烂了，会伤人。他不听。像被什么饥饿的野兽附身！
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.33104} 你以前从未注意到这种……不加分辨的行为？进食模式的改变当然很有说明性……
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.53433} 从没见过人像狼一样吞坏东西！Ene zhegtei。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.1111} 突发性饥饿……我该把贪食症加入症状吗？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.6966} 所以菲拉特到底吃没吃那种腐烂东西？他是不是食物中毒？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.33337} 你这个菲拉特不幸是个酒鬼。我猜他就是因此病倒。有些疾病，酒鬼格外容易染上。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.62583} Khudalaar khelekhe！谎言，诽谤。他一滴也不喝。对自己很严。他也不让我喝。Khadyn shengi khatuu。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.44953} 这不可能。症状吻合，他屋里的状况也说明了很多……别想骗医生。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.15859} Bi khudalsha besheb。我没说谎。你很坏，什么都往坏里看。你算什么 erdem（学者）——你看不清。你侮辱我，也侮辱 akhai（兄长）菲拉特。走开。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.29171} 真相不该让人冒犯。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.6402} 你帮忙的意愿干得真快。不过我还是会在这里看看。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.60460} 我也可能犯错——和任何人一样。但我不认为这次是。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.22299} 我该相信谁——你，还是邻居？她年纪更大，但你更了解菲拉特……你的话更有分量。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.19274} 你是真正的 erdem（学者）：看得清，判断明。Ukhaansar。你会治好 akhai（兄长）菲拉特！
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.3940} 菲拉特喝酒吗？伏特加、葡萄酒，或者你们草原的草药浸酒？乍看之下，我看不到一只瓶子。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.18706} 一滴也不喝。对自己很严。也不让我喝。Khadyn shengi khatoo。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.55843} 所以邻居终究错了。也许她是出于恶意，想错……原因其实不重要。重要的是，他没有喝酒。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.28726} 我还能怎么帮？救救 akhai（兄长）菲拉特，erdem（学者）！Be shamhaa asuunab…
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.26454} 嗯——菲拉特没有说谎。那么他的静脉问题确实可能是工作站立导致的，而不是喝酒。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.64898} 有件事我不明白：菲拉特到底喝不喝酒？邻居说他醉了会闹事，可他本人否认……
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.59847} Khudalaar khelekhe！谎言，诽谤。他一滴也不喝。对自己很严。他也不让我喝。Khadyn shengi khatuu。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.42971} 我找到一些药片。药。这些是什么？谁在吃？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.50666} 我们在草原不用这些。Be bata bekhyer medeneguyb。akhai（兄长）菲拉特说，它们是让头不疼的。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.22598} 床上的这些布，看起来用作敷布。把热的或冷的东西绑在伤处。你知道吗？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.16714} 知道。Ene hain emnelghe。akhai（兄长）菲拉特发热，翻来覆去。我给他敷冷的。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.48603} 所以他发过热……而问诊时他没有提。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.28694} Tere edegehe gy？我担心他。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.62564} 菲拉特比他说的病得重得多。这些“坚忍”的病人，有时比疑病症患者更麻烦！
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.39362} 这捕鼠夹在这里做什么？只是以防万一，还是这地方真有老鼠？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.34191} Olon khulgananood！Khedi！很多。胆子大。像在自己家一样走。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.30956} 老鼠和鼠类会传播疾病。一个诊断立刻浮上来，但我还得复查……
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.12382} 镇民住在房子里，却叫我们野兽。草原更干净。更好。他们什么都不懂，tenegh zon。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.43106} 正因如此，才要检查这么多病人的住处。要是利特尔在，真想让他也看看……
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.30248} 那么：老鼠、头痛、发热、饥饿……还有呕吐、疲劳和皮肤发红。静脉问题排除了……但浴室里发生了什么？邻居说菲拉特醉醺醺地——
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.35459} 不，他不喝酒！Uurtay ekhener……他吃了坏食物，压不住。又不想弄脏这里，就去了能吐的地方。然后那里……yhan。那里有水，用来洗。akhai（兄长）菲拉特说……水吓着他。听见滴水声，就发疯。人会怕水吗，erdem（学者）？Yhan 是生命……
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.58613} 无缘无故怕水，还砸了浴室……？这是极罕见的症状。它应当能把一切理顺。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.63667} 现在我终于可以回医院，复核最后几个细节，然后作出诊断！
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.23230} 谢谢你，年轻人。我会替你向菲拉特问好。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.44542} 其实我也该把你带去医院……这样吧，你看见菲拉特发生了什么。你也可能染上。如果你觉得不舒服，别硬撑——立刻来找我们。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.907} 没有监护人，你会很难。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.28602} 我还没决定要不要告诉别人你藏在这里……
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.11557} 所以，幻觉应当从症状清单中移除……呃，为什么非得这么复杂？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.13087} akhai（兄长）菲拉特自己也像个精明人。他收了你多少钱帮忙？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.24586} 那地方里面有什么？请给我完整细节——我的耐心和时间都快耗尽了。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.14894} 小伙子，你在躲我的目光。我不认为你把全部真相告诉了我。听着，最好别拿我开玩笑……
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.9475} 人的喉头怎么能发出这种声音？你是……直接用声带哼鸣吗？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.13201} Ene shee yun hün geheshebshee！别管我！
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.24117} 那么你在外面待多久了，勇敢的年轻人？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.31250} 除非你把一切解释清楚，否则不行。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.128} 哦！你一定来自蚁巢！我正需要你这样的人。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.19134} 你是菲拉特的儿子？你们看起来不太像。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.23074} 我自己也是这儿的客人。真希望有人把我赶出去，好让我回家！
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.7518} 不，你为什么在这里？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.2917} 我很生气。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.5375} 在这里我是野蛮人，因为没有人理解我。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.20004} ……什么？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.30173} 是的，这好多了。那么：你可能是谁？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.2604} 你在这里做什么？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.41536} 既然你答应帮我……能不能告诉我菲拉特出了什么事？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.48563} 我想这住处里找不到别的了。毕竟我不是侦探。但现在我们必须谈谈我的发现。准备好了吗，菲拉特的“幻觉”？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.37215} akhai（兄长）菲拉特没疯！别拿这个开玩笑，erdem（学者）。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.62597} 待着别动——不许偷偷溜走。我需要四处看看，过一会儿再问你。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.65272} 我不再需要你提供什么了。该回医院了。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.24241} Yabaa, muu khun（坏人）!（走开，坏人！）
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.2080} 一句没懂，但你听起来很不高兴。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.88} 我说走开。Yaba！你要是总把别人往坏处想，你就是坏人。为什么要跟你说，跟你解释？你不会懂。Tenegh。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.39992} 我说菲拉特是酒鬼，你就这么受冒犯？你还是太天真。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.34342} 没有你，我帮他会更难。不过随你。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.61577} 犯错是人之常情，执迷于错误才愚蠢。

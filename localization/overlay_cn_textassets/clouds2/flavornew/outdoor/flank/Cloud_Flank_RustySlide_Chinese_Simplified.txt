@@ -1,0 +1,5 @@
+{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_RustySlide.44925} 陈年铁锈
+{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_RustySlide.10340} 陈年铁锈
+{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_RustySlide.56689} 可能滋生破伤风病原体
+{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_RustySlide.61752} 城里大概没有抗毒素血清……
+{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_RustySlide.61627} 他们是怎么活到瘟疫前的？

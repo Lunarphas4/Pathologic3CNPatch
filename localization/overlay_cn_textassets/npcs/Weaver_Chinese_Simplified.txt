@@ -1,0 +1,3 @@
+{Npcs.Weaver.Name} 织工
+{Npcs.Weaver.FullName} ⁠
+{Npcs.Weaver.Description} ⁠

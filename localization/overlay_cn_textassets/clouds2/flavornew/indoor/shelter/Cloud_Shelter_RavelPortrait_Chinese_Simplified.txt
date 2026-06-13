@@ -1,0 +1,3 @@
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_RavelPortrait.44925} 拉维尔将军的祭坛
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_RavelPortrait.10340} 拉维尔将军的祭坛
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_RavelPortrait.56689} 原来与军人父亲的关系也可以是这样

@@ -1,0 +1,14 @@
+{Dialogs2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Orderly_Sample.43286} 您好，尊敬的医生。我叫阿德里安。听说您在找志愿者，我当场第一个报名。\n\n是当护理员，提醒您。不是当打手。我想修补，不想打碎。
+{Dialogs2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Orderly_Sample.18379} 我欣赏你的热心。
+{Dialogs2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Orderly_Sample.6476} 我刚从酒馆来，医生！要进去可不容易。斯塔马京把那地方像防备正面进攻似的筑起路障。顺便说，这事以前还真发生过。
+{Dialogs2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Orderly_Sample.3252} 请说重点。你的倒霉历险可以写进报告。你拿到舞者的血样了吗？
+{Dialogs2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Orderly_Sample.56424} 昨天库兰还像只小牛犊一样蹦跳，可现在她一点也不好……冷得骨头都在抖，高烧猛涨。\n\n我用一切可能的防护取了她的草原血。把她可怜的手臂扎得到处都是。反正很快对她也没多大关系了。
+{Dialogs2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Orderly_Sample.12452} 所以我是对的。库兰和其他来客隔离了吗？传播方式仍不清楚……
+{Dialogs2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Orderly_Sample.19171} 他们把她牢牢锁在后屋里。这是她的血。还热着呢。\n\n您要拿它做什么，医生？不是要让镇民喝下去吧？这里的人不太吃这一套。不过，白蚁巢那些野人干过更糟的事。至少我们怀疑如此。
+{Dialogs2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Orderly_Sample.22104} 喝下去？为什么止步于此？不如彻底一点，拿它洗澡。
+{Dialogs2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Orderly_Sample.8636} 不用脱鞋。我正处在重大突破边缘，很快会签署一道重要的新法令。为了执行它，我可能需要所有可用的人手。
+{Dialogs2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Orderly_Sample.59180} 即便如此，它也握着我们的救赎。脑脊液也许更好……但你手里的是血，那就交出来。
+{Dialogs2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Orderly_Sample.22256} 你不该不带防护到处走。臂章救不了你免受瘴气侵袭。不过，我稍后再处理这个……
+{Dialogs2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Orderly_Sample.29436} 是的，这就是我认识的安德烈，没错。
+{Dialogs2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Orderly_Sample.26911} 负责修补的是我。你的工作是搬运死者，把他们与活人分开。任何染上瘟疫的人，默认都按死者处理。
+{Dialogs2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Orderly_Sample.62115} 我请赫伦派一名志愿者去翠酒窝。是你吗？

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_MM_Letters.Name} 私函审查
+{Minds2.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_MM_Letters.Description} 弗拉德收到的信里，有公务的、有家事的，也有神秘的——来自玛丽亚·凯娜。

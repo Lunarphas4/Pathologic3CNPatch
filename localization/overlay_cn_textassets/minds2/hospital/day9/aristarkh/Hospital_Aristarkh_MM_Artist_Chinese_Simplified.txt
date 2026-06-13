@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_Artist.Name} 眼尖艺术家的提示
+{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_Artist.Description} 一位邻居不太"接地气"，但她注意到阿里斯塔尔赫忽然瘦了一大圈。

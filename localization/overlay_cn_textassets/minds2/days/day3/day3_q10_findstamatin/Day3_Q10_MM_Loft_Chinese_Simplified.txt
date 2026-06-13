@@ -1,0 +1,2 @@
+{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Loft.Name} 艺术家的阁楼
+{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Loft.Description} 斯塔马京的阁楼高耸于鞣匠街上方。我从这里开始找。

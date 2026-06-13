@@ -1,0 +1,3 @@
+﻿{Items.Metabolism.Sedative.Name} 草药混合物
+{Items.Metabolism.Sedative.Description} 民间镇静剂。比摇篮曲稍微管用一点。
+{Items.Metabolism.Sedative.Description2} 民间镇静剂。比摇篮曲稍微管用一点。

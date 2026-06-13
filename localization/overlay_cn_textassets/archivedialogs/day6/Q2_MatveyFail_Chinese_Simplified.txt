@@ -1,0 +1,26 @@
+{ArchiveDialogs.Day6.Q2_MatveyFail.1} 有报告，医生。关于那间房子里的恶臭。
+{ArchiveDialogs.Day6.Q2_MatveyFail.2} 答：那有什么？
+{ArchiveDialogs.Day6.Q2_MatveyFail.8} 是的，总的来说，一切都很好。
+{ArchiveDialogs.Day6.Q2_MatveyFail.9} 我不相信。这是我们六天来的第一个好消息？
+{ArchiveDialogs.Day6.Q2_MatveyFail.12} 这意味着这所房子是马鞍上的第四个…三十具尸体中…现在，我在这里记录了…四具在子宫里。十二 - 坦纳斯，他们同意接受它们。我通过熟人达成了协议。他把三个人安置在Stone Dvor，但他们最终都成了好家庭…继续…
+{ArchiveDialogs.Day6.Q2_MatveyFail.13} 停止！我们现在在谈论谁？
+{ArchiveDialogs.Day6.Q2_MatveyFail.15} 一般来说，一切都是附加的。
+{ArchiveDialogs.Day6.Q2_MatveyFail.17} 等等...“附加”是什么意思？他们完成隔离了吗？
+{ArchiveDialogs.Day6.Q2_MatveyFail.18} 是的，一般来说，他们不需要它......
+{ArchiveDialogs.Day6.Q2_MatveyFail.19} 也就是说，如何？
+{ArchiveDialogs.Day6.Q2_MatveyFail.20} 好吧，没必要让它死。
+{ArchiveDialogs.Day6.Q2_MatveyFail.23} 等待。那么，你现在在谈论死者吗？是他们…“这里一个，这里一个”吗？
+{ArchiveDialogs.Day6.Q2_MatveyFail.25} 总体来说，房子已经重新安置了。你可以使用它。还有其他命令吗？
+{ArchiveDialogs.Day6.Q2_MatveyFail.26} …不会的。
+{ArchiveDialogs.Day6.Q2_MatveyFail.27} 是的，会的。立即收集所有尸体。当然，如果新主人同意放弃它的话。
+{ArchiveDialogs.Day6.Q2_MatveyFail.28} 会的，先生。将要。请爬上那座塔，到达最高层。然后从那里跳下来。尽快。
+{ArchiveDialogs.Day6.Q2_MatveyFail.24} 好吧，把你的纸给我。
+{ArchiveDialogs.Day6.Q2_MatveyFail.21} 每个人都必须接受隔离。这是一个严格的要求。
+{ArchiveDialogs.Day6.Q2_MatveyFail.14} 足够的。那里还有很多吗？你说三十？
+{ArchiveDialogs.Day6.Q2_MatveyFail.10} 不要萎靡不振。我吸引了你所有的注意力。
+{ArchiveDialogs.Day6.Q2_MatveyFail.3} 究竟是哪一个？整个城市像垃圾场一样臭气熏天。
+{ArchiveDialogs.Day6.Q2_MatveyFail.4} 怎么说呢。对你来说，他是“这个”，但对我来说，他是亲爱的。
+{ArchiveDialogs.Day6.Q2_MatveyFail.5} 好吧，是我的错，我太兴奋了。
+{ArchiveDialogs.Day6.Q2_MatveyFail.6} 看来现在的我也是一样。我的坟墓肯定就在这里。
+{ArchiveDialogs.Day6.Q2_MatveyFail.7} 顺便说一句，关于坟墓...
+{ArchiveDialogs.Day6.Q2_MatveyFail.11} 真的有人又死了吗？

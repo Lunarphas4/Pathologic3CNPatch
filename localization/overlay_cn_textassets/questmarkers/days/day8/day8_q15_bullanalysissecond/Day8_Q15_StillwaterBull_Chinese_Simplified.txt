@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day8.Day8_Q15_BullAnalysisSecond.Day8_Q15_StillwaterBull.Name} 静水观星台
+{QuestMarkers.Days.Day8.Day8_Q15_BullAnalysisSecond.Day8_Q15_StillwaterBull.Description} 今日我想继续研究这头公牛。

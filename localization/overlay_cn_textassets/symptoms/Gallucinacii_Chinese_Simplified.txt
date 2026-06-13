@@ -1,0 +1,2 @@
+{Symptoms.Gallucinacii.Name} 幻觉
+{Symptoms.Gallucinacii.Description} 患者感知到客观上不存在的事物或现象，可影响视觉、听觉、触觉、味觉和嗅觉。

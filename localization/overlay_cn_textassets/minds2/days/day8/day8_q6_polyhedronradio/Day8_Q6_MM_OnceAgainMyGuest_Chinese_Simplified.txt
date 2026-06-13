@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_OnceAgainMyGuest.Name} 多余的见证人
+{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_OnceAgainMyGuest.Description} 狱卒跟着我进来了。我没法直接谈正事。得想个法子！

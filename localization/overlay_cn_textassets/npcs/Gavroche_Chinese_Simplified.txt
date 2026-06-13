@@ -1,0 +1,3 @@
+{Npcs.Gavroche.Name} 男孩
+{Npcs.Gavroche.FullName} ⁠
+{Npcs.Gavroche.Description} ⁠

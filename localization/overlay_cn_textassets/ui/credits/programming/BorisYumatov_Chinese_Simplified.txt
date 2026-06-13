@@ -1,0 +1,2 @@
+{UI.Credits.Programming.BorisYumatov.Name} Boris Yumatov
+{UI.Credits.Programming.BorisYumatov.Description} 程序员、玩法逻辑脚本

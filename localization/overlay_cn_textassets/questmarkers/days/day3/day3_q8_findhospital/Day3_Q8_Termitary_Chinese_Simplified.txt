@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_Termitary.Name} 蚁巢
+{QuestMarkers.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_Termitary.Description} 可备选作医院的地点之一。

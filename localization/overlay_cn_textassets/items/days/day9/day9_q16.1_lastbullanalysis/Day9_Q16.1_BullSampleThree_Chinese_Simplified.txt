@@ -1,0 +1,3 @@
+{Items.Days.Day9.Day9_Q16.1_LastBullAnalysis.Day9_Q16.1_BullSampleThree.Name} 第三次公牛分析
+{Items.Days.Day9.Day9_Q16.1_LastBullAnalysis.Day9_Q16.1_BullSampleThree.Description} 取自受感染公牛的血样。
+{Items.Days.Day9.Day9_Q16.1_LastBullAnalysis.Day9_Q16.1_BullSampleThree.Description2} 取自那头受感染公牛的血样。感染三天后采集。我们必须弄清它是否已经成了感染的携带者。

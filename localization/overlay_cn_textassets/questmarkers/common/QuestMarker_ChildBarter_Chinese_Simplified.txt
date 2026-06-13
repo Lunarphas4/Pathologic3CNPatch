@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Common.QuestMarker_ChildBarter.Name} 交易
+{QuestMarkers.Common.QuestMarker_ChildBarter.Description} 阶梯附近的孩子愿意和我做交换。

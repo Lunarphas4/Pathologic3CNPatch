@@ -1,0 +1,5 @@
+{Clouds.Old.Cloud_Mirosya_Blanket.7002} 仪式的一部分？
+{Clouds.Old.Cloud_Mirosya_Blanket.13895} 仪式的一部分？
+{Clouds.Old.Cloud_Mirosya_Blanket.9375} 毯子上的黑点？
+{Clouds.Old.Cloud_Mirosya_Blanket.8741} 里面会有跳蚤吗？
+{Clouds.Old.Cloud_Mirosya_Blanket.11496} 用它取暖？

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q15_FirstCrucible.Day5_Q15_MM_StrangeFamily.Name} 徒劳的申诉
+{Minds2.Days.Day5.Day5_Q15_FirstCrucible.Day5_Q15_MM_StrangeFamily.Description} 凯恩家是个奇怪的家族。也许唯一理性的成员维克多愿意和我谈谈。

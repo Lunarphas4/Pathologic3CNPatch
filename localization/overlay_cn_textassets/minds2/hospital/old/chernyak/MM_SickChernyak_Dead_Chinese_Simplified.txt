@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Old.Chernyak.MM_SickChernyak_Dead.Name} 小黑死了
+{Minds2.Hospital.Old.Chernyak.MM_SickChernyak_Dead.Description} 诊断证实是错的。

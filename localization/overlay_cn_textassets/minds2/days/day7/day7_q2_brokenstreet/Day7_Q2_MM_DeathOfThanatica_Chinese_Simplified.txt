@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_DeathOfThanatica.Name} 异象
+{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_DeathOfThanatica.Description} 如果那条街并非繁衍实在，而是把它们一一坍缩、只剩最凶险的一个——那么死亡学院便在劫难逃。

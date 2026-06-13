@@ -1,0 +1,2 @@
+{UI.Credits.Audio.AdrianCortes.Name} Adrián Cortés
+{UI.Credits.Audio.AdrianCortes.Description} 大提琴

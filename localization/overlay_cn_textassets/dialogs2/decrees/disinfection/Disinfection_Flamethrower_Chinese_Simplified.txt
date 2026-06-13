@@ -1,0 +1,13 @@
+{Dialogs2.Decrees.Disinfection.Disinfection_Flamethrower.17261} 唔唔——唔唔——唔。
+{Dialogs2.Decrees.Disinfection.Disinfection_Flamethrower.28592} 你在做什么？为什么烧那件家具？
+{Dialogs2.Decrees.Disinfection.Disinfection_Flamethrower.22774} 唔唔-唔唔-唔唔-唔唔-唔唔。唔唔-唔唔-唔唔-唔唔-唔唔。
+{Dialogs2.Decrees.Disinfection.Disinfection_Flamethrower.19049} 什么？
+{Dialogs2.Decrees.Disinfection.Disinfection_Flamethrower.3571} 我命令你立刻停手。
+{Dialogs2.Decrees.Disinfection.Disinfection_Flamethrower.8491} 唔唔-唔唔-唔唔-唔唔-唔唔。唔唔-唔唔-唔唔-唔唔-唔唔。
+{Dialogs2.Decrees.Disinfection.Disinfection_Flamethrower.26980} 报上姓名。我要知道该追究谁对这场疯事负责。
+{Dialogs2.Decrees.Disinfection.Disinfection_Flamethrower.27404} 你听得见我吗？把面具摘下来。
+{Dialogs2.Decrees.Disinfection.Disinfection_Flamethrower.13782} 唔唔-唔唔-唔唔-唔唔-唔唔。唔唔-唔唔-唔唔-唔唔-唔唔。唔唔-唔唔-唔唔-唔唔-唔唔。
+{Dialogs2.Decrees.Disinfection.Disinfection_Flamethrower.5082} 好吧。
+{Dialogs2.Decrees.Disinfection.Disinfection_Flamethrower.10241} 你说“唔唔”是什么意思？
+{Dialogs2.Decrees.Disinfection.Disinfection_Flamethrower.21285} 你说的话我一个字也听不懂。摘下面具。
+{Dialogs2.Decrees.Disinfection.Disinfection_Flamethrower.26420} 你知道我是谁吗？

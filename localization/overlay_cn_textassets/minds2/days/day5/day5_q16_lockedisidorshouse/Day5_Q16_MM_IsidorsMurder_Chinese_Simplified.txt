@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_MM_IsidorsMurder.Name} 失败
+{Minds2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_MM_IsidorsMurder.Description} 伊西多死了，在我抵达的当天被杀。也是西蒙死去的那一天。小镇最黑暗的时刻。也是我最黑暗的时刻。

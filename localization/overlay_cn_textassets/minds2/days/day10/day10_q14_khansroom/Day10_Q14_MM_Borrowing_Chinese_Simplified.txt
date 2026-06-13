@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_MM_Borrowing.Name} 反射之光
+{Minds2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_MM_Borrowing.Description} 我把显微镜借给了可汗。

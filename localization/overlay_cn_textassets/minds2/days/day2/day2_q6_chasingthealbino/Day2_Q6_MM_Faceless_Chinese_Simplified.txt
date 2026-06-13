@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_MM_Faceless.Name} 里子里的装饰
+{Minds2.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_MM_Faceless.Description} 那东西摘下面具，底下竟也大致是同一副模样。现在可以审问它了。

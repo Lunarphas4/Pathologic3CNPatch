@@ -1,0 +1,5 @@
+﻿{ArchiveDialogs.Day1.Intro_Station_Passerby_Onlooker.65084} 该离开这里才对。可回去的火车还会开吗？外面世界来的每台机车都会进火车坟场，在那里烂掉。
+{ArchiveDialogs.Day1.Intro_Station_Passerby_Onlooker.53555} 这位好心人，请问您有没有见过一伙挥舞贵重科研设备的孩子？
+{ArchiveDialogs.Day1.Intro_Station_Passerby_Onlooker.28994} 没见过，那是真没见过。不过火车那边正闹着一场小乱子，您要不要去看看？正好在通往大世界的路上。
+{ArchiveDialogs.Day1.Intro_Station_Passerby_Onlooker.28088} 我一定会考虑您的提议。我一直梦想参与省城琐争。
+{ArchiveDialogs.Day1.Intro_Station_Passerby_Onlooker.48213} 什么火车坟场？你们管车库叫这个？

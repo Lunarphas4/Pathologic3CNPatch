@@ -1,0 +1,5 @@
+{Clouds2.FlavorNew.Outdoor.BridgeSquare.Cloud_BridgeSquare_CathedralDoor.44925} 大教堂制造时间
+{Clouds2.FlavorNew.Outdoor.BridgeSquare.Cloud_BridgeSquare_CathedralDoor.10340} 大教堂制造时间
+{Clouds2.FlavorNew.Outdoor.BridgeSquare.Cloud_BridgeSquare_CathedralDoor.29633} 城里每个人都同意这个命题
+{Clouds2.FlavorNew.Outdoor.BridgeSquare.Cloud_BridgeSquare_CathedralDoor.56689} 有人赋予这句话神圣意义
+{Clouds2.FlavorNew.Outdoor.BridgeSquare.Cloud_BridgeSquare_CathedralDoor.61752} 有人则按世俗意思理解——给你一把分钟

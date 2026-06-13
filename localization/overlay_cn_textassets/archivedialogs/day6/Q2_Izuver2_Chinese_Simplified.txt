@@ -1,0 +1,15 @@
+{ArchiveDialogs.Day6.Q2_Izuver2.1} 没什么可考虑的。那里已经没有活人了。
+{ArchiveDialogs.Day6.Q2_Izuver2.4} 如果有的话怎么办？
+{ArchiveDialogs.Day6.Q2_Izuver2.5} 第二天就没有人出来了！如果有人生病了，就意味着每个人的安息日都结束了。那里没有幸存者。它需要被烧毁。
+{ArchiveDialogs.Day6.Q2_Izuver2.2} 我要放火烧了他们！离开你的房子，让它倒塌。看，聪明！你就像猎鹰一样赤身裸体，无论你在家还是别人家都一样。
+{ArchiveDialogs.Day6.Q2_Izuver2.3} 我并不孤单——看，整个社会都同意。
+{ArchiveDialogs.Day6.Q2_Izuver2.6} 你建造了它，还是什么？我建造了它！用这双手。我们不要让它们被烧毁——仅此而已。然后人们就会生活。
+{ArchiveDialogs.Day6.Q2_Izuver2.7} 你想要什么样的“以后”…你不能用卷子引诱任何人进入这样的房子。你看，这个溃疡，它渗透到了砖块里。看，看它在墙上的样子！燃烧吧，这不会持续太久！
+{ArchiveDialogs.Day6.Q2_Izuver2.11} 亲爱的，你要烧什么？
+{ArchiveDialogs.Day6.Q2_Izuver2.12} 我们不会烧任何东西。加油吧，资本。看，我们的医生来了，会下命令的。
+{ArchiveDialogs.Day6.Q2_Izuver2.17} 医生，你说呢？据我所知，这个城市只有一名医生。
+{ArchiveDialogs.Day6.Q2_Izuver2.18} 这是布拉克还是什么？他会命令所有人闭嘴，然后去找我寻求解决办法。希望。
+{ArchiveDialogs.Day6.Q2_Izuver2.13} 这是什么样的房子？
+{ArchiveDialogs.Day6.Q2_Izuver2.14} 这不是房子，这是一个装满尸体的盒子。来自他的瘴气。你应该果断、果断地下令！我们绝对必须！
+{ArchiveDialogs.Day6.Q2_Izuver2.15} 果断，你说…好吧，好吧，对你来说就果断了。
+{ArchiveDialogs.Day6.Q2_Izuver2.16} 不，我们不会采取果断行动。所以最好把火柴放回口袋里。

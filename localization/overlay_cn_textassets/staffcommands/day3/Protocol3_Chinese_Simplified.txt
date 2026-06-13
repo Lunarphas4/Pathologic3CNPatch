@@ -1,0 +1,2 @@
+{StaffCommands.Day3.Protocol3.Name} 首次尝试
+{StaffCommands.Day3.Protocol3.Description} 让民众接种应急防疫委员会的实验药剂。

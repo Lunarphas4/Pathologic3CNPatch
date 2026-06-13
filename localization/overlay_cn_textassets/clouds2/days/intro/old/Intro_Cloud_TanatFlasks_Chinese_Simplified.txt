@@ -1,0 +1,4 @@
+{Clouds2.Days.Intro.Old.Intro_Cloud_TanatFlasks.29138} 这是我的实验室。
+{Clouds2.Days.Intro.Old.Intro_Cloud_TanatFlasks.22952} 这是我的实验室。
+{Clouds2.Days.Intro.Old.Intro_Cloud_TanatFlasks.14666} 我们正在创造治疗衰老与死亡的良方。
+{Clouds2.Days.Intro.Old.Intro_Cloud_TanatFlasks.17671} 我对此负有责任。

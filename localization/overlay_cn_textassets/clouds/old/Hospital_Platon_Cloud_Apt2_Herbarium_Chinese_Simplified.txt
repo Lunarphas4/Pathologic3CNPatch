@@ -1,0 +1,5 @@
+{Clouds.Old.Hospital_Platon_Cloud_Apt2_Herbarium.22963} 一个人喝twyrine（特维酒）借酒浇愁？
+{Clouds.Old.Hospital_Platon_Cloud_Apt2_Herbarium.22332} 一个人喝twyrine（特维酒）借酒浇愁？
+{Clouds.Old.Hospital_Platon_Cloud_Apt2_Herbarium.10032} 他自己酿twyrine（特维酒）？
+{Clouds.Old.Hospital_Platon_Cloud_Apt2_Herbarium.4912} 他说自己在用草药治疗自己。
+{Clouds.Old.Hospital_Platon_Cloud_Apt2_Herbarium.4844} 把自己治出了幻觉？

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_3_MM_WaterCarrier.Name} 挑水郎
+{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_3_MM_WaterCarrier.Description} 拉拉收养的孩子知道水桶在哪。更妙的是，他愿意把我的整套化学实验装置都扛在身上！但愿别弄丢了。

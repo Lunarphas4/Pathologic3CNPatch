@@ -1,0 +1,4 @@
+{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_WarehouseBoxes.44925} 商铺里已经在转卖军用物资
+{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_WarehouseBoxes.10340} 商铺里已经在转卖军用物资
+{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_WarehouseBoxes.56689} 黑巷里叛乱者的刀还不够吗
+{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_WarehouseBoxes.61752} 现在还要有步枪？

@@ -1,0 +1,2 @@
+{Minds2.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_MM_Capture.Name} 带头来谈
+{Minds2.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_MM_Capture.Description} 仓库的孩子抓走了多面体里的一个孩子。要平息冲突，他们需要狗头帮的首领——卡斯帕·凯恩。

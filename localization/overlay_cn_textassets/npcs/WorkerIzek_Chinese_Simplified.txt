@@ -1,0 +1,3 @@
+{Npcs.WorkerIzek.Name} 男人
+{Npcs.WorkerIzek.FullName} ⁠
+{Npcs.WorkerIzek.Description} ⁠

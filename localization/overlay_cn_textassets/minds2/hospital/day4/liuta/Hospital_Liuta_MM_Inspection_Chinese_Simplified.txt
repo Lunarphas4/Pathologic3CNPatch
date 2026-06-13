@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day4.Liuta.Hospital_Liuta_MM_Inspection.Name} 检查结果
+{Minds2.Hospital.Day4.Liuta.Hospital_Liuta_MM_Inspection.Description} 检查之后还要再问一遍病人，把细节核清。

@@ -1,0 +1,44 @@
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.31282} 雅各布·斯特尔赫。基里克。还有——他叫什么来着？
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.17468} 伯蒂。伯特兰……他那样一个无害的人，这辈子连苍蝇都没伤过——可开膛手还是把他和其他人一样剁成了碎片，那个畜生！\n\n我们必须给这些不幸的灵魂应得的体面葬礼……然后找到开膛手，给<i>他</i>一场配得上野兽的葬礼。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.20661} Khüleekhe，khünüüd（不要鲁莽行事，善良的人们）。把基里克交给我。我会回报你们——以实物，以草药，以血。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.31497} 这里发生了什么？
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.27258} 开膛手进城了。弑父者——<i>布拉赫。</i>他一向野性难驯，可后来玛拉-Shabnak（泥魔女）在草原上与他同寝，在他耳边低语，让他用鲜血浇灌大地……\n\n他一下火车就开始杀戮。他杀了雅各布·斯特尔赫，杀了基里克，杀了无害的伯蒂……他是怪物。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.43442} 我以为我是一个人来的——或者说，几乎是一个人。但我绝不记得火车上还有一个疯癫的开膛手同行。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.61166} 他是坐货车来的。从后门进来，像夜里的贼。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.36093} 那列货车运来的是药、糖果和棺材。所以开膛手一定藏在棺材里，否则Shabnak（泥魔女）早就在草原上把他撕碎了。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.22558} 你刚才还说Shabnak（泥魔女）和他交合，现在又说他躲在棺材里避开她……？这场谈话才两句话，我就已经想开枪打死自己了。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.15988} 我说这片土地盛产分析型头脑时，人们还嘲笑我！你们全是靠检查尸体推断出来的吗？包括草原上的交合？
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.24415} 人人都认得她的印记。如果受害者胸膛被撕开，就是Shabnak（泥魔女）告诉凶手该刺向哪里。如果有人像野兽一样扑咬，就是她牵着那人的缰绳。要是你在土里看到的不是脚印，而是手印……
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.58716} 布扬泰，听我说，我的乌杜尔格之血。苏奥克歌唱着你们称作基里克的人体内那股凶烈，那道锋芒。把他的身体给我。他对你们而言反正已经死了，你们会埋葬他，而他会腐烂到什么也不剩。\n\n我会埋葬他，苏奥克会吃下他，饮尽他的野性与刺痛，并唱一首 übheney duun，一首草药之歌，作为感谢。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.7499} ……她会给我们twyre（特维草）？然后我们就能煮好多twyrine（特维酒）？
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.2777} 她会给我们灰白斯维什，草药中最严酷的一种。Bi kheleneb（我说），灰白斯维什是残忍的草，是坏草，它靠鲜血和怨毒滋长。苏奥克歌唱着：很快，我们会需要大量斯维什。\n\n你们的葬礼通向空无，而我的葬礼会通向苏奥克的子宫。我伏在你们脚下，hayn khünüüd（善良的人们）！把你们称作基里克的人给我！
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.30254} 啊……也许我们该把尸体给她？他看起来也没什么家人，既然没有亲属，我想由我们埋还是由金族人埋也没什么区别。谁知道呢——万一我们<i>真</i>能收成一大批twyre（特维草）？
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.24505} 据我所知，在传统文化里，由谁埋葬谁其实相当重要。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.32730} 可他们可不<i>只是</i>要埋了他——他们会亵渎他，直到连Shabnak（泥魔女）都认不出剩下的东西！你们就是要这么做，对不对？对不对，草原姑娘？说啊！别想骗我们！
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.44835} 我伏在你们脚下，hayn khünüüd（善良的人们）；我保证不会有亵渎。我们会取走他的名字，让它不再保有锋芒，然后把他放入苏奥克的子宫。\n\n所有人都会忘记他——忘记邪恶的杀人者基里克——只剩下灰白斯维什。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.27539} 我就知道有问题。邪恶与否，你都不能把一个人连同他的名字一起埋掉。别的不说，人人至少都有被记住的权利。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.20315} 可他的确<i>就是</i>个恶人。偶尔有人想起他，也从来没有一句好话。也许大家都忘了他才最好。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.13430} 你们这里真是一座民族志金矿……可惜我不是人类学家。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.6347} 把尸体交出去吧。我宁愿避免和金族人翻脸。那只会给以后招来更多麻烦。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.14811} 你怎么看，陌生人？你看起来倒像个重要人物；也许脑子也配得上这副样子。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.51694} 死于暴力的受害者遗体必须保留，以供法医检查。即便有位美丽的年轻女子另有请求，也一样。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.51814} 死亡今日来到这座镇。如此宏大的死亡，前所未见。今天将是可怖的一天；明天更甚；到第三天，恐惧本身也会死去。没有灰白斯维什，我们也会死。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.42448} 人一旦死亡，身体就不过是一团分子与组织。任何能让它派上用场的机会，都是幸运。<i>Corpus non est templum（身体并非圣殿）.</i>
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.25268} 谢谢你，陌生人，bayarlaa（谢谢）。\n\n死亡今日来到这座镇。如此宏大的死亡，前所未见。今天将是可怖的一天；明天更甚；到第三天，恐惧本身也会死去。没有灰白斯维什，我们也会死。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.57099} 我今天来到这座镇。这才是唯一重要的事。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.15688} 我必须承认，这些预言让我很不安。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.25762} 怎样都与我无关。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.42119} 你至少可以请她先站起来。这样太尴尬了……
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.14116} 他们会“取走”这个基里克的名字？那是什么意思？
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.231} 我们的眼一触，我们的指一触，名字便会融化。那个他们曾称作基里克的人，将转而成为献给苏奥克的礼物。他不会有坟墓，众人的记忆中也不会再有这个人。\n\n不要再同我说话，陌生人。你的话语有毒。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.7350} 我不是在和你说话。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.15906} 我必须承认，这一点也没解释清楚。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.25591} 这一带经常把尸体当肥料吗？
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.19953} 可他们可不<i>只是</i>要利用他——他们会亵渎他，直到连Shabnak（泥魔女）都认不出剩下的东西！你们就是要这么做，对不对？对不对，草原姑娘？说啊！别想骗我们！
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.36670} “玛拉-Shabnak（泥魔女）”？那是谁？
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.53004} 一种从草原来的<i>东西</i>。踏着骨脚的魔像，会化作年轻娼妇的模样，与人交合，再吃掉那人的眼睛，让他们看不见现实。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.56777} “把基里克交给你”是什么意思？你想带走尸体？
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.56619} 我无意惊扰你，不过你裙子上的破洞大得足够再做一条裙子。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.39513} 你疯了吗？为什么看她？为什么还和她说话？！滚开，女巫！
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.26318} 布扬泰，不要同我说话，陌生人。\n\n我来乞求食物献给苏奥克；乞求眼泪献给Boddho（大地母亲）。我同乌杜尔格之血说话，同我们镇上的血说话。你不是我们的血。我的眼看不见你，陌生人。我的耳听不见你。
+{Dialogs2.Days.Intro.Intro_Station.Intro_Station_CitizensAndBride_Bodies.36698} 苏奥克，Boddho（大地母亲），乌杜尔格……在你开口前先说，不，我不需要把新词记下来。我的记忆力很好。

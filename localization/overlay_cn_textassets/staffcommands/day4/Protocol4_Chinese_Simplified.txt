@@ -1,0 +1,2 @@
+{StaffCommands.Day4.Protocol4.Name} 实验疫苗（第 4 天）
+{StaffCommands.Day4.Protocol4.Description} 让民众接种应急防疫委员会的实验药剂。

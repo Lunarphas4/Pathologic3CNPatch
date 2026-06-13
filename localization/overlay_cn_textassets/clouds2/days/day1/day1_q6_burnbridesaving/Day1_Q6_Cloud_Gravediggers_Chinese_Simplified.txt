@@ -1,0 +1,4 @@
+{Clouds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Cloud_Gravediggers.65462} 被悲痛击中的人
+{Clouds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Cloud_Gravediggers.24486} 被悲痛击中的人
+{Clouds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Cloud_Gravediggers.39962} 不像是会替凯恩家密谋的人
+{Clouds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Cloud_Gravediggers.41879} 不太可能玩替换尸体的把戏

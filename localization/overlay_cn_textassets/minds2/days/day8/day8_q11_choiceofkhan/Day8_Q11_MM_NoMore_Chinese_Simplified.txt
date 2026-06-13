@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_MM_NoMore.Name} 安抚
+{Minds2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_MM_NoMore.Description} 至少可汗叮嘱狗头帮的孩子放弃营救、冷静下来。流放中的首领，他们听得进去吗？

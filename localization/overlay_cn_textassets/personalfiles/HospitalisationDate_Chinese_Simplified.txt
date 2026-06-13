@@ -1,0 +1,8 @@
+{PersonalFiles.HospitalisationDate.Day3} 瘟疫第3天
+{PersonalFiles.HospitalisationDate.Day4} 瘟疫第4天
+{PersonalFiles.HospitalisationDate.Day5} 瘟疫第5天
+{PersonalFiles.HospitalisationDate.Day6} 瘟疫第6天
+{PersonalFiles.HospitalisationDate.Day7} 瘟疫第7天
+{PersonalFiles.HospitalisationDate.Day8} 瘟疫第8天
+{PersonalFiles.HospitalisationDate.Day9} 瘟疫第9天
+{PersonalFiles.HospitalisationDate.Day10} 瘟疫第10天

@@ -1,0 +1,2 @@
+{Minds2.Days.Day3.Day3_Q1_StopKains.Day3_Q1_MM_Runaway.Name} 逃亡者
+{Minds2.Days.Day3.Day3_Q1_StopKains.Day3_Q1_MM_Runaway.Description} 第三天，鲁宾躲在仓库。他在密谋什么，又在惧怕什么。

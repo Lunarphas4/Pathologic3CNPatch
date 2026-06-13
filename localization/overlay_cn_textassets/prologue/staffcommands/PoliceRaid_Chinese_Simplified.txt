@@ -1,0 +1,2 @@
+{Prologue.StaffCommands.PoliceRaid.Name} 肃清行动
+{Prologue.StaffCommands.PoliceRaid.Description} 逮捕反疫苗暴乱的煽动者。遏止此类情绪的进一步蔓延

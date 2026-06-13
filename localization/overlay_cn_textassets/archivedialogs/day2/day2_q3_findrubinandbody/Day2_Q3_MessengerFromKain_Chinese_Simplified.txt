@@ -1,0 +1,13 @@
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MessengerFromKain.31445} 俗话说，“日安”。乔治·凯恩派我来的。也就是法官。换句话说，法官请您今天过去喝茶。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MessengerFromKain.19442} 怎么忽然变卦了？昨天他还因哀悼亡者而不愿见我。等他哀悼完了，我会去的。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MessengerFromKain.103} 审判官提到，昨天的哀悼一事有些误会。他想代表家族诚挚致歉。也就是说，他急切地请求您到场。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MessengerFromKain.25891} 好吧，那告诉他，我过几天会去拜访。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MessengerFromKain.27267} 他真体贴。要是审判官当初让我做我的工作，现在也不必道歉。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MessengerFromKain.9151} 确实奇怪。是什么让他这么急？
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MessengerFromKain.12999} 可以说，情况有变。审判官全是好意。请您理解眼下的局面。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MessengerFromKain.11160} 你是在劝我？
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MessengerFromKain.1255} 抱歉，但我受命而来，没有得到您同意见面的答复就不能回去。况且，这对您最有利。毕竟，您是为西蒙而来，也就是说，为我们的镇子而来，不是吗？
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MessengerFromKain.3698} 所以你不打算轻易放弃？告诉凯恩，我会去拜访他。今晚。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MessengerFromKain.1123} 好吧。这确实改变了情况。我会把它视作西蒙本人发出的邀请。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MessengerFromKain.10974} 我听见了。多谢。你现在可以走了。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MessengerFromKain.15306} 好吧，凯恩知道在哪里找我。我又不是什么跑腿小厮。我已经去过一次了。

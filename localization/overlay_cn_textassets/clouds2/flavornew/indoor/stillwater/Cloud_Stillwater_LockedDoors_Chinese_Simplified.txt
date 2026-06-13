@@ -1,0 +1,5 @@
+{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_LockedDoors.44925} 昨天门有四扇
+{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_LockedDoors.10340} 昨天门有四扇
+{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_LockedDoors.56689} 明天两扇
+{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_LockedDoors.1380} 艾娃听见门后有窸窣声
+{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_LockedDoors.61752} 我感觉到穿堂风

@@ -1,0 +1,3 @@
+{Items.Craft.OxBileCapital.Name} 研究所兴奋剂
+{Items.Craft.OxBileCapital.Description} 兴奋剂短缺一直是个问题；学生们会“借”走它们备考，然后忘记归还。
+{Items.Craft.OxBileCapital.Description2} 兴奋剂短缺一直是个问题；学生们会“借”走它们备考，然后忘记归还。

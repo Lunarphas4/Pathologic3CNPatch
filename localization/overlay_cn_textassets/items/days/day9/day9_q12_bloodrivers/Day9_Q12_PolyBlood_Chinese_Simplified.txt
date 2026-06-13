@@ -1,0 +1,3 @@
+﻿{Items.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_PolyBlood.Name} 多面体下的血
+{Items.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_PolyBlood.Description} 一份血样；这些血对一个人来说太多了。
+{Items.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_PolyBlood.Description2} 多面体下躺着一名士兵。他浑身是血。那些血比他一人能流出的还多。这很奇怪。

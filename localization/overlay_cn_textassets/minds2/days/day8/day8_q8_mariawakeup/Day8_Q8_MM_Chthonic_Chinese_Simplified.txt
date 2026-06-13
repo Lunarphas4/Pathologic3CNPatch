@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_MM_Chthonic.Name} 地下之物
+{Minds2.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_MM_Chthonic.Description} 不过想拦下一个梦——便冒出一群帮手。那位"高贵的"鼠先知，也能……吞掉玛丽亚的梦。

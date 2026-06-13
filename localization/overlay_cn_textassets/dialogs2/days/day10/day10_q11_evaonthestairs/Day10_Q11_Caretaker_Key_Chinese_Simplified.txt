@@ -1,0 +1,16 @@
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Caretaker_Key.61389} 你好，丹尼尔。我很高兴你回来了。我只是想说，我真心很抱歉。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Caretaker_Key.31833} 你一向喜欢在人睡着时这样站在床边看着吗？我不确定自己欣赏这个习惯。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Caretaker_Key.31410} 听起来很不祥。你在为什么道歉？
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Caretaker_Key.25346} 给，这是给你的钥匙。请收下。今天你会用上它。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Caretaker_Key.10248} 嗯。这不是你总带在身边的那些钥匙之一吗？
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Caretaker_Key.20378} 今天，当你站在一扇锁住的门前——这把钥匙会打开它。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Caretaker_Key.23571} 这倒是说明白了。钥匙平常还会干别的吗？
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Caretaker_Key.6233} 只要别弄丢就好。它是一把很轻的钥匙，轻到一场不必要的谈话就能把它吹走。而一定会有人想分你的心。我不算在内。我知道怎样压低声音说话。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Caretaker_Key.29938} 不必要的念头也会把它吹走吗？我脑子里的杂物可比交际圈还多。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Caretaker_Key.38107} 在我看来，“简单”不是合适的说法。这把钥匙绝不是那种东西，对吗？
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Caretaker_Key.7649} 在我打开某扇神秘之门前，别和任何人说话，否则钥匙就会丢。记住了。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Caretaker_Key.6385} 随便哪扇锁着的门都行？比如，这钥匙能让我进屠宰场吗？
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Caretaker_Key.50906} 我感觉你知道的比你说出来的更多。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Caretaker_Key.8862} 你总在说谜语。看不出我已经厌倦遮遮掩掩了吗？
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Caretaker_Key.2773} “回来？”刚才有一瞬间，我还以为你知道，我不是第一次在这一天醒来……
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Caretaker_Key.7104} 今天最坏的事已经发生了。现在后悔太迟了。

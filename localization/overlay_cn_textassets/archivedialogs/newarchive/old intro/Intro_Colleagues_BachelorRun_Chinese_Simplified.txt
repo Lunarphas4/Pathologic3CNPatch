@@ -1,0 +1,45 @@
+﻿{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.1481} 你听见楼梯上那些很特别的脚步声了吗？那些不祥的脚步声。我想他们是冲我们来的。要是他们在这里抓到你，谁也说不准会发生什么。你甚至可能被捕。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.7972} 要我继续吗？裁定是这么写的：“……你们的死亡学院，作为全国唯一专研新兴寿命延长技术的实验室，呈现出伪科学式徒劳追逐的特征。所谓有效不朽项目……”
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.7152} 够了。我已经听烦了。“徒劳追逐”……那群蠢钝无聊的老顽固！
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.4841} 哦，但我偏要继续念：“……据沃罗宁、泽格勒、维洛诺维奇等多位科学家称，已取得重大突破……”——这段可以跳过——这里！“……鉴于学术委员会认定其毫无前景，合理的处理方式……”
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.850} “……应暂停研究，将实验室转归化学研究所管辖，并解散其人员。”我现在都能背下来了。也许你可以把它改写成诗，普罗科普？这能让你冷静，也能让你看得更开。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.32614} 我不会让他们得逞。这是我毕生的事业。我不知道你们两个能不能也这么说。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.15143} 其实我们还有希望，学者。只要我们把中央草原那个不死人带到他们面前……他叫什么来着？谢因？伊文？
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.28902} 凯恩。他叫西蒙·凯恩。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.29709} 没时间了，同事们！没时间了！他们已经上楼了。丹科夫斯基，你必须跑。只要你不在这里，委员会就开不成。我们可以拖住程序。现在就去把你的不死人带回来！
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.14265} 我们会说你外出办事。这一次，他们的繁文缛节会反过来帮我们。我们会拖延。报告、审计，什么都行。实在不行，我们就上诉。但如果你被找到，他们就会开会，逼我们作证，那我们就没招了。那时可没法脱身。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.67} 我同意。如果你在裁定交到你手上之前离开，那就是他们没找到你的错。但如果你在之后离开，那就是妨碍程序。他们不会放过任何拿来对付你的机会。能用的借口他们都会用。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.655} 他们怎么都会下手……
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.7366} 得了吧，他们是做研究的，又不是保卫部特务。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.8011} 亲爱的同事，我看得出你仍抱着一种幻觉，以为委员会里坐着谁会有什么区别。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.24425} 拜托！普罗科普，要不要把他从窗户扔出去？完了，他们来了。听见那些声音了吗？他们一定在商量谁的脑袋够硬，能把门撞开。快走！东行列车四点一刻发车。你正好赶得上！
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.9274} 那好吧……好吧。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.13047} 哦，等等！最后一件事。路上看看这个。你已经答应三个月了，却一直没抽出时间。它是研究结核病的工具。空气湿度那个，还记得吗？考夫曼、戈尔斯基、安娜·施泰因。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.25266} 对。那些满脑子空想的研究生。早该把他们清掉了。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.23509} 不是玩具。他们花了六个月才组装出来。它确实会对湿度、温度和空气成分作出反应。我们用尘埃测试过。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.1634} 眼下我们有更重要的问题。比如，S-104 报告什么时候送到？你知道，细胞学那个——
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.11876} 他是在讲笑话还是怎么？快走，头儿！走那边那扇门，没带回不死人就别回来！
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.21141} 我会把他带来。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.10458} 祝你好运，谢谢你们。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.26454} 我一周后回来。Aut cum scuto, aut in scuto（要么持盾归来，要么伏盾而归）。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.32266} 工作原理？
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.20690} 我们没时间了。拿上他们的文件，路上研究！
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.7665} 眼下我们有更重要的问题。比如，S-104 报告什么时候送到？你知道，细胞学那个——
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.31803} 你们两个稳住。拖延时间，守口如瓶。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.18316} 谢谢。我不会让我们失望。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.4020} 我不会在这种时候放弃我的实验室。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.8231} 那你呢？
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.4028} 啧，他们找我们干什么？你才是大名鼎鼎的科学家，所以拿出点相称的样子来吧。他们要找的是你！而那个谢因，就是你要找的人！
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.28224} 凯恩。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.20126} 我不会把你们留在这儿的。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.23349} 我不记得了。一个怪名字，不寻常。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.12511} 说服他自愿参与研究本身就是个问题……他是有影响力的人，不是什么牧牛人。说不定那座镇子就是他在统治。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.17190} 他并非不死。但若那封信可信，他的长寿确实独一无二。差一点就一百五十岁，而且身体状况极佳。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.11087} 比起失去死亡学院，我宁愿失去妻子、一条胳膊和一只眼睛。为什么偏偏是现在？我们刚刚取得了细胞层面的反应！
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.22895} 你没有妻子。而且照你这种生活方式，以后也不会有。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.4348} 我与我的事业结婚了。我们的爱情相互、圆满，且没有情敌的阴影。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.27389} 好吧，没有妻子，那就换成两只眼睛或两条胳膊。毕竟我还有你和普罗科普。只剩一颗脑袋我也能过得不错。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.5108} 他们会根据我们的成果展开调查。在科学院特别委员会上。而你知道，卡尔洛维奇就在那个委员会里……
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.3915} 他们会把你的卡尔洛维奇踩在地上擦！而他只会像去年免疫学那件事一样摊手。他不会为了你冒职业风险。七月份到处说自己很失望的人，不就是他吗？还是我把他和别人搞混了？累的时候常有这种事。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.20442} 我只要拿得出明确的证据，卡洛维奇就会帮我。
+{ArchiveDialogs.NewArchive.OldIntro.Intro_Colleagues_BachelorRun.1497} 请别再阴阳怪气了。你为什么不试着思考？有时会得出惊人的结果。

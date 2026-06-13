@@ -1,0 +1,2 @@
+{Prologue.Notifications.Hints.Notification_Prologue_Interrogation_Minds.Name} ⁠
+{Prologue.Notifications.Hints.Notification_Prologue_Interrogation_Minds.Description} <InputActions/UI/Mind>——思绪、结论和怀疑的图

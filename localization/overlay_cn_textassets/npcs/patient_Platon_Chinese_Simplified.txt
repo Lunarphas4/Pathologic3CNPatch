@@ -1,0 +1,3 @@
+{Npcs.patient_Platon.Name} 病人夜莺
+{Npcs.patient_Platon.FullName} ⁠
+{Npcs.patient_Platon.Description} ⁠

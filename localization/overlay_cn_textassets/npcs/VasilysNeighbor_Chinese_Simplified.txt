@@ -1,0 +1,3 @@
+{Npcs.VasilysNeighbor.Name} 菲拉特的邻居
+{Npcs.VasilysNeighbor.FullName} ⁠
+{Npcs.VasilysNeighbor.Description} ⁠

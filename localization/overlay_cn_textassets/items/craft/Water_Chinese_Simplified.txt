@@ -1,0 +1,3 @@
+{Items.Craft.Water.Name} 水
+{Items.Craft.Water.Description} 普通水是一种万能溶剂，能把各种物质分解为组成离子。许多混合物中都不可或缺。
+{Items.Craft.Water.Description2} 普通水是一种万能溶剂，能把各种物质分解为组成离子。许多混合物中都不可或缺。

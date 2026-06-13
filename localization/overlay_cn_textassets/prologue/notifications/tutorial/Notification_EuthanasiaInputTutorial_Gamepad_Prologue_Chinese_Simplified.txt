@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_EuthanasiaInputTutorial_Gamepad_Prologue.Name} 必须注射正确的剂量
+{Prologue.Notifications.Tutorial.Notification_EuthanasiaInputTutorial_Gamepad_Prologue.Description} 按<InputActions/UI/SelectorLeft>和<InputActions/UI/SelectorRIght>在槽位之间切换。按<InputActions/UI/EuthanasiaInject>注射药品

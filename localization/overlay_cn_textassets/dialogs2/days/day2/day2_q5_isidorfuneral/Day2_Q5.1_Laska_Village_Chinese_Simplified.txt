@@ -1,0 +1,18 @@
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.7611} 停下，医生。我的死者对我低语，说你空手而归。你来得太晚了。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.32562} 我已经不知道自己为什么来了。我找到的只有死亡、闲话和迷信。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.7919} 伊西多尔不会和你说话。仪式封住了他的身体。连我也听不见他。我的死者对我低语，说伊西多尔现在能和他的儿子说话。他不<i>愿</i>和其他任何人说话。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.39248} 真感人。现在呢？
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.5427} 可惜你没能更早见到伊西多尔。无论活着还是死后。但那本来也不可能——你甚至不知道那个老地方……
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.56599} 什么老地方？
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.27056} 伊西多尔入土之前，是在旧聚落中最大的那一个，谢亨，完成入殓的——草原语里它的意思是“耳”。这是一种特殊的入殓仪式。很多很多年没有人这样被处理过葬礼了。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.1636} 你是说今天早上他的遗体在草原聚落里？我本可以检查它……
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.13542} 这种入殓有什么特别？
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.35410} 那是古老仪式。我不知道细节。唯一掌握这项知识的看守被托付了伊西多尔的身体；他的手为伊西多尔准备入土。他使伊西多尔如今除了他的儿子之外，对所有人保持沉默。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.37522} 好吧，有一点你说对了——没有入殓过的尸体，医生能学到多得多。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.25354} 我什么时候看起来像想和死人说话的人？不过以我现在的处境说这话，大概很蠢……
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.61682} Hic locus est, ubi mors gaudet succurrere vitae.（此处，死亡乐于援助生命。）
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.38774} 你说的是镇附近那个草原聚落？我知道伊西多尔的遗体下葬前被带到了那里。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.30618} 是的。伊西多尔的遗体经过入殓——这是一种特殊的葬前仪式，很多很多年没有人经历过。结果就是，死去的伊西多尔如今除了儿子之外，对所有人保持沉默。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.4981} 如果你说的是真的，我希望两个布拉赫能好好谈一谈。不管那意味着什么。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.54836} 我们有共同点，格蕾丝。我也和死者交谈——用我自己的方式。或者说，我阅读他们。在停尸间里。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.1_Laska_Village.1710} 我想查清伊西多尔是怎么死的，但要做到这一点，我需要检查遗体。

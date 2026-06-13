@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_1_MM_Freedom.Name} 虚假的自由
+{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_1_MM_Freedom.Description} 这个街区已经感染。人们把自己封锁在市政厅里，但瘴气已经渗入。思考，丹科夫斯基！思考！

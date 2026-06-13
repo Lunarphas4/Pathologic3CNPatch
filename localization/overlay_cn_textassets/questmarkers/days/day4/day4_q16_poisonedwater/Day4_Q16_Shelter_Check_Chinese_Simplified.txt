@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_Shelter_Check.Name} 庇护所
+{QuestMarkers.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_Shelter_Check.Description} 拉拉·拉维尔把所有失了栖身处或吃食的可怜人都放进她的宅子里。这潜伏着危险。

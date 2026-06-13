@@ -1,0 +1,3 @@
+﻿{Npcs.RatProphet.Name} 鼠先知
+{Npcs.RatProphet.FullName} 幽暗之物
+{Npcs.RatProphet.Description} 实则不过是个戴面具的侏儒。无非又是马克·伊莫泰尔的一个玩笑。

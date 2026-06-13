@@ -1,0 +1,2 @@
+﻿{Locations.Olgimsky_Kapella.Name} 块石宅，卡佩拉的偏厅
+{Locations.Olgimsky_Kapella.Description} 块石宅，卡佩拉的偏厅

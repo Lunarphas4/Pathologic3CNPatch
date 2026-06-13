@@ -1,0 +1,2 @@
+{Minds2.Days.Day4.Day4_Q1_RescueGrif.Day4_Q1_MM_SacredBlood.Name} 血指路
+{Minds2.Days.Day4.Day4_Q1_RescueGrif.Day4_Q1_MM_SacredBlood.Description} 据说恶徒格里夫是杀害西蒙的凶手。倒想知道他凭什么挣来这顶帽子。

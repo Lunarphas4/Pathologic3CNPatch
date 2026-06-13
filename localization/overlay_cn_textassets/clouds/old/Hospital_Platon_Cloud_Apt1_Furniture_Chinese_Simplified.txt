@@ -1,0 +1,4 @@
+{Clouds.Old.Hospital_Platon_Cloud_Apt1_Furniture.20799} 像是喝了twyrine（特维酒）之后回到家。
+{Clouds.Old.Hospital_Platon_Cloud_Apt1_Furniture.27761} 像是喝了twyrine（特维酒）之后回到家。
+{Clouds.Old.Hospital_Platon_Cloud_Apt1_Furniture.25277} 也许是摸黑跌跌撞撞。
+{Clouds.Old.Hospital_Platon_Cloud_Apt1_Furniture.8258} 也可能是打了一架。以他的脾气。

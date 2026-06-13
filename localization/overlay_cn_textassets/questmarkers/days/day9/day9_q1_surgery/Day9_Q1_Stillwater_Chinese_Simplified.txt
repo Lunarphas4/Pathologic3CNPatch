@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Stillwater.Name} 静水观星台
+{QuestMarkers.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Stillwater.Description} 在这里我能化验血液相容性。此外，还可采伊娃的血。

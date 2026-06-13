@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_Georgiy.Name} 裁判
+{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_Georgiy.Description} 那条街的设计在人身上引发了怪事。维克多不肯招——那我便去格奥尔基那里要个答案。

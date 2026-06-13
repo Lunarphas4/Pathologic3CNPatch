@@ -1,0 +1,3 @@
+{Npcs.Old.visitor_Korostel.Name} ⁠
+{Npcs.Old.visitor_Korostel.FullName} ⁠
+{Npcs.Old.visitor_Korostel.Description} ⁠

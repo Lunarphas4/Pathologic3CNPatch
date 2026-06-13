@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_MM_Help.Name} 无私相助
+{Minds2.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_MM_Help.Description} 尤利娅家里来了位故友。她知道如何止住瘟疫。

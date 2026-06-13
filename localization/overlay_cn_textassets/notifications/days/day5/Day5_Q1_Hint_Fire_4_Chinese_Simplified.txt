@@ -1,0 +1,2 @@
+{Notifications.Days.Day5.Day5_Q1_Hint_Fire_4.Name} ⁠
+{Notifications.Days.Day5.Day5_Q1_Hint_Fire_4.Description} 还得再点几堆火……约莫四堆。

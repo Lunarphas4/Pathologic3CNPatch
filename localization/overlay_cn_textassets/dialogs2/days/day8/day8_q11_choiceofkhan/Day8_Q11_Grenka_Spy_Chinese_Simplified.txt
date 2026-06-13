@@ -1,0 +1,16 @@
+{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Grenka_Spy.9503} 嘘——嘘。你从没在这儿见过我！
+{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Grenka_Spy.64703} 你在这儿干什么，嗯？想放可汗出来，是不是？
+{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Grenka_Spy.47524} 就是，那个……没啥。就在这儿走走，看看……真没干啥，真的！想给我们的人送点消息。别告诉里面的人我在这儿！不然我就得跟可汗坐一块儿了。
+{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Grenka_Spy.1776} 好吧，我不会告发你。我的嘴封上了。
+{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Grenka_Spy.29273} 格伦基，你太不会藏了。肯定会被抓住。
+{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Grenka_Spy.26111} 回家吧，间谍大师。可汗的事已经处理好了。
+{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Grenka_Spy.58995} 我听见了，真的！这里这些蠢货都告诉我了。连正经的秘密行动都不会做！
+{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Grenka_Spy.5691} 你怎么会知道“秘密行动”这种词？你们这里连学校都没有。
+{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Grenka_Spy.2789} 好像学校会教秘密行动似的。街道就是我们的学校，比学校更好，因为它是街道，不是……学校。
+{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Grenka_Spy.64252} 随你怎么说。
+{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Grenka_Spy.2739} 在街上学本事的人，一辈子也离不开街。
+{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Grenka_Spy.25359} 回家吧。可汗很快会回来，他会结束你们这场可怕的儿童战争。我希望如此。
+{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Grenka_Spy.39684} 不会吧……真处理好了？所以可汗现在就永远困在这个笼子里了？
+{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Grenka_Spy.29954} 他决定这样对自己最好。你们该学着没有他也能活下去了。
+{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Grenka_Spy.12930} 老实说，我自己也很困惑。
+{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Grenka_Spy.44329} 谁在这里？我没看见人。

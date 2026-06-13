@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_MM_Bell.Name} 警钟
+{Minds2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_MM_Bell.Description} 我听见钟声。从大教堂传来。

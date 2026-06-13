@@ -1,0 +1,3 @@
+﻿{Items.Metabolism.Strychnin_Strong.Name} 大剂量士的宁
+{Items.Metabolism.Strychnin_Strong.Description} 毒药。也就是说，药。剂量合理时是有用的兴奋剂。只是这剂量合理吗……？
+{Items.Metabolism.Strychnin_Strong.Description2} 毒药。也就是说，药。剂量合理时是有用的兴奋剂。只是这剂量合理吗……？

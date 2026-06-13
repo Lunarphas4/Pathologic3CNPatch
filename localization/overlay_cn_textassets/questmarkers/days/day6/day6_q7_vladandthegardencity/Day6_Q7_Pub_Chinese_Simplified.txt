@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_Pub.Name} 碎心人酒馆
+{QuestMarkers.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_Pub.Description} 今日小弗拉德借酒消愁。

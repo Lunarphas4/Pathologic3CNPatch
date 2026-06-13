@@ -1,0 +1,38 @@
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.24107} 你看什么？我的脸有那么有意思？
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.53457} Yyi……（咿……）
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.11759} 每次看见他们中的一个，我都会想，他们到底是什么。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.15116} 这是Odongh（金族牧人）！他们是活的，是未完成的。我甩不掉这一个——他像狗一样跟着我。我在你家旁边停下喘口气，现在它盯上你了。我认得这种眼神。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.31190} 我无意伤害你，moga khun（外乡人）。我只是想看看。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.18409} 看什么？静水观星台以前是观测所。但这里没有望远镜，所以也没星可看。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.20309} 如果你无意伤害人，为什么在这里徘徊？
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.33952} 我想看看你，amitay（朋友）。很久没见过像你这样的生灵了。你的步态——还有你的破布！看看这些破布！
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.23183} 我的步态？你在说什么？
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.11018} 你走路像个 daranguilagsha（骄横的人）。胆子大，骄横，却又缓慢。奇怪的生灵。我喜欢生灵，喜欢研究它们。我们这些odonghe（金族牧人）很简单——只是牧人。但 Boddho（大地母亲）赐给我心智，honirholtoi ouhaan（聪慧的头脑）。我喜欢研究生灵。我可以研究你吗，amitay（朋友）？
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.41832} 你管谁叫“生灵”？你照过镜子吗？
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.24384} 我是带着尊重说的。我喜欢生灵，也喜欢研究它们。我们这些odonghe（金族牧人）很简单——只是牧人。但 Boddho（大地母亲）赐给我心智，honirholtoi ouhaan（聪慧的头脑）。我喜欢研究生灵。我可以研究你吗，amitay（朋友）？
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.18538} 你说“破布”是什么意思？你知道这件外套有多贵吗？
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.49815} 我是带着尊重说的。我喜欢破布，也喜欢生灵，喜欢研究它们。我们这些odonghe（金族牧人）很简单——只是牧人。但 Boddho（大地母亲）赐给我心智，honirholtoi ouhaan（聪慧的头脑）。我喜欢研究生灵。我可以研究你吗，amitay（朋友）？
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.45089} 你想跟着首都来的医生？现在要像狗一样跟着他？
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.22690} 我不是像狗一样跟着。我会待在原地。他常来这所房子。你的房子认识你，可对 moga khun（外乡人）来说，这房子是新的。我会研究他，也研究房子如何对待他。我以前没见过这种事。我们这里访客很少。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.19683} 我不太喜欢这个主意……
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.43600} 具体怎么研究我？
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.24716} No taaramzhagui baidal（我不会打扰你）。我会站在角落观察。你真是奇怪的生灵！这么多 taabarinood（古怪之处）！我也能有用，记住。很有用。Ekhe tyhatal（大有用处）。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.15663} 你是在提出某种安排？
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.57563} 我看见你破布上的污点。小小的滴痕。Yuun geesheb（这是什么）——是牛胆汁吗？你身上有它，就一定需要它。若你需要更多，就说。我能弄到更多！你用得上。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.31515} 是的，我确实用得上更多。我需要它来驱动原型器具。我还需要颠茄，还有奴佛卡因。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.40552} 美人滴和麻木水，我知道。我能给你弄来，moga khun（外乡人）。只要你让我研究你、观察你，我就带来你需要的分量。我会拿胆汁和你说的其他东西来交换，khayn khelsee（说定了）。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.59848} 交换？我以为你会把材料给我，作为观察我的报酬。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.1766} 这不是我们的做法。有用之物就有价值。即使 Boddho（大地母亲）赐下草药，也要交换新娘的舞；赐下公牛，也要交换赶牛人的劳作。让我研究你，对你没有损失。我不会为胆汁要太多，但它应当是一场交易。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.35364} 我不需要你强推的这项服务。日安。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.16195} 你想在静水观星台观察我，并交易材料来供给原型器具？成交。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.54990} 嘿，那我呢？我都习惯有你在身边了，现在你想和首都来的医生跑掉？我还以为我们是朋友……
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.14992} 我们是朋友。但我结交生灵，是为了研究他们，amitay（朋友）。我研究过你了，你对我来说已不再陌生。告别。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.20882} 我研究时也显得这么无情吗，真想知道……
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.47595} 你们自己解决，我没时间管这个。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.52119} 研究者，我会在静水观星台见你。只是别打扰伊娃，否则我会把你扔出去。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.14782} 我不确定自己需要这个，但我乐于支持一位同行研究者。成交。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.65276} 我的外套真的沾得那么厉害？还是你眼力这么尖……好吧，我很快就会需要大量那些材料。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.28902} 我能给你弄来，moga khun（外乡人）。只要你让我研究你，我就带来你需要的分量。我会拿胆汁和你说的其他东西来交换，khayn khelsee（说定了）。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.5694} 都给我走！你们两个都是。静水观星台不需要一条虫民；谁知道你身上带着什么寄生虫。
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.2255} 你是迷路了，还是在静水观星台有事？
+{Dialogs2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_WormAndMan_Curiosity.46246} 我甩不掉这个Odongh（金族牧人）；它像狗一样跟着我。我在你家旁边停下喘口气，现在它盯上你了。我认得这种眼神。

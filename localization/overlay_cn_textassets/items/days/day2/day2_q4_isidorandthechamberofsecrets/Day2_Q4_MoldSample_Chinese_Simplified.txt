@@ -1,0 +1,3 @@
+﻿{Items.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_MoldSample.Name} 奇异霉菌刮样
+{Items.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_MoldSample.Description} 覆盖伊西多·布拉赫房屋的物质。
+{Items.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_MoldSample.Description2} 一份不明物质样本，出现在伊西多·布拉赫屋内外。有些镇民认为这是工厂的烟灰。需要放入分析仪检测。

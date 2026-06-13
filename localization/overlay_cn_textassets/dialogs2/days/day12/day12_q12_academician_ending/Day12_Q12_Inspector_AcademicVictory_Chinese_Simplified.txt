@@ -1,0 +1,30 @@
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.20568} 亲爱的学者……这简直是诽谤——彻头彻尾的中伤！有人诋毁了您，而您的行动，即便称不上无可挑剔，在当时情形下也至少值得嘉许。您挡住了死亡的行军。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.58874} 正是如此。你终于看见了？
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.18156} 不死之人结果不过是一场虚构。不过，我不会再为你追逐它而责备你。重要的是，在决定性的时刻，你抛开了空中楼阁，想起了自己的天职。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.39217} 我不是为了你的称赞才这么做。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.59740} 你与沙疫的接触，使你成了恶性感染方面无与伦比的专家。委员会相信，在你的领导下，塔纳提卡实验室能够在流行病学上取得真正的突破。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.26500} 我突然成了你最好的朋友？
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.50899} 为什么是“突然”？我所谓的“友谊”，是以十二天的地狱为代价换来的。还是说，你以为你的经历毫无价值？
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.6268} 我想你本该先重视它——在你用审讯把我的灵魂往外拧之前。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.30728} 如果你继续研究传染病，你将为人类带来无法估量的益处。而我相信，我已经能在你眼里看见同意了，嗯？
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.24673} 研究感染……然后放弃与死亡的斗争。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.5508} 放弃追捕幻影。放弃发明不死之人的习惯。毕竟那已经过时了！ 你手中有——现代设备，现代的世界理解。你知道微小的微生物如何摧毁会思考的人。而你——也许只有你——能够阻止它。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.38949} 是。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.33659} 那么请允许我再送你一个愉快的小惊喜。 这段时间里，讨论塔纳提卡实验室命运的不只是委员会，还有学院委员会——你自己的委员会。我急着告诉你好消息：他们准备授予你荣誉院士称号。因为你的戈尔孔研究——当然，也因为将来的发现……
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.15928} 昨天还打算消灭我的学院，现在伸出恩惠？不——免了。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.58193} “丹科夫斯基院士”……要我说，听着很悦耳。非常——容我说——与你相称。 但那些都是细枝末节。我不留你了——去让你的同僚们高兴吧！
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.21959} 再会。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.54504} 我本想说“万事顺遂”——但那不是我对你的愿望。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.44158} 头衔我不感兴趣。但它们能让我保护塔纳提卡实验室不再遭受进一步攻击。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.11526} 我会考虑。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.33405} 不只是我。但我的经历会带来很多好处。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.56707} 这场瘟疫，以及类似的疫病，都是痛苦与死亡的飓风。医学必须阻止它们。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.20087} 放弃追捕幻影。放弃发明不死之人的习惯。毕竟那已经过时了！ 你手中有——现代设备，现代的世界理解。你知道微小的微生物如何摧毁会思考的人。而你——也许只有你——能够阻止它。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.1877} 再说一次：我一点也不在乎你怎么看我。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.37949} 并非毫无价值。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.37813} 我们成功了解了许多关于瘟疫的事——也正因如此，我们能设计出阻止这类疾病的疫苗。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.47137} 针对各种瘟疫形态的通用疫苗？是，是……这听起来像是配得上学者丹科夫斯基的挑战。塔纳提卡实验室的新工作。你找不到更好的使命了！
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.33832} 空中楼阁几乎无声地塌了。仿佛它是纸做的。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.39598} 我并不确信西蒙只是虚构。更可能是我漏掉了什么……但现在无关紧要。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.57659} 不小……我和我的助手发现了瘟疫的阿喀琉斯之踵。现在可以抓住它了。
+{Dialogs2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_Inspector_AcademicVictory.63880} 我是医生。是治疗者。而我按此行事。

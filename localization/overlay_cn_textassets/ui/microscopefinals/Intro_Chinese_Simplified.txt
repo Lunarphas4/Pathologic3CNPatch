@@ -1,0 +1,2 @@
+﻿{UI.MicroscopeFinals.Intro.Name} 器官已受病毒影响
+{UI.MicroscopeFinals.Intro.Description} 器官受累，白细胞计数偏高

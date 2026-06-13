@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day9.Day9_Q6_LaraArrest.Day9_Q6_TownHall.Name} 市政厅
+{QuestMarkers.Days.Day9.Day9_Q6_LaraArrest.Day9_Q6_TownHall.Description} 拉拉行刺布洛克之意已决。让他们把她拘起来吧。

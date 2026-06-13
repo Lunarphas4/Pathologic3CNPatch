@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Hospital.Day9.Hospital_Aristarkh.Hospital_Aristarkh_BrokenHeart.Name} 碎心人
+{QuestMarkers.Hospital.Day9.Hospital_Aristarkh.Hospital_Aristarkh_BrokenHeart.Description} 阿里斯塔尔赫是"碎心人"的常客。也许那里能问出他的情况。

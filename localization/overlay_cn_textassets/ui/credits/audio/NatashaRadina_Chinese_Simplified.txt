@@ -1,0 +1,2 @@
+{UI.Credits.Audio.NatashaRadina.Name} Natasha Radina
+{UI.Credits.Audio.NatashaRadina.Description} 声音设计、技术声音设计

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_1_MM_Inside.Name} 阴面
+{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_1_MM_Inside.Description} 鼠先知——要么是个戴着鼠面具的孩子，要么是一只生于本镇剧场地下的冥府之物。

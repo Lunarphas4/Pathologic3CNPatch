@@ -1,0 +1,25 @@
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.29391} 我正在跟你说话，但我必须做哈塔尔，我必须跳舞，我不应该休息！
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.31808} 回答我的问题，然后你想怎么跳就怎么跳。
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.10032} 你的问题像钝箭，erdem（学者）。飞起来声音很响，可还是会弹开。
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.29306} 你手臂上的血管都变黑了！这很严重……
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.28735} Bi khelekhe！muu shuhan（恶血） 正从我头里往下走，很快就到脚了，我早告诉过你。你为什么不听？你以为我 ontokho khelekhe？看，在我手里流呢！
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.14727} 你的皮肤好像有黄斑……还是灯光的缘故？
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.27826} 你没见过 khatanger（金族人） 吗？Tenegh！连这么简单的事都不知道，怎么当 erdem（学者）？我生来如此，草原上很多人都是这样。Naran（太阳） 会灼人，风会咬人。
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.16428} 你腹部那些红痕又是什么？
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.2681} 一开始我想这样把 muu shuhan（恶血） 赶出去。它在我皮下奔跑、跳动，我感觉得到，我就发怒。我开始抓自己的肚子，想把它弄出来，撕出来，让体内的 muu shuhan（恶血） 闭嘴！Khetenger 拦住了我，他们说你最好跳，Tüütei，khatar（舞） 会让它平静，khatar（舞） 会把它赶出去……
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.7253} 原来如此。你的舞不是什么草原仪式，只是为了压过不舒服的感觉？
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.25431} khatar（舞） 会有用。我 khatar naada（舞蹈） 的时候，就听不见 muu shuhan（恶血）。muu shuhan（恶血） 顺着我所有的脉络往下流，它钻到我皮下，在我体内蔓延——我得把它弄出去，撕出去，取出去！
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.28344} 我不太明白你的意思……你开始抓肚子之前，胃痛吗？
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.31397} muu shuhan（恶血） 在里面跳。在我肚子里，皮肤下面，到处都是……只要不 khatar（舞），它现在也在那里跳。我们说太久了，我又感觉到它了。
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.17794} 别往心里去，但我必须知道。你是有协调障碍，还是单纯跳得不好？
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.27579} 我从没跳过 khatar（舞），至少不像 kheerei basagan（草药新娘） 那样。我只能尽力，只要能让 muu shuhan（恶血） 离开，只要我听不见它。
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.19547} 症状乱成一团……我一定是弄错了，一定是误解了你的话。
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.11788} 这是 menkhu 的活，不是你的。Menkhu 能把 muu shuhan（恶血） 从脉络里放出来。你不该把我带到这里。
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.17251} 没有 menkhu，你只能先将就我。
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.62035} 看来从我进医院起，你就一直在跳舞。至少也是这样……你不累吗？觉得虚弱吗？
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.33896} 我会一直 khatar（舞），直到 muu shuhan（恶血） 离开。我有力气，只是没有 amiskhal（呼吸）：我不懂 khatar（舞），我呼吸错了。真正的 basagan（姑娘） 在 khatar（舞） 时会呼吸，我不会。
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.63183} 真的？这是个有意思的观察。
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.60441} 我想我开始有诊断方向了。
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.29425} 到屏风后面去，我要检查你。你要是愿意，也可以踩着舞步过去。
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.25077} 请站稳一分钟。我取样时不想弄伤你。
+{Dialogs2.Hospital.Day9.Hospital_Tuutey.Hospital_Tuutey_NewQuestions.413} 继续跳吧，我离开片刻。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_ChinaShop.Name} 瓷器店里的公牛
+{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_ChinaShop.Description} 就这样，一头染了病的大公牛在静水观星台安了家。

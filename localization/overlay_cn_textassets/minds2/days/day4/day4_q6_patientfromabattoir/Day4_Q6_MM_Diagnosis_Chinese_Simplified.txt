@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_MM_Diagnosis.Name} 最后的遗愿
+{Minds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_MM_Diagnosis.Description} 那位无救的病人恳求我了结他的痛苦。我执行安乐死之时，布拉赫将得到供研究用的脏器。

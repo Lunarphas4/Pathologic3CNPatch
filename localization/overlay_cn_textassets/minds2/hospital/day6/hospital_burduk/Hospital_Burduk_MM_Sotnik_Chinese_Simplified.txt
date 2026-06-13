@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_Sotnik.Name} 牛蒡在撒谎
+{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_Sotnik.Description} 他身上的青紫当然是挨打来的。被同伙的打手揍了。

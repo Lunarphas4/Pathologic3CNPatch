@@ -1,0 +1,2 @@
+{PersonalFiles.Day8.Mirosya.Name} 陶皮
+{PersonalFiles.Day8.Mirosya.Description} 受母亲压制的年轻女子。

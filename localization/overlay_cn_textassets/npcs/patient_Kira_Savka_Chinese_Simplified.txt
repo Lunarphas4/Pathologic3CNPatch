@@ -1,0 +1,3 @@
+{Npcs.patient_Kira_Savka.Name} 白头
+{Npcs.patient_Kira_Savka.FullName} ⁠
+{Npcs.patient_Kira_Savka.Description} ⁠

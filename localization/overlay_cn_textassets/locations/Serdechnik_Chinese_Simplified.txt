@@ -1,0 +1,2 @@
+﻿{Locations.Serdechnik.Name} 骨髓区
+{Locations.Serdechnik.Description} 骨髓区

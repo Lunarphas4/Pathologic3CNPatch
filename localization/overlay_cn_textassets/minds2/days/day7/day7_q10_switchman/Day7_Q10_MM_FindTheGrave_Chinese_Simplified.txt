@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q10_Switchman.Day7_Q10_MM_FindTheGrave.Name} 考验
+{Minds2.Days.Day7.Day7_Q10_Switchman.Day7_Q10_MM_FindTheGrave.Description} 格蕾丝能帮我解答此问，但她要我先证明——我也听得见死者之声。

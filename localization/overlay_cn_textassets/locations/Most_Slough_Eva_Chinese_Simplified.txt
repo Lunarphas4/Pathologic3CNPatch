@@ -1,0 +1,2 @@
+{Locations.Most_Slough_Eva.Name} 静水观星台
+{Locations.Most_Slough_Eva.Description} 静水观星台

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q12_ChildrenSearch.Day6_Q12_MM_Begining.Name} 起头
+{Minds2.Days.Day6.Day6_Q12_ChildrenSearch.Day6_Q12_MM_Begining.Description} 据说大约四天前，本地两支少年帮派起了争执……我没深问。

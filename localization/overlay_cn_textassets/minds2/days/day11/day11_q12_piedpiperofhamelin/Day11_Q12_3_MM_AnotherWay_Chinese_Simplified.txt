@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_3_MM_AnotherWay.Name} 另一条路
+{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_3_MM_AnotherWay.Description} 我不再需要那只巨鼠的相助。

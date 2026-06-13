@@ -1,0 +1,2 @@
+{Clouds.Flavor.Cloud_RegionMost_DeadPlant.17796} 不会出现在试玩版里。
+{Clouds.Flavor.Cloud_RegionMost_DeadPlant.11185} 草原的夏天很干。

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Administration_Fates.Name} 市政厅
+{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Administration_Fates.Description} 市政厅里还有一些我尚未得知的命运。

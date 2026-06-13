@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_MagicBox.Name} 谜题
+{Minds2.Days.KeyNodes.KeyNode_MagicBox.Description} 我得到了伊西多尔的盒子。它打不开。

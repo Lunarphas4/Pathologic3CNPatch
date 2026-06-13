@@ -1,0 +1,2 @@
+{UI.Credits.GameDesign.AliaksandrRasolko.Name} Aliaksandr Rasolko
+{UI.Credits.GameDesign.AliaksandrRasolko.Description} 关卡设计师

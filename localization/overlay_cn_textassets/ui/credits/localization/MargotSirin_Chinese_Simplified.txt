@@ -1,0 +1,2 @@
+{UI.Credits.Localization.MargotSirin.Name} Margot Sirin
+{UI.Credits.Localization.MargotSirin.Description} 译者

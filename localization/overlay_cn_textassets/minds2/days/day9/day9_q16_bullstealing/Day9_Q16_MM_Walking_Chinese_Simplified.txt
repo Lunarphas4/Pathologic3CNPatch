@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_Walking.Name} 神圣的天真
+{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_Walking.Description} 伊娃的朋友求她带牛"散散步"。显然，他没看好。我本该派一个义勇队员给他！

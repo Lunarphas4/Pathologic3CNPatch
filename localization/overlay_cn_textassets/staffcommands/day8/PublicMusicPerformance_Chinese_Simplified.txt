@@ -1,0 +1,2 @@
+{StaffCommands.Day8.PublicMusicPerformance.Name} 街头乐演
+{StaffCommands.Day8.PublicMusicPerformance.Description} 公开演奏流行旋律，提振民心。

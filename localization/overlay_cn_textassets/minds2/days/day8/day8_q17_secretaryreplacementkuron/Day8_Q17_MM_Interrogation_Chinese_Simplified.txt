@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q17_SecretaryReplacementKuron.Day8_Q17_MM_Interrogation.Name} 惊人的胆识
+{Minds2.Days.Day8.Day8_Q17_SecretaryReplacementKuron.Day8_Q17_MM_Interrogation.Description} 那位秘书正在审判官的审讯中。卡明斯基挑人专挑好的。该把他捞出来了！

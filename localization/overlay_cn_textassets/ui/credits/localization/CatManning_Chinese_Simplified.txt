@@ -1,0 +1,2 @@
+{UI.Credits.Localization.CatManning.Name} Cat Manning
+{UI.Credits.Localization.CatManning.Description} 翻译编辑（英语）

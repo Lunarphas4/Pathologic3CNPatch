@@ -1,0 +1,2 @@
+{Minds2.Days.Day3.Day3_Q6_Haruspex.Day3_Q6_MM_HaruspexBargainBurakh.Name} 开膛手
+{Minds2.Days.Day3.Day3_Q6_Haruspex.Day3_Q6_MM_HaruspexBargainBurakh.Description} 阿尔捷米·布拉赫，又称"肠卜师"，又叫"开膛手"，正在市政厅等我。他想帮忙。

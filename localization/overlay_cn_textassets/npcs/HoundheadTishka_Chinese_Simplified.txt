@@ -1,0 +1,3 @@
+{Npcs.HoundheadTishka.Name} 怪人
+{Npcs.HoundheadTishka.FullName} ⁠
+{Npcs.HoundheadTishka.Description} ⁠

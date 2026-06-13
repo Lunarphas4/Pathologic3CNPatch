@@ -1,0 +1,2 @@
+﻿{CraftRecipes.Morphine_Strong_CraftRecipe.Name} 大剂量吗啡
+{CraftRecipes.Morphine_Strong_CraftRecipe.Description} 大幅增加冷漠

@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_BiopsyGlassesTutorial.Name} 显微镜
+{Notifications.Tutorial.Notification_BiopsyGlassesTutorial.Description} 组织样本要放在载玻片上。助手会确保载玻片供应充足。

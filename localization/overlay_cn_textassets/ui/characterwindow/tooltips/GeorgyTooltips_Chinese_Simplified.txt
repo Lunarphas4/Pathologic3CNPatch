@@ -1,0 +1,6 @@
+﻿{UI.CharacterWindow.Tooltips.GeorgyTooltips.Death} 第8天，被一群“好市民”撕成碎片
+{UI.CharacterWindow.Tooltips.GeorgyTooltips.Intro} 小镇的法官
+{UI.CharacterWindow.Tooltips.GeorgyTooltips.Disappointment} 第2天起，对学士失望
+{UI.CharacterWindow.Tooltips.GeorgyTooltips.Mentor} 第2天起，成为学士的导师
+{UI.CharacterWindow.Tooltips.GeorgyTooltips.GaveUpPower} 第12天，把家族权力交给玛丽亚
+{UI.CharacterWindow.Tooltips.GeorgyTooltips.Leader} 第12天，成为凯恩家族的家长

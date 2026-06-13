@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day6.Day6_Q2_Kidnapping.Day6_Q2_Bank.Name} 孩童的窝点
+{QuestMarkers.Days.Day6.Day6_Q2_Kidnapping.Day6_Q2_Bank.Description} 墨儿已经找到。其余的孩子应该在工厂背后。

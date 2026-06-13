@@ -1,0 +1,5 @@
+{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Flyer_Cloud_ExchangeSpotFfM.4639} “缴出腰品！”
+{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Flyer_Cloud_ExchangeSpotFfM.19652} “缴出腰品！”
+{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Flyer_Cloud_ExchangeSpotFfM.13999} “换柴伙！”
+{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Flyer_Cloud_ExchangeSpotFfM.26160} “你的孩纸该暖合！”
+{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Flyer_Cloud_ExchangeSpotFfM.14409} 这。读起来。太痛苦。噩梦……

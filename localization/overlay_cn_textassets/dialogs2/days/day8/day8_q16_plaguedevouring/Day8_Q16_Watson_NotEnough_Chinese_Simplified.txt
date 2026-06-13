@@ -1,0 +1,14 @@
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NotEnough.6601} 您需要什么吗，医生大人？
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NotEnough.7571} 是。今天我在一座封板屋里找到了一个人——推测而言——他带着沙疫活得比我们任何病人都久。你检查过他吗？
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NotEnough.1834} 嗯……算是，也不算，先生。我们给他做了所有能想到的检查——后来也检查了他的遗体。但还是完全摸不着头绪。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NotEnough.36099} 你认真的？我为了把那个病人救出来，自己差点死在那里！
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NotEnough.10388} 请别对我太严厉，医生……我知道我有错，但说实话——我想不出还能怎么做。这个病例太特殊了！那个人撑了那么多天！也许如果我们在简单病例上有更好的结果，他对我们才会更有用。人们常说，没掌握基础前不该碰难题。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NotEnough.41436} 你这话具体是什么意思？
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NotEnough.57047} 嗯……首先，是更准确的诊断——这样我们才有可供比较的东西。统计总能帮助科学，这是显而易见的。但也许我们还可以在其他病人身上做实验或测试，不只限于医院里的这些。医生，我说这些总觉得不太对。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NotEnough.438} 在我听来，这全是空洞借口。你浪费了一个罕见机会。该死。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NotEnough.36924} 你说得对。没有坚实的知识基础，就不可能取得突破。而我还没打下那个基础。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NotEnough.1520} 我怀疑自己还能再找到一个带着沙疫撑这么久的病人。这次时机异常幸运。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NotEnough.42605} 医院开张第五天，你们真的离了我就做不了分析？
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NotEnough.18697} 可惜。我本希望这个病例多少能推进我们对沙疫的理解。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NotEnough.33082} 是。今天我在一座封板屋里找到了一个人——推测而言——他带着沙疫活得比我们任何病人都久。你检查过尸体吗？
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NotEnough.57764} 嗯……算是，也不算，先生。我们让他可怜的遗体接受了所有能想到的检查，仍然完全摸不着头绪。

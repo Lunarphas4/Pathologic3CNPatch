@@ -1,0 +1,2 @@
+{Note.Hospital_Platon_LetterFromAcademy.Name} 国立植物学院来信
+{Note.Hospital_Platon_LetterFromAcademy.Description} 尊敬的普拉托诺娃女士：\n\n学院委员会已决定驳回您的入会申请。\n\n我个人还要补充一句：您那套来自世界各地、令人印象深刻的植物收藏，并不能成为支持您的理由。收藏者并不等同于科学家，何况您的收藏并非通过艰苦考察所得，而是从其他收藏者手中购得。我建议您要么彻底停止模仿科学活动，要么终于认真投身其中。\n\n此致敬礼，\n委员会主席，科学博士 V. 维什涅夫斯基

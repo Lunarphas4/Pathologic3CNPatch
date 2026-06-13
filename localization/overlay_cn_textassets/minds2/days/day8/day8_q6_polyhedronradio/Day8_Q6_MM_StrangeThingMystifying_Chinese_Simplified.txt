@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_StrangeThingMystifying.Name} 危险之物
+{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_StrangeThingMystifying.Description} 本地人证实：此事在这里前所未有。它意味着什么？又会带来哪些危险？

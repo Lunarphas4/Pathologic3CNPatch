@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.Day4.Day4_Q2_TenAM.Day4_Q2_MM_SaburovWillHelp.Name} 萨布罗夫维持着这座镇子的法律与秩序。
+{ArchiveMinds.Day4.Day4_Q2_TenAM.Day4_Q2_MM_SaburovWillHelp.Description} 萨布罗夫维持着这座镇子的法律与秩序。任何可疑活动都该交给他处理。

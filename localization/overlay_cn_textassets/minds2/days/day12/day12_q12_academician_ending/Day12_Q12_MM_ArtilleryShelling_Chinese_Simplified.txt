@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_MM_ArtilleryShelling.Name} 炮击
+{Minds2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_MM_ArtilleryShelling.Description} 这个反自然的巨像被打倒了。从其根基喷涌而出的血，将拯救全镇。

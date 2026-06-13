@@ -1,0 +1,17 @@
+{ArchiveDialogs.Hospitals.Hospital_Kira_Savka_Second.17193} 同行？
+{ArchiveDialogs.Hospitals.Hospital_Kira_Savka_Second.31095} 我在你父亲的房间里发现了一种奇怪的咒文。
+{ArchiveDialogs.Hospitals.Hospital_Kira_Savka_Second.5207} 我不能进爸爸的房间，同行。可惜。没有允许，我从不进去。
+{ArchiveDialogs.Hospitals.Hospital_Kira_Savka_Second.12447} 我看到你的手册了。你对症状观察得不错，不过措辞还要下功夫。来首都实习吧。
+{ArchiveDialogs.Hospitals.Hospital_Kira_Savka_Second.9188} 把其他人丢下，没有医生？对不起，同行，我不能。
+{ArchiveDialogs.Hospitals.Hospital_Kira_Savka_Second.9949} 我在厨房里注意到有只杯子和其他杯子不一样。那是大人的餐具吗？谁用它喝过？
+{ArchiveDialogs.Hospitals.Hospital_Kira_Savka_Second.21300} 这个……不不，当然不是，同行，这是杯子，嗯……只是个杯子，我其实是想……拿去洗的，对，只是没洗，忘了，但一定会洗的。没人用它喝过，它根本不是用来喝东西的，谁会拿那种杯子喝呀。
+{ArchiveDialogs.Hospitals.Hospital_Kira_Savka_Second.31970} 我看过你们的时间表。晚上你们有体力活动。
+{ArchiveDialogs.Hospitals.Hospital_Kira_Savka_Second.21959} 那是基拉坚持的。当然，是在咨询过医生之后。我同意有必要多活动，而且没有人有禁忌症。
+{ArchiveDialogs.Hospitals.Hospital_Kira_Savka_Second.17857} 是你给基拉做咨询？
+{ArchiveDialogs.Hospitals.Hospital_Kira_Savka_Second.29600} 我说过了，同行，我是医生。我照看所有住户的健康。比如，我知道小针有时会偏头痛，小橘子有时睡不好。基拉有旧骨折——她还在雷尔斯克时，骑马摔过一跤。
+{ArchiveDialogs.Hospitals.Hospital_Kira_Savka_Second.12358} 骨折……至少是上个季节的事了，现在冷得多。可能是旧伤受天气影响……或者她的关节还是因为缺乏维生素而疼……但能不能排除这是疾病症状？
+{ArchiveDialogs.Hospitals.Hospital_Kira_Savka_Second.12523} 不管怎样，她说早就好了，我就同意她参加运动了。不过上周她确实有时候只是看我们玩，自己不参加。
+{ArchiveDialogs.Hospitals.Hospital_Kira_Savka_Second.25744} 一方面，她确实受过伤，伤口可能会对气候变化有反应。另一方面，她还很年轻，而问诊里对此只字未提。万物表象皆欺……
+{ArchiveDialogs.Hospitals.Hospital_Kira_Savka_Second.19503} 会有什么禁忌症？
+{ArchiveDialogs.Hospitals.Hospital_Kira_Savka_Second.12180} 健康方面的。万一有人有偷气病，或者几乎治不好的骨响病。这些我都有义务知道。比如基拉就有旧骨折，是她骑马时摔得不好。那还是在雷尔斯克的事。
+{ArchiveDialogs.Hospitals.Hospital_Kira_Savka_Second.2833} 没有别的问题了。

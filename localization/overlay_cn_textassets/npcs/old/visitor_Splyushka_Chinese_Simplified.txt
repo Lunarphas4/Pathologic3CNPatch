@@ -1,0 +1,3 @@
+{Npcs.Old.visitor_Splyushka.Name} ⁠
+{Npcs.Old.visitor_Splyushka.FullName} ⁠
+{Npcs.Old.visitor_Splyushka.Description} ⁠

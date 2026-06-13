@@ -1,0 +1,2 @@
+{Symptoms.KojaZud.Name} 皮肤瘙痒
+{Symptoms.KojaZud.Description} 刺激导致难以克制地摩擦或抓挠皮肤，有时会抓到出血。

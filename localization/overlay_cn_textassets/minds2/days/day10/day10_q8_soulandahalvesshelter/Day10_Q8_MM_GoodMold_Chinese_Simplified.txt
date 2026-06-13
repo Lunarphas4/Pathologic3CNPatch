@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_GoodMold.Name} 曲霉
+{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_GoodMold.Description} 屋里长出了普通霉。吸入对人有害——但比瘟疫凝结物轻千倍，而后者我未见任何踪迹。

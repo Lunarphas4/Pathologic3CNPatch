@@ -1,0 +1,2 @@
+{ArchiveMinds.Day3.Day3_Q1_AlarmBell.Day3_Q2_MM_Alarm.Name} ⁠
+{ArchiveMinds.Day3.Day3_Q1_AlarmBell.Day3_Q2_MM_Alarm.Description} 他们等我去市政厅参加议事会。

@@ -1,0 +1,8 @@
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Changeling.26682} 我会帮你。我也是医者。你要握我的手吗？只是碰一下也行。我想认识你。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Changeling.14552} 免了。医院倒是不嫌多几双手。会有人给你交代规矩。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Changeling.8803} 不用教我。我会帮的——帮你。我的手能造出奇迹。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Changeling.12554} 你像个算命的？本地女巫？我不需要这种帮手。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Changeling.4082} 哎，别对绝望的人太严厉。别轻视站在边缘的人。我来接住他们。你就会多些时间。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Changeling.5801} 胡说八道！从这儿让开。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Changeling.21425} 你甩不掉我。萨布罗夫准许我帮你。你需要我的时候，我会来医院。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Changeling.27590} ...

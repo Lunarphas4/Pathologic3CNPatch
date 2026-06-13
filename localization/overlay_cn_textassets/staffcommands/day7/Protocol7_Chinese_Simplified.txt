@@ -1,0 +1,2 @@
+{StaffCommands.Day7.Protocol7.Name} 第 7 号方案
+{StaffCommands.Day7.Protocol7.Description} 让民众接种应急指挥部的实验药剂。

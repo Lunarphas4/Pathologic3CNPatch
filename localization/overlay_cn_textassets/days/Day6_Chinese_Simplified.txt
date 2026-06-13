@@ -1,0 +1,3 @@
+{Days.Day6.Name} 第六天
+{Days.Day6.Description} 一切尚未终结
+{Days.Day6.Name_StartDay} 第六天，

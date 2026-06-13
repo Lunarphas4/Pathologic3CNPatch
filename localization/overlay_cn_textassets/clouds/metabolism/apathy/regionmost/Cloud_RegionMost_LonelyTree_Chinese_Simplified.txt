@@ -1,0 +1,4 @@
+{Clouds.Metabolism.Apathy.RegionMost.Cloud_RegionMost_LonelyTree.21325} 四周都是死石。
+{Clouds.Metabolism.Apathy.RegionMost.Cloud_RegionMost_LonelyTree.6118} 四周都是死石。
+{Clouds.Metabolism.Apathy.RegionMost.Cloud_RegionMost_LonelyTree.28877} 孤独。
+{Clouds.Metabolism.Apathy.RegionMost.Cloud_RegionMost_LonelyTree.13603} 就像我一样。

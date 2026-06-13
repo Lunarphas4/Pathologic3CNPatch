@@ -1,0 +1,3 @@
+﻿{Items.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_FarkhadKey.Name} 玻璃钥匙
+{Items.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_FarkhadKey.Description} 一把头等钥匙。
+{Items.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_FarkhadKey.Description2} 一把脆弱的玻璃钥匙。竟然没有被压碎，真是惊人。它似乎一碰到锁孔就会碎成无数片。

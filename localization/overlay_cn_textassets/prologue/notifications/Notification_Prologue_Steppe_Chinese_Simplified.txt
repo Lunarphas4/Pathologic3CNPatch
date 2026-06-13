@@ -1,0 +1,2 @@
+{Prologue.Notifications.Notification_Prologue_Steppe.Name} 第八天，
+{Prologue.Notifications.Notification_Prologue_Steppe.Description} 学者告别希望，试图逃离这座注定毁灭的草原小镇

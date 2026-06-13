@@ -1,0 +1,3 @@
+{Npcs.patient_SergeantDront.Name} 德龙特中士
+{Npcs.patient_SergeantDront.FullName} ⁠
+{Npcs.patient_SergeantDront.Description} ⁠

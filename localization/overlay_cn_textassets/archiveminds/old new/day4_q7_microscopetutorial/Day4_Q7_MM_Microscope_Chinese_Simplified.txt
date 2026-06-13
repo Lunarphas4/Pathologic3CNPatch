@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.OldNew.Day4_Q7_MicroscopeTutorial.Day4_Q7_MM_Microscope.Name} 通往微观世界之门
+{ArchiveMinds.OldNew.Day4_Q7_MicroscopeTutorial.Day4_Q7_MM_Microscope.Description} 他们是从哪里给医院找来显微镜的？不知道它还能不能用。我得检查一下。

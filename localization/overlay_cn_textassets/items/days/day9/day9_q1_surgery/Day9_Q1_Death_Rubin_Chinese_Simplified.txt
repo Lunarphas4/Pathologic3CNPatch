@@ -1,0 +1,3 @@
+{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Rubin.Name} 鲁宾的援助
+{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Rubin.Description} 那个固执的人同意参加手术了。希望他永远不知道我有多感激。
+{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Rubin.Description2} 那个固执的人同意参加手术了。希望他永远不知道我有多感激。

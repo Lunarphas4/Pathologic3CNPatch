@@ -1,0 +1,2 @@
+{Notifications.Tutorial.Matches.Notification_LightAFire.Name} ⁠
+{Notifications.Tutorial.Matches.Notification_LightAFire.Description} 按 <InputActions/Inventory/UseSelectedSlot> 点燃火柴并投向篝火。

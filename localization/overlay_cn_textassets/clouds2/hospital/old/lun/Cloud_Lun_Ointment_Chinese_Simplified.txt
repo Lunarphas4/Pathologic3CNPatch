@@ -1,0 +1,5 @@
+{Clouds2.Hospital.old.Lun.Cloud_Lun_Ointment.11671} 关节痛用的药膏
+{Clouds2.Hospital.old.Lun.Cloud_Lun_Ointment.14565} 关节痛用的药膏
+{Clouds2.Hospital.old.Lun.Cloud_Lun_Ointment.561} 问诊时为什么没说？
+{Clouds2.Hospital.old.Lun.Cloud_Lun_Ointment.24379} 年纪大了，已经习惯？
+{Clouds2.Hospital.old.Lun.Cloud_Lun_Ointment.20471} 止了痛就忘了？

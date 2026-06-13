@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q10_RatProphet.Day5_Q10_MM_Parasites.Name} 老鼠
+{Minds2.Days.Day5.Day5_Q10_RatProphet.Day5_Q10_MM_Parasites.Description} 我以前怎么没想到清除镇上的鼠类！也许瘟疫会因此退去。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_1_MM_Worse.Name} 火药桶
+{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_1_MM_Worse.Description} 我说得没错。可事情没完。士兵在挨饿，镇上没有粮。士兵染疫而死。士兵愤怒。还会更糟。

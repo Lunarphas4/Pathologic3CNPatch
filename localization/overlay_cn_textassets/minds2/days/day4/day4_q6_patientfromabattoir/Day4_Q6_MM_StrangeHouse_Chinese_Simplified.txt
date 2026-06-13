@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_MM_StrangeHouse.Name} 浑浊之水
+{Minds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_MM_StrangeHouse.Description} 要么是孩子中有一个真的失了踪，要么我被卷入了一场愚蠢的游戏。我得在那栋"门时有时无"的房子四周搜一搜。

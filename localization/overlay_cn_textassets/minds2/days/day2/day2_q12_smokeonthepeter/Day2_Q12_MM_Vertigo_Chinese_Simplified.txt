@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q12_SmokeOnThePeter.Day2_Q12_MM_Vertigo.Name} 失之交臂
+{Minds2.Days.Day2.Day2_Q12_SmokeOnThePeter.Day2_Q12_MM_Vertigo.Description} 光是彼得在场，就足以让阿格拉娅头晕目眩。她已来不及搜齐多面体之危的证据了！

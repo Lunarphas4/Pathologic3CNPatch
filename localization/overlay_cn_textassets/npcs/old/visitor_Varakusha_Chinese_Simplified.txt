@@ -1,0 +1,3 @@
+{Npcs.Old.visitor_Varakusha.Name} ⁠
+{Npcs.Old.visitor_Varakusha.FullName} ⁠
+{Npcs.Old.visitor_Varakusha.Description} ⁠

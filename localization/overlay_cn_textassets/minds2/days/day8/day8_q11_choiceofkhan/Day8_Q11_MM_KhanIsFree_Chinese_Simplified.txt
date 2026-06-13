@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_MM_KhanIsFree.Name} 大本营的首领
+{Minds2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_MM_KhanIsFree.Description} 我说服了可汗回到多面体。那里有信赖他的人在等。

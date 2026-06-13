@@ -1,0 +1,2 @@
+﻿{Notifications.Map.Map_Drop_Infection_Notification.Name} 空气有疫
+{Notifications.Map.Map_Drop_Infection_Notification.Description} 无法快速通过此城区。

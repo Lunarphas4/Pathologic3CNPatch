@@ -1,0 +1,16 @@
+{UI.Menu.Settings.OtherHint.Group} ⁠
+{UI.Menu.Settings.OtherHint.Language} 文本语言：对话字幕和物品描述
+{UI.Menu.Settings.OtherHint.Replicas} 语音语言：角色台词和暴徒喊叫
+{UI.Menu.Settings.OtherHint.StreamerMode} 隐藏裸露内容
+{UI.Menu.Settings.OtherHint.MouseSensitivity} 调整鼠标灵敏度
+{UI.Menu.Settings.OtherHint.InvertMouse} 翻转鼠标垂直轴（向前移动鼠标以向下看）
+{UI.Menu.Settings.OtherHint.GamepadSensitivity} 调整手柄摇杆响应速度
+{UI.Menu.Settings.OtherHint.CameraSensitivity} 调整镜头响应速度
+{UI.Menu.Settings.OtherHint.InvertGamepad} 反转手柄垂直轴（右摇杆上推为向下看）
+{UI.Menu.Settings.OtherHint.InvertCamera} 反转镜头垂直轴（上推为向下看）
+{UI.Menu.Settings.OtherHint.HUDVariant} 主界面布局：冷漠/狂躁条、生命值和混合物指示
+{UI.Menu.Settings.OtherHint.Fov} 调整视野范围
+{UI.Menu.Settings.OtherHint.ThoughtButtonsEnabled} 在思维模式中显示操作提示
+{UI.Menu.Settings.OtherHint.LargeUI} 放大对话文字
+{UI.Menu.Settings.OtherHint.HeadBobbingIntensity} 调整奔跑时镜头晃动强度
+{UI.Menu.Settings.OtherHint.WeaponSlotsHUD} 在界面中显示可用武器栏：武器图标和剩余弹药

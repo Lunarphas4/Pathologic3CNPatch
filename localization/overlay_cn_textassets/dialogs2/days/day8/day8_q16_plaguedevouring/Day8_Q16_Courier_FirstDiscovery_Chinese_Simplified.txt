@@ -1,0 +1,7 @@
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Courier_FirstDiscovery.59334} 矮个子，傲慢脸，走路像猎人……你一定就是他！
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Courier_FirstDiscovery.49990} 哎呀，我该感谢谁给了这样鲜明的描述？你确定自己找的是我本人吗？
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Courier_FirstDiscovery.20825} 受人之托，敬请丹科夫斯基医生尽快前往医院。对方让我说没有坏事发生，但事情依然紧急。是科学方面的事，极其复杂。那么，我告辞了。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Courier_FirstDiscovery.65172} 科学方面的事？有意思。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Courier_FirstDiscovery.24023} 紧急？难道我的哪件事不紧急？
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Courier_FirstDiscovery.51558} 没有坏消息本身就值得注意。谢谢。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Courier_FirstDiscovery.57421} 少来诗意那套。你来传什么话？

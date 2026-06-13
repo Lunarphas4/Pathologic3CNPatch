@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_LootingTutorial.Name} 采猎者
+{Notifications.Tutorial.Notification_LootingTutorial.Description} 孩子们会给有用的物品做记号。按 <InputActions/Weapon/Tags> 聚精后便能看到。

@@ -1,0 +1,2 @@
+{Symptoms.ProvalyPamyaty.Name} 记忆断片
+{Symptoms.ProvalyPamyaty.Description} 科学地说，即失忆。近期事件或个人经历相关事实从记忆中缺失。

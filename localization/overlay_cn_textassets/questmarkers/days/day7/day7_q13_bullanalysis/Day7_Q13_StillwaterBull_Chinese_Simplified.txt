@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day7.Day7_Q13_BullAnalysis.Day7_Q13_StillwaterBull.Name} 静水宅
+{QuestMarkers.Days.Day7.Day7_Q13_BullAnalysis.Day7_Q13_StillwaterBull.Description} 那头染病的公牛在等它的研究者。

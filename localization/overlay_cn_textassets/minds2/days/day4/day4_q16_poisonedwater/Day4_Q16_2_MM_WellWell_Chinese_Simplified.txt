@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_2_MM_WellWell.Name} 井之主
+{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_2_MM_WellWell.Description} 这位险些自封独裁者的小弗拉德，竟主动协助净水。我真高兴自己错看了他。

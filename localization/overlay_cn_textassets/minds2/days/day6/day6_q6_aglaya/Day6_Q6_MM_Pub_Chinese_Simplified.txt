@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q6_Aglaya.Day6_Q6_MM_Pub.Name} Humani nihil（人之事无所不与）
+{Minds2.Days.Day6.Day6_Q6_Aglaya.Day6_Q6_MM_Pub.Description} 凯恩家里，维克多·凯恩离现实最近。人之常情他并不陌生：他在酒馆里喝酒。

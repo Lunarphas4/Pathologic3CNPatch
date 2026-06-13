@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_1_MM_DeadGrief.Name} 断路
+{Minds2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_1_MM_DeadGrief.Description} 没有格里夫，出镇之事便无可能。

@@ -1,0 +1,4 @@
+{Clouds.Old.Hospital_Burduk_Cloud_Handkerchief.3508} 液体还没干。
+{Clouds.Old.Hospital_Burduk_Cloud_Handkerchief.16942} 液体还没干。
+{Clouds.Old.Hospital_Burduk_Cloud_Handkerchief.571} 这条手帕最近用过。
+{Clouds.Old.Hospital_Burduk_Cloud_Handkerchief.292} 鼻涕？脓液？

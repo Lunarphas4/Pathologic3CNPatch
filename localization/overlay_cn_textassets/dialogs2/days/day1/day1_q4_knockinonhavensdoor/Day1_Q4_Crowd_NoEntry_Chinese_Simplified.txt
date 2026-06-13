@@ -1,0 +1,8 @@
+﻿{Dialogs2.Days.Day1.Day1_Q4_KnockinOnHavensDoor.Day1_Q4_Crowd_NoEntry.5446} 现在敲了多少下？我数不清了。十四下？
+{Dialogs2.Days.Day1.Day1_Q4_KnockinOnHavensDoor.Day1_Q4_Crowd_NoEntry.9907} 你怎么老惦记那钟声？这又不是报死虫。你真以为它能替你削出额外的几个小时——甚至几天？
+{Dialogs2.Days.Day1.Day1_Q4_KnockinOnHavensDoor.Day1_Q4_Crowd_NoEntry.20879} 大教堂关了，是吗？
+{Dialogs2.Days.Day1.Day1_Q4_KnockinOnHavensDoor.Day1_Q4_Crowd_NoEntry.29167} 西蒙已经不在的消息一传开，大教堂的大门就砰地关上了。现在进不去。大教堂要为这场丧失哀悼三天。
+{Dialogs2.Days.Day1.Day1_Q4_KnockinOnHavensDoor.Day1_Q4_Crowd_NoEntry.18640} 我恨那钟声。它把我的奶都震苦了，孩子不肯吃。我女儿也是——钟一响，她头发里就冒灰色！她才那么小一丁点，每敲一下都白一撮。等钟声停了——灰色又没了。
+{Dialogs2.Days.Day1.Day1_Q4_KnockinOnHavensDoor.Day1_Q4_Crowd_NoEntry.60529} 胡说。白发是体内非常具体的生物过程造成的。
+{Dialogs2.Days.Day1.Day1_Q4_KnockinOnHavensDoor.Day1_Q4_Crowd_NoEntry.3822} 照这样下去，用不了多久我自己也要白头了。
+{Dialogs2.Days.Day1.Day1_Q4_KnockinOnHavensDoor.Day1_Q4_Crowd_NoEntry.25570} 你在看什么？发生什么了？

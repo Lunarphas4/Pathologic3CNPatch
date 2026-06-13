@@ -1,0 +1,3 @@
+{Npcs.patient_Voronok.Name} 马丁
+{Npcs.patient_Voronok.FullName} ⁠
+{Npcs.patient_Voronok.Description} ⁠

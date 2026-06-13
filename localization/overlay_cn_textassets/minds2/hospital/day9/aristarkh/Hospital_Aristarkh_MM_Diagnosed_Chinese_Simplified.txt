@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_Diagnosed.Name} 已下诊断
+{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_Diagnosed.Description} 虽然阿里斯塔尔赫看起来毫不在意。

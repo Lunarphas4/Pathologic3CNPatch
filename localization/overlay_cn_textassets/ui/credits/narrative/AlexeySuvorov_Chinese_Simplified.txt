@@ -1,0 +1,2 @@
+{UI.Credits.Narrative.AlexeySuvorov.Name} Alexey Suvorov
+{UI.Credits.Narrative.AlexeySuvorov.Description} 编剧

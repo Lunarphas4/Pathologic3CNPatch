@@ -1,0 +1,7 @@
+{ArchiveDialogs.Hospitals.Hospital_Poshinok_Additional.24729} 是你把我们判死在这座该死的城里。就是你。
+{ArchiveDialogs.Hospitals.Hospital_Poshinok_Additional.11138} 听我说，我读过很多关于你们这个诊断的研究。儿童承受这种病，比成年人容易得多。治疗得当的话，死亡概率会降低。你们会受到妥善照看。
+{ArchiveDialogs.Hospitals.Hospital_Poshinok_Additional.19308} 那还真谢谢您。没死在这小病上，照样会死在瘟疫里。走开吧，我已经没力气看着您了。
+{ArchiveDialogs.Hospitals.Hospital_Poshinok_Additional.21028} 我做了该做的事。再见。
+{ArchiveDialogs.Hospitals.Hospital_Poshinok_Additional.38542} 如果这能让你稍感宽慰，你和孩子们的病例会帮助我们拯救数百，甚至数千条生命。多亏了你们，我们才能继续和瘟疫作战。
+{ArchiveDialogs.Hospitals.Hospital_Poshinok_Additional.5606} 知道这些数千条生命该塞到哪里去吗？为什么偏偏是我们？为什么偏偏是我的孩子？他们犯了什么错？他们本该活在那数千人之中。请你走。
+{ArchiveDialogs.Hospitals.Hospital_Poshinok_Additional.41453} 人生有许多不公。我很遗憾。再见。

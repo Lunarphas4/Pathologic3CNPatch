@@ -1,0 +1,2 @@
+{PersonalFiles.Day6.Burduk.Name} 牛蒡
+{PersonalFiles.Day6.Burduk.Description} 一个恶棍，认为自己中了诅咒。

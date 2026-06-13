@@ -1,0 +1,11 @@
+{Dialogs2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_Guardian_NoJudge.35973} 法官今天一直在等你。可你没有来。
+{Dialogs2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_Guardian_NoJudge.48444} 可惜。乔治一直请我同他谈谈，我却一直拖延。现在我终于腾出时间——却发现他有事。
+{Dialogs2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_Guardian_NoJudge.12962} 几天前他邀请我，为了一个……就叫它一堂课吧。计划有变？
+{Dialogs2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_Guardian_NoJudge.14966} 你们只是错过了——他片刻前刚离开，还让我打发你去追他。今天的争论不能在坩埚举行；事情太复杂了。人们已经聚在水塔旁开会——就在静水后面。你最好快点。
+{Dialogs2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_Guardian_NoJudge.46904} 我好像只是在来回奔跑。
+{Dialogs2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_Guardian_NoJudge.18813} 我看见静水后面的水塔了，但那里看起来废弃了。为什么在那儿见面？
+{Dialogs2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_Guardian_NoJudge.57454} 该死。我特意早到，就是想碰上他——阻止他……
+{Dialogs2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_Guardian_NoJudge.15747} 你为什么要阻止？人们聚在一起讨论水塔——这是重要的事，也是必要的事。
+{Dialogs2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_Guardian_NoJudge.42111} 也是危险的事。但乔治看不见。
+{Dialogs2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_Guardian_NoJudge.40796} 算了。忘了吧。
+{Dialogs2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_Guardian_NoJudge.19087} 所以他已经在会议上了？好。我到那儿再处理。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q2_GrifDeath.Day5_Q2_MM_Revenge.Name} 人民的复仇
+{Minds2.Days.Day5.Day5_Q2_GrifDeath.Day5_Q2_MM_Revenge.Description} 格里夫似乎昨天被杀了。被活活钉死。袭击者消失了。我无能为力。

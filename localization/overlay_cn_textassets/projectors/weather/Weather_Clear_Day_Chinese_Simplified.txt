@@ -1,0 +1,4 @@
+{Projectors.Weather.Weather_Clear_Day.25856} ⁠
+{Projectors.Weather.Weather_Clear_Day.629} 这座城不适合晴天
+{Projectors.Weather.Weather_Clear_Day.30393} 出了太阳，还是让人发闷
+{Projectors.Weather.Weather_Clear_Day.11528} 还不如下一场雨

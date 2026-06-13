@@ -1,0 +1,4 @@
+{Clouds2.Characters.Mishka.57075} 镇上到处都是孤儿
+{Clouds2.Characters.Mishka.27818} 镇上到处都是孤儿
+{Clouds2.Characters.Mishka.5374} 他们不识字，也不会写字
+{Clouds2.Characters.Mishka.19757} 人生的许多路对他们都是封闭的

@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_ExamSymptomsTutorial.Name} 症状
+{Notifications.Tutorial.Notification_ExamSymptomsTutorial.Description} 病人身体既能提供线索，也会出现伪症状。每一项症状都应按 <InputActions/Weapon/Tags> 仔细察看。

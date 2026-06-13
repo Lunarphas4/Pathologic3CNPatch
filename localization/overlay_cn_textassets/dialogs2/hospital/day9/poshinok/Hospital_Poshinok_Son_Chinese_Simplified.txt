@@ -1,0 +1,9 @@
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Son.22003} 我们的爸爸在哪里？我们失去了他，莫特利和我。你什么时候才能放他走？爸爸说一分钟都不需要。而且已经过去这么多分钟了！
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Son.18201} 我一确认他健康，就会让他回到你们身边。
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Son.39037} 他很健康，而且会一直健康！因为他是我们的爸爸。
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Son.4403} 你呢，花斑？为什么哭？你就这么想爸爸吗？
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Son.50171} 她喉咙很疼，几乎说不了话。我也一样，但哥哥从来不哭。妈妈死的时候我都没哭。把爸爸还给我们！
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Son.45121} 喉咙，你说……而你们的小脸上也长着和他身上一样的红斑。我明白你们爸爸是怎么回事了。
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Son.46601} 我马上就让他走。这次真的只要一会儿。
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Son.1128} 你们的爸爸骗了你们，这还要等一阵。
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Son.16237} 他不是骗子，你才是。放我们爸爸走！求求你了……

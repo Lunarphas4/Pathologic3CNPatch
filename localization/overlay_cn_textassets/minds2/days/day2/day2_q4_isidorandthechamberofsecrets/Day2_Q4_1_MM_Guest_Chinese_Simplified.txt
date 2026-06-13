@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_1_MM_Guest.Name} 不速之客
+{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_1_MM_Guest.Description} 凶案现场的正中央，赫然立着一个巨人。他到这儿来做什么？

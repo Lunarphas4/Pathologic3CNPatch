@@ -1,0 +1,2 @@
+{PersonalFiles.Day7.Platon.Name} 埃米莉娅
+{PersonalFiles.Day7.Platon.Description} 家境优渥的年轻女子，抱怨医院里太无聊，并出现幻觉。

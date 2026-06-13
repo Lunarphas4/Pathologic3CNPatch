@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_SwitchmanYes.Name} 自家专家
+{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_SwitchmanYes.Description} 我们和扳道工谈妥了。他不仅会帮我搬对扳道，还会随我一道走。

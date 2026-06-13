@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q1_1_RubinDeadAgain.Day5_Q1_1_MM_Chasing.Name} 难以捉摸
+{Minds2.Days.Day5.Day5_Q1_1_RubinDeadAgain.Day5_Q1_1_MM_Chasing.Description} 我正在追查那个据说偷走西蒙遗体的人。关于他前天被杀的传闻并未得到证实。我确信他在等我。

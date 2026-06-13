@@ -1,0 +1,2 @@
+{Minds2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_MM_BadBull.Name} 买头牛，卖头牛
+{Minds2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_MM_BadBull.Description} 我当初为什么要收下这头牛？它只会惹麻烦！

@@ -1,0 +1,2 @@
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_Vasil.Prologue_Vasil_MM_TimeForDiagnose.Name} 病历采集完毕
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_Vasil.Prologue_Vasil_MM_TimeForDiagnose.Description} 是时候摒弃犹疑，作出诊断了。

@@ -1,0 +1,2 @@
+{PersonalFiles.Day4.Ganzhuur.Name} 甘珠尔
+{PersonalFiles.Day4.Ganzhuur.Description} 在白蚁窝失去了家人，已经不想活了。

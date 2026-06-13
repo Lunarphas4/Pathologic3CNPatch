@@ -1,0 +1,3 @@
+{Npcs.HoundheadPrisoner.Name} 狗头帮俘虏
+{Npcs.HoundheadPrisoner.FullName} ⁠
+{Npcs.HoundheadPrisoner.Description} ⁠

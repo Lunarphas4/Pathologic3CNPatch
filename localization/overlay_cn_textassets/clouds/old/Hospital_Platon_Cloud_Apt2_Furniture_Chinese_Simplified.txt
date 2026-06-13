@@ -1,0 +1,6 @@
+{Clouds.Old.Hospital_Platon_Cloud_Apt2_Furniture.26549} 邻居说病人是个一丝不苟的人。
+{Clouds.Old.Hospital_Platon_Cloud_Apt2_Furniture.10207} 邻居说病人是个一丝不苟的人。
+{Clouds.Old.Hospital_Platon_Cloud_Apt2_Furniture.11318} 男孩说普拉东一直撞到家具。
+{Clouds.Old.Hospital_Platon_Cloud_Apt2_Furniture.18236} 协调能力丧失？
+{Clouds.Old.Hospital_Platon_Cloud_Apt2_Furniture.27958} 头晕？
+{Clouds.Old.Hospital_Platon_Cloud_Apt2_Furniture.16958} 询问时普拉东坐得很直，只是不停眯眼、眨眼。

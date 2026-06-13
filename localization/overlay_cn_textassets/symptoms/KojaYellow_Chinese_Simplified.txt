@@ -1,0 +1,2 @@
+{Symptoms.KojaYellow.Name} 皮肤发黄
+{Symptoms.KojaYellow.Description} 健康皮肤通常略带粉色；颜色偏黄可能提示疾病。

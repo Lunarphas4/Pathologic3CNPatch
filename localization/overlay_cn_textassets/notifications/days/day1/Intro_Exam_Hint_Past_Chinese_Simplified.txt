@@ -1,0 +1,2 @@
+﻿{Notifications.Days.Day1.Intro_Exam_Hint_Past.Name} 首都
+{Notifications.Days.Day1.Intro_Exam_Hint_Past.Description} 两周前

@@ -1,0 +1,3 @@
+{Items.Barter.Button.Name} 纽扣
+{Items.Barter.Button.Description} 对人来说只是小物件，对玩偶来说是眼睛
+{Items.Barter.Button.Description2} 对人来说只是小物件，对玩偶来说是眼睛

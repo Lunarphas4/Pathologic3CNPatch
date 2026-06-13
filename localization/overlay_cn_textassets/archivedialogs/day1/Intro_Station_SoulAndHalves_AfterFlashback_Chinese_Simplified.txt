@@ -1,0 +1,2 @@
+﻿{ArchiveDialogs.Day1.Intro_Station_SoulAndHalves_AfterFlashback.43773} 叔叔，叔叔，怎么样，给我们看心脏怎么工作？你睡着了吗？
+{ArchiveDialogs.Day1.Intro_Station_SoulAndHalves_AfterFlashback.54711} 啊，你们还在这儿，小家伙们。现在就给你们看。看见那团可——怕的雾了吗？它已经摸到我们的火车旁边了。

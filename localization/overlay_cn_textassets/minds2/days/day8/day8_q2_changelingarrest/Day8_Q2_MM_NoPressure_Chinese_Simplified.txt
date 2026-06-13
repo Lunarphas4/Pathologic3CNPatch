@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q2_ChangelingArrest.Day8_Q2_MM_NoPressure.Name} 蝴蝶效应
+{Minds2.Days.Day8.Day8_Q2_ChangelingArrest.Day8_Q2_MM_NoPressure.Description} 如今我已知晓与卡明斯基那番话的后果：全镇将在一场军变中覆灭。

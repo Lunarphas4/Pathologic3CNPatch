@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q17_AfterTheEnd.Day12_Q17_MM_Amnesia.Name} 失忆
+{Minds2.Days.Day12.Day12_Q17_AfterTheEnd.Day12_Q17_MM_Amnesia.Description} 在鼠先知的相助下，世界忘掉了一些重要之事。

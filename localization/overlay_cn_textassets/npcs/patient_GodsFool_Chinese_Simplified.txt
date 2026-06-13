@@ -1,0 +1,3 @@
+{Npcs.patient_GodsFool.Name} 病人博博克
+{Npcs.patient_GodsFool.FullName} ⁠
+{Npcs.patient_GodsFool.Description} ⁠

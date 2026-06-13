@@ -1,0 +1,20 @@
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.33414} ……我告诉你，这个“距离”指的是阉割。你没看见那些海报吗？就是画着公牛的那些。这说的就是这个。
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.18706} 先生，你个子大，脑子可不大。公牛……狗屁！海报上想画什么都行。可你听这个词的声音。距——离。听见了吗？我哥哥给我讲过，他是从老师那里听来的。“距”就是“两个”的意思。“离”跟“车站”有关系。现在懂了吗？他们要建第二个车站！
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.20979} 你再卖弄，我就拧你耳朵！
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.3715} 别碰这孩子。他是错了，但求知心值得称道。至少他在研究死语言。
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.15964} 你是说我错了？
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.14977} 要我说，第二个车站这套全是胡扯。我们已有的那个都闲着。我知道“距离”是什么意思。一个路过这里的聪明人给我解释过。我记不清细节，但大意是：什么事发生一次，就会不知怎么变成一个例子。
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.36558} 不对，不对，你搞混了！我以前听过这个词，那叫“例子”。“距离”说的是穿衣打扮。你要是光着身子乱跑，那就是“没距离”。
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.51195} 这条法令和例子有什么关系？
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.9052} 和衣服也没多大关系！
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.44518} 我给你们解释……
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.4095} 都别嚷嚷了！我想我明白了！这是个怪词，讲究词。像首都来的词。所以一定和……唉，我忍心说出口吗？听声音，孩子已经说了。听，仔细听。距——离。审——判——官……
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.32405} 对，它们听起来像！距离！审判！我听出来了！
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.40913} 闭嘴！这话要是传到不该听的人耳朵里，我们就会比想象中更懂“距离”了！
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.35061} 总之，距离是什么不重要，只要你守住它就行。
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.13110} 那孩子最接近。“station”和“distance”都来自拉丁动词 stāre，意思是“站立”。车站是让火车站住、停留的地方。你们则应该彼此站远一些。
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.64960} 无知竟能生出灵光，真叫人惊奇。
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.20849} 我倒好奇你们还能发明出什么。
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.25607} 真不敢相信。社交距离海报上的图画就这么不清楚吗？
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.57360} 图画是一回事，文字又是另一回事。上面那些管着我们的人，总想骗我们！
+{Dialogs2.Decrees.SocialDistancing.SocialDistancing_Etymologists.46290} 民间词源学很有趣，但我没时间参加这场会议。诸位，告辞。

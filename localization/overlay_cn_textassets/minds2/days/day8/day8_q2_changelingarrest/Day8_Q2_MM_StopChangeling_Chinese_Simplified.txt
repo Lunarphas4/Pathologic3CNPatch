@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q2_ChangelingArrest.Day8_Q2_MM_StopChangeling.Name} 先发制人
+{Minds2.Days.Day8.Day8_Q2_ChangelingArrest.Day8_Q2_MM_StopChangeling.Description} 凶手该进监狱。卡明斯基若肯应允，便是好事。

@@ -1,0 +1,2 @@
+﻿{Notifications.Notification_Hospital_AllDiagnosisComplete.Name} 诊断结果
+{Notifications.Notification_Hospital_AllDiagnosisComplete.Description} 今日全部诊断已下。结果将在傍晚六点后直接送至静水观星台。

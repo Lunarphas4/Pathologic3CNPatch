@@ -1,0 +1,16 @@
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_Jail.53713} 站住。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_Jail.19265} 先生们，这屋子感染了。我不建议你们靠得这么近。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_Jail.3876} 感染也好，没感染也好，我们有命令。这屋子的住户彼得·斯塔马京被关押在自己的公寓里——卡尔敏斯基审判官的命令。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_Jail.41476} 我能和彼得谈谈吗？
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_Jail.54995} 不行。禁止探视。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_Jail.65025} 让我进去。我住在这里。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_Jail.32218} 你把我们当傻子？我们有每个住户的名字，未经授权者不得入内。彼得·斯塔马京处于居家拘押，禁止探视。奉卡尔敏斯基审判官命令。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_Jail.40564} 抱歉，我急需见彼得·斯塔马京。他在这里吗？
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_Jail.18560} 彼得·斯塔马京被关押在自己的公寓里，禁止探视——卡尔敏斯基审判官的命令。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_Jail.2715} 你知道我是谁吗？
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_Jail.61634} 知道。我们还有一条专门针对你的命令：不得允许丹尼尔·丹科夫斯基探视彼得·斯塔马京。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_Jail.18185} 卡尔敏斯基为什么会……算了，问你也没用。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_Jail.22018} 事情真是越来越妙了。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_Jail.4924} 主人如何，仆人也如何。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_Jail.8500} 他凭什么被居家拘押？
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_Jail.29486} 你又凭什么要求报告？走吧，别挡路。

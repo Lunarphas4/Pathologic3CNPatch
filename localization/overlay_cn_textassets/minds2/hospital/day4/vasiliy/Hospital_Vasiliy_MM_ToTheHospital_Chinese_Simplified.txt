@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_ToTheHospital.Name} 谜似已解
+{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_ToTheHospital.Description} 惧水症把一切对应上了。是回医院再找菲拉特谈一次——还是现在就下诊断？

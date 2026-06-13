@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_SearchForDonors.Name} 验血
+{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_SearchForDonors.Description} 我得采集潜在血源者的血并加以化验。时间紧，我把候选人的样全采下来一并查。

@@ -1,0 +1,2 @@
+﻿{Locations.Sirie_Zastroiki.Name} 粗建地
+{Locations.Sirie_Zastroiki.Description} 粗建地

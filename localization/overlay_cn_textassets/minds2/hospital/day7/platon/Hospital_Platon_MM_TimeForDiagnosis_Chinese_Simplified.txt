@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_TimeForDiagnosis.Name} 解就在眼前
+{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_TimeForDiagnosis.Description} 夜莺的诊断几近清楚。剩下的，只是下决心。

@@ -1,0 +1,6 @@
+{UI.Tablet.VaccineTooltip.Title} 疫苗
+{UI.Tablet.VaccineTooltip.DescriptionAvailable} 明天，我们将尝试用它为镇上的人接种。看看这次免疫力能持续多久。
+{UI.Tablet.VaccineTooltip.DescriptionNotAvailable} 为了制造疫苗，需要更准确地诊断与沙疫相关的并发疾病。
+{UI.Tablet.VaccineTooltip.StatusTitle} 状态
+{UI.Tablet.VaccineTooltip.StatusAvailable} 已获得
+{UI.Tablet.VaccineTooltip.StatusNotAvailable} 未获得

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q11_ConversationsWithTheJudge.Day4_Q11_MM_Escobar.Name} 二元论
+{Minds2.Days.Day4.Day4_Q11_ConversationsWithTheJudge.Day4_Q11_MM_Escobar.Description} 看来西蒙面对抉择时，要么根本不选，要么不知怎的把两个相反的选项都选了。

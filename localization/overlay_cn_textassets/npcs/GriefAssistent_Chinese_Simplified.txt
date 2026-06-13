@@ -1,0 +1,3 @@
+{Npcs.GriefAssistent.Name} 牛蒡
+{Npcs.GriefAssistent.FullName} ⁠
+{Npcs.GriefAssistent.Description} ⁠

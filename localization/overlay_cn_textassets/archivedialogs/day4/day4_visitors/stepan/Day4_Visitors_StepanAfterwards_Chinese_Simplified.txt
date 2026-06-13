@@ -1,0 +1,13 @@
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_StepanAfterwards.11943} 蓍草、艾菊、苦艾、杜香……还有益母草。当然，还有斯维瑞。
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_StepanAfterwards.7779} 我的人呢？
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_StepanAfterwards.3498} 还早。我会见他，然后就回家。
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_StepanAfterwards.18906} 要是他迟到，就告诉他，我等着和他严肃谈谈。
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_StepanAfterwards.29922} 您尽管放心。
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_StepanAfterwards.17162} 那我先走了。
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_StepanAfterwards.18409} 你情况如何？
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_StepanAfterwards.13902} 夜里要是有人帮把手，我会安心得多。
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_StepanAfterwards.5547} 要是有人能帮忙就好了……白天夜里都能帮。
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_StepanAfterwards.21452} 既然你来了，就看看这个吧……不过我看你也不感兴趣。你不是草药师。
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_StepanAfterwards.2996} 你确定不是山羊干的？它们尤其馋草药，特别是这个时节。
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_StepanAfterwards.28658} 那么，抓到犯人了吗？
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_StepanAfterwards.14430} 眼下还安静。等夜里再看。

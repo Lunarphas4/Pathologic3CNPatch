@@ -1,0 +1,2 @@
+{Symptoms.NosBlood.Name} 鼻出血
+{Symptoms.NosBlood.Description} 鼻腔出血，可能与黏膜损伤、血管脆弱或全身性疾病有关。

@@ -1,0 +1,2 @@
+{Notifications.Tutorial.ConcentrationMode.Notification_FindMind.Name} ⁠
+{Notifications.Tutorial.ConcentrationMode.Notification_FindMind.Description} 要反思一个人或者一件物品，需要进入专注模式后靠近

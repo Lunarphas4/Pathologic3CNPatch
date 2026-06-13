@@ -1,0 +1,3 @@
+{UI.CraftWindow.CraftNotifications.CraftingFailed} 制作失败
+{UI.CraftWindow.CraftNotifications.InventoryIsFull} 物品栏已满
+{UI.CraftWindow.CraftNotifications.CraftCompleted} 物品已添加到物品栏

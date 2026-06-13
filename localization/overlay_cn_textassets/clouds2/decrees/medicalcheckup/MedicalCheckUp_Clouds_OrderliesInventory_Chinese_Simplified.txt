@@ -1,0 +1,4 @@
+{Clouds2.Decrees.MedicalCheckUp.MedicalCheckUp_Clouds_OrderliesInventory.21778} 一点纰漏都没有
+{Clouds2.Decrees.MedicalCheckUp.MedicalCheckUp_Clouds_OrderliesInventory.38414} 一点纰漏都没有
+{Clouds2.Decrees.MedicalCheckUp.MedicalCheckUp_Clouds_OrderliesInventory.37955} 他们真的干活了吗？
+{Clouds2.Decrees.MedicalCheckUp.MedicalCheckUp_Clouds_OrderliesInventory.37652} 志愿者！……

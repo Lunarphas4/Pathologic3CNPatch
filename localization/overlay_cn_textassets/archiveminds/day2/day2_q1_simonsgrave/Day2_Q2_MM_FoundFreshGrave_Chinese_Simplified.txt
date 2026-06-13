@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.Day2.Day2_Q1_SimonsGrave.Day2_Q2_MM_FoundFreshGrave.Name} 我需要劳工把坟挖开。
+{ArchiveMinds.Day2.Day2_Q1_SimonsGrave.Day2_Q2_MM_FoundFreshGrave.Description} 我找到了那座坟。剩下的事就是招募几个挖墓人，把里面的东西挖出来。

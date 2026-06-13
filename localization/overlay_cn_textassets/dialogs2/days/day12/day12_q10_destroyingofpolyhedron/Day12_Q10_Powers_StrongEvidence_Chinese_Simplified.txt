@@ -1,0 +1,37 @@
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.49462} 将军……我理解得对吗？您真的打算用大炮轰击奇迹？
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.52755} 确认。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.2994} 我求你——别行野蛮之事。你甚至不明白自己面对的是什么，也不明白多面体有多独一无二。把它毁掉，就像焚毁亚历山大图书馆。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.6256} 从没想过我会这么说，但卡尔明斯基是对的。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.39286} 我曾希望到最后，你我会站到同一边，丹科夫斯基。我们不可能不站到同一边。你来了，这很好。 至于你，将军，我提醒你，审判庭在这座镇上的正式代表是我。没有我的批准，你无权作出这种量级的决定。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.48436} 是的，你是正式任命的。然而由于命运安排，这座镇上有两位审判官——莉莉奇审判官向我提供了极其有说服力的证据，证明拆除多面体将拯救小镇。 我相信她调查的结果。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.61678} 谢谢。顺带一提：我的调查结果不仅会帮助拯救小镇——这当然是最高优先级。它还会帮助我们抵御今后的任何攻击、赢下法庭审判，等等。 卡尔明斯基，同僚。作为专业人士，你如何评价我的证据基础？
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.39207} 作为专业人士，我承认它很出色。计算、蓝图、地图、涉事者证词、第一次爆发的档案、对公牛企业生产流程和族民献祭习俗的深入考察…… 莉莉奇，我为你鼓掌。我为你鼓掌。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.53135} 卡尔明斯基，你真的没有任何东西能反驳她？
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.24120} 我有关于多面体独一无二性的证据，因此也有其战略价值的证据。我有权宣布它为国家保护对象。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.12432} 你也完全清楚，卡尔明斯基，我会援引哪条修正案回应你。已证实的公共危险高于战略价值。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.24755} 你为什么这么憎恨多面体？
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.12870} 我不是已经回答过了吗？它是假偶像。是一座美丽的海市蜃楼，遮住肮脏而痛苦的死亡。它不值得那些已经被它夺走的生命。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.10511} 我承认，局势复杂。我没想到自己会夹在两位审判官之间。我有义务服从你们两位，尽管卡尔明斯基的正式身份分量更重。 但是，我还有另一项指令，是我被派往这座镇之前收到的：阻止瘟疫进一步蔓延到全国。莉莉奇的决定符合这项指令。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.27200} 将军，你总不至于是个野蛮人。那座塔里有答案——有我们心智尚无法把握的秘密。摧毁它，你就会永远剥夺全人类本可获得的可能。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.29245} 想刺痛我的骄傲？是的——在这个两难处境中，我会显得像个迟钝的士兵，无法理解存在之谜的宏伟。也许后世会这样记住我。那就这样吧。 要紧的是彻底终结瘟疫。拯救生命。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.38317} 历史由胜利者书写。如果莉莉奇审判官是对的，拆除多面体能阻止瘟疫——后世会理解，也不会忘记。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.40582} 将军。选择吧。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.35631} 别逼他，莉莉奇。将军已经做出选择，你的胜利迟上几分钟，不会改变什么…… ……将军，我想亲眼在场，见证那一轮射向永恒的齐射。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.16079} 如你所愿，卡尔明斯基审判官。 莉莉奇审判官，我会执行你的命令。多面体将被拆除。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.56462} 坏母鸡，坏鸡蛋。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.60584} 这是唯一正确的决定。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.60585} 不，这不能被允许，不能……
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.40067} 将军，我是医生——即便是我也告诉你：多面体值得冒瘟疫扩散的风险！
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.7669} 我不该来。我没有力气听这个。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.15492} 不，你不能。这损失将无法弥补。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.3983} 那小镇的损失就能弥补吗？如果我们不阻止瘟疫，它很快会抵达其他聚落，那些地方的损失又能弥补吗？
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.28582} 那座塔已经夺走了数千条生命！
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.62558} 虽然你的声音不具咨询效力，丹科夫斯基，但我很高兴你同意我的结论。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.21503} 你确定那些证据可靠——没有错误，也没有伪造？
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.26201} 粗看之下——没有。更何况我尊重莉莉奇审判官的工作；她不会诉诸平庸的伪造。 不过，我有关于多面体独一无二性的证据，因此也有其战略价值的证据。我有权宣布它为国家保护对象。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.58689} 我准备确认莉莉奇审判官是对的。多面体正在杀死这座镇。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.40672} 我有关于多面体独一无二性的证据，因此也有其战略价值的证据。我有权宣布它为国家保护对象。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.41307} 必须保住多面体！我们必须想点办法——找出之前没看见的出路……
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.56596} 恐怕到了这个阶段，任何决定都会是野蛮的。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.60218} 我曾希望到最后，你我会站到同一边，丹科夫斯基。但很遗憾。 至于你，将军，我提醒你，审判庭在这座镇上的正式代表是我。没有我的批准，你无权作出这种量级的决定。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_StrongEvidence.54873} 没有哪座亚历山大图书馆值得拿整座镇的性命去换。

@@ -1,0 +1,2 @@
+{UI.Tablet.ConclusionShort.Died} 误诊
+{UI.Tablet.ConclusionShort.Survived} 已确认诊断

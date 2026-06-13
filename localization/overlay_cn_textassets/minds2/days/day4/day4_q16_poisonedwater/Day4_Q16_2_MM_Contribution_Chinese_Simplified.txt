@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_2_MM_Contribution.Name} 对未来的投资
+{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_2_MM_Contribution.Description} 我从指挥部资源里拨出了一部分用于善事。低三下四去乞求拨款的滋味，我太熟悉了。

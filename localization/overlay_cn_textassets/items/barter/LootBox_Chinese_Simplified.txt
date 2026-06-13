@@ -1,0 +1,3 @@
+{Items.Barter.LootBox.Name} 包裹
+{Items.Barter.LootBox.Description} 里面有些有用的小玩意。需要拆开才能拿出来。
+{Items.Barter.LootBox.Description2} 里面有些有用的小玩意。需要拆开才能拿出来。

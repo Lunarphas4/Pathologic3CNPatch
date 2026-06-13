@@ -1,0 +1,8 @@
+{ArchiveDialogs.Day6.Day6_Visitors.Mavra.Day6_Visitors_Odong.22259} 为什么我们需要这个，Oynon（异乡人）？
+{ArchiveDialogs.Day6.Day6_Visitors.Mavra.Day6_Visitors_Odong.3506} 人们需要食物。
+{ArchiveDialogs.Day6.Day6_Visitors.Mavra.Day6_Visitors_Odong.13477} 我们愿意给它。您所要做的就是询问。
+{ArchiveDialogs.Day6.Day6_Visitors.Mavra.Day6_Visitors_Odong.10441} 这座城市正在酝酿不满情绪。人们要求宰牛。你能向他们解释他的牛奶是安全的吗？
+{ArchiveDialogs.Day6.Day6_Visitors.Mavra.Day6_Visitors_Odong.13837} 很多人都会相信这样一个人的话。
+{ArchiveDialogs.Day6.Day6_Visitors.Mavra.Day6_Visitors_Odong.20161} 我不会为我的行为负责。
+{ArchiveDialogs.Day6.Day6_Visitors.Mavra.Day6_Visitors_Odong.7761} 听到这些话让我们很伤心。我们可以找到共同语言。
+{ArchiveDialogs.Day6.Day6_Visitors.Mavra.Day6_Visitors_Odong.20547} 现在说话已经太晚了。已经完成的事情已经完成了。

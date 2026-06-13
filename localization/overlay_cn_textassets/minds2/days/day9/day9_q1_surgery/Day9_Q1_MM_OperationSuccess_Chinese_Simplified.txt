@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_OperationSuccess.Name} 活枝
+{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_OperationSuccess.Description} 卡捷琳娜得救了。今日，死神在这宅子里没有收获。

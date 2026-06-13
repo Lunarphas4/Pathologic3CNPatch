@@ -1,0 +1,2 @@
+{UI.Credits.PR.AlexandraGolubeva.Name} Alexandra Golubeva
+{UI.Credits.PR.AlexandraGolubeva.Description} 发行商关系经理

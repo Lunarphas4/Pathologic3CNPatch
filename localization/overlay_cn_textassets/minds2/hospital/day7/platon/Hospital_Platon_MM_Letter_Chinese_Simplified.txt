@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_Letter.Name} 采集之旅——是编的？
+{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_Letter.Description} 看来夜莺夸大了自己的成就。她远不像她自称的那般阅历丰富。

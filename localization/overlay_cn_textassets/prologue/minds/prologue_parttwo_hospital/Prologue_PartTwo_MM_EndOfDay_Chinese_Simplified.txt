@@ -1,0 +1,2 @@
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PartTwo_MM_EndOfDay.Name} 短暂休憩
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PartTwo_MM_EndOfDay.Description} 今日工作已毕，该回总部了。回“家”。回到伊娃身边。

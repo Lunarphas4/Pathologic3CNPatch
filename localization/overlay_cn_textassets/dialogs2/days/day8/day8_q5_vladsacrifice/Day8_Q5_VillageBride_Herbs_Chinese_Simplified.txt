@@ -1,0 +1,19 @@
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.32597} 脚步轻些，buyantay（有福之人）。你踩到我的草药了。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.44790} 我只是想问……
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.14566} 我不能跟你说。我不能 khariulakh（回答）。去问别人。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.50980} 至少告诉我该问谁？
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.39583} 问大地。问风。问 Suok（草原神祇） 的黑暗。别问正在呼唤药草的新娘。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.43387} 我记得你。我刚进镇时，你就在车站——你那时也在说药草，就像现在这样，对吗？
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.4483} 那一天，死亡进了镇。如今，死亡像 gürwhal（蜥蜴） 盘住暖石一样盘住了小镇。像 gürwhal（蜥蜴） 一样，除非石头冷却，它不会爬回草原。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.12038} 对！那次你要一具被杀罪犯的尸体。他叫什么来着……
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.26469} 你把他给了我，也给了氏族。Bayarlaa（谢谢）。看：这是从那个曾经有名字的人身上长出的草。看它怎样缠绕我！
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.9341} 我什么都看不出来。遗憾的是，在我眼里你们的草都一样。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.57701} 你看不出来？那就记住：这些邪恶的药草会帮助任何人——甚至像你这样的人，moghoi khün（蛇人）。把从你的决定中长出来的东西，当作我的礼物收下。若你还想得到更多帮助，就亲自呼唤药草，给它们指进镇里的路，把你的土地给它们——坚硬残酷的心就会软化。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.49254} 嗯。这话有些道理……在镇上种药草也许有用。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.46953} 恐怕园艺现在不在我的优先事项里。但谢谢你的建议。也谢谢你的礼物。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.35973} 一如既往。只有愚蠢的迷信。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.42115} 那个 aluurshan（杀人者） 没留下任何记忆，也没留下任何好东西。人们请你以裁判身份作决定，可你也拒绝把他的尸体给我，tenegh khün（傻瓜）。你们 khoto zon（城里人） 是愚蠢的人，踩着街道裸露的石头走，不把药草唤进你们的城——它们本会软化你们的心。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.29807} 无论如何，死者已经入土，喂给了虫子。……我是说，生物学意义上的虫子。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.45785} 现在我倒好奇你会怎样处理那具尸体了。不过时机已过。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.53375} 我去找个更愿意配合的人试试运气。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_VillageBride_Herbs.1349} 你指望我怎么走过草原而不踩到草？这是谜语，还是某个寓言的开头？

@@ -1,0 +1,13 @@
+{ArchiveDialogs.Day10.Day10_Visitors.Arina.Day10_Visitors_Arina.3919} 医生，求您了，放我丈夫走吧！
+{ArchiveDialogs.Day10.Day10_Visitors.Arina.Day10_Visitors_Arina.13195} 什么？哪个丈夫？从哪儿来的？
+{ArchiveDialogs.Day10.Day10_Visitors.Arina.Day10_Visitors_Arina.8445} 他在您手下服役。他是民兵。城里的孩子要被救出去，所以我才想着，也许您会准许我们全家一起……
+{ArchiveDialogs.Day10.Day10_Visitors.Arina.Day10_Visitors_Arina.11068} 还把孩子带来了，想博同情……
+{ArchiveDialogs.Day10.Day10_Visitors.Arina.Day10_Visitors_Arina.13913} 那他该怎么办，没了父亲吗？我丈夫在您手下服役，每天都在冒险！
+{ArchiveDialogs.Day10.Day10_Visitors.Arina.Day10_Visitors_Arina.16147} 我想，我其他手下也有孩子，但没有第二个人来向我提这样的请求。
+{ArchiveDialogs.Day10.Day10_Visitors.Arina.Day10_Visitors_Arina.11903} 把我们家里剩下的都拿走，只求您放他走！
+{ArchiveDialogs.Day10.Day10_Visitors.Arina.Day10_Visitors_Arina.23964} 我完全理解您，但我手下每一个人都要紧。
+{ArchiveDialogs.Day10.Day10_Visitors.Arina.Day10_Visitors_Arina.20258} 那您就受诅咒吧！
+{ArchiveDialogs.Day10.Day10_Visitors.Arina.Day10_Visitors_Arina.841} 若您愿意这么说。
+{ArchiveDialogs.Day10.Day10_Visitors.Arina.Day10_Visitors_Arina.8878} 给我一点时间考虑。
+{ArchiveDialogs.Day10.Day10_Visitors.Arina.Day10_Visitors_Arina.18575} 我们没有这个时间！
+{ArchiveDialogs.Day10.Day10_Visitors.Arina.Day10_Visitors_Arina.12629} 傍晚前我会给您答复。

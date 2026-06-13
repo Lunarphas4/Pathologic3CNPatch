@@ -1,0 +1,3 @@
+﻿{ArchiveDialogs.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Victor_GoHome.18335} 你在这里做什么？
+{ArchiveDialogs.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Victor_GoHome.14826} 您好，维克多。
+{ArchiveDialogs.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Victor_GoHome.21404} 我知道这条街能做什么。必须封闭它。

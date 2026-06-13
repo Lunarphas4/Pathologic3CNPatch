@@ -1,0 +1,47 @@
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.29830} 什么事，丹科夫斯基？你有什么东西忘在这里了？
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.7196} 你今天在教堂审判了这座城的统治家族。但你亲自来见了维克多·凯恩。为什么？
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.8930} 我去过炉宅。你对维克多做了什么？
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.4776} 你若去过炉宅，就该已经知道我做了什么，也知道为什么。维克多·凯恩被裁定犯有侵袭现实之罪。审判庭认为，他的行为对国家构成了严重威胁。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.3614} 具体是什么行为？他究竟做了什么，竟严重到这种地步？
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.6643} 他委托建造了一件不可能之物。而且还是相当危险的一件。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.3941} 我以为受罚的是创造不可能之物，而不是委托别人创造。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.1086} 惩罚要逐案裁量。罪责程度，取决于其试图颠覆现实的程度。  维克多·凯恩的委托使他成为这次尝试的主谋，在我们的处境下，这反倒是加重情节。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.9954} 有时候我觉得，在审判庭眼里，呼吸空气都能算加重情节。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.14190} 恭喜，你开始领会法则如何运作了。当然，维克多并不是因为呼吸受罚。  他的罪行，是委托他人在中庭创造一件不可能之物。一条能增殖现实的街道。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.31619} 那多面体呢？你也要为那个把谁变成植物人吗？
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.26492} 真是奇怪的问题。我猜你是在担心彼得·斯塔马京的命运。多面体确实是不可能之物。  但在我们确定它与现实相互作用的确切性质之前，法则禁止我们对斯塔马京采取行动。维克多的情形完全不同。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.8320} 他怎么可能犯下对现实的侵袭？他并没有创造不可能之物。他只是委托了这项工作。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.25710} 什么叫“只是”？他的委托使他成为策划者，在我们的处境下，这反倒是加重情节。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.4546} 彼得·斯塔马京同样被指控侵袭现实，可你没有把他的脑子烧坏。你只是放他走了。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.25010} 更正一下：放他走的是你，丹科夫斯基。多面体确实是不可能之物。   但在我们确定它与现实相互作用的确切性质之前，法则禁止我们对斯塔马京采取行动。维克多的情形完全不同。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.12656} 对维克多·凯恩的核心指控是什么？
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.16383} 如果你同他谈过，就该知道中庭里那件不可能之物。也就是一条能增殖现实的街道。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.21070} 虽然那条街超出了所有创造者的预期，却有一个令人不快的缺陷。它不是在增殖现实，而是把现实坍缩为唯一的情景——最骇人的那个未来。  审判庭认为，这样的物体对国家构成威胁。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.28128} 你也打算对尤利娅做同样的事吗？
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.29599} 以后再定。到目前为止，我们还在搜集证据阶段。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.19492} 这听起来像偏执。偏远小镇里的一条街，怎么能对国家构成威胁？
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.11577} 想想看。任何走过那条街的人，都会把未来坍缩成最坏的情景。如果某人坍缩出的未来，是元首遇刺的未来呢？审判庭不能容许这种事发生。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.23006} 你自己试过走那条街吗？
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.20682} ...
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.15931} 你呢？
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.22507} 是我先问你的。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.21117} 你忘了自己的身份，丹科夫斯基。看来你还在扮审判官。这里由我发问，不是你。告诉我，你已经犯下那个错误了吗？你走过那条街了吗？
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.6754} 如果那条街如此危险，就必须封锁。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.2644} 我必须同柳里切娃谈谈。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.32089} 我看起来像傻子吗？
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.31092} 我想我还是礼貌地不予置评吧。如果你珍惜自己的未来，就离中庭那条街远些。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.17602} 这下好了。现在我倒被勾起兴趣了。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.24378} 我会的。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.30064} 我被困在一座快被瘟疫杀死的城里。那条街很难让我的未来变得更糟。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.5843} 说得好像我本来就不会去一样。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.12463} 我去过，但还没弄明白它究竟怎么运作。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.23905} 去过，遗憾得很。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.16318} 你看见了什么？
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.18163} 我的未来最坏的情景，正如你所说。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.24471} 什么也没有。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.31899} 算了。现在不重要。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.15163} 未来。但我拒绝相信它无法改变。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.24791} 对维克多·凯恩的核心指控是什么？
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.6386} 维克多委托建造了位于中庭的一件不可能之物。一条能增殖现实的街道。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.9096} 你对维克多所做的事，比死刑还糟。吊死他都更仁慈。
+{Dialogs2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Karminskiy_VictorGuilty.31083} 看来你太把维克多的命运放在心上了，丹科夫斯基。维克多·凯恩委托建造了位于中庭的一件不可能之物。也就是一条街。

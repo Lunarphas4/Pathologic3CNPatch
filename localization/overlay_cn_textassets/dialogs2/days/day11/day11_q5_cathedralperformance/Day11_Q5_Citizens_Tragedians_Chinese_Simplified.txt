@@ -1,0 +1,16 @@
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Tragedians.1299} 那你到底算什么？雕像，还是人？来啊——眨眼。快眨！
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Tragedians.31833} ...
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Tragedians.31200} 他眨眼了吗？难说……
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Tragedians.62403} 他眨了。他只是个演员——你们镇上剧院的。多半在排另一出哑剧。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Tragedians.47694} 那他要是演员，为什么不动？我要不要推他一下？
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Tragedians.47884} 为了让你吃惊。看见了吗？艺术意图起作用了。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Tragedians.17255} 别在广场上打起来。这里最不需要的就是这个。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Tragedians.36916} 从前有个先锋派艺术家。她摆出钩子、颜料、一把左轮手枪——让人群随意处置。没人知道是谁开的枪。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Tragedians.24082} 你也看见他了？那就好。我刚开始以为自己又看见阴影了。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Tragedians.44531} 也许你是。也许我们都是。不然——他为什么那么奇怪？
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Tragedians.503} 我仔细看了看。我认为他终究还是个演员。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Tragedians.48017} 我宁可不去。像他这样的人影，会在有人死去时出现在我面前。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Tragedians.49357} 那他在这里表演他的哑剧，也许确有理由……如果他预示死亡的话。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Tragedians.47886} 好吧，这倒是……那我们要把他赶走吗？
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Tragedians.48084} 要是有那么简单就好了。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Tragedians.34796} 算了。那是个糟糕的玩笑。

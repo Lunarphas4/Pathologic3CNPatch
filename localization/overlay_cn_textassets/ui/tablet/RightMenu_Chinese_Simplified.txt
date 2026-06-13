@@ -1,0 +1,4 @@
+{UI.Tablet.RightMenu.PersonalFile} 病历
+{UI.Tablet.RightMenu.Directory} 概览
+{UI.Tablet.RightMenu.Patients} 病人
+{UI.Tablet.RightMenu.SandUlcer} 沙疫

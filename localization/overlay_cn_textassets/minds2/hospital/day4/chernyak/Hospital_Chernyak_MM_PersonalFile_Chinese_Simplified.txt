@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day4.Chernyak.Hospital_Chernyak_MM_PersonalFile.Name} 名声不佳的商人
+{Minds2.Hospital.Day4.Chernyak.Hospital_Chernyak_MM_PersonalFile.Description} 据传小黑一直在卖染病的货物。

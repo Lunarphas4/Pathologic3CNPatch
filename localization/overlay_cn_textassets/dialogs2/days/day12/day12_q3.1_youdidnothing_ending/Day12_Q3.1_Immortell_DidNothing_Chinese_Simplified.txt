@@ -1,0 +1,26 @@
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.15466} 丹科夫斯基，我的朋友。我就怕这个！你也染上这种时髦病了吗？我早该猜到——这几天你的举止相当可疑。
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.58174} 你在说什么，马克？我完全健康。
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.23270} 我说的不是瘟疫，<i>mon ami</i>（我的朋友）。我说的是比瘟疫糟糕得多的东西——你听说过现代主义吗？\n在首都，现代主义已经占领了剧院。现代主义者正在拆毁经典；他们让一种新英雄流行起来：优柔寡断的软蛋！就像你，丹科夫斯基！
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.12353} 你说什么？
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.7460} 过去，如果一出戏以呜咽收场，那是耻辱；可现在——这是手法！现代主义拒绝戏剧法则，这些新戏允许主角干脆跳过关键事件，忽视结局！
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.19890} 我受够你了，我这位自封的传记作者。
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.58581} 你走到了终幕。小镇活到了第十二天——多亏了你。可现在，所有牌都在你手里，故事要求行动——你做什么？什么都不做！他们在大教堂等你，可你没有出现！
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.40242} 我不知道该怎么做，马克。我无法选择。
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.15447} 看！这正是我害怕的。现代主义毒害了你；你成了优柔寡断的软蛋。\n你知道怎样拯救小镇！你的激情在哪里，丹科夫斯基，你的怒火在哪里？你选择只是旁观一切自行解决？多么不光彩的终局……
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.12318} 我不在乎现代主义。我只是累了，不想做任何选择。
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.15516} 我只是困惑——这里发生的事太多了！
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.25656} 我迟到了。我需要更多时间。但你知道吗？我拥有世界上所有时间！
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.30212} 我有什么选择？没有哪个结局是对的。我也不想选择较小的恶。
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.2559} 不选择较小的恶，就意味着让两种恶一起把牙齿咬进你的喉咙。选择，才是活着。
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.36466} 我选择不听你的说教，马克。再见。
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.41576} 这有什么关系？又不由我决定。我真的只是棋子。事情会自行发展。
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.64131} 你说在大教堂？我错过了。
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.57190} 丹科夫斯基，我们这里是严肃的神秘剧，不是马戏！那你为什么表现得好像观众应该给你提词：小心，敌人在你身后！如果你把所有提词人的提示都当耳旁风——那你根本不配这个角色！
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.10376} 我选择自己的路。你的提示令人羞辱。
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.5828} 和导演争辩！多么放肆，多么粗俗，多么现代主义！这样下去，你最后连谢幕都没有。\n然而我宽宏大量得惊人，愿意给你一次机会，回去重演那个走音的音符。否则就走出去，面对失败的苦味。
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.33289} 你有上帝情结，马克。我可以推荐一位胡子不错的好专家。
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.29615} 看来提词人失声了。没有任何提示。
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.540} 恐怕我已经淹死在你那些隐喻的深处了。
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.28482} 我犯了错，错过了时间，仅此而已。你想太多了。
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.1096} 你本可以和他们联手对抗艺术电影，知道吗。
+{Dialogs2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_Immortell_DidNothing.13707} 你把致命瘟疫叫作“时髦病”，真够犬儒的。

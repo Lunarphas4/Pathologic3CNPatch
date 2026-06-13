@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_NoEscape.Name} 时不我待
+{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_NoEscape.Description} 已无可逃。我没把准备做足。再迟便彻底无望。

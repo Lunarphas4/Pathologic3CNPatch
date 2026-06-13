@@ -1,0 +1,3 @@
+{Clouds2.FlavorNew.Outdoor.Cemetery.Cloud_Cemetery_Carts.44925} 如果瘟疫结束，这些车也得烧掉
+{Clouds2.FlavorNew.Outdoor.Cemetery.Cloud_Cemetery_Carts.10340} 如果瘟疫结束，这些车也得烧掉
+{Clouds2.FlavorNew.Outdoor.Cemetery.Cloud_Cemetery_Carts.56689} 它们会被尸体的瘴气浸透到那种程度

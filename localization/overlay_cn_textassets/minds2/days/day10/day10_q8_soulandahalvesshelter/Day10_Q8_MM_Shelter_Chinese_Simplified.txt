@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Shelter.Name} 无日不工
+{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Shelter.Description} 他们求我证明这栋屋子可供孩子们安全居住。

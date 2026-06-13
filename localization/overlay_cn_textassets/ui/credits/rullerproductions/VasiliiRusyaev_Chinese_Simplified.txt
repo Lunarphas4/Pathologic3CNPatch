@@ -1,0 +1,2 @@
+{UI.Credits.RullerProductions.VasiliiRusyaev.Name} Vasilii Rusyaev
+{UI.Credits.RullerProductions.VasiliiRusyaev.Description} 3D 动画师

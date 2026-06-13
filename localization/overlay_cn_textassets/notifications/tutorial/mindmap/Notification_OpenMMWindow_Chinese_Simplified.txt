@@ -1,0 +1,2 @@
+{Notifications.Tutorial.MindMap.Notification_OpenMMWindow.Name} 按 <InputActions/UI/Mind> 查看想法图
+{Notifications.Tutorial.MindMap.Notification_OpenMMWindow.Description} 按 <InputActions/UI/Mind> 查看想法图

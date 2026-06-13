@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day8.Day8_Q5.1_VladTheTable.Day8_Q5.1_Horns.Name} 熔炉
+{QuestMarkers.Days.Day8.Day8_Q5.1_VladTheTable.Day8_Q5.1_Horns.Description} 被救下的小弗拉德应该在玛丽亚的侧翼，在熔炉

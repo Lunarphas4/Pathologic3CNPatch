@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_Hunger.Name} 饥饿
+{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_Hunger.Description} 本地居民偷走并吃掉了那头染病的公牛。看来全镇的局面已彻底处于悬崖边。

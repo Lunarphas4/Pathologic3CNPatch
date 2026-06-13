@@ -1,0 +1,2 @@
+﻿{ArchiveDialogs.Day1.Eva_Morning_12.2738} 给你，丹科夫斯基，编号12的一条信息。
+{ArchiveDialogs.Day1.Eva_Morning_12.15748} 谢谢你，小伊娃。

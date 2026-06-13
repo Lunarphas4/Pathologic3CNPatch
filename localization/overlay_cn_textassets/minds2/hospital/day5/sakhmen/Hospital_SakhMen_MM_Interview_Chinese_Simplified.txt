@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day5.SakhMen.Hospital_SakhMen_MM_Interview.Name} 问诊结果
+{Minds2.Hospital.Day5.SakhMen.Hospital_SakhMen_MM_Interview.Description} 她似乎在抱怨头痛和头晕，但我可能听错了——她说话含混不清。我需要检查她。

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day12.Day12_Q18_RatWatson.Day12_Q18_Cemetery_Prophet.Name} 墓园
+{QuestMarkers.Days.Day12.Day12_Q18_RatWatson.Day12_Q18_Cemetery_Prophet.Description} 我已学会铭记。在这里我能找到那位助人遗忘者。

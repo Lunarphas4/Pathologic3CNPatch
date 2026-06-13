@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_4_MM_NeedAnalysis.Name} 家中实验室
+{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_4_MM_NeedAnalysis.Description} 我已把感染一事告诉萨布罗夫，但霉斑化验结果尚未递交。最好抓紧。

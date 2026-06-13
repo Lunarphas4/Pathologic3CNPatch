@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_3_MM_Escape.Name} 戈尔洪
+{Minds2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_3_MM_Escape.Description} 我逃出了这镇。

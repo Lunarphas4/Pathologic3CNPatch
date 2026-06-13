@@ -1,0 +1,2 @@
+{Locations.Hollywood.Name} ⁠
+{Locations.Hollywood.Description} ⁠

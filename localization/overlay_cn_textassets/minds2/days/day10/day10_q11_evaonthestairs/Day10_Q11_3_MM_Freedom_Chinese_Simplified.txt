@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_3_MM_Freedom.Name} 自由
+{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_3_MM_Freedom.Description} 伊娃做囚徒已经太久——这镇的、静水观星台的……我的。是放她走的时候了。

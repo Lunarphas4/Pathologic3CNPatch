@@ -1,0 +1,3 @@
+{Npcs.Mailman.Name} 邮差
+{Npcs.Mailman.FullName} ⁠
+{Npcs.Mailman.Description} ⁠

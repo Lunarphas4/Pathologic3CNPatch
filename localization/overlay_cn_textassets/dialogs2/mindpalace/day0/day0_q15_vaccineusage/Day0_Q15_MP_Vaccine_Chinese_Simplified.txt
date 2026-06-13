@@ -1,0 +1,17 @@
+{Dialogs2.MindPalace.Day0.Day0_Q15_VaccineUsage.Day0_Q15_MP_Vaccine.33744} ⁠
+{Dialogs2.MindPalace.Day0.Day0_Q15_VaccineUsage.Day0_Q15_MP_Vaccine.31320} 这只小瓶里装着一种万能疫苗
+{Dialogs2.MindPalace.Day0.Day0_Q15_VaccineUsage.Day0_Q15_MP_Vaccine.46810} ⁠
+{Dialogs2.MindPalace.Day0.Day0_Q15_VaccineUsage.Day0_Q15_MP_Vaccine.55714} 斯塔赫·鲁宾用银色细胞调配出了它……
+{Dialogs2.MindPalace.Day0.Day0_Q15_VaccineUsage.Day0_Q15_MP_Vaccine.18925} ⁠
+{Dialogs2.MindPalace.Day0.Day0_Q15_VaccineUsage.Day0_Q15_MP_Vaccine.41236} 这里面盛着永恒的一秒
+{Dialogs2.MindPalace.Day0.Day0_Q15_VaccineUsage.Day0_Q15_MP_Vaccine.65132} ⁠
+{Dialogs2.MindPalace.Day0.Day0_Q15_VaccineUsage.Day0_Q15_MP_Vaccine.31687} ……那些细胞中含有液态时间
+{Dialogs2.MindPalace.Day0.Day0_Q15_VaccineUsage.Day0_Q15_MP_Vaccine.64432} 听起来像疯话
+{Dialogs2.MindPalace.Day0.Day0_Q15_VaccineUsage.Day0_Q15_MP_Vaccine.33247} 我已经准备好服用了
+{Dialogs2.MindPalace.Day0.Day0_Q15_VaccineUsage.Day0_Q15_MP_Vaccine.24567} ⁠
+{Dialogs2.MindPalace.Day0.Day0_Q15_VaccineUsage.Day0_Q15_MP_Vaccine.55908} 我全部的时间都会恢复——但只有一次
+{Dialogs2.MindPalace.Day0.Day0_Q15_VaccineUsage.Day0_Q15_MP_Vaccine.47267} ⁠
+{Dialogs2.MindPalace.Day0.Day0_Q15_VaccineUsage.Day0_Q15_MP_Vaccine.29801} 我要服用疫苗
+{Dialogs2.MindPalace.Day0.Day0_Q15_VaccineUsage.Day0_Q15_MP_Vaccine.12485} 破碎的容器会被修复
+{Dialogs2.MindPalace.Day0.Day0_Q15_VaccineUsage.Day0_Q15_MP_Vaccine.60214} 现在是合适的时刻吗？
+{Dialogs2.MindPalace.Day0.Day0_Q15_VaccineUsage.Day0_Q15_MP_Vaccine.16610} 它的时机尚未到来

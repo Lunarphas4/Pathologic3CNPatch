@@ -1,0 +1,3 @@
+{Npcs.Old.visitor_Burevestnik.Name} ⁠
+{Npcs.Old.visitor_Burevestnik.FullName} ⁠
+{Npcs.Old.visitor_Burevestnik.Description} ⁠

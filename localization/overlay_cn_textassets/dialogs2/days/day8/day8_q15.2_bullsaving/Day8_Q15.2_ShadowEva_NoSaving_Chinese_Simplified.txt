@@ -1,0 +1,5 @@
+{Dialogs2.Days.Day8.Day8_Q15.2_BullSaving.Day8_Q15.2_ShadowEva_NoSaving.27045} 我知道你在想什么。你在想怎样救下公牛，让它明天不被偷走。没有伊娃，你根本救不了公牛。
+{Dialogs2.Days.Day8.Day8_Q15.2_BullSaving.Day8_Q15.2_ShadowEva_NoSaving.15630} 没有伊娃，我谁也救不了。连自己也救不了。
+{Dialogs2.Days.Day8.Day8_Q15.2_BullSaving.Day8_Q15.2_ShadowEva_NoSaving.16037} 我不想连巴乔也失去。
+{Dialogs2.Days.Day8.Day8_Q15.2_BullSaving.Day8_Q15.2_ShadowEva_NoSaving.17764} 胡说，完全不是。要说的话，没有公牛也许反而更好。能多一点喘息的空间。
+{Dialogs2.Days.Day8.Day8_Q15.2_BullSaving.Day8_Q15.2_ShadowEva_NoSaving.43441} 如果我今天救了公牛，明天就会失去观察那些吃掉它的人的机会。那也可能有用。也许吧。

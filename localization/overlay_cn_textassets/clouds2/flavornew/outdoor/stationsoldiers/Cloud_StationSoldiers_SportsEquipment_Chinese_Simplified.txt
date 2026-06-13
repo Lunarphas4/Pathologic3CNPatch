@@ -1,0 +1,4 @@
+{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_SportsEquipment.44925} 士兵在为他们熟悉的敌人做准备
+{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_SportsEquipment.10340} 士兵在为他们熟悉的敌人做准备
+{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_SportsEquipment.56689} 肌肉和步枪能对瘟疫有什么用？
+{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_SportsEquipment.61752} 除非是用来对付染疫的市民

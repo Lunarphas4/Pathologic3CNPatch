@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q14_ExtraditionOfRubin.Day5_Q14_MM_RubinBetrayed.Name} 必须如此
+{Minds2.Days.Day5.Day5_Q14_ExtraditionOfRubin.Day5_Q14_MM_RubinBetrayed.Description} 我举报了鲁宾的罪行。

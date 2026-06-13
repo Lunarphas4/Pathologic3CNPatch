@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_1_MM_SturmUndDrang.Name} 强攻
+{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_1_MM_SturmUndDrang.Description} 士兵正准备强攻多面体。这是非常、非常、非常糟糕的主意！我得先估一估局势。

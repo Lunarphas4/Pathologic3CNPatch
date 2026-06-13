@@ -1,0 +1,2 @@
+{UI.Credits.Art.PavelFedorchuk.Name} Pavel „GoldenGrifon” Fedorchuk
+{UI.Credits.Art.PavelFedorchuk.Description} 轮廓塑造师

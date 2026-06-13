@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_QuickSlotTutorial.Name} 四个口袋
+{Notifications.Tutorial.Notification_QuickSlotTutorial.Description} 消耗品最好放在这里。在每个口袋间 <InputActions/Inventory/NextSlot>/<InputActions/Inventory/PrevSlot> 切换，可快速 <InputActions/Inventory/UseSelectedSlot> 使用物品。

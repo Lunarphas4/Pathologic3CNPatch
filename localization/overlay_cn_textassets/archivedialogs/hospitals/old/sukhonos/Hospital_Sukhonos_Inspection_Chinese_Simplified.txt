@@ -1,0 +1,4 @@
+{ArchiveDialogs.Hospitals.Old.Sukhonos.Hospital_Sukhonos_Inspection.13702} 能不能先给我点什么药片？我实在撑不住了。
+{ArchiveDialogs.Hospitals.Old.Sukhonos.Hospital_Sukhonos_Inspection.3209} 你知道自己需要治哪种病的药片吗？我还不知道。
+{ArchiveDialogs.Hospitals.Old.Sukhonos.Hospital_Sukhonos_Inspection.10213} 一切按顺序来，现在先请接受检查。脱衣服！
+{ArchiveDialogs.Hospitals.Old.Sukhonos.Hospital_Sukhonos_Inspection.12838} 不用教我怎么做自己的事。先做分析——我要从你身上取样。

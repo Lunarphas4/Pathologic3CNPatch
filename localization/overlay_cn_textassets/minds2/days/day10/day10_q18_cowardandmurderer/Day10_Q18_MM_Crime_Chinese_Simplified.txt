@@ -1,0 +1,2 @@
+{Minds2.Days.Day10.Day10_Q18_CowardAndMurderer.Day10_Q18_MM_Crime.Name} 滔天罪行
+{Minds2.Days.Day10.Day10_Q18_CowardAndMurderer.Day10_Q18_MM_Crime.Description} 凯恩家的继承人遭暗算倒下了。这种事不常见。他的对头住在仓库——我去问问他。

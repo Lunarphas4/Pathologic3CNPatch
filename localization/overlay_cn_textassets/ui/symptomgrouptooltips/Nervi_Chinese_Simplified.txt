@@ -1,0 +1,2 @@
+{UI.SymptomGroupTooltips.Nervi.Name} 脊髓液样本
+{UI.SymptomGroupTooltips.Nervi.Description} 通过穿刺脊柱腰部区域获取的脊髓液样本，用于检测中枢神经系统感染和恶性肿瘤。

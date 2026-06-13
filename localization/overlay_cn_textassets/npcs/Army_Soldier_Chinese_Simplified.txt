@@ -1,0 +1,3 @@
+{Npcs.Army_Soldier.Name} 士兵
+{Npcs.Army_Soldier.FullName} ⁠
+{Npcs.Army_Soldier.Description} ⁠

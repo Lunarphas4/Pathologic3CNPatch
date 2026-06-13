@@ -1,0 +1,2 @@
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PartTwo_MM_TwoDiagnoses.Name} 非为医者，实乃侦探
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PartTwo_MM_TwoDiagnoses.Description} 两名患者移交助手。第三人棘手得很，需稍加调查才能确诊。

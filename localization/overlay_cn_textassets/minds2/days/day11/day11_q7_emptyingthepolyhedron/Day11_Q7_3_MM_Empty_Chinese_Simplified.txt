@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_3_MM_Empty.Name} 弃塔
+{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_3_MM_Empty.Description} 多面体当真清空了？亲眼所见之前——难以相信。

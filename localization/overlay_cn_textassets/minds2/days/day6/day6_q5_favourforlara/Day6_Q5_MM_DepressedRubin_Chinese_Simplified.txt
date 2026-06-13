@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q5_FavourForLara.Day6_Q5_MM_DepressedRubin.Name} 失志之罪
+{Minds2.Days.Day6.Day6_Q5_FavourForLara.Day6_Q5_MM_DepressedRubin.Description} 鲁宾自从去凯恩家走了一趟便意志消沉，需要人开解。

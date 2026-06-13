@@ -1,0 +1,3 @@
+{Projectors.Weather.Weather_Clear_Morning.25936} ⁠
+{Projectors.Weather.Weather_Clear_Morning.26831} 晴朗的早晨
+{Projectors.Weather.Weather_Clear_Morning.15259} 多么好的一个早晨啊...

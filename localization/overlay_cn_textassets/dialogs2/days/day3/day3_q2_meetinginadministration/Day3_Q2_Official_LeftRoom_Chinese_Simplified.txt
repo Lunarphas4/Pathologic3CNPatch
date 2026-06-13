@@ -1,0 +1,13 @@
+{Dialogs2.Days.Day3.Day3_Q2_MeetingInAdministration.Day3_Q2_Official_LeftRoom.11985} 您好！您有预约吗？
+{Dialogs2.Days.Day3.Day3_Q2_MeetingInAdministration.Day3_Q2_Official_LeftRoom.10298} 我听说这里在集会。
+{Dialogs2.Days.Day3.Day3_Q2_MeetingInAdministration.Day3_Q2_Official_LeftRoom.13074} 哦……不，不，不。不可能。这里附近禁止集会。
+{Dialogs2.Days.Day3.Day3_Q2_MeetingInAdministration.Day3_Q2_Official_LeftRoom.20312} 我说有集会！就在这栋楼里！
+{Dialogs2.Days.Day3.Day3_Q2_MeetingInAdministration.Day3_Q2_Official_LeftRoom.24171} 你认真的？半座镇都在喊，说有人在这里等我。
+{Dialogs2.Days.Day3.Day3_Q2_MeetingInAdministration.Day3_Q2_Official_LeftRoom.31503} 这是本地政治问题吗？
+{Dialogs2.Days.Day3.Day3_Q2_MeetingInAdministration.Day3_Q2_Official_LeftRoom.24595} 自然是瘟疫的问题。任何形式的聚集都被禁止。
+{Dialogs2.Days.Day3.Day3_Q2_MeetingInAdministration.Day3_Q2_Official_LeftRoom.16145} 这个集会就是关于瘟疫的！
+{Dialogs2.Days.Day3.Day3_Q2_MeetingInAdministration.Day3_Q2_Official_LeftRoom.22578} 这玩笑吗？我是医生。
+{Dialogs2.Days.Day3.Day3_Q2_MeetingInAdministration.Day3_Q2_Official_LeftRoom.11018} 啊，那请进！进去以后往左。他们已经等你一个小时了。
+{Dialogs2.Days.Day3.Day3_Q2_MeetingInAdministration.Day3_Q2_Official_LeftRoom.7010} 谢谢。
+{Dialogs2.Days.Day3.Day3_Q2_MeetingInAdministration.Day3_Q2_Official_LeftRoom.42663} ……你一定是在开玩笑。
+{Dialogs2.Days.Day3.Day3_Q2_MeetingInAdministration.Day3_Q2_Official_LeftRoom.21892} 这里发生什么事？听起来像某种集会。

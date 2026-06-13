@@ -1,0 +1,2 @@
+{Notifications.Notification_ShabnackIsDead.Name} Shabnak（泥魔女）退却
+{Notifications.Notification_ShabnackIsDead.Description} 今日你已制伏了她。这镇正从瘟疫中恢复。她在别的日子里等着你——下次会更强。

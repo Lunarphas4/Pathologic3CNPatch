@@ -1,0 +1,29 @@
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.1761} 把你那些花束拿远点！我说了，我们是用柴换药。你那些灌木看着比药更像柴火。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.3868} 灌木？你认真的吗？这是twyre（特维草）。你住在戈尔洪河边，居然不知道twyre（特维草）？你妈从没拿这个给你治过病吗？
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.8450} 对不起，女士，可巡逻员说得没错。twyre（特维草）不在我们拿来换柴火的药品清单上。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.18818} 什么清单？我都说了，这是twyre（特维草）！我一辈子都在用。退烧、失眠，连刀伤它都管用！
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.11113} 最后那一条能详细说说吗？twyre（特维草）怎么治刀伤？
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.3056} 你们这些年轻人现在什么都不懂。拿水泡开，敷在伤口上。到了明天，你就会像山羊一样活蹦乱跳。Boddho（大地母亲）会眷顾忠于自然的人。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.12073} 能不能在不变得像山羊那样活蹦乱跳的情况下治好？谢谢，我还是想当个人。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.20656} 你该不会接下来要告诉我，你这twyre（特维草）连瘟疫都能治吧？
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.19927} 它什么都能治——瘟疫、癔症，全都行。决定的是 Boddho（大地母亲）。我们能做的只有求她。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.24942} 能不能请你替我向 Boddho（大地母亲）求求情？
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.6169} 我明白了。病入膏肓。我就不插手了。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.23576} 哎呀，就给她一点柴火吧。你看不出她是走投无路了吗？难道你觉得她把这些“灌木”拿来，是因为家里东西多得没处送？
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.10822} 对啊，我倒忘了问问你该怎么干我的活了！到处都是高人！你有意见就去市政厅投诉，别在这儿烦我。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.5179} 我其实刚从市政厅过来。你真认不出我？
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.17673} 认人不是我的活儿。我的活儿简单：收粉末，发柴火。你有药吗？要柴火吗？那就排队去。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.8573} Humanitatis optima est certatio（仁爱，是最好的较量。）
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.10030} 啥？你是草原来的不成？看着也不像。说人话——你那套胡言乱语我听不懂。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.15627} 我明白了。跟你说话，跟一堆柴火说话……其实也差不多。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.22888} Ignorantia non est argumentum（无知不是论据。）
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.6441} 我一棍子敲你脑袋上，也一样能全身而退，听见没有？
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.1442} Noli mordere manum quae te alit（别咬喂养你的手。）
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.8684} 我有枪。你想看看吗？
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.4788} 试试看。看你能走多远。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.13326} 啊，该死……原来是您，是那个接管了市政厅的医生。抱歉，先生，我一开始没认出您。您也看到了，今天实在太难熬了。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.23024} 这还差不多。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.12511} 学学你的拉丁文吧，老兄。要不然你这辈子都只能管木头了。不过照咱们这番对话看，我某种意义上也在管木头。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.9966} 我明白。看来你都安排妥当了。我不插手。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.5574} 看来你是铁了心要把人逼到绝望。你就不怕暴动？
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_VigilanteAngry.5473} 害怕不是我的活儿。我的活儿简单：收粉末，发柴火。你有药吗？要柴火吗？那就排队去。

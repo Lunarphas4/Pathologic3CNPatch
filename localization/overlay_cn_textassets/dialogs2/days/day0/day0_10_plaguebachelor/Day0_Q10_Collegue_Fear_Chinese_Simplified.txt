@@ -1,0 +1,17 @@
+﻿{Dialogs2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Collegue_Fear.29899} 谢谢您，医生。一开始他还很平静，后来突然就发狂了。喊着不许我们碰他，不许靠近——他咳得很厉害……
+{Dialogs2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Collegue_Fear.61348} 攻击性发作？
+{Dialogs2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Collegue_Fear.47120} 我跟您说当时是怎么回事。一个人跌跌撞撞地闯进来，浑身发抖，几乎站不住。想告诉我什么，可连两句话都拼不起来。\n\n我翻开登记簿，想看看哪位医生离得近，好去找人，结果他已经往别处去了！我追上去。然后他……直奔停尸间，像是故意的一样，而且走得特别笃定！就像知道该往哪儿拐……偏偏是在我们这些走廊里！
+{Dialogs2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Collegue_Fear.9547} 这么说，他熟悉研究所的路？
+{Dialogs2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Collegue_Fear.20517} 看起来是……总之，丹科夫斯基医生，他就在这里面某处——停尸间里。我以防万一，把门在他身后关上了。\n\n我不知道您会需要什么，不过柜子里应该有药。要我做什么，我就在这儿。
+{Dialogs2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Collegue_Fear.45704} 谢谢。比起某些头衔齐全的同僚，你倒更有几分医者的精神。
+{Dialogs2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Collegue_Fear.23317} 啊。我差点还真以为有人替我安排了逃脱。
+{Dialogs2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Collegue_Fear.29687} 又一次——在研究所停尸间的角落里找病人……
+{Dialogs2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Collegue_Fear.55462} 那么，他到底是站都站不稳，还是走得很笃定？
+{Dialogs2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Collegue_Fear.54419} 他是一阵一阵的，您明白吧。前一刻快摔倒了，下一刻又跑起来。总之，丹科夫斯基医生，他就在这里面某处——停尸间里。我以防万一，把门在他身后关上了。\n\n我不知道您会需要什么，不过柜子里应该有药。要我做什么，我就在这儿。
+{Dialogs2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Collegue_Fear.8172} 不用介意。按你的描述，他当时并不是有意识行动。
+{Dialogs2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Collegue_Fear.2129} 您更懂，医生……总之，丹科夫斯基医生，他就在这里面某处——停尸间里。我以防万一，把门在他身后关上了。\n\n我不知道您会需要什么，不过柜子里应该有药。要我做什么，我就在这儿。
+{Dialogs2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Collegue_Fear.29071} 从头开始。性别，估计年龄？
+{Dialogs2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Collegue_Fear.55531} 我不知道……听声音，像是男的。
+{Dialogs2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Collegue_Fear.15051} “你不知道”是什么意思？你分不出男人和女人？
+{Dialogs2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Collegue_Fear.24127} 他裹着一身破布。布上浸了什么东西，味道很冲……我跟您说当时是怎么回事。一个人跌跌撞撞地闯进来，浑身发抖，几乎站不住。想告诉我什么，可连两句话都拼不起来。\n\n我翻开登记簿，想看看哪位医生离得近，好去找人，结果他已经往别处去了！我追上去。然后他……直奔停尸间，像是故意的一样，而且走得特别笃定！就像知道该往哪儿拐……偏偏是在我们这些走廊里！
+{Dialogs2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Collegue_Fear.29326} 你为什么把我带到停尸间？

@@ -1,0 +1,4 @@
+{Clouds2.Hospital.old.Chernysh.Cloud_Chernysh_Tools.1283} 皮革、化学品、工具。一眼就看出是手艺人。
+{Clouds2.Hospital.old.Chernysh.Cloud_Chernysh_Tools.817} 皮革、化学品、工具。一眼就看出是手艺人。
+{Clouds2.Hospital.old.Chernysh.Cloud_Chernysh_Tools.28194} 不能排除中毒。
+{Clouds2.Hospital.old.Chernysh.Cloud_Chernysh_Tools.24260} 完全没有安全措施！

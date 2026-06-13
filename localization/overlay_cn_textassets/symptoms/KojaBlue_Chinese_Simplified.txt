@@ -1,0 +1,2 @@
+{Symptoms.KojaBlue.Name} 皮肤发青
+{Symptoms.KojaBlue.Description} 皮肤呈青蓝色，通常与血液缺氧或循环障碍有关。

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day10.Day10_Q3_BlockKilled.Day10_Q3_TownHall.Name} 市政厅
+{QuestMarkers.Days.Day10.Day10_Q3_BlockKilled.Day10_Q3_TownHall.Description} 布洛克将军刚到没多久就被杀。这镇受了诅咒。

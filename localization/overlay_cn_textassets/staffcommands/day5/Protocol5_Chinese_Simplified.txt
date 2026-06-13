@@ -1,0 +1,2 @@
+{StaffCommands.Day5.Protocol5.Name} 第 5 号方案
+{StaffCommands.Day5.Protocol5.Description} 让民众接种应急指挥部的实验药剂。

@@ -1,0 +1,1 @@
+{UI.Credits.Localization.NathanKlausner.Name} Nathan Klausner

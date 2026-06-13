@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Hideout_Alive.Name} 鲁兵的藏身处
+{QuestMarkers.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Hideout_Alive.Description} 不起眼的锅炉房……住着一位不易寻获的客人！

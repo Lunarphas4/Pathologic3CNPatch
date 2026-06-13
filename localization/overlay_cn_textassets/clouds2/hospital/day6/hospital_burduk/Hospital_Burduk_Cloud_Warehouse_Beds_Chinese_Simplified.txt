@@ -1,0 +1,5 @@
+{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Warehouse_Beds.49522} 睡在一个房间里，像兵营里的士兵
+{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Warehouse_Beds.48048} 睡在一个房间里，像兵营里的士兵
+{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Warehouse_Beds.21686} 或者像孤儿院里的孤儿
+{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Warehouse_Beds.23098} 拥挤，持续接触
+{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Warehouse_Beds.27476} 传播感染的绝佳环境

@@ -1,0 +1,3 @@
+{ArchiveDialogs.Hospitals.Hospital_Mirosya.Hospital_Mirosya_Inspection.16523} 医生！
+{ArchiveDialogs.Hospitals.Hospital_Mirosya.Hospital_Mirosya_Inspection.14299} 等会儿，等会儿。
+{ArchiveDialogs.Hospitals.Hospital_Mirosya.Hospital_Mirosya_Inspection.15827} 去做检查吧。

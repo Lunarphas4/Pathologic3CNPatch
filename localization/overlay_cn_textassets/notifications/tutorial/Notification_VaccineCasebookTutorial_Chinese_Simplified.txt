@@ -1,0 +1,2 @@
+{Notifications.Tutorial.Notification_VaccineCasebookTutorial.Name} ⁠
+{Notifications.Tutorial.Notification_VaccineCasebookTutorial.Description} ⁠

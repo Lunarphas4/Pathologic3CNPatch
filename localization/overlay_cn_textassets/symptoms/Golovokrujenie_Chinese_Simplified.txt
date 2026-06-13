@@ -1,0 +1,2 @@
+{Symptoms.Golovokrujenie.Name} 头晕
+{Symptoms.Golovokrujenie.Description} 平衡感或空间感异常，可能伴随站立不稳、恶心或虚弱。

@@ -1,0 +1,2 @@
+﻿{ArchiveDialogs.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Citizens2_Danger.22731} 你觉得我的胡子怎么样？
+{ArchiveDialogs.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Citizens2_Danger.8387} 漂亮极了！不过你最好离开，不然可能连它们都保不住。

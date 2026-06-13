@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q10_Switchman.Day7_Q10_MM_Switches.Name} 阻碍
+{Minds2.Days.Day7.Day7_Q10_Switchman.Day7_Q10_MM_Switches.Description} 眼下扳道指向死路。要逃，得先换道。

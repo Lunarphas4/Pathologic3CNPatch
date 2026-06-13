@@ -1,0 +1,2 @@
+{PersonalFiles.Chernysh.Name} 切尔内什
+{PersonalFiles.Chernysh.Description} 传闻曾倒卖受感染货物。

@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_CasebookSymptomsTutorial.Name} 症状选择
+{Notifications.Tutorial.Notification_CasebookSymptomsTutorial.Description} 症状有助于我诊断病人。在病例本中标出某个症状后，便可就此追问。因此把所有主诉——哪怕可疑——都标上是合理的。之后再撤下标记即可。

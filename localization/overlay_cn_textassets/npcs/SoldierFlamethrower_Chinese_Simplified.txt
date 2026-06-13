@@ -1,0 +1,3 @@
+{Npcs.SoldierFlamethrower.Name} 喷火兵
+{Npcs.SoldierFlamethrower.FullName} ⁠
+{Npcs.SoldierFlamethrower.Description} ⁠

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q10_GriefStealsRations.Day9_Q10_MM_Vigilantes.Name} 义勇队
+{Minds2.Days.Day9.Day9_Q10_GriefStealsRations.Day9_Q10_MM_Vigilantes.Description} 我派出义勇队加强对粮食的看守。

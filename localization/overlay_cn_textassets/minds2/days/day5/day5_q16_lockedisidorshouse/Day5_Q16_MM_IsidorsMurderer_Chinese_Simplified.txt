@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_MM_IsidorsMurderer.Name} 追逐
+{Minds2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_MM_IsidorsMurderer.Description} 有人在第二天见过伊西多的凶手，但线索早已冷却。我抓不到他。

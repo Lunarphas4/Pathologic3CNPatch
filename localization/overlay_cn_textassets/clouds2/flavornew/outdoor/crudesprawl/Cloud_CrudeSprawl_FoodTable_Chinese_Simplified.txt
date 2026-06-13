@@ -1,0 +1,5 @@
+{Clouds2.FlavorNew.Outdoor.CrudeSprawl.Cloud_CrudeSprawl_FoodTable.44925} 人们为罐头而工作
+{Clouds2.FlavorNew.Outdoor.CrudeSprawl.Cloud_CrudeSprawl_FoodTable.10340} 人们为罐头而工作
+{Clouds2.FlavorNew.Outdoor.CrudeSprawl.Cloud_CrudeSprawl_FoodTable.35503} 又以罐头为食
+{Clouds2.FlavorNew.Outdoor.CrudeSprawl.Cloud_CrudeSprawl_FoodTable.56689} 至于死后被烧掉的人……
+{Clouds2.FlavorNew.Outdoor.CrudeSprawl.Cloud_CrudeSprawl_FoodTable.61752} ……正好能装进罐头盒里

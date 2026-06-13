@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_NeitherYouSimon.Name} 受益人
+{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_NeitherYouSimon.Description} 多面体是凯恩家下令建造的。除了格奥尔基，还有谁能助我揭开它的谜？

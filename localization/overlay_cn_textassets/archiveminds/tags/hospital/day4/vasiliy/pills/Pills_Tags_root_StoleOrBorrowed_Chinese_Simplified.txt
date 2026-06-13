@@ -1,0 +1,2 @@
+{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.Pills.Pills_Tags_root_StoleOrBorrowed.Name} ⁠
+{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.Pills.Pills_Tags_root_StoleOrBorrowed.Description} 不是偷来的，就是借来的。

@@ -1,0 +1,2 @@
+﻿{CraftRecipes.Stimulant_CraftRecipe.Name} 兴奋剂
+{CraftRecipes.Stimulant_CraftRecipe.Description} 增加躁狂

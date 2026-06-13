@@ -1,0 +1,3 @@
+{Items.Days.Day2.Day2_Q5.2_BeforeIsidorFuneral.Day2_Q5.2_IsidorSample_Analyser.Name} 伊西多尔的样本（已检查）
+{Items.Days.Day2.Day2_Q5.2_BeforeIsidorFuneral.Day2_Q5.2_IsidorSample_Analyser.Description} 带有感染痕迹的伊西多尔血样。
+{Items.Days.Day2.Day2_Q5.2_BeforeIsidorFuneral.Day2_Q5.2_IsidorSample_Analyser.Description2} 伊西多尔的血液中含有沙疫痕迹。这意味着他比镇上任何人都更早染病。倒也并不意外。

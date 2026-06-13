@@ -1,0 +1,2 @@
+{Symptoms.VeniPorajenie.Name} 静脉损害
+{Symptoms.VeniPorajenie.Description} 手臂和腿部静脉因曲张或变暗等原因透过皮肤清晰可见。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q1.1_GrifsTip.Day4_Q1_1_MM_Figure.Name} 神秘人影
+{Minds2.Days.Day4.Day4_Q1.1_GrifsTip.Day4_Q1_1_MM_Figure.Description} 本地人被一位来自帝都的女士吓到。她在调查镇上的种种异象，或许对西蒙的事知道得更多。有人在酒馆见过她。

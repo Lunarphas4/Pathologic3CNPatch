@@ -1,0 +1,4 @@
+{Clouds2.FlavorNew.Outdoor.Station.Cloud_Station_Reinforcement.44925} 也许另一只手该给左轮配根铁棍
+{Clouds2.FlavorNew.Outdoor.Station.Cloud_Station_Reinforcement.10340} 也许另一只手该给左轮配根铁棍
+{Clouds2.FlavorNew.Outdoor.Station.Cloud_Station_Reinforcement.56689} 人人都懂，永不空膛，也不会哑火
+{Clouds2.FlavorNew.Outdoor.Station.Cloud_Station_Reinforcement.61752} 匪徒会立刻笑死

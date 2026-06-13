@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Hospital.Name} 医院
+{QuestMarkers.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Hospital.Description} 镇上的混乱并不能取消每日的本分：病人、诊断、接种。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q2_MM_GoToAdministration.Name} 市政厅集会
+{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q2_MM_GoToAdministration.Description} 镇上的统治者正在市政厅等我。

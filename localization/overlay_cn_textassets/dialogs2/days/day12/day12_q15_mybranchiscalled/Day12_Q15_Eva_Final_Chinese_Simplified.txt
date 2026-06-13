@@ -1,0 +1,22 @@
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.40535} 临别时我不知道还能对你说什么。所有重要的话，我们早已说过了。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.49565} 如果我没有救下多面体，会发生什么？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.23192} 它会倒塌，发出像某人的脊椎断裂一样的声音。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.54446} 不，我是说——你会怎么样？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.13155} 我会哀悼西蒙和他的孩子们。然后我想，我会用一生去反复读他们留下的笔记。我自己造不出什么——就只能试着依附那些能造的人。也许我会到河那边去。   但更可能的是——我会继续坐在窗边，等着某个并不存在的东西。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.34571} 我要走了。你想跟我一起走吗？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.12880} 不。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.41521} 就一句“不”？没有解释？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.46345} 是。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.59747} 这座小镇让我遇见的所有人里，你是最重要的那个。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.59089} 你对我也是。   所以我不想再说下去了。等沙疫过去、你也离开之后，我会怎样挑长袜，又怎样寻找朋友——你真的会在意吗？那会是另一个我了。现在这个我，只想记住你的脸。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.56364} 我觉得我在这里把一切都做错了。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.13906} 你甚至不知道自己是什么样的人。你不是人，你是一把刀。你的每一步都直直切开了这座小镇。   我没有看着你工作，可我常常听见。连你的笔迹都是一把刀。每个决定——都在切除不需要的东西。你站起来时也总是那么锋利，仿佛马上就要奔跑，哪怕你只是要去睡觉。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.9107} 你也不是人。你是音乐。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.24785} 我们再也不会见面了。永别了，丹尼尔。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.55917} 永别了。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.45650} 伊娃，我爱——
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.63231} 你也不是人。你是矿井里的金丝雀。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.62399} 而你，伊娃，是人。正是那种值得为她击败死亡的人。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.40767} 我一直是个自私的房客。对不起。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.40555} 你的雀斑颜色真浅。只有金发人才会有这样的雀斑。红发人的要更亮些。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Eva_Final.6314} 我不确定自己能救下它。

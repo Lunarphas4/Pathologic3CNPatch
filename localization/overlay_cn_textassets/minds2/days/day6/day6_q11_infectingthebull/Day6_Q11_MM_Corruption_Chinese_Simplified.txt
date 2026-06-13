@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_Corruption.Name} 发牛一头
+{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_Corruption.Description} 我动用职权，花了指挥部的资源。现在他们必须给我送一头牛过来。可以让它染病了！

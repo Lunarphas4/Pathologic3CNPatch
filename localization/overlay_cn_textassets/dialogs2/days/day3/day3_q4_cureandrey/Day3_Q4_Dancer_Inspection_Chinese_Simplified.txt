@@ -1,0 +1,24 @@
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.13612} 你现在又想要什么，erdem（学者）？
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.8592} 只是想问你几个关于我在你身体上看到的东西的问题。
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.498} 我不是 menkhu，erdem（学者）。我只懂大地的身体。人的身体，我不懂。我能告诉你什么？
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.32488} 但你至少知道一些自己身体的事。告诉我，你的心只是跳舞后才那样跳，还是一直如此？
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.64642} 我的 zyrkhen（心），我这颗任性的心，如今总像跳过舞一样跳着。从不在它该在的位置，总想跳出来，拥抱它所爱的人。
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.55455} 我不确定这和爱有关。脉搏过快是多种疾病的常见症状。
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.39917} 我不知道你为什么问这些问题……但如果是安德烈-akhai（兄长）让你来的，那就该如此。
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.27667} 明白。我们继续。
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.56286} 你的背怎么了？皮肤发炎，有抓痕。是皮疹，还是某种痤疮……
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.19099} 我的背在烧，erdem（学者）。烧得厉害，有时我会抓到流血。只有冷的东西能让它安静。
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.27195} 你能想起自己是否被昆虫咬过吗？
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.20148} 想不起。秋天里，谁能想起？有很多小虫嗡嗡飞，tiime olon……但小虫咬了，第二天就会好。我的背只是越烧越厉害。
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.3045} 不过昆虫可能携带感染……是的，这是最现实的假设。
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.48341} 那么你有皮肤症状。好，我离诊断只差一步了。
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.46347} 我注意到你有一些皮肤症状，但还没记录下来……不记下的话，我可能会忘掉什么，这很关键。给我一点时间，然后我们再继续谈。
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.54007} 我知道。镇上的重要人物总在写字。就像金族人的重要人物书写符记。
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.35247} 我需要把在你身上发现的症状写进病历簿。
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.31215} 做你该做的事，erdem（学者）。
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.10372} 我会回来。请等我一会儿。
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.4973} 我需要再想一会儿你的病例……
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.26469} 我相信自己终于可以作出诊断了。
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.3466} 让我再看你一眼，确认没有漏掉什么。
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.38067} 没什么了。剩下的只是完成诊断。
+{Dialogs2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Dancer_Inspection.60140} 没什么了。我去告诉安德烈，他还没有……完全把握你的健康状况。

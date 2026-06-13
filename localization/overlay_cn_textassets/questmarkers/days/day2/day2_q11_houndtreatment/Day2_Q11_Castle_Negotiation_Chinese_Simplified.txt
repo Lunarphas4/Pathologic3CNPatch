@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_Castle_Negotiation.Name} 一魂半族要塞
+{QuestMarkers.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_Castle_Negotiation.Description} 孩童帮派想要谈判，并请我做仲裁。他们不会一直等下去。

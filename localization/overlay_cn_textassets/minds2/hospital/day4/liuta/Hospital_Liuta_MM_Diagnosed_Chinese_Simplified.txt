@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day4.Liuta.Hospital_Liuta_MM_Diagnosed.Name} 确认诊断
+{Minds2.Hospital.Day4.Liuta.Hospital_Liuta_MM_Diagnosed.Description} 我可以把卢塔交给助手照看，去看下一位病人了。

@@ -1,0 +1,14 @@
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Odong_TakesTheBody.63320} Sayn baina，客人。你在糟糕的日子来到 Shekhen；这里无人欢迎你，无人给你看我们的生活。我也不能，因为我有自己的 üüreg（职责）——我是来取 menkhu Burakh 的遗体的。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Odong_TakesTheBody.45845} 把它送去墓园？现在？
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Odong_TakesTheBody.64709} 正是如此。时候到了。老尼尔古伊要是能做主，非得把尸体裹上三遍、每遍再多裹三倍长。可时间不够。绷带也不够。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Odong_TakesTheBody.32229} 我听见你带刺的话了，Muunokhoy，还有你沉重的脚步。你把所有公牛都吓跑了，它们逃进了草原。你去把它们赶回来时，我再缠一层绷带。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Odong_TakesTheBody.36889} 你有整整一夜，zandanshuulagch。你已经向 menkhu 致过敬，现在该把他放进土里了。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Odong_TakesTheBody.15505} 蛇人妨碍了我。本可以做得更好。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Odong_TakesTheBody.13410} 等等！我需要检查布拉赫的遗体！我是他的同僚。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Odong_TakesTheBody.3103} 你也有整整一夜，mogoy khün（蛇人）。现在该把 menkhu 放入土中了。你可以去向他告别。除此之外，什么也不必做。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Odong_TakesTheBody.48016} 带走遗体，Muunokhoy。我累了。该睡了。不久以后，我自己也要入土。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Odong_TakesTheBody.4125} 我什么都没来得及做……为什么我来得这么迟！
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Odong_TakesTheBody.58147} 好吧。至少最重要的事，基本上我已经做成了。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Odong_TakesTheBody.5325} 我死时，将在事业半途得到解脱。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Odong_TakesTheBody.55966} 我？妨碍？绝不！
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Odong_TakesTheBody.61896} 防腐师没有正确包裹布拉赫；大地不会接纳他。他必须重新包裹！

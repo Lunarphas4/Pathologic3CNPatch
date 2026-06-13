@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_Diagnosed.Name} 确认诊断
+{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_Diagnosed.Description} 牛蒡以为自己中了诅咒，结果事实远比他想得平淡。

@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_Diagnosed.Name} 确认诊断
+{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_Diagnosed.Description} 夜莺年轻，热爱科学。可叹，第二种病只能为瘟疫的进程拖出区区几日。

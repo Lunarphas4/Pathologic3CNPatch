@@ -1,0 +1,2 @@
+{Note.Day10.Day10_GriefConsequenceLetter_DoubleTheft.Name} 恶徒格里夫的信
+{Note.Day10.Day10_GriefConsequenceLetter_DoubleTheft.Description} 首都来的朋友，我不知道你们遥远王国那边规矩如何，但在我们这儿，病人口粮可不会浪费在军队那些脸上。虽说你不是本地人，犯错也能原谅。有朋友真好！一百只团结的旱獭也能啃倒一头牛。我替你遮住了这个疏漏，安心睡吧。病人的口粮会去该去的地方，军队的也一样。我会盯着。\n\n你的朋友，格里夫

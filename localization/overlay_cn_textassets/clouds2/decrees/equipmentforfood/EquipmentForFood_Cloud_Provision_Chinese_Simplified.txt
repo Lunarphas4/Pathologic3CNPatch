@@ -1,0 +1,5 @@
+{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Provision.27554} 这些能撑多久？
+{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Provision.19053} 这些能撑多久？
+{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Provision.29029} 我原以为人们会带来更多
+{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Provision.13720} 也许谁都没有余粮？
+{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Provision.16627} 人们是不是把食物藏起来，以备不时之需？

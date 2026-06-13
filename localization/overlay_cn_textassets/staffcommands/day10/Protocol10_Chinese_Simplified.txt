@@ -1,0 +1,2 @@
+{StaffCommands.Day10.Protocol10.Name} 第 10 号方案
+{StaffCommands.Day10.Protocol10.Description} 让民众接种应急指挥部的实验药剂。

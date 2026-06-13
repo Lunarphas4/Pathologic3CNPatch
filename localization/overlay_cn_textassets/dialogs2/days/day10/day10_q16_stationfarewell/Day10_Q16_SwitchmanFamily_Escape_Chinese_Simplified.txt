@@ -1,0 +1,6 @@
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_SwitchmanFamily_Escape.40059} 他们真的会让我们离开镇子吗？原谅我问得这么直……只是太难相信了。我就要把整个一生都留在身后了！
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_SwitchmanFamily_Escape.37118} 若不是知道这是我见儿子的机会，我根本鼓不起勇气违抗命令，扳下开关。若不是你，丹科夫斯基，我还会坐在这里，在心里早已把他埋葬。
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_SwitchmanFamily_Escape.51474} 谢谢你。没有你，我们不会有离开的机会。
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_SwitchmanFamily_Escape.41570} 是的，你的儿子……我相信你们还会再见。
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_SwitchmanFamily_Escape.43306} 只是记住，以你儿子的诊断结果……路上什么都可能发生。
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_SwitchmanFamily_Escape.64270} 我也几乎没能鼓起勇气。但我想一切都会好起来。

@@ -1,0 +1,2 @@
+{Prologue.Notifications.Hints.Notification_Hint_Prologue_DialogsConcentration.Name} ⁠
+{Prologue.Notifications.Hints.Notification_Hint_Prologue_DialogsConcentration.Description} 按<InputActions/Weapon/Tags>查看可以对话的人

@@ -1,0 +1,10 @@
+{ArchiveDialogs.NewArchive.Old.Day4_Q6_Patient_Inspection.1083} 什么事，emshen（医者）？结束了吗？
+{ArchiveDialogs.NewArchive.Old.Day4_Q6_Patient_Inspection.11131} 还没有。我想再检查你一次。
+{ArchiveDialogs.NewArchive.Old.Day4_Q6_Patient_Inspection.16348} 又来？我还以为已经结束了。
+{ArchiveDialogs.NewArchive.Old.Day4_Q6_Patient_Inspection.2643} 别来教我。站着别动，不会超过一分钟。
+{ArchiveDialogs.NewArchive.Old.Day4_Q6_Patient_Inspection.32569} 甘珠尔，用不着你想。站着别动，让我干活。
+{ArchiveDialogs.NewArchive.Old.Day4_Q6_Patient_Inspection.14936} 需要检查多少次，我就能检查多少次。还是说，你每天接受检查的次数也有限额？
+{ArchiveDialogs.NewArchive.Old.Day4_Q6_Patient_Inspection.17905} 我只是问问……
+{ArchiveDialogs.NewArchive.Old.Day4_Q6_Patient_Inspection.12303} 我也只是回答。站着别动；不会超过一分钟。
+{ArchiveDialogs.NewArchive.Old.Day4_Q6_Patient_Inspection.17516} 是的，结束了。
+{ArchiveDialogs.NewArchive.Old.Day4_Q6_Patient_Inspection.3513} 我需要从你身上取些样本做检测；尽量别突然乱动。

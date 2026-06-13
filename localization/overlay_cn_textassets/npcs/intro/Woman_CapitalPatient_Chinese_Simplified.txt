@@ -1,0 +1,3 @@
+{Npcs.Intro.Woman_CapitalPatient.Name} 自行复生者
+{Npcs.Intro.Woman_CapitalPatient.FullName} ⁠
+{Npcs.Intro.Woman_CapitalPatient.Description} ⁠

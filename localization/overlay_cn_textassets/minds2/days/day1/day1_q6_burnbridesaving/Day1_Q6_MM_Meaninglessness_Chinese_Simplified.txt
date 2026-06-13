@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Meaninglessness.Name} 无意义
+{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Meaninglessness.Description} 有人正在偷偷埋葬一堆伪装成西蒙的废物。

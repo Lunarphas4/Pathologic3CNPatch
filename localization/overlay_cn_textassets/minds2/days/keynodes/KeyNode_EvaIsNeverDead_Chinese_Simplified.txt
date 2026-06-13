@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_EvaIsNeverDead.Name} 绝对
+{Minds2.Days.KeyNodes.KeyNode_EvaIsNeverDead.Description} 伊娃从未死去。

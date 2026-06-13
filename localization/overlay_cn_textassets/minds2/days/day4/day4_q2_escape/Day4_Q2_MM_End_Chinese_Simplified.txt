@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_End.Name} 这不是终点
+{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_End.Description} 几个普通巡查队把我揪走，扔进了牢里。我会出去的——走着瞧！

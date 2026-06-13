@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_1_MM_NeedPatient.Name} 需寻
+{Minds2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_1_MM_NeedPatient.Description} 死者们尚未碰到合用的样本。拿医院里的病人做实验既不道德……也无效用。我得睁大眼睛留意。

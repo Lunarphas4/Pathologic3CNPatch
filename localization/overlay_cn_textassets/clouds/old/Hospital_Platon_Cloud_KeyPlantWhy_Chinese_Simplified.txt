@@ -1,0 +1,4 @@
+{Clouds.Old.Hospital_Platon_Cloud_KeyPlantWhy.19931} 为什么把钥匙放在这里？
+{Clouds.Old.Hospital_Platon_Cloud_KeyPlantWhy.31086} 为什么把钥匙放在这里？
+{Clouds.Old.Hospital_Platon_Cloud_KeyPlantWhy.32626} 信任所有人？
+{Clouds.Old.Hospital_Platon_Cloud_KeyPlantWhy.734} 有人来拜访他？

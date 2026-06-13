@@ -1,0 +1,15 @@
+{ArchiveDialogs.Day2.Day2_Q1_Powder.Day2_Q1_GiveUsPowder.7523} 喂，恐龙。把粉末药换给我们吧？
+{ArchiveDialogs.Day2.Day2_Q1_Powder.Day2_Q1_GiveUsPowder.1802} 学者。别缠着我。
+{ArchiveDialogs.Day2.Day2_Q1_Powder.Day2_Q1_GiveUsPowder.5983} 如果我们用两分钟换你的粉末药呢？那又怎么样？
+{ArchiveDialogs.Day2.Day2_Q1_Powder.Day2_Q1_GiveUsPowder.6665} 那你们能给二十二分钟吗？
+{ArchiveDialogs.Day2.Day2_Q1_Powder.Day2_Q1_GiveUsPowder.6215} 你怎么回事？姑娘给你两分钟，你却说这种胡话。
+{ArchiveDialogs.Day2.Day2_Q1_Powder.Day2_Q1_GiveUsPowder.18204} 别再侮辱我。
+{ArchiveDialogs.Day2.Day2_Q1_Powder.Day2_Q1_GiveUsPowder.7463} 什么？把粉末药给我们，我们给你两分钟，然后再也不跟你说话。永远不说。
+{ArchiveDialogs.Day2.Day2_Q1_Powder.Day2_Q1_GiveUsPowder.19341} 拿去，你们的粉末药。
+{ArchiveDialogs.Day2.Day2_Q1_Powder.Day2_Q1_GiveUsPowder.10512} 当然不会。因为我要走了，还要把粉末药带走。
+{ArchiveDialogs.Day2.Day2_Q1_Powder.Day2_Q1_GiveUsPowder.2499} 这是你们的小盒子，给我分钟，然后放我走。这实在难以忍受。
+{ArchiveDialogs.Day2.Day2_Q1_Powder.Day2_Q1_GiveUsPowder.13753} 不。我会做完所有必要研究。如果粉末药有毒，我会把整座城翻个底朝天，找出所有这些盒子，让它们永远不再出现。再会，孩子们。
+{ArchiveDialogs.Day2.Day2_Q1_Powder.Day2_Q1_GiveUsPowder.27084} 那我换，两分钟对我也金贵。
+{ArchiveDialogs.Day2.Day2_Q1_Powder.Day2_Q1_GiveUsPowder.29821} 别说蠢话。
+{ArchiveDialogs.Day2.Day2_Q1_Powder.Day2_Q1_GiveUsPowder.11539} 可以预见：我凭本事赢了，你们却在抱怨。
+{ArchiveDialogs.Day2.Day2_Q1_Powder.Day2_Q1_GiveUsPowder.10000} 这很没礼貌。这样谈不成。

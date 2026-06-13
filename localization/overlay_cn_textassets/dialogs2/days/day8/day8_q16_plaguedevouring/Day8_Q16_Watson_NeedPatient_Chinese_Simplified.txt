@@ -1,0 +1,17 @@
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NeedPatient.18491} 医生，可以打扰您一下吗？我一直在收集一点统计数据——我们的病人究竟是什么时候首次染上沙疫。我指的是那些有间发症的——
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NeedPatient.8319} 并发，小家伙。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NeedPatient.38572} 请原谅我的好奇心——我发誓它不会妨碍工作！总之，从数字上看，来这里的病人大多只带着沙疫活了一两天，强壮些的三天。这已经很惊人了——多数人最多只撑五小时！可这让我想到……会不会有人撑得更久？有人就这么……没有任何帮助也活了下来？
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NeedPatient.41121} 你是在问，一个并发病人在没有任何医疗干预的情况下能活多久？
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NeedPatient.12622} 正是！还有他们会发生什么——我是说，从科学角度说。他们显然迟早会死……可是什么击垮他们？是什么让并发屏障失效？
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NeedPatient.26350} 还是“并发”，小家伙。想讨论这类事，就努力记住这个术语。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NeedPatient.14197} 我会的，我会！可是……呃……我们不能故意不给自己的病人治疗，对吧？单纯看着他们受苦——那不对。何况还要花很久。所以我一直想：沙疫进城快一周了……会不会有人一开始就染上了……却不知怎么还活着？
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NeedPatient.25163} 也许有。但要找到他们几乎不可能。大海捞针。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NeedPatient.23177} 让护理员去问晚期病人染病多久了。他们通常神志混乱……但我们也许仍有好运。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NeedPatient.63041} 我喜欢你的思路，小家伙。我会考虑如何找到这样的病例。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NeedPatient.65021} 停止这种业余的科学把玩，回去做你该做的事。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NeedPatient.41097} 这确实是个有趣的问题。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NeedPatient.11550} 可是……呃……我们不能故意不给自己的病人治疗，对吧？单纯看着他们受苦——那不对。何况还要花很久。所以我一直想：沙疫进城快一周了……会不会有人一开始就染上了……却不知怎么还活着？
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NeedPatient.2909} 我自己也想过同样的事。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NeedPatient.57044} 你的问题究竟是什么？
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NeedPatient.26686} 看来你很沉迷科学探究。前一天想在公牛身上做实验，后一天又被统计学迷住。
+{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_NeedPatient.11680} 看来你很沉迷科学探究。

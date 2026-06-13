@@ -1,0 +1,3 @@
+﻿{Items.Metabolism.WhiteWhip.Name} 白鞭草毒素
+{Items.Metabolism.WhiteWhip.Description} 一种粗糙刺鼻的草药，含有致命毒素。可致麻痹与嗜睡。在混合物中可作镇静剂。\n对健康人致命，但这种化合物或许能让绝症病人安然离世。
+{Items.Metabolism.WhiteWhip.Description2} 白鞭草是戈尔孔草原的特有物种。含有一种纯态致命的毒素。已有利用它谋杀的案例。

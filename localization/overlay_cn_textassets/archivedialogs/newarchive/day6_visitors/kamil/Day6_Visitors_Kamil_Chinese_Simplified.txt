@@ -1,0 +1,15 @@
+{ArchiveDialogs.NewArchive.Day6_Visitors.Kamil.Day6_Visitors_Kamil.32149} 大地在呼吸，它的气息恶臭！
+{ArchiveDialogs.NewArchive.Day6_Visitors.Kamil.Day6_Visitors_Kamil.443} 抱歉？
+{ArchiveDialogs.NewArchive.Day6_Visitors.Kamil.Day6_Visitors_Kamil.29635} 我们得不到宽恕！疾病不会饶过任何人！
+{ArchiveDialogs.NewArchive.Day6_Visitors.Kamil.Day6_Visitors_Kamil.8531} 有人把有毒废料埋在什么地方，现在它们在毒害土壤？
+{ArchiveDialogs.NewArchive.Day6_Visitors.Kamil.Day6_Visitors_Kamil.22423} 土壤、空气、水、火、人。大地病了，大地病了，我们也跟着它一起病。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Kamil.Day6_Visitors_Kamil.15075} 镇上突然涌出矿泉了？
+{ArchiveDialogs.NewArchive.Day6_Visitors.Kamil.Day6_Visitors_Kamil.1461} 是，喷发，外溢，出口。可没有出口，我们没有出口。没有地方能躲过疫病！
+{ArchiveDialogs.NewArchive.Day6_Visitors.Kamil.Day6_Visitors_Kamil.18046} 所以您说的是疫病！找到感染源了？
+{ArchiveDialogs.NewArchive.Day6_Visitors.Kamil.Day6_Visitors_Kamil.20665} 城镇从自己的肚腹里胀起来。圣处从不空着。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Kamil.Day6_Visitors_Kamil.11101} 肚腹？那好像是你们的一个区域。可圣处又有什么关系？大教堂可在另一边。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Kamil.Day6_Visitors_Kamil.30675} 是空，不是圣！愿你也空空如也！
+{ArchiveDialogs.NewArchive.Day6_Visitors.Kamil.Day6_Visitors_Kamil.18965} 能像人一样说明白吗？我没时间猜您的谜。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Kamil.Day6_Visitors_Kamil.24927} 没有时间，时间不存在。一切都同时在所有地方。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Kamil.Day6_Visitors_Kamil.21365} 那么这样吧。我听不懂您。需要帮助，就找更清楚的话说。谈话结束。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Kamil.Day6_Visitors_Kamil.5800} 好吧，好吧，够了。如果我能解开您的谜，我会派人去查查土地出了什么事。

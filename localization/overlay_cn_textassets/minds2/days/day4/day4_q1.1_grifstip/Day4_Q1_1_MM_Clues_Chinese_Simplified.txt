@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q1.1_GrifsTip.Day4_Q1_1_MM_Clues.Name} 仓促销毁证据？
+{Minds2.Days.Day4.Day4_Q1.1_GrifsTip.Day4_Q1_1_MM_Clues.Description} 我在灰烬中找到了几片信件残纸。只要稍加想象，便能从中读出任何东西。

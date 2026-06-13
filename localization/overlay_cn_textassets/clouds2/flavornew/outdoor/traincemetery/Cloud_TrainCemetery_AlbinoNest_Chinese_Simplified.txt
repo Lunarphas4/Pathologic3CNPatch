@@ -1,0 +1,4 @@
+{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_AlbinoNest.44925} 一只巨大的喜鹊筑了巢
+{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_AlbinoNest.10340} 一只巨大的喜鹊筑了巢
+{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_AlbinoNest.56689} 全城遗失的东西都在这里！
+{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_AlbinoNest.61752} 据说附近有草原灵魂游荡

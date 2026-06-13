@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q9_SimonExhumation.Day6_Q9_MM_SixthSense.Name} 第六感
+{Minds2.Days.Day6.Day6_Q9_SimonExhumation.Day6_Q9_MM_SixthSense.Description} 其中有一座墓与众不同。说不清楚。

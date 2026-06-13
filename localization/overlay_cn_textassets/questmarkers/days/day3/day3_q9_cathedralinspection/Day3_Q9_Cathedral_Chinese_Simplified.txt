@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_Cathedral.Name} 教堂
+{QuestMarkers.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_Cathedral.Description} 可备选作医院的地点之一。况且我本就想去看看它。

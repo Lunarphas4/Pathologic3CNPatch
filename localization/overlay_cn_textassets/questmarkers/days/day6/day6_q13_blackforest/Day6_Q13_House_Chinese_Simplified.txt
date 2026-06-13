@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_House.Name} 已愈之人
+{QuestMarkers.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_House.Description} 这里住着一位据说从沙疫中痊愈的病人。

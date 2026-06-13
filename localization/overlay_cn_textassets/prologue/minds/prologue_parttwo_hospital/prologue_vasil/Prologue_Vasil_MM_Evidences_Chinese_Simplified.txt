@@ -1,0 +1,2 @@
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_Vasil.Prologue_Vasil_MM_Evidences.Name} 尚有遗漏
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_Vasil.Prologue_Vasil_MM_Evidences.Description} 需再细查四周，或藏更多线索。

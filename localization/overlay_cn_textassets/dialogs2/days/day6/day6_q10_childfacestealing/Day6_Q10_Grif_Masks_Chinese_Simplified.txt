@@ -1,0 +1,13 @@
+{Dialogs2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_Grif_Masks.38461} 瞧瞧，谁来了！今天想来点什么？茶、酒，还是死人脚上的鞋？
+{Dialogs2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_Grif_Masks.28369} 哦，我知道你端的是什么茶。告诉我，你知道半灵帮喜欢把赃物藏在哪儿吗？
+{Dialogs2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_Grif_Masks.23000} 你找那帮孩子干什么？想去抓一只看不见的猫？
+{Dialogs2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_Grif_Masks.63154} “抓”东西的是他们。他们偷了多面体孩子们的面具。我猜你会知道他们把那种战利品藏在哪儿。
+{Dialogs2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_Grif_Masks.63920} 格里夫，你这儿有狗头面具卖吗？
+{Dialogs2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_Grif_Masks.50229} 你要那东西干什么？去参加假面舞会？
+{Dialogs2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_Grif_Masks.64993} 半灵帮偷了多面体孩子们的几张面具。也许你知道他们把那种战利品藏在哪儿？
+{Dialogs2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_Grif_Masks.30446} 丹科夫斯基，你当罪犯活不过一天！连孩子都比你机灵。哪个脑子正常的人会设个藏货点，然后永远不换地方？东西总得挪来挪去，才不会被人看出门道。我可没那么多追踪手，替你去嗅孩子们的藏身处！
+{Dialogs2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_Grif_Masks.29} 看来只好我自己去嗅了。还得翻个底朝天……
+{Dialogs2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_Grif_Masks.50043} 你这儿有没有那种面具随手放着？我只要一个。
+{Dialogs2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_Grif_Masks.8373} 哟，这可真会打招呼。你这念头从哪儿来的？你把我当什么人，自己的仇人？去倒卖那帮孩子的东西，惹他们不痛快？
+{Dialogs2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_Grif_Masks.30980} 所以连你也忌惮他们？真不可思议。
+{Dialogs2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_Grif_Masks.41697} 那就算了。

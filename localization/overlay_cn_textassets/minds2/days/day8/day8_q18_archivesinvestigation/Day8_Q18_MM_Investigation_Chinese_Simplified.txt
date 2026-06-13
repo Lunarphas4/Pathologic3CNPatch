@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_MM_Investigation.Name} 查验房间
+{Minds2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_MM_Investigation.Description} 看看那个窃贼有没有留下什么线索。

@@ -1,0 +1,2 @@
+{Prologue.Notifications.Notification_Prologue_Diagnosis_Incorrect.Name} 诊断错误
+{Prologue.Notifications.Notification_Prologue_Diagnosis_Incorrect.Description} 但是有一个病患诊断错误。助手今天艰难配制的疫苗，明天无法拯救任何人

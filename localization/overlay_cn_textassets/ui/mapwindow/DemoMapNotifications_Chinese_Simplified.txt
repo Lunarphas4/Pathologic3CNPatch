@@ -1,0 +1,1 @@
+﻿{UI.MapWindow.DemoMapNotifications.RestrictedQuarters} 试玩版限制街区移动。完整地图请见正式版。

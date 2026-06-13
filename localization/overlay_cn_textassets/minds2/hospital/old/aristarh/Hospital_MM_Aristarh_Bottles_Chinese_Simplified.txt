@@ -1,0 +1,2 @@
+{Minds2.Hospital.Old.Aristarh.Hospital_MM_Aristarh_Bottles.Name} 空酒瓶
+{Minds2.Hospital.Old.Aristarh.Hospital_MM_Aristarh_Bottles.Description} 阿里斯塔尔赫家里堆满了空瓶。

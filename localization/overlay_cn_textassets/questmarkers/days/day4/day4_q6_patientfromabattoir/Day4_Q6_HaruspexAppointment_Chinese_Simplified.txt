@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAppointment.Name} 会面之处
+{QuestMarkers.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAppointment.Description} 布拉赫找到了病人。我得抓住这次会面的机会。

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Hideout.Name} 鲁兵的藏身处
+{QuestMarkers.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Hideout.Description} 斯坦尼斯拉夫·鲁宾近来在这一带活动。

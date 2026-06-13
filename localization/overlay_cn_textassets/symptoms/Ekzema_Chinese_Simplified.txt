@@ -1,0 +1,2 @@
+{Symptoms.Ekzema.Name} 湿疹
+{Symptoms.Ekzema.Description} 以典型发红为特征的皮肤炎症。病灶可连成边界模糊的斑片，并可能脱屑。

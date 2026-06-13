@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_DefaultBegining.Name} 正人
+{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_DefaultBegining.Description} 今日，小弗拉德·奥尔金斯基亲自前往白蚁巢，向金族投降，承认自己对数千人之死罪责难逃。

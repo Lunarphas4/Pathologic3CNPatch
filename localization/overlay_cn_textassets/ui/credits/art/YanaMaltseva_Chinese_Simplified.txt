@@ -1,0 +1,2 @@
+{UI.Credits.Art.YanaMaltseva.Name} Yana Maltseva
+{UI.Credits.Art.YanaMaltseva.Description} Prop 3D 美术

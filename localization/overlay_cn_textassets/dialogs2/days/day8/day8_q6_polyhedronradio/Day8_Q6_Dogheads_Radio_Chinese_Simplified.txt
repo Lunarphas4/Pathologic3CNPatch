@@ -1,0 +1,29 @@
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.54342} Φύγε, γέροντα, δεν είσαι ευπρόσδεκτος εδώ.（走开，老头，你在这里不受欢迎。）
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.19997} 你懂希腊语？
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.45599} 滚开，我说了！把你那双靴子踩出去！Relinque！你聋了吗，老头？要我给你拼出来吗？
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.29174} 多面体出了问题。我想你最好在可怕的事发生前离开那里。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.701} 听他说，寒鸦！错的是你，傻瓜！我们的塔好得很，谢谢！
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.46864} 都下沉、倾斜了，怎么会好？
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.35092} 你又是谁，嗯？是你造的吗？你知道我们塔的什么？你知道 lundrum 的屁股！滚开。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.30476} “Lundrum”？没有这个词。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.25685} 你们在那座塔里真是野化了。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.48243} 你没听见吗？多面体在发出声音。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.9874} 我们当然听见了。它只是看见这镇上的人有多蠢，所以哭了。我们不管你们这些人的事，你们也别再找来这里的路！
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.17509} 我只是想帮忙！
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.22146} 我还想从眼睛里射闪电呢。那又怎样？世界并不完美。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.31948} 确实不完美，这点很难反驳。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.36793} 所以整座镇子都能听见塔突然轰响，你一点也不担心？
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.35942} 那不是轰响。那是在演奏。我听过那段旋律！我们的塔是上帝的巨笛。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.45479} 哦，对。那就让我们壮观地烧起来吧。还带着音乐。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.16522} 如果是这样，这将是史上第一起数千人因一支笛子而死的事件。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.32148} 我只要求一件事：请小心。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.28416} Ξέρεις ελληνικά κορίτσι μου?（你会希腊语吗，小姑娘？）
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.44194} Λέω: φύγε από δω! Είσαι κουφός, θείε; Να το επαναλάβω συλλαβή προς συλλαβή;（我说：离开这里！你聋了吗，叔叔？要我一个音节一个音节地重复吗？）
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.26134} Κάτι δεν πάει καλά με το Πολύεδρο. Νομίζω ότι καλύτερα να ξεφύγεις από αυτό πριν συμβεί κάτι κακό.（多面体不太对劲。我觉得你最好在出事之前离它远一点。）
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.54511} 听他说，寒鸦！错的是你，傻瓜！我们的塔好得很，谢谢！
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.63507} 是我的错觉，还是我们刚才就这样若无其事地说了几分钟希腊语？
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.34749} Ανεξάρτητα από τη γλώσσα που είναι, εξακολουθείτε να μην την καταλαβαίνετε σωστά. Ειπώθηκε: φύγε από τον Πύργο μας! Τι δεν είναι ξεκάθαρο?（不管那是什么语言，你们照样还是听不懂。话已经说得很明白了：离开我们的塔！还有什么不清楚的？）
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.65050} 没必要无礼。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.58853} Χάνω τον χρόνο μου.（我是在浪费时间。）
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.50841} Δεν ακούς; Το Πολύεδρο βγάζει ήχους.（你没听见吗？多面体在发出声音。）
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Dogheads_Radio.48608} 我们当然听见了。它只是看见这镇上的人有多蠢，所以哭了。我们不管你们这些人的事，你们也别再找来这里的路！

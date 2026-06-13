@@ -1,0 +1,3 @@
+{Npcs.Tragedian.Name} 悲剧演员
+{Npcs.Tragedian.FullName} ⁠
+{Npcs.Tragedian.Description} ⁠

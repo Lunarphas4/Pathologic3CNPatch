@@ -1,0 +1,6 @@
+{UI.Staffs.Resources.Resources.Staff_Medical_Free} 护理员
+{UI.Staffs.Resources.Resources.Staff_Vigilantes_Free} 志愿者
+{UI.Staffs.Resources.Resources.Staff_Fuel} 燃料
+{UI.Staffs.Resources.Resources.Staff_Food} 口粮
+{UI.Staffs.Resources.Resources.Staff_Medicines} 药物
+{UI.Staffs.Resources.Resources.Staff_Equipment} 装备

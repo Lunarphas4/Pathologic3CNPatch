@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Lump_Meat.Name} 块石宅
+{QuestMarkers.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Lump_Meat.Description} 除了奥尔金斯基家，谁会拿腐肉喂士兵？

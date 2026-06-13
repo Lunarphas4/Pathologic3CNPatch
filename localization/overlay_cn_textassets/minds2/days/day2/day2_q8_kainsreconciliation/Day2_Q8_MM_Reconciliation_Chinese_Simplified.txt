@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q8_KainsReconciliation.Day2_Q8_MM_Reconciliation.Name} 和解
+{Minds2.Days.Day2.Day2_Q8_KainsReconciliation.Day2_Q8_MM_Reconciliation.Description} 凯恩一家或许会因我对西蒙之事的冷漠而见怪。略示同情——我们便又是至交。

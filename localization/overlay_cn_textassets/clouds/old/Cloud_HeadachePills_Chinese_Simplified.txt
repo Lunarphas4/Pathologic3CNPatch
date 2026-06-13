@@ -1,0 +1,4 @@
+{Clouds.Old.Cloud_HeadachePills.23107} 他多久前吃的？
+{Clouds.Old.Cloud_HeadachePills.696} 他多久前吃的？
+{Clouds.Old.Cloud_HeadachePills.10419} 有效期？
+{Clouds.Old.Cloud_HeadachePills.1011} 一片药？

@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day8.Mirosya.Hospital_Mirosya_MM_House.Name} 查访这一户
+{Minds2.Hospital.Day8.Mirosya.Hospital_Mirosya_MM_House.Description} 托派的母亲话特别多，她自己却几乎不开口。看来要从她们的生活里找答案。

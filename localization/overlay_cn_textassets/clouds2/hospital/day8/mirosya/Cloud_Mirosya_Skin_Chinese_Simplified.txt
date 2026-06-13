@@ -1,0 +1,6 @@
+{Clouds2.Hospital.Day8.Mirosya.Cloud_Mirosya_Skin.41885} 小红点
+{Clouds2.Hospital.Day8.Mirosya.Cloud_Mirosya_Skin.11449} 小红点
+{Clouds2.Hospital.Day8.Mirosya.Cloud_Mirosya_Skin.55621} 过敏？咬伤？
+{Clouds2.Hospital.Day8.Mirosya.Cloud_Mirosya_Skin.51247} 只是卫生问题？
+{Clouds2.Hospital.Day8.Mirosya.Cloud_Mirosya_Skin.55933} 病人没说出任何连贯的话
+{Clouds2.Hospital.Day8.Mirosya.Cloud_Mirosya_Skin.35332} 但这仍可能很重要

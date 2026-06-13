@@ -1,0 +1,2 @@
+﻿{CraftRecipes.Taurine_CraftRecipe.Name} 牛磺酸
+{CraftRecipes.Taurine_CraftRecipe.Description} 略微增加躁狂

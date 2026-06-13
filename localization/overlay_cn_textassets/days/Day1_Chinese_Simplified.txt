@@ -1,0 +1,3 @@
+{Days.Day1.Name} 第一天
+{Days.Day1.Description} 灾祸尚可阻止的一天
+{Days.Day1.Name_StartDay} 第一天，

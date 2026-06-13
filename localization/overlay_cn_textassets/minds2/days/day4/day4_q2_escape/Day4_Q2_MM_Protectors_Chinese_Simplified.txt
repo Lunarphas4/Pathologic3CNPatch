@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_Protectors.Name} 镇之卫士
+{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_Protectors.Description} 附近某处，民兵正等着——只要我一脚踏进车厢，便会立刻把我捆起。也许我可以先找到他们，说服他们我是无辜的？

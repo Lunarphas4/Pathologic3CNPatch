@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q14_StopPeter.Day11_Q14_MM_Stopped.Name} 透气有益
+{Minds2.Days.Day11.Day11_Q14_StopPeter.Day11_Q14_MM_Stopped.Description} 我在最后一刻拦下了彼得。一番推心置腹之谈——他便改变了离开墓园的念头。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q1_Trial.Day7_Q1_MM_GoToTheCathedral.Name} 行刑后的邀约
+{Minds2.Days.Day7.Day7_Q1_Trial.Day7_Q1_MM_GoToTheCathedral.Description} 审判官在大教堂等我。仅因要处死我便不去赴约，未免失礼。

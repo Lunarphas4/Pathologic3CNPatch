@@ -1,0 +1,25 @@
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.17732} 屋子一冷，孩子就开始吸鼻子。人人都知道。要是他们病了，又没东西可治怎么办？我早就预见了这一切，你知道。我在梦里全看见了！可我没信自己，最后反倒骗了自己。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.1178} 你预言了什么？瘟疫？
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.22675} 前天夜里我做了个梦：我外公那边的爷爷脏兮兮地从炉子里爬出来，对我说“傻瓜，把柴火藏好”。我就轰他走！轰！因为他在梦里是只黑猫，你知道吧。然后我拿着扫帚满屋子追他，追到上气不接下气，尽管这只是个梦。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.4523} 我没理解错的话，你梦见自己拿扫帚在屋里追着你外公跑。这跟你预言瘟疫有什么关系？
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.26164} 瘟疫不瘟疫的先不说！我外公叫我把柴火藏好——这才是重点。可我当时没明白。结果昨天全让人偷走了——我是说，我的柴火。要是还在，我还能拿去换药给孩子治病，可现在不行了。为什么不行？就因为我拿扫帚满屋子追着我外公跑！我就该听他的！
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.32261} 那就当给你个教训：拿扫帚打老人可不对。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.27850} 东西没了，你才知道它有多重要。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.23355} 可不是嘛。我现在算是太明白了。没那些药，我家几个小的肯定要死。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.18459} 恐怕你误会我的意思了。这道法令不是这么运作的。你上交药品，换来柴火。不是反过来。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.6892} 这太荒唐了。我要柴火有什么用？我要的是药！我孩子病了。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.21699} 孩子病了就带他们去医院。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.5076} 医院！让那个屠夫拿他们做试验吗？！
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.24909} “那个屠夫”……原来他们现在是这么叫我的。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.31700} 随你。那就让你外公那边的爷爷亲自给他们治吧——在梦里治。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.29072} 你觉得“那个屠夫”在医院里做什么试验？
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.12965} 这谁都知道。他先把针扎进去，再把血抽出来喝掉。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.5497} 我猜你还想说，他睡觉时也是像蝙蝠一样倒挂在天花板上。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.1871} 太可怕了！真该有人拿木桩钉穿他的心脏。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.18822} 你家孩子要是病了，你就该待在家里。你这样在外面，会把病传给别人。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.18591} 黑猫不吉利。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.20325} 去你的不吉利！我跟你说，那根本不是猫。那是我外公！他叫我把柴火藏好，可我没听懂。结果昨天全被偷走了！我是说，我的木头。现在我冻得发抖。为什么会这样？就因为我拿扫帚满屋子追着我外公跑！我就该听他的！
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.19642} Homo homini feles est（人于人，不过一只猫罢了。）
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.14021} 我听不懂你在嘟囔什么。我跟你说，那根本不是猫。那是我外公！他叫我把柴火藏好，可我没听懂。结果昨天全被偷走了！我是说，我的木头。现在我冻得发抖。为什么会这样？就因为我拿扫帚满屋子追着我外公跑！我就该听他的！
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.23145} 这镇上似乎隔一个人就会预言未来。当然了，他们那些预言一点帮助也没有。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_ViewerOfPoster.26900} 我不觉得人在梦里能预见什么。

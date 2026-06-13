@@ -1,0 +1,2 @@
+{Minds2.Days.Day5.Demo.Day5_Q0.1_MM_StrangeFamily.Name} 徒劳的求告
+{Minds2.Days.Day5.Demo.Day5_Q0.1_MM_StrangeFamily.Description} 凯恩一家是个奇怪的家族。也许维克多，那个唯一讲理的成员，会和我谈谈

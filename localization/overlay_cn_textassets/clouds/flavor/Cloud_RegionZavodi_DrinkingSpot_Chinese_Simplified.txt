@@ -1,0 +1,3 @@
+{Clouds.Flavor.Cloud_RegionZavodi_DrinkingSpot.18024} 给那些进不了酒馆的人。
+{Clouds.Flavor.Cloud_RegionZavodi_DrinkingSpot.32156} 给那些进不了酒馆的人。
+{Clouds.Flavor.Cloud_RegionZavodi_DrinkingSpot.15680} 安德烈真是个厉害的看门人。

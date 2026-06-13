@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_2.Day9_Q12_2_MM_Mother.Name} 一条线
+{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_2.Day9_Q12_2_MM_Mother.Description} 有一位母亲在等他——她那孩子的母亲，而那士兵据说就要为找那孩子爬上多面体。

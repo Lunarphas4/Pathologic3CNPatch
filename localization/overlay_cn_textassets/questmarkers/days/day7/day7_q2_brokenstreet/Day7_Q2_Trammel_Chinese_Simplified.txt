@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Trammel.Name} 套笼
+{QuestMarkers.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Trammel.Description} 若尤利娅与凯恩家有旧账，她大可亲自算。告发是下作之举。

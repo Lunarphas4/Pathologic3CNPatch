@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_1_MM_Another.Name} 定然
+{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_1_MM_Another.Description} 现在试别的法子尚不为晚。也可同时尝试好几种。或许局面会有所好转？

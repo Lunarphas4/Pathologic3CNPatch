@@ -1,0 +1,3 @@
+{Npcs.Zakir.Name} 男孩
+{Npcs.Zakir.FullName} ⁠
+{Npcs.Zakir.Description} ⁠

@@ -1,0 +1,3 @@
+﻿{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_PureWater_Analyser.Name} 水样（已检查）
+{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_PureWater_Analyser.Description} 干净饮用水。
+{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_PureWater_Analyser.Description2} 分析显示矿物质含量很高，且没有沙疫痕迹。这水可以安全饮用！

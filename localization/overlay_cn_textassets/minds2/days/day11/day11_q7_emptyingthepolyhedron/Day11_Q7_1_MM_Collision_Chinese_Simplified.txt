@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_1_MM_Collision.Name} 对峙
+{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_1_MM_Collision.Description} 军方认为孩子们处境危险，想把他们撤出来。孩子们却拒绝离塔。两方都不肯让步。

@@ -1,0 +1,3 @@
+{Npcs.HerbBride.Name} 草药新娘
+{Npcs.HerbBride.FullName} ⁠
+{Npcs.HerbBride.Description} ⁠

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_3_MM_Thirst.Name} 渴是一切
+{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_3_MM_Thirst.Description} 今日穷人有水可喝，之后我们想过滤多少便过滤多少。问题解决！

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_Administration.Name} 市政厅
+{QuestMarkers.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_Administration.Description} 我得向市政厅汇报：我已找到适合做医院的建筑。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_MM_MorphineTaken.Name} 戒断综合征
+{Minds2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_MM_MorphineTaken.Description} 萨布罗娃有成瘾问题。我必须帮她；把吗啡留给她绝不可能。

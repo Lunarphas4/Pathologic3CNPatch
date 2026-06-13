@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_MM_Jaskier.Name} 鸦足
+{Minds2.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_MM_Jaskier.Description} 她恳求我去找她那位苟延残喘的合作者谈谈，据说只要他回来——药效就会跟着回来。

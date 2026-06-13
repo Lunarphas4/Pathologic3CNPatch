@@ -1,0 +1,39 @@
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.24787} Ügy da'a，门锁上了……咔……结束了……
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.2337} 你知道钥匙在哪儿吗？
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.28641} 我不想被烧……不想……你有枪吗？
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.19534} 有。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.52642} 杀了我……求你，noukher（朋友）。枪死得快，火和 Shabnak-adyr（泥魔女） 会一块一块地啃。我受苦太久，不能自己离开，namaiye sülööl（放我走），让我走吧！
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.54325} 你疯了吗？我不会开枪打你！这镇上的子弹抵得上黄金。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.39335} 我会告诉你……去哪里找钥匙……但只有 shi naidu'ulhash（你找到以后）……你会杀我！Khh……受苦太久……太多……namaiye sülööl（放我走）……
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.9333} 嗯。你说“久”。多“久”算久？
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.6978} 我不知道……yekhe uta（很久了）……这里所有人都死了，只剩我……我不知道多久了……许多天，已经许多……khhhh……tiime olon（这么多）……
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.27787} 有意思。我会帮你……离开。但首先，我们两个都得从这里出去。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.32881} 钥匙在伊格纳特那里……khhhh……伊格纳特总是……khhh……把钥匙带在身上。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.17826} 那个伊格纳特在哪儿？快点！你太拖了！
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.796} 他两个满月……前死了。他是护理员，把他的……khhh……鸟衣藏在这里，还用钥匙锁住了楼层，noukher。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.21448} 什么？为什么把防护装备藏在感染屋里？
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.64647} 伊格纳特害怕……等着……khh-kh……以为那衣服能救他……藏了补给、防毒面具和撬棍……应该藏在这里某处……khhh……我不知道在哪儿。我们在厨房找到他的尸体，就在……khhh……绞肉机旁边。他死前发疯，把它砸坏了……khhh……我们试着修……khadkhagdahan。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.7109} 那就是厨房。我去那里找。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.13650} 尸体还在那里吗？我没注意到。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.25279} 不……我们……khhh……搬走了。但他口袋里没有钥匙，我……khhh……搜过。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.18959} 所以它在厨房某处。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.1228} 你答应过……杀了我。求你……发慈悲……
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.7537} 交易就是交易。躺到地板上。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.64344} 你确定？
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.50565} 我要按自己的……khhh……意愿死。不是 Shabnak-adyr（泥魔女）……不是火……是我自己。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.27814} 我明白。好吧，我会执行安乐死。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.3099} 我什么都没答应，也不打算杀你。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.52594} 你的病例很异常：如果你已经撑了这么久，理论上你也许还能恢复。如果你跟我从这里出去，就会被送到医院。你还有机会。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.36013} 恢复？不可能……Shabnak-adyr（泥魔女） 会吃掉我……发慈悲……
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.45099} 在这儿等着。我会给你找防毒面具，然后我们一起出去。之后再看。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.21467} 一枪打穿人的头，这算什么慈悲？
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.41569} 你其实根本不知道钥匙在哪儿，对吗？我在浪费时间！该死！
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.62657} 他身上没有钥匙，所以它一定在……khhh……厨房某处。你答应过杀我。求你……发慈悲……
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.63721} 你能不能别再念叨绞肉机了？！我们马上要被烧成灰了，你却惦记一台绞肉机！
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.5342} 我对伊格纳特有种不好的预感。让我猜猜：他死了？
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.51072} 好吧，但我需要你的身体做研究。我会杀你，但不用手枪。钥匙在哪儿？
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.35536} 别惊慌。稳住。想想怎么开门。你一定知道，只是脑子被遮住了。慢慢呼吸，让自己平静。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.250} 拿来做什么？你以为可以开枪打穿门锁？我很怀疑。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.48618} 你真想在这个时候谈武器？！也许先给我指出出去的路？！
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.51457} 你知道是谁锁的门吗？
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_AskAndAnswers.22235} 该死！该死！该死！我们会死！我们全都要死在这里！

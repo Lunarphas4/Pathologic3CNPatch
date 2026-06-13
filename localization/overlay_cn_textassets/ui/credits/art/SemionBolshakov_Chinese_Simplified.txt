@@ -1,0 +1,2 @@
+{UI.Credits.Art.SemionBolshakov.Name} Semion Bolshakov
+{UI.Credits.Art.SemionBolshakov.Description} Character 3D 美术

@@ -1,0 +1,7 @@
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Maid_KapellaWing.50576} 医生大人！我先前没法告诉您，我怕被人听见……这是小姐侧翼房间的钥匙。侧楼，从街角那边的街门进去。您……您应该去看看。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Maid_KapellaWing.28241} 看什么？你似乎很害怕。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Maid_KapellaWing.29308} 您会亲眼看见。我不能再跟您窃窃私语了。要是他们注意到，布尔斯会生气，我不想……
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Maid_KapellaWing.27754} 我会在那里找到什么？
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Maid_KapellaWing.56711} 这一切相当可疑。我只希望这不是什么陷阱。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Maid_KapellaWing.24001} 多谢你。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Maid_KapellaWing.27337} 卡佩拉侧翼的钥匙？我在那里该找什么？第一次暴发的档案就藏在那里吗？

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q4_NightmareOnLurichevaStreet.Day8_Q4_MM_WalkedAlone.Name} 幕外
+{Minds2.Days.Day8.Day8_Q4_NightmareOnLurichevaStreet.Day8_Q4_MM_WalkedAlone.Description} 尤利娅独自走过了那条不可能之街。她或许疯了？我不知道——我不在场。

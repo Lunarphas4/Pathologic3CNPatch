@@ -1,0 +1,8 @@
+{ArchiveDialogs.NewArchive.Day6_Visitors.Mavra.Day6_Visitors_Patrolmen.14831} 我们执行了您的命令，牛都宰了，可主人们很不满。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Mavra.Day6_Visitors_Patrolmen.11987} 没关系，以后他们还会道谢。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Mavra.Day6_Visitors_Patrolmen.3798} 我也没指望别的。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Mavra.Day6_Visitors_Patrolmen.26413} 希望您知道自己在做什么。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Mavra.Day6_Visitors_Patrolmen.3680} 我要是不知道，就不会下令。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Mavra.Day6_Visitors_Patrolmen.15497} 有时候必须冒险。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Mavra.Day6_Visitors_Patrolmen.16959} 您多少去和那些主人安顿一下吧。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Mavra.Day6_Visitors_Patrolmen.2137} 看吧，看吧。

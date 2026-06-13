@@ -1,0 +1,17 @@
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Changeling_Fate.15831} 这只是开始，医学人。布洛克将军死了，明天，死亡会征服整座小镇。这一切都是你做的。我要你醒着的每一刻都记住：杀死布洛克的不是拉拉。是你把我关在这里，所以是你杀了他。明天，你还会杀死整个小镇。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Changeling_Fate.6861} 你已经跟我说过这个了。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Changeling_Fate.25653} 我还会再说。再说。再说。再说。再说。再说。我会一直说到你懂为止，固执的医者。别再和命运搏斗，镇子就能活到明天。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Changeling_Fate.25396} 说实话，克拉拉，我开始觉得你也许是对的。也许我不该插手。看起来我只是在把事情弄得更糟。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Changeling_Fate.3201} 我听见什么了？固执的医者居然会承认自己的错误？那你还没那么没救。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Changeling_Fate.30440} 告诉我，真的没有办法避免这座城明天死去吗？
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Changeling_Fate.28407} 有办法。你知道的。别再和命运搏斗，镇子就能活到明天。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Changeling_Fate.5562} 用拉拉的死换镇子的命？
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Changeling_Fate.27800} 人每天都在死。你为什么偏偏这样担心拉拉？
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Changeling_Fate.22582} 我不知道。她因你的触碰而死，这件事让我觉得不公平。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Changeling_Fate.26835} 死亡永远公平。没有比死亡更公平的东西。那是必要的。拉拉必须死，这样我们才能活。条件就是如此。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Changeling_Fate.2924} 不。我拒绝相信这个。我必须试着救下所有人。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Changeling_Fate.18422} 承认这点让我恶心，但看来你是对的。我试过影响拉拉，结果呢？她还是杀了人。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Changeling_Fate.2987} 我有个计划。我直接把拉拉的计划告诉布洛克，他会把她关起来。她待在牢房里，就伤不了任何人了。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Changeling_Fate.32056} 现在你要把每个挡在你和命运斗争之间的人都关进笼子吗？这样下去，笼子会不够用的。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Changeling_Fate.31283} 我还能怎么办？我好好说话的时候，你们根本不听——你和拉拉都是。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Changeling_Fate.4069} 可你是在建议我用一个人的命去换许多人的命。我不喜欢这个两难。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q18_WaterCarrierHiring.Day5_Q18_MM_Networking.Name} 建立联系
+{Minds2.Days.Day5.Day5_Q18_WaterCarrierHiring.Day5_Q18_MM_Networking.Description} 昨天那个送水人证明了自己的用处。我很高兴他现在会长期帮助我和司令部。

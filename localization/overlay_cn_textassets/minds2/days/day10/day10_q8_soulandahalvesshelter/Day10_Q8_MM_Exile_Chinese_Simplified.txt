@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Exile.Name} 驱逐
+{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Exile.Description} 我不能让那个流浪汉留下。这里对他未必安全……他在此对别人也未必安全。

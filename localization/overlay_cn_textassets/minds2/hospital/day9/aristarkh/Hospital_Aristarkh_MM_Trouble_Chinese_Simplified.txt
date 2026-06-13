@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_Trouble.Name} 阿里斯塔尔赫有麻烦
+{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_Trouble.Description} 他到底惹上什么麻烦？要是黑道在找他——

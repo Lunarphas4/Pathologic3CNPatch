@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_HideoutEmpty.Name} 失望
+{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_HideoutEmpty.Description} 解剖室空无一人。我只查到鲁宾在伊西多尔死后接收了他的部分遗物。这有没有用？

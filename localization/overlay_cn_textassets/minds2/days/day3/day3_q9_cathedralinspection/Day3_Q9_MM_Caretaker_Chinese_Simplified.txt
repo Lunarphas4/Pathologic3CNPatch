@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_MM_Caretaker.Name} 一通胡言
+{Minds2.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_MM_Caretaker.Description} 那个古怪的看守人嘟囔着大教堂神秘的特性与规矩。我得自己理出头绪。

@@ -1,0 +1,2 @@
+{Symptoms.Otdishka.Name} 气短
+{Symptoms.Otdishka.Description} 呼吸费力、空气不足，常见于肺部或循环系统异常。

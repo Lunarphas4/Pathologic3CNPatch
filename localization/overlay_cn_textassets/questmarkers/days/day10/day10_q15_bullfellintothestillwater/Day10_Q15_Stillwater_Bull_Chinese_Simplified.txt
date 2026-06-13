@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day10.Day10_Q15_BullFellIntoTheStillwater.Day10_Q15_Stillwater_Bull.Name} 静水观星台
+{QuestMarkers.Days.Day10.Day10_Q15_BullFellIntoTheStillwater.Day10_Q15_Stillwater_Bull.Description} 楼下的轰隆声预告着——又是公牛闹事。

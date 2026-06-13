@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_2_MM_ScaryMold.Name} 这不是煤烟
+{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_2_MM_ScaryMold.Description} 伊西多尔家的房子覆着一层令人毛骨悚然的物质。邻屋尚且洁净。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_MM_Late.Name} 迟矣
+{Minds2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_MM_Late.Description} ……太迟了。

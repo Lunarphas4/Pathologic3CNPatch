@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q3_OdongRevenge.Day5_Q1_MM_RubinKilledByOdongs.Name} 野蛮的风俗
+{Minds2.Days.Day4.Day4_Q3_OdongRevenge.Day5_Q1_MM_RubinKilledByOdongs.Description} 进镇的第四天，金族人把鲁宾活活装进棺材埋了。

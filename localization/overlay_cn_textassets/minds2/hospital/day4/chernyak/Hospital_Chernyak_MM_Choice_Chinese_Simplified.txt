@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day4.Chernyak.Hospital_Chernyak_MM_Choice.Name} 下一步？
+{Minds2.Hospital.Day4.Chernyak.Hospital_Chernyak_MM_Choice.Description} 我可以再去找小黑谈谈，也可以现在就下诊断。

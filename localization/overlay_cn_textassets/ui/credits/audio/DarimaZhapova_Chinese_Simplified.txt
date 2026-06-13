@@ -1,0 +1,2 @@
+{UI.Credits.Audio.DarimaZhapova.Name} Darima Zhapova
+{UI.Credits.Audio.DarimaZhapova.Description} 草原之声

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_MM_Castling.Name} 纵容
+{Minds2.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_MM_Castling.Description} 这场孩童游戏闹得太过分了！我去报给萨布罗夫总督——让他的人去训诫这些小绑匪。

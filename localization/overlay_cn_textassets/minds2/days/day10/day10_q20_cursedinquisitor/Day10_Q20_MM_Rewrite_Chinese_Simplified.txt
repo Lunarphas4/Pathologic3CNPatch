@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_MM_Rewrite.Name} 改写
+{Minds2.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_MM_Rewrite.Description} 卡明斯基认为，他的所作所为追溯地"召来"了阿格拉娅·莉莉奇——一位敌视他与本镇的当权者特使。

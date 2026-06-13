@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Administration.Name} 市政厅
+{QuestMarkers.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Administration.Description} 布洛克正在市政厅下达命令。

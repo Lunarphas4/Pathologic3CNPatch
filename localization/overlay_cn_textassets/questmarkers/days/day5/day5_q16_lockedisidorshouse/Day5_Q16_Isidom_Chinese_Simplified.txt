@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_Isidom.Name} 伊西多尔的宅子
+{QuestMarkers.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_Isidom.Description} 伊西多尔·布拉赫——我同行，本镇最好的大夫——以一封许下惊人之事的信将我召来。

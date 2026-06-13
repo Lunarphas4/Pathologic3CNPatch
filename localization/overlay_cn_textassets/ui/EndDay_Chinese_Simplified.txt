@@ -1,0 +1,1 @@
+﻿{UI.EndDay.NotAvailableEndDay} 一天结束时\n不可用

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_FeelSick.Name} 醒悟
+{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_FeelSick.Description} 我快吐了。

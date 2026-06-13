@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_MM_Murderers.Name} 人民之审
+{Minds2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_MM_Murderers.Description} 那些自命为"求真者"的人，把杀格奥尔基当作伸张正义。我无能为力……果真如此？

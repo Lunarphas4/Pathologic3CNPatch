@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_MustNotRunAway.Name} 难以承受的抉择
+{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_MustNotRunAway.Description} 是的，死亡学院正被扼杀——但我不能就这样一走了之！我必须设法救这镇。

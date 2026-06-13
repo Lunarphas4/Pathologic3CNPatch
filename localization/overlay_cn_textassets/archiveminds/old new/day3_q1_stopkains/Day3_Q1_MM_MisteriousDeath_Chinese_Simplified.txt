@@ -1,0 +1,2 @@
+{ArchiveMinds.OldNew.Day3_Q1_StopKains.Day3_Q1_MM_MisteriousDeath.Name} 神秘死亡
+{ArchiveMinds.OldNew.Day3_Q1_StopKains.Day3_Q1_MM_MisteriousDeath.Description} 第四天早晨，恶徒格里夫发现鲁宾死在藏身处。究竟发生了什么，仍是谜团。

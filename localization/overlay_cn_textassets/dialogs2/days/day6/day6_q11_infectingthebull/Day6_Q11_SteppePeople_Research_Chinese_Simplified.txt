@@ -1,0 +1,55 @@
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.17931} 朋友们……！朋友们！诸位先生，我求你们，一个一个来！
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.3286} 一个一个来，还是一起上——都无所谓，bid end irekh yosgui baisan（我们本不该来这里）！
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.56194} 我们不会进你的屋子，emshen（医者）。你的屋子 muukhai unertei（难闻）。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.11523} 你愿意解释一下吗，利特尔？这是什么？
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.36577} 哦，丹科夫斯基医生！您好。我在这里主动采取了一点行动，为了研究目的邀请了这些……可敬的女士和先生。但我遇到了一些困难。您看，他们拒绝踏进医院。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.184} 可以理解。若不是工作所迫，我也会离医院远些。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.54439} 请问，你为什么要把一整群人拖进医院？把并发疾病患者带来，是护理员的职责；这本不该由你操心。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.62714} 我只是……该怎么说才不显得冒犯？哦，我直说吧，您之后再骂我：我想验证一个假设。上次疫情之后，一直有传言说草原人不受沙疫影响。说他们比别人更有抵抗力。所以我想，也许我们能利用这一点来配制疫苗？
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.42507} 我们生于土地，也靠土地而活，emshen（医者）。它保护我们，khamgaalna（保护）。你们很久以前就割断了与土地的联系——所以它带走你们，把你们往下拖，aladag（拖下去）。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.14042} 你的假设只建立在传言上？还是有某种确凿数据？
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.31770} 我到处询问草原人，他们都坚持说牧人和新娘从不染病。年长者如此，年轻人却比谁都更快染上瘟疫。他们说老牧人和公牛相伴已久，有什么东西“作为Boddho（大地母亲）的赐福，从公牛身上传给了他们”。显然，年轻人有时承受不住这种“赐福”。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.53669} 我从没想过你会相信迷信和本地那些巫术传闻。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.44329} 哦，在您面前说出心里话可真叫人害怕！但我也只能硬着头皮说下去……要是Boddho（大地母亲）的“赐福”并非迷信，而是科学事实呢？所以我又往前问了一步：有没有人见过染上瘟疫的公牛？结果您猜怎么着——没人见过！
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.39061} Boddho（大地母亲）爱她的公牛，emshen（医者）。Boddho（大地母亲）的爱比死亡更强。Bukhanuud ubdedeggui（公牛不会生病）。公牛用角刺穿瘟疫——这是Boddho（大地母亲）定下的。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.39322} 嗯。如果这是真的，利特尔，也许你确实撞见了某个重要的东西……
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.29460} 这个……我还没能弄到公牛，而且要把它养在哪儿呢？所以目前，我先试着把牧人和新娘带来做检查。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.40862} 你连让他们踏进医院都办不到。你打算怎么抽他们的血？
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.45615} 我们的血不是给你的。我们的血属于Boddho（大地母亲）。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.32410} 看吧，正如我所料。你大概让一头公牛听话还更容易些。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.26979} 你是说那些odonghe（金族牧人）牧人？我自己也一直想偷偷看看他们的血检。不只是为了瘟疫。但他们绝不会让我们看。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.50747} 你是认真的，想弄一头公牛？
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.9136} 您知道，医生……在我最狂妄的梦里，我会弄来一头公牛——试着让它感染瘟疫。然后观察公牛的身体会发生什么变化。也许我们甚至能由此得到疫苗？不是现在这种只能撑一天的东西，而是真正的疫苗……
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.62563} 你全弄混了，利特尔。“疫苗”这个词当然和母牛有关。但历史上第一支疫苗被发明时，是让人感染牛的疾病，而不是反过来。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.6370} ……其实比那还复杂！他们感染的是一个孩子——啊，我们祖先的野蛮办法！——用的是一位曾经感染牛痘的女人身上的病。我整夜都在读这个……可是医生，我们本地的瘟疫似乎不影响牛属动物！从没人见过病牛。所以如果你和我感染一头……
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.31196} 你想在实验室里制造牛沙疫？你吓到我了，利特尔。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.28248} 你要公牛做什么？Bi oilgonoguib。我不明白。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.7601} 布尔斯·弗拉德管公牛。所有公牛都是他的。你得好好去求他。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.36638} 奥尔金斯基是个讲理的人，哪怕受利润驱使。我应当能说服他捐出一头公牛供我们实验。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.47547} 所以您来替我们弄公牛，医生？哦，我真走运！这段时间我来准备瘟疫针剂。这样我们就能，您知道，立刻让实验对象接触感染源！
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.5402} 不用急。我还有许多别的事要处理；等我顾得上这件事时，针剂可能已经坏了。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.50705} 你已经决定你有别的事了，erdem（学者）。吩咐你的 oyutan（学生） 放我们走，不要再叫我们进你的屋子，不要再等我们的血。给他下命令。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.6302} 各位先生，各位女士，公牛是一回事，但你们的血检也可能大有用处……
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.49045} 我们不能强迫他们做这件事，利特尔。不过如果你觉得能说服他们，那就请便。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.37196} 不要把工作时间浪费在胡闹上。记住，我们所有时间都是工作时间。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.51100} 医院需要你。等今天所有病人都处理完，你想怎么花时间都行。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.20907} 你的热情很有感染力。我已经等不及要开始实验了。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.24609} 不过，我怀疑我们得不到什么有意义的结果……
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.7880} 奥尔金斯基肯定会开出天价。不，我们该问别人。比如布拉赫——他毕竟是本地人。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.43451} 现在想想，我认识一个牧人，他很担心我偷他的公牛……也许他愿意卖我一头，这样我们就能绕开本地垄断者？
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.34814} 我没时间做可能彻底落空的实验。也许之后我会再考虑这个想法。到时候再说。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.46900} 真遗憾……不过，您知道，我还是会把那支瘟疫针剂准备好……以防您改变主意，而我们又弄到了实验公牛……
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.31856} 你的 oyutan（学生） 真固执，erdem（学者）！叫他放我们走，不要再叫我们进你的屋子，不要再等我们的血。给他下命令。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.45754} 你知道，我其实喜欢这个想法。如果老牧人真的更少感染，也许公牛确实通过某种方式给了他们免疫力。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.8374} 我之前也想过。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.46822} 实际上，并非所有感染都能在动物和人类之间传播。我们的身体不同，所以疾病也不同。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.23986} 但不试验，我们怎么知道？话虽如此……我还没能弄到公牛，而且要把它养在哪儿呢？所以目前，我先试着把牧人和新娘带来做检查。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.16644} 我知道，我知道。我已经想这件事想了很久。谢谢你扩展了我的想法。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.35592} 所以你一直在草原上闲逛，收集关于牧人的流言，而不是履行你的职责。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.19866} 我是说……也不完全是。请听我说，丹科夫斯基医生！
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.26152} 我听着。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.12769} 我希望你有些像样的话替自己辩解。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.37178} 说下去。我确实好奇。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.12166} 这么说，你喜欢实验，利特尔？真是令人愉快的惊喜。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.24667} 我不确定我赞成你这样独自行动。但告诉我，你目前究竟做成了什么？
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_SteppePeople_Research.60611} 这是医院，不是民宅。病人应当尽早进入。但如果你们是健康的，是否愿意承担风险，确实该由你们自己决定。

@@ -1,0 +1,1 @@
+{UI.Credits.VoiceActing.AndreyKurganov.Name} Andrey Kurganov

@@ -1,0 +1,27 @@
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.24264} 那么……忙碌的蜜蜂们。我终于……退到一边，你们高兴了？传统要求我发表讲话。你们知道我：我不喜欢……摆弄词句。这不是我的行当。我简单说：我像照看小孩子一样照看你们，守着你们。现在，就到这里了。时候到了。该……走了。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.5888} 怎么会这样，boös（兄长）？没有您，我们怎么办？人们只听您的！一切都压在您身上，压在您的肩上！
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.21896} Ekhe gashuudal！灾祸啊，灾祸落到我们头上！
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.46976} 真让人好奇——他们是真这么觉得，还是只是在舔靴子？
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.52559} ……但 boös（兄长） 的话就是法律。哪怕那句话是告别。Bukha uta nahatai baigty！（一路平安！）
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.46585} 嘘！我说，嘘。太吵了。像一窝饿雏鸟……记住：你们现在有了……新的女主人。别敢在你们的小角落里窃窃私语，说她太年轻——她会胜过我。现在听她说。她比我更懂……如何把话拼起来……
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.31740} Shene ezen！Shene azhabaidal！（新女主人！新生活！）
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.60152} 看来他们在欢呼……
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.30330} 安静！所有人闭嘴！女主人现在要说话。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.31539} 谢谢。我的母亲曾说，女主人的命运就是倾听小镇和它的人民。我曾以为她说的是某种秘密而神秘的宿命。但现在我明白了——我错了。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.60448} 公开拒绝迷信？真出人意料。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.49915} 母亲教过我：如果你给饥饿的人一块面包和一句善言，那句话会比面包更珍贵。但如果你只给他们善言，不给面包，他们就会憎恨善意。我想做一个给你们面包的女主人，而不是给你们话语。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.28535} 我觉得这话像是以前听谁说过。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.61261} 怎么，学者，你不同意……人们必须吃饱吗？而且不能只靠甜言蜜语？小声些，让我女儿说完……
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.39698} 我同意。但光靠同意烤不出面包。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.54436} 现在我对小镇负责，我不会让我的人民挨饿。我知道你们许多人在想什么——说我天真，说我许下了无法兑现的诺言。但我不是做梦的人。我是一个男人的女儿，他在一座安静小镇上建起产业，用肉喂饱了三分之一个国家！我会配得上我的父亲。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.45489} 荣耀归于弗拉德 boös（兄长）！荣耀归于年轻的维多利亚！赞美他们二人！
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.1630} 赞美 boös（兄长）。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.45971} 你总能让我惊讶，卡佩拉。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.30783} 真理在面包中。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.46296} 她拿起五个饼和两条鱼，望向天，祝谢了，擘开，分给众人。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.25616} 我不知道你也相信奇迹，弗拉德。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.43044} 我相信我的女儿……
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.37049} 一座被隔离封锁的镇子里，又到哪里去找面包？
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.63921} 必须承认：卡佩拉很懂得如何让众人注目。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.15475} 说起来，卡佩拉听得懂草原语吗？
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Olgimskys_Speech.7401} 看来人们确实害怕改变。

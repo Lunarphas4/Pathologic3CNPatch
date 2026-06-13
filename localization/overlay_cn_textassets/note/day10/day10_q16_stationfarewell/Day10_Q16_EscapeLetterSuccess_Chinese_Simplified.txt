@@ -1,0 +1,2 @@
+{Note.Day10.Day10_Q16_StationFarewell.Day10_Q16_EscapeLetterSuccess.Name} 关于逃离的便条
+{Note.Day10.Day10_Q16_StationFarewell.Day10_Q16_EscapeLetterSuccess.Description} 给丹尼尔医生：\n\n事情都归位了，倒也不说我会想你这张脸。我们说好要来一场特别的<i>散步</i>，我就直说了：<i>散步</i>已经准备好。不是今天，就再也没有。到那个地方来（你懂是哪儿），如果你还没忘的话。不过别的全忘掉吧——统统留在身后。\n\n恶徒格里夫

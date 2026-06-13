@@ -1,0 +1,3 @@
+{Npcs.patient_Poshinok_Daughter.Name} 拼布之女
+{Npcs.patient_Poshinok_Daughter.FullName} ⁠
+{Npcs.patient_Poshinok_Daughter.Description} ⁠

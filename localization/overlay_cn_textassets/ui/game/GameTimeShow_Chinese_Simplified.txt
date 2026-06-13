@@ -1,0 +1,1 @@
+{UI.Game.GameTimeShow.Resistance} 免疫：

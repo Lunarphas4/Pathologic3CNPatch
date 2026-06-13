@@ -1,0 +1,16 @@
+{Dialogs2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Victor_Void.31987} ……明天。明天。明天。
+{Dialogs2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Victor_Void.31368} 明天会发生什么，维克多？
+{Dialogs2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Victor_Void.56804} 凯恩家族的宿命论真令人震惊。他们为什么不给你安排一个看护人？简直像是在等着你一头栽进河里。
+{Dialogs2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Victor_Void.20763} 今天，你妻子坟上的纪念碑消失了。我不知道自己为什么要告诉你——只因为你有权知道。
+{Dialogs2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Victor_Void.27986} 她要来了。
+{Dialogs2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Victor_Void.13972} 什么？维克多——你听得见我吗？你明白我在说什么吗？
+{Dialogs2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Victor_Void.38988} ……明天。明天。明天。
+{Dialogs2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Victor_Void.12172} 有那么一刻，我以为又看见了你从前的眼神。看来是我看错了。
+{Dialogs2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Victor_Void.16297} “明天”什么？你在说什么？
+{Dialogs2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Victor_Void.22456} ...
+{Dialogs2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Victor_Void.40349} 我不该打扰你。
+{Dialogs2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Victor_Void.11307} 明天又会是新的一天。可你甚至不会知道。
+{Dialogs2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Victor_Void.16324} 是的。她近了。我和妮娜说过话——过几天我还会再说一次。她会回来。
+{Dialogs2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Victor_Void.40643} 妮娜！
+{Dialogs2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Victor_Void.55576} 我知道你在等她。我只是不知道，当她以这种方式回来时，你会不会高兴。
+{Dialogs2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Victor_Void.64947} 很快，你们就会重新在一起。

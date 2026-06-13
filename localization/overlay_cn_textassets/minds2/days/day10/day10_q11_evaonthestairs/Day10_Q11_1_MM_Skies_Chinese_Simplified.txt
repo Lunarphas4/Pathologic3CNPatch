@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_1_MM_Skies.Name} 高于天
+{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_1_MM_Skies.Description} 原来大教堂里还有通往屋顶的出口。我此前竟从未留意。

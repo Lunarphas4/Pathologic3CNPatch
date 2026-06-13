@@ -1,0 +1,2 @@
+{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_Woodshed.44925} 砍倒森林，木屑飞溅
+{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_Woodshed.10340} 砍倒森林，木屑飞溅

@@ -1,0 +1,12 @@
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Katerina_Interview.49514} 你……？走开……我不想见任何人。我不想让任何人看见我……这副样子。让我……只是——
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Katerina_Interview.1060} 日安，卡捷琳娜。我需要尽快为你做检查。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Katerina_Interview.16487} 我该给你什么？你想要什么？
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Katerina_Interview.1674} ——让我死吧。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Katerina_Interview.53782} 恐怕你的丈夫不会同意。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Katerina_Interview.57572} 亚历山大……亚历山大，你为什么把他带到这里来？……  走开。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Katerina_Interview.19540} 我会走——但我必须先检查你。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Katerina_Interview.45886} 我不能。我立过誓。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Katerina_Interview.19741} 你能描述一下疼痛吗？
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Katerina_Interview.60859} ……让我死吧。我想让它停下。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Katerina_Interview.27183} 要让疼痛停下，我得先弄清它的性质。我必须检查你。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Katerina_Interview.19645} 看来吗啡已经不管用了？

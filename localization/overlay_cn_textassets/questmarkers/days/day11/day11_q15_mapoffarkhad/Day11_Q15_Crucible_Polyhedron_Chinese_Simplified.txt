@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_Crucible_Polyhedron.Name} 熔炉，格奥尔基的工坊
+{QuestMarkers.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_Crucible_Polyhedron.Description} 凯恩家不可能对多面体的致命性一无所知。对吧？

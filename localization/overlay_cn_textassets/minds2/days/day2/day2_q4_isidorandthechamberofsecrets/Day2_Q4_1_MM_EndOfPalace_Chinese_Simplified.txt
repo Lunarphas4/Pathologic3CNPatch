@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_1_MM_EndOfPalace.Name} 他承受了痛苦
+{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_1_MM_EndOfPalace.Description} 凡能查的我都已查过。线索与屋外那层霉斑毫无关联。屋内会不会有？

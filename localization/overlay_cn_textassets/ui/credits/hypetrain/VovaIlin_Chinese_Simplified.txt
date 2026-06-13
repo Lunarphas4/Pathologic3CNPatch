@@ -1,0 +1,1 @@
+{UI.Credits.HypeTrain.VovaIlin.Name} Vova Ilin

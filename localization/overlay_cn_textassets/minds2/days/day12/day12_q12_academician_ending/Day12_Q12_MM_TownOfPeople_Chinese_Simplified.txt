@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_MM_TownOfPeople.Name} 属于人的镇
+{Minds2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_MM_TownOfPeople.Description} 就这样，我们携手击败了瘟疫。如今这里是一座属于活人的小镇——不再是属于可疑奇迹与非人实验的小镇。

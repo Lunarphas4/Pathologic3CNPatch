@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Lump.Name} 块石宅
+{QuestMarkers.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Lump.Description} 今日在块石宅，卡佩拉·奥尔金斯卡娅自父亲手中接过权柄。

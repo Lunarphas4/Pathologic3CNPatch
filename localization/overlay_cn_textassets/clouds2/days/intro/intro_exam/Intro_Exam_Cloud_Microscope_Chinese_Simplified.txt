@@ -1,0 +1,11 @@
+{Clouds2.Days.Intro.Intro_Exam.Intro_Exam_Cloud_Microscope.45967} 塔纳提卡设备完善。
+{Clouds2.Days.Intro.Intro_Exam.Intro_Exam_Cloud_Microscope.13894} 塔纳提卡设备完善。
+{Clouds2.Days.Intro.Intro_Exam.Intro_Exam_Cloud_Microscope.3297} 我应该从受试者身上采集血样。
+{Clouds2.Days.Intro.Intro_Exam.Intro_Exam_Cloud_Microscope.21906} 样本会给我一些线索。
+{Clouds2.Days.Intro.Intro_Exam.Intro_Exam_Cloud_Microscope.33302} 我得重新分析一次。
+{Clouds2.Days.Intro.Intro_Exam.Intro_Exam_Cloud_Microscope.54785} 幸好塔纳提卡有足够的试剂。
+{Clouds2.Days.Intro.Intro_Exam.Intro_Exam_Cloud_Microscope.32330} 不管我们怎样抱怨经费。
+{Clouds2.Days.Intro.Intro_Exam.Intro_Exam_Cloud_Microscope.21672} 实验室检测已经说明一切。
+{Clouds2.Days.Intro.Intro_Exam.Intro_Exam_Cloud_Microscope.15569} 受试者白细胞过多。
+{Clouds2.Days.Intro.Intro_Exam.Intro_Exam_Cloud_Microscope.52737} 红细胞也不足。
+{Clouds2.Days.Intro.Intro_Exam.Intro_Exam_Cloud_Microscope.29417} 白血病，致命病症。

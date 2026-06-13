@@ -1,0 +1,2 @@
+{Note.Day10.Day10_GriefConsequenceLetter_Bribe.Name} 恶徒格里夫的信
+{Note.Day10.Day10_GriefConsequenceLetter_Bribe.Description} 致我们的恩人丹尼尔！\n\n我是个诚实人，所以直说了：我不打算遵守咱们的约定。肚子空的时候顾不上开玩笑，别怪我。安心睡吧！我弄到的富贵不算多，可聪明的仓库管事能用三条小鱼喂饱众人。不像指挥部那些耗子，我不会把面包撒给风，也不会让一口吃的从饥饿的嘴边溜走。\n\n满怀感激，格里夫

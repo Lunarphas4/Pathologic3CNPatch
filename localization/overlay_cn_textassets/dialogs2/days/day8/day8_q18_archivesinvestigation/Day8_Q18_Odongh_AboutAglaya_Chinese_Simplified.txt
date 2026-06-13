@@ -1,0 +1,26 @@
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.57081} boös（兄长） 几乎枯萎了——她把他翻来覆去摆弄，uydhartay。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.11975} 她真是这样吗？在我看来，他只是爱他的女儿，仅此而已。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.2962} 女儿？我说的不是女儿。你该看看他，emshen（医者）——她一来，他就像牛一样哞叫，uydhartay，温顺得像小牛。彻底被驯服了。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.4716} 你在说什么？
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.9684} 你该看看他，emshen（医者）——她一来，他就像牛一样哞叫，uydhartay，温顺得像小牛。彻底被驯服了。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.27468} 大弗拉德……恋爱了？那倒稀奇。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.43185} 那不是爱，ene duran beshe, ene aylta——那是恐惧。布尔斯怕她割开他的喉咙。邪恶的女人，很坏，ekhe uurtay。看过这种邪恶女人的眼睛后，你必须歇一会儿，让她留下的灼伤冷却。小女主人让我们进来，好让 bide sharkhayaa delenebdi。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.30454} 又是邪恶女人的故事……我不是第一次听说她了。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.58352} 她叫什么名字？
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.33617} 她是 Shabnak-adyr（泥魔女）！不——她比Shabnak（泥魔女）更坏。她很美，看起来也完全活着。可恶意像毒一样在她体内翻腾。凡与她目光相遇的人，已经受伤。凡见过她的人，才会讲出这故事——就像我现在讲给你听。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.57749} 她为什么来？她想从大弗拉德那里得到什么？
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.30139} 她要什么，布尔斯就给什么，emshen（医者）。今天他把布拉赫守护者的手稿书交给了她。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.44664} 所以“偷走”档案的是她。难怪这里没人承认发生了什么。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.56053} 她说过为什么要那些手稿吗？
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.44540} 她让我消失，emshen（医者）。让我闭嘴，垂下眼睛。Myy ekhener, zherkheshtey。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.38307} 她离开块垒之后去了哪里？你知道她住在哪儿——在哪里能找到她吗？
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.9784} Tere khaa khaanagüy, khaanashye ügy。她无处不在，又哪里都不在，像穿堂风。只有她想让你看见时，你才会看见她，emshen（医者）。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.36674} 她显然给见过她的人留下了很深的印象。她一定是个非常了不起的女人。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.24430} 好吧，谢谢。至少我现在知道档案去了哪里。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.25065} 最美的脸上，也可能藏着恐惧。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.26362} 她是本地人？还是外来者？
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.31014} 外人，emshen（医者），最陌生的外人。比你更陌生，也比大教堂里那个可怕男人更陌生。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.59114} 什么灼伤？那个女人伤了你？
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.24082} 凡与她目光相遇的人，已经受伤。凡见过她的人，才会讲出这故事——就像我现在讲给你听。她是 Shabnak-adyr（泥魔女）！不——她比Shabnak（泥魔女）更坏。她很美，看起来也完全活着。可恶意像毒一样在她体内翻腾。
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.17138} 谁来了？你说的那个女人是谁？
+{Dialogs2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Odongh_AboutAglaya.12938} 邪恶女人，很坏，ekhe uurtay。连布尔斯都怕她割开他的喉咙。看过这种邪恶女人的眼睛后，你必须歇一会儿，让她留下的灼伤冷却。小女主人让我们进来，好让 bide sharkhayaa delenebdi。

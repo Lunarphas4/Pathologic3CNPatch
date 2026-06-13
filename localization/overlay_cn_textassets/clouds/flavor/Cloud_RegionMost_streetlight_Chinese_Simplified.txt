@@ -1,0 +1,5 @@
+{Clouds.Flavor.Cloud_RegionMost_streetlight.17796} 夜里的灯是给谁看的？
+{Clouds.Flavor.Cloud_RegionMost_streetlight.23958} 夜里的灯是给谁看的？
+{Clouds.Flavor.Cloud_RegionMost_streetlight.11185} 它的形状像多面体。
+{Clouds.Flavor.Cloud_RegionMost_streetlight.12769} 灯运转得很好：萨布罗夫正在守夜。
+{Clouds.Flavor.Cloud_RegionMost_streetlight.7522} 飞蛾扑向光。

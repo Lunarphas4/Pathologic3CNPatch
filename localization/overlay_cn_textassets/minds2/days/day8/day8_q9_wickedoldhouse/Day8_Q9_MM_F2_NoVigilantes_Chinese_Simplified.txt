@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_MM_F2_NoVigilantes.Name} 措手不及
+{Minds2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_MM_F2_NoVigilantes.Description} 我猝不及防，几乎丧命。事态已危到不能再危——必须先稳住全镇！

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_NoStamatins.Name} 共同之罪
+{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_NoStamatins.Description} 斯塔马京兄弟不会替我找地图。死路一条。

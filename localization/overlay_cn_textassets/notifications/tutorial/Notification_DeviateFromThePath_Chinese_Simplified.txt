@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_DeviateFromThePath.Name} 不安之镇
+{Notifications.Tutorial.Notification_DeviateFromThePath.Description} 我可以拐进别的拱门，但那样就得 <InputActions/Map/RemoveAllPoints> 重新规划路线，并再次徒步穿越危险城区。

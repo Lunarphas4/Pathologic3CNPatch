@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_MM_OpenPrisons.Name} 最后通牒
+{Minds2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_MM_OpenPrisons.Description} 孩子们距互相残杀只差一步。再不能这样继续！我得逼诺特金放出对头的首领。

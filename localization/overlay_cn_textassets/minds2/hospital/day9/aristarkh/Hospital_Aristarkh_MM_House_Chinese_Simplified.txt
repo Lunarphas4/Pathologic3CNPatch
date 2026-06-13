@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_House.Name} 栖所
+{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_House.Description} 好歹给了我个地址——去看看波西米亚青年是怎么过的。

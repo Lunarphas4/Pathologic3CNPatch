@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.OldNew.Day5_Q3_TownDeath.Day5_Q3_MM_FutureUnknown.Name} 保持警惕
+{ArchiveMinds.OldNew.Day5_Q3_TownDeath.Day5_Q3_MM_FutureUnknown.Description} 镇子的死亡被推迟了，但玛丽亚仍然焦虑。

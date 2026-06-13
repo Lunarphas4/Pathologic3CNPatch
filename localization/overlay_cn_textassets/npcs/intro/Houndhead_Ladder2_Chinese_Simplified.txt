@@ -1,0 +1,3 @@
+{Npcs.Intro.Houndhead_Ladder2.Name} 中尉
+{Npcs.Intro.Houndhead_Ladder2.FullName} ⁠
+{Npcs.Intro.Houndhead_Ladder2.Description} ⁠

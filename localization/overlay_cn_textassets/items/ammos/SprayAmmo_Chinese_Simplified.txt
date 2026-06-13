@@ -1,0 +1,3 @@
+{Items.Ammos.SprayAmmo.Name} 仪器电池
+{Items.Ammos.SprayAmmo.Description} 抗沙疫装置的电池。幸好它是标准量产品，不像装置本身那么稀有。如果它们供应有限，我就麻烦大了。
+{Items.Ammos.SprayAmmo.Description2} 抗沙疫装置的电池。幸好它是标准量产品，不像装置本身那么稀有。如果它们供应有限，我就麻烦大了。

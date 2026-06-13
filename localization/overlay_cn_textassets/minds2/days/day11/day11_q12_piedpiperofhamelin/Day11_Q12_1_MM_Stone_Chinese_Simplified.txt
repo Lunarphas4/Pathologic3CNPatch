@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_1_MM_Stone.Name} 石客
+{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_1_MM_Stone.Description} 这一对捣鬼之徒本想帮我把孩子们从多面体撤出。但我已另有他法。身后传来咒骂声。

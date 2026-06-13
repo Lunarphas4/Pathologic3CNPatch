@@ -1,0 +1,27 @@
+{UI.Tablet.Titles.PersonalFile} 病历
+{UI.Tablet.Titles.Inspection} 病史与诱因
+{UI.Tablet.Titles.PersonalFileDay} 天
+{UI.Tablet.Titles.Name} 名字
+{UI.Tablet.Titles.Age} 年龄
+{UI.Tablet.Titles.Status} 婚姻状况
+{UI.Tablet.Titles.Work} 职业
+{UI.Tablet.Titles.ArrivalDate} 入院日期
+{UI.Tablet.Titles.Location} 住址
+{UI.Tablet.Titles.Habits} 不良嗜好
+{UI.Tablet.Titles.Symptoms} 临床表现
+{UI.Tablet.Titles.Diagnosis} 诊断
+{UI.Tablet.Titles.SymptomsView} 疑似症状
+{UI.Tablet.Titles.Diagnoses} 诊断
+{UI.Tablet.Titles.PrevDay} 前一天
+{UI.Tablet.Titles.NextDayTab} 下一天
+{UI.Tablet.Titles.CurrentDayTab} 今天
+{UI.Tablet.Titles.AllPatientsTab} 所有病人
+{UI.Tablet.Titles.DiagnosisApproved} 诊断已确认
+{UI.Tablet.Titles.APPatients} 所有病人
+{UI.Tablet.Titles.APDay} 天
+{UI.Tablet.Titles.APDiagnosis} 诊断
+{UI.Tablet.Titles.APStatus} 状态
+{UI.Tablet.Titles.FilterAll} 全部
+{UI.Tablet.Titles.FilterInteractable} 已选择
+{UI.Tablet.Titles.SymptomsHint} 可与病人讨论已选择的症状
+{UI.Tablet.Titles.ApproveDiagnosisButton} <Key> 锁定诊断

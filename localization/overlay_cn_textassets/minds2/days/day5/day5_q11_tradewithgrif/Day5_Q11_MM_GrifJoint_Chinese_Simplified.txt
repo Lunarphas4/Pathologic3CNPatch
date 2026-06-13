@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q11_TradeWithGrif.Day5_Q11_MM_GrifJoint.Name} 格里夫的地盘
+{Minds2.Days.Day5.Day5_Q11_TradeWithGrif.Day5_Q11_MM_GrifJoint.Description} 格里夫同意和我交易，但代价会很高。

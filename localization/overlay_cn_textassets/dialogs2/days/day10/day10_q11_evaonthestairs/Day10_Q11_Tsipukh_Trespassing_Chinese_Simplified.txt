@@ -1,0 +1,14 @@
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Tsipukh_Trespassing.16557} 这是住宅，不是通道。疫病没有给你闯进别人家的权利。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Tsipukh_Trespassing.40153} 你穿着感染者的破布，但你的房子没有隔离。我应该通知护工。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Tsipukh_Trespassing.64015} 我的诊断不需要隔离。沙疫不是镇民用这些破布的唯一病症。你是首都来的医生，对吧？光凭气味你就该判断出来。你确定自己够专业吗？
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Tsipukh_Trespassing.11118} 抱歉。你的样子吓到了我，我才会这么反应。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Tsipukh_Trespassing.59061} 该死。萤火把光压暗了。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Tsipukh_Trespassing.39894} 抱歉，我在……找路。我都不确定自己为什么会来这里。还有别的出口吗？也许有条穿过房子的通道？
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Tsipukh_Trespassing.34917} 有。现在我真后悔没雇人把它封起来。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Tsipukh_Trespassing.8059} 谢谢。我会记住。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Tsipukh_Trespassing.681} 恐怕这帮不了我。我迷路了。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Tsipukh_Trespassing.7777} 麻子脸？你好。抱歉，我在……找路。我都不确定自己为什么会来这里。还有别的出口吗？也许有条穿过房子的通道？
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Tsipukh_Trespassing.3942} 该死。萤火把光压暗了。恭喜你，麻子脸。这一回你总算成功诅咒了不受欢迎的访客。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Tsipukh_Trespassing.42146} 我没有诅咒你。世上没有巫师——那只是骗愚人的高话。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Tsipukh_Trespassing.15423} 可我的机会是在跟你说话之后消失的。
+{Dialogs2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Tsipukh_Trespassing.6216} 我无意打扰你，但恐怕我还得再打扰一次。

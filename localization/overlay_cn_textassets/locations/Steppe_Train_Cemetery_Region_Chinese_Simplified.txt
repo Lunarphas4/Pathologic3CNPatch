@@ -1,0 +1,2 @@
+﻿{Locations.Steppe_Train_Cemetery_Region.Name} 火车坟场
+{Locations.Steppe_Train_Cemetery_Region.Description} 火车坟场

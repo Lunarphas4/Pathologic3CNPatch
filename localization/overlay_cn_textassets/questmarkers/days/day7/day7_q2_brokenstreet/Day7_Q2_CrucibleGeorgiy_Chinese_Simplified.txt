@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_CrucibleGeorgiy.Name} 熔炉，格奥尔基的工坊
+{QuestMarkers.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_CrucibleGeorgiy.Description} 维克多神智已失，但格奥尔基对那条神秘的街必有所知。

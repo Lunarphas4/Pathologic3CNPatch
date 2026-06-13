@@ -1,0 +1,2 @@
+{UI.Credits.Audio.EgorKorshunov.Name} Egor Korshunov
+{UI.Credits.Audio.EgorKorshunov.Description} 草原之声

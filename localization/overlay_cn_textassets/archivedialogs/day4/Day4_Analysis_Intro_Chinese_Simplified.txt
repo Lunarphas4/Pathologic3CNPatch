@@ -1,0 +1,10 @@
+﻿{ArchiveDialogs.Day4.Day4_Analysis_Intro.13483} 你有东西要分析吗？
+{ArchiveDialogs.Day4.Day4_Analysis_Intro.10521} 好，请看看这件物品。
+{ArchiveDialogs.Day4.Day4_Analysis_Intro.11686} 就叫它实验室研究吧。你给我一件东西：脏手帕、切下来的手指、一罐液体、一撮灰……
+{ArchiveDialogs.Day4.Day4_Analysis_Intro.22844} 然后呢？
+{ArchiveDialogs.Day4.Day4_Analysis_Intro.16356} 我把这件东西的本质还给你。沾满鹿血的手帕。五天前被钢锯锯下的手指。掺有砒霜的橄榄油。浸煤油烧过的牛皮。
+{ArchiveDialogs.Day4.Day4_Analysis_Intro.23976} 你用什么方法能得到如此精确的结果？
+{ArchiveDialogs.Day4.Day4_Analysis_Intro.8847} 当然是科学方法。不会科学方法的俗人只能看见一个黑箱：放入原始数据，发生魔法，然后得到结果。
+{ArchiveDialogs.Day4.Day4_Analysis_Intro.18352} 所以你把我当成俗人？
+{ArchiveDialogs.Day4.Day4_Analysis_Intro.20896} 这么说，你对审讯技巧很感兴趣？丹科夫斯基，你的问题应当是物件。这样我才会给出答案。把东西带来。
+{ArchiveDialogs.Day4.Day4_Analysis_Intro.9700} 什么分析？

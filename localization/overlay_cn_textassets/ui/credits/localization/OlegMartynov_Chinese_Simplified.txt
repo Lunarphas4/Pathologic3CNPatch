@@ -1,0 +1,2 @@
+{UI.Credits.Localization.OlegMartynov.Name} Oleg Martynov
+{UI.Credits.Localization.OlegMartynov.Description} 译者

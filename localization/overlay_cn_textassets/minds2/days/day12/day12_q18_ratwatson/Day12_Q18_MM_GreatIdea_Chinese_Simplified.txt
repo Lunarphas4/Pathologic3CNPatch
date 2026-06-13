@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q18_RatWatson.Day12_Q18_MM_GreatIdea.Name} 好主意，同意
+{Minds2.Days.Day12.Day12_Q18_RatWatson.Day12_Q18_MM_GreatIdea.Description} 鼠先知一如既往乐于相助。他只求一件事：让他进入多面体——他只想找个角落坐着。

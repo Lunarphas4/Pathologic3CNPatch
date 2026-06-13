@@ -1,0 +1,2 @@
+{Minds2.Days.Day2.Day2_Q12_1_Incense.Day2_Q12.1_MM_WrongMove.Name} 错招
+{Minds2.Days.Day2.Day2_Q12_1_Incense.Day2_Q12.1_MM_WrongMove.Description} 阿格拉娅的策略不会失手。但她过去犯过错。我需要想起来，我只需要想起来！

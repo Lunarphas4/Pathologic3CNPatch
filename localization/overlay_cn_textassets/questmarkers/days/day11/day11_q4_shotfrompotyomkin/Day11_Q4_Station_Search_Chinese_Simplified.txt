@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Station_Search.Name} 车站
+{QuestMarkers.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Station_Search.Description} 附近某处我或许能找到那几发致命炮击的根由。

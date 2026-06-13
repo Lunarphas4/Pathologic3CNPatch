@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_RubinHelpOrBlood.Name} 抉择
+{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_RubinHelpOrBlood.Description} 鲁宾不能既上手术台、又同时供血。我得在两件事中只选一件向他开口。

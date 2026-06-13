@@ -1,0 +1,5 @@
+{UI.Staffs.Graphs.Commons.Header1} 趋势
+{UI.Staffs.Graphs.Commons.Header2} 法令
+{UI.Staffs.Graphs.Commons.Legend1} 传染
+{UI.Staffs.Graphs.Commons.Legend2} 不安
+{UI.Staffs.Graphs.Commons.Sticker} 小镇大屠杀

@@ -1,0 +1,3 @@
+{StaffCommands.Critical.Day7_Critical_EventPoint.Title} 巴彻勒已死
+{StaffCommands.Critical.Day7_Critical_EventPoint.Description} 丹科夫斯基遭到杀害，瘟疫吞没了整座城。
+{StaffCommands.Critical.Day7_Critical_EventPoint.Summary} 导致传染扩散

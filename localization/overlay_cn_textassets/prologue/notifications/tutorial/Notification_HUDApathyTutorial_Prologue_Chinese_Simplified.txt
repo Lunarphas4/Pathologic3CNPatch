@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_HUDApathyTutorial_Prologue.Name} 冷漠
+{Prologue.Notifications.Tutorial.Notification_HUDApathyTutorial_Prologue.Description} 疲惫过头，我越发麻木。陷入冷漠状态后，时间扭曲，移动速度减缓，混合物消退

@@ -1,0 +1,3 @@
+{Npcs.patient_Olusha.Name} 甘妮特
+{Npcs.patient_Olusha.FullName} ⁠
+{Npcs.patient_Olusha.Description} ⁠

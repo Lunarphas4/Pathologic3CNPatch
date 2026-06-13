@@ -1,0 +1,3 @@
+{Npcs.patient_GodsFool_Evil.Name} 丑人
+{Npcs.patient_GodsFool_Evil.FullName} ⁠
+{Npcs.patient_GodsFool_Evil.Description} ⁠

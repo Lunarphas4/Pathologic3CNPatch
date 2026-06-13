@@ -1,0 +1,2 @@
+{UI.Credits.Programming.SergeyKorobko.Name} Sergey Korobko
+{UI.Credits.Programming.SergeyKorobko.Description} 首席玩法逻辑程序员

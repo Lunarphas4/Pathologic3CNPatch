@@ -1,0 +1,19 @@
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.10531} 到处都是头骨，墙边全是花圈！你们这些 zerligh amitad（野兽）！你们来到我们的土地上，践踏她，还以为大地会像爱她亲生孩子那样爱你们？好像大地分不清自己的血和披着牛皮的豺狗！
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.45044} 对，就这么继续叫吧，看看你能叫出什么！又不是我把花环挂上去的！来，拿走，把它们搬回你们的巢里去，别再冲我乱嚷！
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.42889} 你以为那些是我们的花环吗，eriyuu khun（坏人）？是你们把它们像什么 shemeglelnyyd 一样挂在这里。我从这儿都能听见Boddho（大地母亲）在地下发笑。她笑得轻蔑，bee shamda kheleneb（我说）。拿走不属于自己的东西是不对的。你们取走我们信仰的符号，却不取其意义——shi oilgonogyish。
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.48861} 别喊了。是我下令把护符挂起来的。
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.4} 你？这算哪门子医生！镇子快死了，他却拿花环和骷髅给我们治病。你最后一点脑子也烂光了吧。明天是不是要光着身子跑进草原，去迎草原神？
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.23875} 如果有用，我会去。
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.4819} 你是想死吗，emshen（医者）？偷别人的信仰，怎么能帮你救人？Bee oilgonogyib。
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.56310} 我尽我所能。如果你知道更好的办法，我很愿意听你的建议。
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.37257} …
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.27161} 我就知道。
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.38304} 我想，最重要的是照料人。
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.21144} 很好的建议。我现在就去颁布法令：“照料人”。
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.14561} 以抽象替具体，老毛病。
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.11218} 怎么？舌头被猫叼走了？
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.56820} 我没有冒犯的意思。抱歉。我会立刻撤销法令。
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.53033} 这条法令本是想让镇上的气氛轻松些。但看来适得其反。
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.29645} 解释一下，emshen（医者）。拿我们的信仰做 shog zugaa，会让你觉得气氛轻松吗？Bee oilgonogüib。
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.28316} 护符有什么问题？
+{Dialogs2.Decrees.SteppeAmulets.SteppeAmulets_NativesAndTownsfolk.19854} 哦，是你！正主来了，可以这么说。你算哪门子医生！镇子快死了，他却拿花环和骷髅给我们治病。你最后一点脑子也烂光了吧。明天是不是要光着身子跑进草原，去迎草原神？

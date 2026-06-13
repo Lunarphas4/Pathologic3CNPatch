@@ -1,0 +1,14 @@
+{UI.Staffs.Graphs.Days.None} 无
+{UI.Staffs.Graphs.Days.Day0} 第0天
+{UI.Staffs.Graphs.Days.Day1} 第1天
+{UI.Staffs.Graphs.Days.Day2} 第2天
+{UI.Staffs.Graphs.Days.Day3} 第3天
+{UI.Staffs.Graphs.Days.Day4} 第4天
+{UI.Staffs.Graphs.Days.Day5} 第5天
+{UI.Staffs.Graphs.Days.Day6} 第6天
+{UI.Staffs.Graphs.Days.Day7} 第7天
+{UI.Staffs.Graphs.Days.Day8} 第8天
+{UI.Staffs.Graphs.Days.Day9} 第9天
+{UI.Staffs.Graphs.Days.Day10} 第10天
+{UI.Staffs.Graphs.Days.Day11} 第11天
+{UI.Staffs.Graphs.Days.Day12} 第12天

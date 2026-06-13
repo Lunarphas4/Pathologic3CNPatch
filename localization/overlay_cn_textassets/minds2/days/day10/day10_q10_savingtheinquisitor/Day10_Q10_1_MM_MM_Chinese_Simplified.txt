@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_1_MM_MM.Name} 脑图
+{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_1_MM_MM.Description} 我得思考。集中精神。算清各路选择。静水观星台里有一张地图——就以它作为视像化的起点。

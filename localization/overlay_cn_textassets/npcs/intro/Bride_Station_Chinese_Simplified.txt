@@ -1,0 +1,3 @@
+{Npcs.Intro.Bride_Station.Name} 苏奥克之女
+{Npcs.Intro.Bride_Station.FullName} ⁠
+{Npcs.Intro.Bride_Station.Description} ⁠

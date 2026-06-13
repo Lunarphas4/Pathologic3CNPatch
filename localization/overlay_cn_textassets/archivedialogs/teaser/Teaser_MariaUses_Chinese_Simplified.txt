@@ -1,0 +1,9 @@
+{ArchiveDialogs.Teaser.Teaser_MariaUses.11300} 出了错误。有些蠢货把祖父埋在了墓地。甚至没给他立墓碑。这是对我家族和整座城市无法想象的羞辱。
+{ArchiveDialogs.Teaser.Teaser_MariaUses.1927} 您的祖父？西蒙·凯恩？
+{ArchiveDialogs.Teaser.Teaser_MariaUses.30636} 是。您必须把他从那个肮脏的坑里弄出来。凯恩该在岬角，在家人身边。祖父应该得到全部礼遇，而不是任人用靴子踩。
+{ArchiveDialogs.Teaser.Teaser_MariaUses.10617} 恐怕这只有您的家族办得到。
+{ArchiveDialogs.Teaser.Teaser_MariaUses.32008} 现在墓地归您管。那就帮忙。而他们不会把遗体交给我们——这违背传统。
+{ArchiveDialogs.Teaser.Teaser_MariaUses.366} 去他的传统。
+{ArchiveDialogs.Teaser.Teaser_MariaUses.20680} 我会想办法。
+{ArchiveDialogs.Teaser.Teaser_MariaUses.24362} 为什么是我？
+{ArchiveDialogs.Teaser.Teaser_MariaUses.31527} 您想让我找到他的坟墓？

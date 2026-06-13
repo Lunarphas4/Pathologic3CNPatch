@@ -1,0 +1,4 @@
+﻿{UI.CharacterWindow.Tooltips.IsidorTooltips.Death} 伊西多尔·布拉赫在我抵达镇上的前一天被杀
+{UI.CharacterWindow.Tooltips.IsidorTooltips.Intro} 伊西多尔·布拉赫是镇上最好的医生，是他把我从首都召来
+{UI.CharacterWindow.Tooltips.IsidorTooltips.FirstOutbreak} 伊西多尔·布拉赫在五年前阻止了瘟疫。没人知道还能怎样迎战它
+{UI.CharacterWindow.Tooltips.IsidorTooltips.Plague} 伊西多尔·布拉赫放任瘟疫发生，也是第一个带来其种子的人

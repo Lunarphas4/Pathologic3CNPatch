@@ -1,0 +1,2 @@
+{Prologue.Notifications.Logo.Notification_Prologue_Logo_2.Name} ⁠
+{Prologue.Notifications.Logo.Notification_Prologue_Logo_2.Description} 我为了验证理论，前往草原小镇调查一名与众不同的长寿老人西蒙·凯恩，却不知已踏入陷阱。我刚到那里，一种未知疾病就袭击了小镇。

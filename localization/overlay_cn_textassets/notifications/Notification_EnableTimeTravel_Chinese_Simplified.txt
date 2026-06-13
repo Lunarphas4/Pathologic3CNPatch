@@ -1,0 +1,2 @@
+{Notifications.Notification_EnableTimeTravel.Name} 时间回溯已开启
+{Notifications.Notification_EnableTimeTravel.Description} 今日可通过镇上任意时钟进行时间旅行。

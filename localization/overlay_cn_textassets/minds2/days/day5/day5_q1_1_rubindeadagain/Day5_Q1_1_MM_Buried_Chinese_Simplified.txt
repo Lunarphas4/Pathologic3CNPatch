@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q1_1_RubinDeadAgain.Day5_Q1_1_MM_Buried.Name} 重复两次的笑话
+{Minds2.Days.Day5.Day5_Q1_1_RubinDeadAgain.Day5_Q1_1_MM_Buried.Description} ……我简直不敢相信！鲁宾昨天似乎是被活埋了。他招来仇敌的速度真快。

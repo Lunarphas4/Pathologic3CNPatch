@@ -1,0 +1,2 @@
+{PersonalFiles.Day10.Kira.Name} 基拉
+{PersonalFiles.Day10.Kira.Description} 比起自己，她更担心雇主那些见不得光的交易。

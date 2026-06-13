@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_PropsMetabolismTutorial.Name} 物之世界
+{Notifications.Tutorial.Notification_PropsMetabolismTutorial.Description} 与特定物件 <InputActions/Interact/DefaultInteract> 互动会影响心境。进入 <InputActions/Weapon/Tags> 聚精模式便容易看见它们。

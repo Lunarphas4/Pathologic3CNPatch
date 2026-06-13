@@ -1,0 +1,7 @@
+﻿{UI.Menu.Settings.Values.LanguageIds.None} 无
+{UI.Menu.Settings.Values.LanguageIds.Russian} 俄语
+{UI.Menu.Settings.Values.LanguageIds.English} 英语
+{UI.Menu.Settings.Values.LanguageIds.German} 德语
+{UI.Menu.Settings.Values.LanguageIds.Portuguese_Br} 巴西葡萄牙语
+{UI.Menu.Settings.Values.LanguageIds.Italian} 意大利语
+{UI.Menu.Settings.Values.LanguageIds.Chinese_Simplified} 简体中文

@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day6.Day6_Q2_Kidnapping.Day6_Q2_IsidorYard.Name} 后躯区院落
+{QuestMarkers.Days.Day6.Day6_Q2_Kidnapping.Day6_Q2_IsidorYard.Description} 安娜·安琪尔说孩子喜欢聚在她家附近。

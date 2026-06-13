@@ -1,0 +1,2 @@
+{UI.Credits.Localization.DanaKirilenko.Name} Dana Kirilenko
+{UI.Credits.Localization.DanaKirilenko.Description} 译者

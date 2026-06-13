@@ -1,0 +1,4 @@
+{Clouds.Flavor.Cloud_Administration_Map.17796} 不过是一座小小的城镇。
+{Clouds.Flavor.Cloud_Administration_Map.11185} 不过是一座小小的城镇。
+{Clouds.Flavor.Cloud_Administration_Map.12104} 他们计划在河对岸开发。
+{Clouds.Flavor.Cloud_Administration_Map.11103} 那座不可能的塔是最醒目的地标。

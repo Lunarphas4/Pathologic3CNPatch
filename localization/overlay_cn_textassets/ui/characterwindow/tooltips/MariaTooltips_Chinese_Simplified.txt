@@ -1,0 +1,7 @@
+{UI.CharacterWindow.Tooltips.MariaTooltips.Intro} 未来的“黑暗之女主人”
+{UI.CharacterWindow.Tooltips.MariaTooltips.Revenge} 第8天，发誓为父亲之死复仇
+{UI.CharacterWindow.Tooltips.MariaTooltips.Prophecy} 第9天夜里，预言了审判官的死亡
+{UI.CharacterWindow.Tooltips.MariaTooltips.Insomnious} 第9天，失去了做预言梦的能力
+{UI.CharacterWindow.Tooltips.MariaTooltips.Friendship} 第10天，与审判官结为朋友
+{UI.CharacterWindow.Tooltips.MariaTooltips.HeadOfFamily} 第12天，带领凯恩家族走向新镇
+{UI.CharacterWindow.Tooltips.MariaTooltips.Ordinary} 第12天，不再是女主人

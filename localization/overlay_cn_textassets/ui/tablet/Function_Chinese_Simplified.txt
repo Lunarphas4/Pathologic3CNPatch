@@ -1,0 +1,2 @@
+{UI.Tablet.Function.None} ⁠
+{UI.Tablet.Function.Workless} 无业

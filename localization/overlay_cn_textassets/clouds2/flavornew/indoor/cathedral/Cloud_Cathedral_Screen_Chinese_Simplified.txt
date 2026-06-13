@@ -1,0 +1,4 @@
+{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_Screen.44925} 如果城镇死去，它会留在电影画面里
+{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_Screen.10340} 如果城镇死去，它会留在电影画面里
+{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_Screen.56689} 这难道不是亵渎？
+{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_Screen.61752} 这难道不是不朽？

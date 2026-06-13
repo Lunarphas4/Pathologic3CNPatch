@@ -1,0 +1,9 @@
+{Dialogs2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_Maria_AboutBody.57025} 你现在又想要什么，恩-丹尼尔？今天的会面已经结束了。
+{Dialogs2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_Maria_AboutBody.27345} 西蒙的尸体被偷走了，这是真的吗？
+{Dialogs2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_Maria_AboutBody.46473} ……就算<i>真</i>是这样，你觉得我会和<i>你</i>讨论我已故叔叔的尸体？好像……好像他只是头走丢的公牛，或者一个被不太诚实的女仆盯上的<i>钱包</i>一样？！
+{Dialogs2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_Maria_AboutBody.14694} 你想把他找出来，不是吗？我也是。
+{Dialogs2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_Maria_AboutBody.58444} 我可以告诉你这一点：你对我叔叔消失这件事的理解还太肤浅了！他的尸体，就算它真的还存在，也没那么重要。我依旧能感觉到……某种活着的东西。那更像是一声<i>叹息</i>，而不是一块肉！
+{Dialogs2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_Maria_AboutBody.9714} 不管怎样，我们都得把伊西多尔的书房打开。它既然锁着，就一定有它的理由。
+{Dialogs2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_Maria_AboutBody.51532} 听起来你根本不相信你叔叔已经死了。
+{Dialogs2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_Maria_AboutBody.23815} 西蒙的尸体会不会就藏在这栋房子里？
+{Dialogs2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_Maria_AboutBody.15239} 西蒙的尸体会不会就藏在这栋房子里？

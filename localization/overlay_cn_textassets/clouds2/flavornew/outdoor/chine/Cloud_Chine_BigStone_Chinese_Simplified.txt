@@ -1,0 +1,3 @@
+{Clouds2.FlavorNew.Outdoor.Chine.Cloud_Chine_BigStone.44925} 巨石是古代冰川拖进草原的
+{Clouds2.FlavorNew.Outdoor.Chine.Cloud_Chine_BigStone.10340} 巨石是古代冰川拖进草原的
+{Clouds2.FlavorNew.Outdoor.Chine.Cloud_Chine_BigStone.56689} 奇异的轮廓是后世文化的手笔

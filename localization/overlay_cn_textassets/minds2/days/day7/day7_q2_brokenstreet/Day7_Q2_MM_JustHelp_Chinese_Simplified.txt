@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_JustHelp.Name} 完全照线行事
+{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_JustHelp.Description} 维克多原本只想用工程手段干预命运，让镇民的生活多些变化。结果——并未如他所愿。

@@ -1,0 +1,3 @@
+﻿{Npcs.Foreman_Oyun.Name} 奥伊温
+{Npcs.Foreman_Oyun.FullName} 屠宰场工头
+{Npcs.Foreman_Oyun.Description} 奥尔金斯基屠宰场里的一名工人。\n体格魁梧之人，引人重重生疑，却引不起任何兴致。

@@ -1,0 +1,2 @@
+﻿{Locations.Peter_Stomatin.Name} 斯塔马京的阁楼
+{Locations.Peter_Stomatin.Description} 斯塔马京的阁楼

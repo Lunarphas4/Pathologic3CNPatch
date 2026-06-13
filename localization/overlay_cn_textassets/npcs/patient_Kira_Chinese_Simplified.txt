@@ -1,0 +1,3 @@
+{Npcs.patient_Kira.Name} 基拉
+{Npcs.patient_Kira.FullName} ⁠
+{Npcs.patient_Kira.Description} ⁠

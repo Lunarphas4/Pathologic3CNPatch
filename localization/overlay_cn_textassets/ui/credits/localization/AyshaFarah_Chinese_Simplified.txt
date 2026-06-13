@@ -1,0 +1,2 @@
+{UI.Credits.Localization.AyshaFarah.Name} Aysha U. Farah
+{UI.Credits.Localization.AyshaFarah.Description} 翻译编辑（英语）

@@ -1,0 +1,3 @@
+﻿{Items.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Vaccine_Analyser.Name} “死粥”（已检查）
+{Items.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Vaccine_Analyser.Description} 小奥利吉姆斯基的致命“疫苗”
+{Items.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Vaccine_Analyser.Description2} 一团令人作呕的混合物，里面有脂肪块、染疫组织和用来遮味的脏草药。也许能帮到草原虫民，但会伤害人类。

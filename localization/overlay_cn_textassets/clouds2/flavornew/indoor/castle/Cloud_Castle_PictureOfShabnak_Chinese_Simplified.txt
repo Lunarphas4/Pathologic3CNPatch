@@ -1,0 +1,5 @@
+{Clouds2.FlavorNew.Indoor.Castle.Cloud_Castle_PictureOfShabnak.44925} 想不起脸了？
+{Clouds2.FlavorNew.Indoor.Castle.Cloud_Castle_PictureOfShabnak.10340} 想不起脸了？
+{Clouds2.FlavorNew.Indoor.Castle.Cloud_Castle_PictureOfShabnak.56689} 当然，孩子们画的是Shabnak（泥魔女）
+{Clouds2.FlavorNew.Indoor.Castle.Cloud_Castle_PictureOfShabnak.50695} 她是他们神话的一部分
+{Clouds2.FlavorNew.Indoor.Castle.Cloud_Castle_PictureOfShabnak.61752} 她并不真实存在

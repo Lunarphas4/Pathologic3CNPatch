@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q0_DeadTown.Day6_Q0_MM_NoTomorrow.Name} 末日当下
+{Minds2.Days.Day6.Day6_Q0_DeadTown.Day6_Q0_MM_NoTomorrow.Description} 新的一天，或许不会到来。

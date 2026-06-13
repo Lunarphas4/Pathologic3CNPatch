@@ -1,0 +1,2 @@
+{UI.Credits.PR.AlexanderMitin.Name} Alexander Mitin
+{UI.Credits.PR.AlexanderMitin.Description} 公关专员, Video Editor, Presentation Designer

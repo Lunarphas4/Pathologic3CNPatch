@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Loyalty.Name} 忠于使命
+{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Loyalty.Description} 雅科夫·利特尔愿即刻配制血清——但布洛克明令禁止任何医疗操作。

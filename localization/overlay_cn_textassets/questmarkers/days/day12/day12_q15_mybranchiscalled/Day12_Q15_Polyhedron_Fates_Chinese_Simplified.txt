@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Polyhedron_Fates.Name} 多面体
+{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Polyhedron_Fates.Description} 多面体里还有一些我尚未得知的命运。

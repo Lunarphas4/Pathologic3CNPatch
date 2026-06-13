@@ -1,0 +1,5 @@
+﻿{UI.CharacterWindow.Tooltips.EvaTooltips.DeathAlways} 自第1天起就已经死了
+{UI.CharacterWindow.Tooltips.EvaTooltips.Death} 第10天，为证明并无死亡而从大教堂跃下
+{UI.CharacterWindow.Tooltips.EvaTooltips.Intro} 静水观星台的女主人
+{UI.CharacterWindow.Tooltips.EvaTooltips.IntroLiminal} 镇上从来没有人用过这个名字
+{UI.CharacterWindow.Tooltips.EvaTooltips.DeadPresent} 第10天，没有死

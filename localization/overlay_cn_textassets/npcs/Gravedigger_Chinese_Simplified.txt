@@ -1,0 +1,3 @@
+{Npcs.Gravedigger.Name} 掘墓人
+{Npcs.Gravedigger.FullName} ⁠
+{Npcs.Gravedigger.Description} ⁠

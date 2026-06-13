@@ -1,0 +1,2 @@
+{UI.Analyser.Labels.Material} 材料
+{UI.Analyser.Labels.MaterialExplore} 已检查材料

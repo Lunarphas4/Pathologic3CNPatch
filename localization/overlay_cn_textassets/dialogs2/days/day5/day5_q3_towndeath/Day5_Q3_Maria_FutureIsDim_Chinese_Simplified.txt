@@ -1,0 +1,13 @@
+{Dialogs2.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_Maria_FutureIsDim.5954} “这座城将接受自己死于西蒙的杀手之手。”这话很有道理，因为它的意思是，只要西蒙还活着，这座城也会活着。
+{Dialogs2.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_Maria_FutureIsDim.21103} 这是个错误的三段论。
+{Dialogs2.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_Maria_FutureIsDim.55345} 别和我争了。我觉得叔叔正在以血肉之躯行走于这座城中；我也觉得，我们被赐予了一个明天。从现在起，一切都会不同。
+{Dialogs2.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_Maria_FutureIsDim.6812} 玛利亚，这件事非常重要。请集中精神。你是否有<i>任何</i>证据证明西蒙还活着？
+{Dialogs2.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_Maria_FutureIsDim.2798} 除了他，还有谁能改变我们的命运？
+{Dialogs2.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_Maria_FutureIsDim.23336} 我就可以。应急指挥部已经由我接管。我们原本注定毁灭的未来，也因此让位给了希望。
+{Dialogs2.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_Maria_FutureIsDim.25451} 这座城一直都有明天。是你太早屈服于绝望了。
+{Dialogs2.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_Maria_FutureIsDim.29744} 没错。因为我掌握了权威，接管了应急指挥部。
+{Dialogs2.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_Maria_FutureIsDim.55855} 所以你觉得自己是我们未来的作者，恩-丹尼尔……？我想，这也不是不可能。\n\n可我仍相信，我叔叔的呼吸与这一切纠缠得更深。
+{Dialogs2.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_Maria_FutureIsDim.42539} 从某种意义上说，是的。毕竟，我正是因为他才来到这座城。
+{Dialogs2.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_Maria_FutureIsDim.160} 所以你也觉得，我们可能原本注定要完蛋……我也有这种感觉。
+{Dialogs2.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_Maria_FutureIsDim.744} 可西蒙已经死了。我知道他的尸体后来变成了什么。
+{Dialogs2.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_Maria_FutureIsDim.1914} 你还是坚信你叔叔的死是一场摆拍骗局吗？

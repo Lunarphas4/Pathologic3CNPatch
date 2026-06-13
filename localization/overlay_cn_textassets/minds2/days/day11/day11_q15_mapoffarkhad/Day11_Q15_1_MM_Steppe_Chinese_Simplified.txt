@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_Steppe.Name} 草原仍念法尔哈德
+{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_Steppe.Description} 他爬入地下绘制地图。地图佚失，但法尔哈德把这一发现告诉了他最好的"敌人"——斯塔马京兄弟。

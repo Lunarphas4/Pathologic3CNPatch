@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q9_SimonExhumation.Day6_Q9_MM_Burial.Name} 丧葬
+{Minds2.Days.Day6.Day6_Q9_SimonExhumation.Day6_Q9_MM_Burial.Description} 据说西蒙是在我抵达那天下葬的——果真如此吗？

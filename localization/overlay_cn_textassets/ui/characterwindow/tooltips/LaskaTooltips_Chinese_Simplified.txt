@@ -1,0 +1,3 @@
+﻿{UI.CharacterWindow.Tooltips.LaskaTooltips.Intro} 镇墓园年轻的看守
+{UI.CharacterWindow.Tooltips.LaskaTooltips.Peter} 第8天起，在墓园庇护逃亡的斯塔马京
+{UI.CharacterWindow.Tooltips.LaskaTooltips.Dead} 第12天，悼念镇上的死者

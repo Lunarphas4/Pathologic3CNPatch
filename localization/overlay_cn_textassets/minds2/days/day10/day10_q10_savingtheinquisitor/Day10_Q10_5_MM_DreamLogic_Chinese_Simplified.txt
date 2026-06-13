@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_5_MM_DreamLogic.Name} 梦之逻辑
+{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_5_MM_DreamLogic.Description} 假设玛丽亚做了一个梦并依梦行事。又怎么对抗一个梦？也许年轻的卡佩拉知道。

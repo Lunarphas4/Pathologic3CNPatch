@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q10_FalseExecution.Day8_Q10_MM_ExileToSiberia.Name} 以流放代刑
+{Minds2.Days.Day8.Day8_Q10_FalseExecution.Day8_Q10_MM_ExileToSiberia.Description} 也许孩子们只是在玩？但如果我不插手——他们一旦自己把自己推到火上，必会把对手活活烧死。

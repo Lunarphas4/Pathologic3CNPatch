@@ -1,0 +1,5 @@
+{Clouds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_Cloud_SoldierBed.15536} 死去士兵原先的床铺
+{Clouds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_Cloud_SoldierBed.33415} 死去士兵原先的床铺
+{Clouds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_Cloud_SoldierBed.42271} 卡什金列兵过得真阔！
+{Clouds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_Cloud_SoldierBed.4633} 双层铺离地太近
+{Clouds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_Cloud_SoldierBed.57956} 比流浪汉强不了多少

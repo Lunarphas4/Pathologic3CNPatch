@@ -1,0 +1,3 @@
+{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Blood.Name} 备用供血者
+{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Blood.Description} 满是鲜血的箱柜。
+{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Blood.Description2} 满是鲜血的箱柜。

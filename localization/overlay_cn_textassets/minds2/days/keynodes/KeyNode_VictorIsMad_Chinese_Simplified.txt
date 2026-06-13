@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_VictorIsMad.Name} 聪明的头脑
+{Minds2.Days.KeyNodes.KeyNode_VictorIsMad.Description} 审判官剥夺了维克多·凯恩的意识与理智。

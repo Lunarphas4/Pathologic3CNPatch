@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_ChildrenWar.Name} 残酷的游戏
+{Minds2.Days.KeyNodes.KeyNode_ChildrenWar.Description} 孩童帮派之间已是真正的战争——他们在自相残杀。

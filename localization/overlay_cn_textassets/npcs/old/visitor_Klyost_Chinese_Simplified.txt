@@ -1,0 +1,3 @@
+{Npcs.Old.visitor_Klyost.Name} ⁠
+{Npcs.Old.visitor_Klyost.FullName} ⁠
+{Npcs.Old.visitor_Klyost.Description} ⁠

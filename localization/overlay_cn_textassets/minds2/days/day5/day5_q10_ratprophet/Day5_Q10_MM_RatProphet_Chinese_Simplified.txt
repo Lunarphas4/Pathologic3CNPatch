@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q10_RatProphet.Day5_Q10_MM_RatProphet.Name} 奇迹
+{Minds2.Days.Day5.Day5_Q10_RatProphet.Day5_Q10_MM_RatProphet.Description} 据卡捷琳娜·萨布罗娃说，夜里在通天阶上，我可以用铃召来鼠先知。

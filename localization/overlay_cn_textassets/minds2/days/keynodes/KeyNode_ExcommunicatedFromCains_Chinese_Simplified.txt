@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_ExcommunicatedFromCains.Name} 放逐
+{Minds2.Days.KeyNodes.KeyNode_ExcommunicatedFromCains.Description} 西蒙·凯恩的家族已将我逐出家门与友谊之外。然而年轻一辈的凯恩并不遵此禁令。

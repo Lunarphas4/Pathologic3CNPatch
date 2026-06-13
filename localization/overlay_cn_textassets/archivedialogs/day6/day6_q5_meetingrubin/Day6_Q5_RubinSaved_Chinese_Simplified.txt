@@ -1,0 +1,14 @@
+{ArchiveDialogs.Day6.Day6_Q5_MeetingRubin.Day6_Q5_RubinSaved.25882} 我是来帮忙的。
+{ArchiveDialogs.Day6.Day6_Q5_MeetingRubin.Day6_Q5_RubinSaved.397} 你怎么到这里来了？
+{ArchiveDialogs.Day6.Day6_Q5_MeetingRubin.Day6_Q5_RubinSaved.3728} 野上，丹科夫斯基。我是医生。有什么问题吗？
+{ArchiveDialogs.Day6.Day6_Q5_MeetingRubin.Day6_Q5_RubinSaved.2503} 你答应向该隐坦白。后来他们怎么放你走的？
+{ArchiveDialogs.Day6.Day6_Q5_MeetingRubin.Day6_Q5_RubinSaved.14568} 没有凯恩斯就很糟糕了。我能提供最后的帮助吗？
+{ArchiveDialogs.Day6.Day6_Q5_MeetingRubin.Day6_Q5_RubinSaved.27658} 你答应过我的！
+{ArchiveDialogs.Day6.Day6_Q5_MeetingRubin.Day6_Q5_RubinSaved.1498} 最后？
+{ArchiveDialogs.Day6.Day6_Q5_MeetingRubin.Day6_Q5_RubinSaved.12060} 我们就不要它了，好吗？我正在等待订单、时间表——你们有什么可以处理的？
+{ArchiveDialogs.Day6.Day6_Q5_MeetingRubin.Day6_Q5_RubinSaved.6683} 昨天你不是胆小鬼。
+{ArchiveDialogs.Day6.Day6_Q5_MeetingRubin.Day6_Q5_RubinSaved.32180} 他妈的。乔治让我走。他说：“医院是最好的死地。你从明天开始。”还有其他问题吗？
+{ArchiveDialogs.Day6.Day6_Q5_MeetingRubin.Day6_Q5_RubinSaved.29292} 现在很清楚了。出色地。勤务兵将为您做准备。
+{ArchiveDialogs.Day6.Day6_Q5_MeetingRubin.Day6_Q5_RubinSaved.2682} 你的表情让你无法立即明白这是讽刺。
+{ArchiveDialogs.Day6.Day6_Q5_MeetingRubin.Day6_Q5_RubinSaved.14709} 我有助手。他们会告诉你一切。
+{ArchiveDialogs.Day6.Day6_Q5_MeetingRubin.Day6_Q5_RubinSaved.14851} 该隐一家什么都不知道，是吗？

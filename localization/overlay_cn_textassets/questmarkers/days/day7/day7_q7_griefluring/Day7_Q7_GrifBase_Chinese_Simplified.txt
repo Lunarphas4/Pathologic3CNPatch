@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_GrifBase.Name} 格里夫的老巢
+{QuestMarkers.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_GrifBase.Description} 据说格里夫躲了起来。可不从他老巢着手——还能从哪开始找？

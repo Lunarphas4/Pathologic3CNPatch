@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_ChildrenAreDead.Name} 他人之负
+{Minds2.Days.KeyNodes.KeyNode_ChildrenAreDead.Description} 先前由布拉赫庇护的孩子们被瘟疫带走了。

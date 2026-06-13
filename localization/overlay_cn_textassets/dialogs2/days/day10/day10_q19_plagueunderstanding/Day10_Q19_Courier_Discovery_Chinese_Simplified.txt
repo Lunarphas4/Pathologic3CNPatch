@@ -1,0 +1,15 @@
+{Dialogs2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_Courier_Discovery.65501} 医生先生！我又在找您！快到医——院去，他们在叫您！
+{Dialogs2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_Courier_Discovery.60169} 啊——又是你。医院出了什么事？别告诉我他们又发现了一个病人。
+{Dialogs2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_Courier_Discovery.5701} 谁在找我？
+{Dialogs2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_Courier_Discovery.43397} 我哥哥。雅什卡。哦！我是说雅科夫——很重要的人！差不多像你一样，只不过他是我们的人。本地的。
+{Dialogs2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_Courier_Discovery.9702} 你是小不点的弟弟？
+{Dialogs2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_Courier_Discovery.52433} 我就是小不点！最好的姓氏，对吧？别人都鼓着腮帮子，给自己编聪明外号——我们一开始就有。 我和雅什卡……我是说雅科夫。哎呀。
+{Dialogs2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_Courier_Discovery.58312} 同意——好姓氏。我羡慕你。还有你哥哥——他是正经人。
+{Dialogs2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_Courier_Discovery.12476} 我就是这么说的。他说你必须去医院——那里有样东西，特别科学。科学的东西也会紧急吗？我一直以为科学就是在架子上落灰……可雅什卡——我哥哥——说它很急。
+{Dialogs2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_Courier_Discovery.57832} 所以你今天见过雅科夫？那么。再去见他一次——就在医院，我准了。今天……工作不多。有时间单纯说说话。谁知道以后还有没有。
+{Dialogs2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_Courier_Discovery.4397} 你真善良。可疑！你必须去医院——那里有样东西，特别科学。科学的东西也会紧急吗？我一直以为科学就是在架子上落灰……可雅什卡——我哥哥——说它很急。
+{Dialogs2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_Courier_Discovery.62603} 那他找我做什么？别告诉我他们又发现了一个病人。
+{Dialogs2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_Courier_Discovery.27946} 不——不是病人！那里有样东西，特别科学。科学的东西也会紧急吗？我一直以为科学就是在架子上落灰……可雅什卡——我哥哥——说它很急。
+{Dialogs2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_Courier_Discovery.50378} 如果科学只会待在架子上积灰，这座镇子早就撑不到现在。
+{Dialogs2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_Courier_Discovery.31728} 科学的，而且紧急。嗯。我会赶过去。
+{Dialogs2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_Courier_Discovery.19285} 谢谢你。也谢谢你哥哥。

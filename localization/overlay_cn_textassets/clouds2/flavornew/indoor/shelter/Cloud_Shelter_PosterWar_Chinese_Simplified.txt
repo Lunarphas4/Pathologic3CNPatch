@@ -1,0 +1,5 @@
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_PosterWar.44925} 看到航空宣传海报真奇怪
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_PosterWar.10340} 看到航空宣传海报真奇怪
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_PosterWar.56689} 仿佛飞机在城镇上空会撑不住似的
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_PosterWar.19574} 这里还没发明飞机
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_PosterWar.61752} 比空气更重还能升空的，只有斯塔马金兄弟的造物

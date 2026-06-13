@@ -1,0 +1,12 @@
+{Dialogs2.Citizens.Citizens_Man_Apathy.2962} 喂，朋友，你还好吗？
+{Dialogs2.Citizens.Citizens_Man_Apathy.8081} 嗯？什么？
+{Dialogs2.Citizens.Citizens_Man_Apathy.8461} 你脸色发白。该去看看医生。
+{Dialogs2.Citizens.Citizens_Man_Apathy.32042} 我就是医生。
+{Dialogs2.Citizens.Citizens_Man_Apathy.30714} 啊，明白了。给别人治病，却顾不上自己。你该吃点药，你脸色糟透了。
+{Dialogs2.Citizens.Citizens_Man_Apathy.633} 是啊，也许该吃点。情感淡漠，什么都不想做。这症状不妙。
+{Dialogs2.Citizens.Citizens_Man_Apathy.31092} 嗯——嗯——嗯——嗯。
+{Dialogs2.Citizens.Citizens_Man_Apathy.31034} 我怕是撑不住了。太累了。
+{Dialogs2.Citizens.Citizens_Man_Apathy.15713} 你该吃点药，你脸色糟透了。
+{Dialogs2.Citizens.Citizens_Man_Apathy.668} 只是有点累。没什么。
+{Dialogs2.Citizens.Citizens_Man_Apathy.28685} 我不知道。
+{Dialogs2.Citizens.Citizens_Man_Apathy.24395} 也不算，不。

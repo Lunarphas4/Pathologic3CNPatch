@@ -1,0 +1,130 @@
+﻿source_term	cn_term	style_bucket	priority	voice_rule	bucket_notes	wiki_anchor	character_note	source_key
+Aglaya Lilich	阿格拉娅	capital_authority	major	冷、硬、程序清楚，像在裁定、分责和宣告边界。	首都审查、法度、调查、裁决相关角色；优先给人“制度压人”的感觉，不写成空官腔。	https://pathologic.fandom.com/wiki/Aglaya_Lilich	不是在商量，而是在给别人最后一次理解规则的机会。	Npcs.Aglaya.Name
+Andrey Stamatin	安德烈·斯塔马京	utopian_bohemian	major	聪明、戏剧化、带自我展示欲，也带危险和失衡。	适用于斯塔马京兄弟、马克、伊娃等舞台感或审美感强的人；保留魅力、夸张和失稳边缘。	https://pathologic.fandom.com/wiki/Peter_Stamatin	热、放肆、带酒气和挑衅，像先撞过去再说。	Npcs.AndreyStamatin.Name
+Anna Angel	安娜·安琪尔	humble_haunted	major	轻、紧、带裂口和不安，像秘密在句子里漏风。	适用于安娜、卡捷琳娜、阿斯皮蒂等带强烈不安或神秘压力的人；允许停顿和漂移，但不能写乱。	https://pathologic.fandom.com/wiki/Anna_Angel	轻、飘、藏一半真相，像先闻风向再开口。	Npcs.Anna.Name
+Odongh	奥东	kin_mystic	major	像仪式、土地和身体隐喻借人开口，允许非人感。	适用于新娘、虫民、白化者等近神秘非人角色；可以有咒语感，但每句意向必须清楚。	https://pathologic.fandom.com/wiki/Herb_Brides	更像仪式和土地借人发声，不写成普通镇民。	Npcs.Odong.Name
+Vlad Olgimsky	奥尔金斯基	olgimsky_family	major	稳、重、讲掌控和继承，产业与家产的现实感很强。	适用于奥尔金斯基家族及其直接影响范围；比凯恩家更落地、更占有、更讲安排和控制。	https://pathologic.fandom.com/wiki/Big_Vlad	重、务实、带产业家长的控制欲。	Npcs.Olgimsky.Name
+Dash-hound	巴迪	doghead_children	secondary	成群、野、冲，带少年帮派和犬群起哄感。	狗头孩子及其分支别名统一按这一组处理；重点是团伙感、野性和互相起哄的热度。	https://pathologic.fandom.com/wiki/Children		Npcs.HoundheadMessenger.Name
+Rook	白嘴鸦	children_liminal	major	轻、怪、安静，像半只脚踩在现实边缘的孩子。	适用于格蕾丝、米什卡、小钉、滴答及其同类别名；保留异感和超龄洞察，不写成甜腻儿童腔。	https://pathologic.fandom.com/wiki/Grace	孩子气里带异感，像从现实边缘探头说话。	Npcs.Grach.Name
+Switchman	扳道工	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Signalman.Name
+Tragedian	悲剧演员	theatre_mythic	secondary	仪式化、寓言化，但每句仍要让人听懂。	适用于执行者、悲剧演员、死亡化身等舞台或寓言角色；可抬高气氛，但不能只剩谜语。	https://pathologic.fandom.com/wiki/Tragedian		Npcs.Tragedian.Name
+Peter Stamatin	彼得·斯塔马京	utopian_bohemian	major	聪明、戏剧化、带自我展示欲，也带危险和失衡。	适用于斯塔马京兄弟、马克、伊娃等舞台感或审美感强的人；保留魅力、夸张和失稳边缘。	https://pathologic.fandom.com/wiki/Peter_Stamatin	天才、自毁、漂亮而危险的夸张。	Npcs.PetrStamatin.Name
+Bobok	病人波波克	patient_alias	secondary	病体感优先于鲜明个性，脆弱、扭曲或症状化都可以。	适用于名字前带“病人”或明显源自 patient 资源的角色；先让疾病压住人，再让人从病里露头。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.patient_GodsFool.Name
+Sharp	病人嘲鸫	patient_alias	secondary	病体感优先于鲜明个性，脆弱、扭曲或症状化都可以。	适用于名字前带“病人”或明显源自 patient 资源的角色；先让疾病压住人，再让人从病里露头。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Tolkoviy.Name
+Patchwork	病人红腹灰雀	patient_alias	secondary	病体感优先于鲜明个性，脆弱、扭曲或症状化都可以。	适用于名字前带“病人”或明显源自 patient 资源的角色；先让疾病压住人，再让人从病里露头。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.patient_Poshinok.Name
+Aristarkh	病人鸿雁	patient_alias	secondary	病体感优先于鲜明个性，脆弱、扭曲或症状化都可以。	适用于名字前带“病人”或明显源自 patient 资源的角色；先让疾病压住人，再让人从病里露头。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.SickAristarh.Name
+Swangoose	病人鸿雁	patient_alias	secondary	病体感优先于鲜明个性，脆弱、扭曲或症状化都可以。	适用于名字前带“病人”或明显源自 patient 资源的角色；先让疾病压住人，再让人从病里露头。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Aristarh.Name
+Tawpie	病人塞壬	patient_alias	secondary	病体感优先于鲜明个性，脆弱、扭曲或症状化都可以。	适用于名字前带“病人”或明显源自 patient 资源的角色；先让疾病压住人，再让人从病里露头。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.patient_Mirosya.Name
+Filat	病人松雀	patient_alias	secondary	病体感优先于鲜明个性，脆弱、扭曲或症状化都可以。	适用于名字前带“病人”或明显源自 patient 资源的角色；先让疾病压住人，再让人从病里露头。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.SickVasiliy.Name
+Crow	病人小黑	patient_alias	secondary	病体感优先于鲜明个性，脆弱、扭曲或症状化都可以。	适用于名字前带“病人”或明显源自 patient 资源的角色；先让疾病压住人，再让人从病里露头。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Chernyak.Name
+Astrild	病人燕鸥	patient_alias	secondary	病体感优先于鲜明个性，脆弱、扭曲或症状化都可以。	适用于名字前带“病人”或明显源自 patient 资源的角色；先让疾病压住人，再让人从病里露头。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.patient_Astrild.Name
+Emilia	病人夜莺	patient_alias	secondary	病体感优先于鲜明个性，脆弱、扭曲或症状化都可以。	适用于名字前带“病人”或明显源自 patient 资源的角色；先让疾病压住人，再让人从病里露头。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.patient_Platon.Name
+Hardman	病人硬汉	patient_alias	secondary	病体感优先于鲜明个性，脆弱、扭曲或症状化都可以。	适用于名字前带“病人”或明显源自 patient 资源的角色；先让疾病压住人，再让人从病里露头。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Zhitochnik.Name
+Pochinka	波钦卡	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Pochinka.Name
+Mark Immortell	不死之人马克	utopian_bohemian	major	聪明、戏剧化、带自我展示欲，也带危险和失衡。	适用于斯塔马京兄弟、马克、伊娃等舞台感或审美感强的人；保留魅力、夸张和失稳边缘。	https://pathologic.fandom.com/wiki/Peter_Stamatin	半讲戏、半讲真相，像懂规则的舞台操盘手。	Npcs.Mark.Name
+Brant	布兰特	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Decree_BullOwner.Name
+Pawn	部落妇女	kin_mystic	major	像仪式、土地和身体隐喻借人开口，允许非人感。	适用于新娘、虫民、白化者等近神秘非人角色；可以有咒语感，但每句意向必须清楚。	https://pathologic.fandom.com/wiki/Herb_Brides	更接近仪式和身体隐喻，不写成普通部落妇女。	Npcs.NativeAigul.Name
+Herb Bride	草药新娘	kin_mystic	major	像仪式、土地和身体隐喻借人开口，允许非人感。	适用于新娘、虫民、白化者等近神秘非人角色；可以有咒语感，但每句意向必须清楚。	https://pathologic.fandom.com/wiki/Herb_Brides	像仪式中的身体和土地在说话。	Npcs.HerbBride.Name
+Pawn	草原住民	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.ZakirOldman.Name
+The Ugly	丑人	theatre_mythic	secondary	仪式化、寓言化，但每句仍要让人听懂。	适用于执行者、悲剧演员、死亡化身等舞台或寓言角色；可抬高气氛，但不能只剩谜语。	https://pathologic.fandom.com/wiki/Tragedian		Npcs.patient_GodsFool_Evil.Name
+Executor	处刑人	theatre_mythic	secondary	仪式化、寓言化，但每句仍要让人听懂。	适用于执行者、悲剧演员、死亡化身等舞台或寓言角色；可抬高气氛，但不能只剩谜语。	https://pathologic.fandom.com/wiki/Tragedian		Npcs.Executer.Name
+Tic-Tac	滴答	children_liminal	major	轻、怪、安静，像半只脚踩在现实边缘的孩子。	适用于格蕾丝、米什卡、小钉、滴答及其同类别名；保留异感和超龄洞察，不写成甜腻儿童腔。	https://pathologic.fandom.com/wiki/Grace	轻、怪，像悄悄把秘密塞给你。	Npcs.Girl_TickTack.Name
+Inspector	调查警督	state_force_generic	secondary	命令式、程序式、执行式，短句优先。	适用于军队、警备、调查和政府执行链条角色；重点是职能感，不是华丽措辞。	https://pathologic.fandom.com/wiki/Aglaya_Lilich		Npcs.Investigator.Name
+The Bad	恶人	theatre_mythic	secondary	仪式化、寓言化，但每句仍要让人听懂。	适用于执行者、悲剧演员、死亡化身等舞台或寓言角色；可抬高气氛，但不能只剩谜语。	https://pathologic.fandom.com/wiki/Tragedian		Npcs.patient_GodsFool_Bad.Name
+Visitor	访客	visitor_alias	secondary	以代号和异乡感为主，少硬造独立人格。	适用于访客鸟名和临时外来者代称；优先保持外来、代号和功能识别，不要过度人格化。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Visitor.Name
+visitor Dana	访客戴娜	visitor_alias	secondary	以代号和异乡感为主，少硬造独立人格。	适用于访客鸟名和临时外来者代称；优先保持外来、代号和功能识别，不要过度人格化。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Dana.Name
+visitor Gull	访客海鸥	visitor_alias	secondary	以代号和异乡感为主，少硬造独立人格。	适用于访客鸟名和临时外来者代称；优先保持外来、代号和功能识别，不要过度人格化。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Tamara.Name
+visitor Auk	访客海雀	visitor_alias	secondary	以代号和异乡感为主，少硬造独立人格。	适用于访客鸟名和临时外来者代称；优先保持外来、代号和功能识别，不要过度人格化。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Platon.Name
+visitor Murre	访客海鸦	visitor_alias	secondary	以代号和异乡感为主，少硬造独立人格。	适用于访客鸟名和临时外来者代称；优先保持外来、代号和功能识别，不要过度人格化。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Elizabeth.Name
+visitor Puffin	访客海鹦	visitor_alias	secondary	以代号和异乡感为主，少硬造独立人格。	适用于访客鸟名和临时外来者代称；优先保持外来、代号和功能识别，不要过度人格化。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Nikita.Name
+visitor Crossbill	访客交嘴雀	visitor_alias	secondary	以代号和异乡感为主，少硬造独立人格。	适用于访客鸟名和临时外来者代称；优先保持外来、代号和功能识别，不要过度人格化。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Stepan.Name
+visitor Oriole	访客金莺	visitor_alias	secondary	以代号和异乡感为主，少硬造独立人格。	适用于访客鸟名和临时外来者代称；优先保持外来、代号和功能识别，不要过度人格化。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Zoya.Name
+visitor Maura	访客莫拉	visitor_alias	secondary	以代号和异乡感为主，少硬造独立人格。	适用于访客鸟名和临时外来者代称；优先保持外来、代号和功能识别，不要过度人格化。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Mavra.Name
+visitor Snipe	访客沙锥鸟	visitor_alias	secondary	以代号和异乡感为主，少硬造独立人格。	适用于访客鸟名和临时外来者代称；优先保持外来、代号和功能识别，不要过度人格化。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Valeriy.Name
+visitor Spoonbil	访客勺嘴鹬	visitor_alias	secondary	以代号和异乡感为主，少硬造独立人格。	适用于访客鸟名和临时外来者代称；优先保持外来、代号和功能识别，不要过度人格化。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Karina.Name
+visitor Teal	访客水鸭	visitor_alias	secondary	以代号和异乡感为主，少硬造独立人格。	适用于访客鸟名和临时外来者代称；优先保持外来、代号和功能识别，不要过度人格化。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Egor.Name
+visitor Grouse	访客松鸡	visitor_alias	secondary	以代号和异乡感为主，少硬造独立人格。	适用于访客鸟名和临时外来者代称；优先保持外来、代号和功能识别，不要过度人格化。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Timophey.Name
+visitor Kopyto	访客蹄足	visitor_alias	secondary	以代号和异乡感为主，少硬造独立人格。	适用于访客鸟名和临时外来者代称；优先保持外来、代号和功能识别，不要过度人格化。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.visitor_Kopyto.Name
+visitor Swift	访客雨燕	visitor_alias	secondary	以代号和异乡感为主，少硬造独立人格。	适用于访客鸟名和临时外来者代称；优先保持外来、代号和功能识别，不要过度人格化。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Zakhar.Name
+Filat	菲拉特	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Prologue_PatientThree.Name
+Filat’s Neighbor	菲拉特的邻居	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.VasilysNeighbor.Name
+Distributor of "Dead Gruel"	分发“死粥”的人	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Distributor_DeathDecree.Name
+Finch	芬奇	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Prologue_PatientTwo.Name
+Kanjur	甘珠尔	kin_warden	major	沉、古、像口传法则；少解释，多定规矩和债。	适用于草原长者、看护者和与传统秩序、土地法则直接相关的人；要有传承和惩戒的重量。	https://pathologic.fandom.com/wiki/Oyun	像在口传规矩，不急着解释，只负责把法则压下来。	Npcs.Kanjur.Name
+Georgiy Kain	格奥尔基·凯恩	utopian_patrician	major	高位、抽象、结构先行，像在解释世界如何运作。	适用于凯恩家和与城市结构、多面体、现实设计有关的高位人物；重点是世界解释权和上位距离。	https://pathologic.fandom.com/wiki/Simon_Kain	高位解释者，把现实当结构来讲。	Npcs.GeorgiyKain.Name
+Grace	格蕾丝	children_liminal	major	轻、怪、安静，像半只脚踩在现实边缘的孩子。	适用于格蕾丝、米什卡、小钉、滴答及其同类别名；保留异感和超龄洞察，不写成甜腻儿童腔。	https://pathologic.fandom.com/wiki/Grace	轻、远、像在和死者或别处说话。	Npcs.Laska.Name
+Pawn	工厂工人	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Worker_Akulich.Name
+Foreman's Hand	工头的手	theatre_mythic	secondary	仪式化、寓言化，但每句仍要让人听懂。	适用于执行者、悲剧演员、死亡化身等舞台或寓言角色；可抬高气氛，但不能只剩谜语。	https://pathologic.fandom.com/wiki/Tragedian		Npcs.HandOfTheDead.Name
+Baccio	公牛	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Bull.Name
+Doghead	狗头人	doghead_children	secondary	成群、野、冲，带少年帮派和犬群起哄感。	狗头孩子及其分支别名统一按这一组处理；重点是团伙感、野性和互相起哄的热度。	https://pathologic.fandom.com/wiki/Children		Npcs.HoundheadBoy.Name
+Toby	怪人	doghead_children	secondary	成群、野、冲，带少年帮派和犬群起哄感。	狗头孩子及其分支别名统一按这一组处理；重点是团伙感、野性和互相起哄的热度。	https://pathologic.fandom.com/wiki/Children		Npcs.HoundheadTishka.Name
+Kestrel	红隼	children_liminal	major	轻、怪、安静，像半只脚踩在现实边缘的孩子。	适用于格蕾丝、米什卡、小钉、滴答及其同类别名；保留异感和超龄洞察，不写成甜腻儿童腔。	https://pathologic.fandom.com/wiki/Grace	孩子气里带异感，像从现实边缘探头说话。	Npcs.Kondrat.Name
+Orderly	护理员	medical_role_generic	secondary	专业、疲惫、信息和操作优先，情绪常被压平。	适用于护理员、护士、担架手等医疗场域角色；保持临床压力，不写成现代客服式安抚。	https://pathologic.fandom.com/wiki/Bachelor		Npcs.Orderly.Name
+Bad Grief	恶徒格里夫	humble_underworld	major	口语、会试探、会抖包袱，笑里带刺也带价码。	适用于格里夫及其周边、街面和地下世界相关角色；重点是半真半假的熟人感、风声感和场面感。	https://pathologic.fandom.com/wiki/Bad_Grief	像一边逗你一边掂量你值多少价，也总比你先一步看懂你的困境。	Npcs.Grief.Name
+Changeling	换生灵	healer_changeling	core	轻盈、断裂、忽近忽远，像奇迹与戏法一起开口。	适用于 Changeling 本人及明显带忽现忽隐气质的说话方式；保留危险、神秘和儿童感并存。	https://pathologic.fandom.com/wiki/Changeling	轻盈、危险、忽近忽远，不把自己说死成圣女或骗子。	Npcs.Changeling.Name
+Gravedigger	掘墓人	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Gravedigger.Name
+Officer	军官	state_force_generic	secondary	命令式、程序式、执行式，短句优先。	适用于军队、警备、调查和政府执行链条角色；重点是职能感，不是华丽措辞。	https://pathologic.fandom.com/wiki/Aglaya_Lilich		Npcs.Army_Officer.Name
+Capella	卡佩拉	olgimsky_family	major	稳、重、讲掌控和继承，产业与家产的现实感很强。	适用于奥尔金斯基家族及其直接影响范围；比凯恩家更落地、更占有、更讲安排和控制。	https://pathologic.fandom.com/wiki/Big_Vlad	早慧、安静、温柔，但有未来继承者的重心。	Npcs.Capella.Name
+Capella's Maid	卡佩拉的女仆	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Maid.Name
+Cathedral Caretaker	看大教堂的人	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.CathedralWarden.Name
+Janitor	看管人	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.StreetCleaner.Name
+Dormouse	瞌睡虫	children_liminal	major	轻、怪、安静，像半只脚踩在现实边缘的孩子。	适用于格蕾丝、米什卡、小钉、滴答及其同类别名；保留异感和超龄洞察，不写成甜腻儿童腔。	https://pathologic.fandom.com/wiki/Grace	孩子气里带异感，像从现实边缘探头说话。	Npcs.Boy_Dormouse.Name
+Khan	可汗	children_leader	major	像真把游戏当制度的小统治者；命令快，想象力大。	适用于可汗、诺特金这类会组织别人、会划地盘、会给规则的孩子头目。	https://pathologic.fandom.com/wiki/Khan	像真把自己当成王和组织者，不只是爱逞强。	Npcs.Khan.Name
+Lara Ravel	拉拉·拉维尔	humble_duty	major	务实、克制、先处理后果，再暴露情绪和疲惫。	适用于萨布罗夫、拉拉、鲁宾、尤利娅等“扛着现实的人”；重点是责任重力，不是温吞日常。	https://pathologic.fandom.com/wiki/Alexander_Saburov	温柔里带硬度，像在扛局面。	Npcs.LaraRavel.Name
+Stakhovyak	拉撒路	patient_alias	secondary	病体感优先于鲜明个性，脆弱、扭曲或症状化都可以。	适用于名字前带“病人”或明显源自 patient 资源的角色；先让疾病压住人，再让人从病里露头。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.patient_Kira_Stakhovyak.Name
+Langora	兰戈拉	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Toma.Name
+Elderly Man	老人	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.OldMan.Name
+Neighbor	邻居	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Neighbor.Name
+Rubin	鲁宾	humble_duty	major	务实、克制、先处理后果，再暴露情绪和疲惫。	适用于萨布罗夫、拉拉、鲁宾、尤利娅等“扛着现实的人”；重点是责任重力，不是温吞日常。	https://pathologic.fandom.com/wiki/Alexander_Saburov	工作狂和自责感很重，越紧张越专业。	Npcs.Rubin.Name
+Ruff	鲁夫	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Sergei.Name
+Luta	鲁塔	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Prologue_PatientOne.Name
+Marat	马拉特	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Matvey.Name
+Pawn	马拉特	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Marat.Name
+Maria Kaina	玛丽亚	utopian_patrician	major	高位、抽象、结构先行，像在解释世界如何运作。	适用于凯恩家和与城市结构、多面体、现实设计有关的高位人物；重点是世界解释权和上位距离。	https://pathologic.fandom.com/wiki/Simon_Kain	高位、预言感强，像在挑选谁够格进入未来。	Npcs.Maria.Name
+Murky	米什卡	children_liminal	major	轻、怪、安静，像半只脚踩在现实边缘的孩子。	适用于格蕾丝、米什卡、小钉、滴答及其同类别名；保留异感和超龄洞察，不写成甜腻儿童腔。	https://pathologic.fandom.com/wiki/Grace	孩子气里带潮湿、阴影和不安。	Npcs.Mishka.Name
+Mona	莫娜	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Mona.Name
+Someone's Death	某个人的死亡	theatre_mythic	secondary	仪式化、寓言化，但每句仍要让人听懂。	适用于执行者、悲剧演员、死亡化身等舞台或寓言角色；可抬高气氛，但不能只剩谜语。	https://pathologic.fandom.com/wiki/Tragedian		Npcs.Death.Name
+Herdsman	牧羊人	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Herdsman_RavenRock.Name
+Doghead	娜塔	doghead_children	secondary	成群、野、冲，带少年帮派和犬群起哄感。	狗头孩子及其分支别名统一按这一组处理；重点是团伙感、野性和互相起哄的热度。	https://pathologic.fandom.com/wiki/Children		Npcs.HoundheadGirl.Name
+Pawn	娜塔	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Nata.Name
+Pawn	男孩	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Boy.Name
+Pawn	男人	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.WorkerIzek.Name
+Shabnak	泥魔女	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Shabnak.Name
+Pawn	女孩	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Girl.Name
+Pawn	女人	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Klava.Name
+Spectator	旁观的人	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Prologue_Hall_Crowd.Name
+Platon	普拉东	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Prokop.Name
+Shrew	鼩鼱	children_liminal	major	轻、怪、安静，像半只脚踩在现实边缘的孩子。	适用于格蕾丝、米什卡、小钉、滴答及其同类别名；保留异感和超龄洞察，不写成甜腻儿童腔。	https://pathologic.fandom.com/wiki/Grace	孩子气里带异感，像从现实边缘探头说话。	Npcs.Girl_Squirell.Name
+Idler	人群	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Crowd.Name
+Alexander Saburov	萨布罗夫	humble_duty	major	务实、克制、先处理后果，再暴露情绪和疲惫。	适用于萨布罗夫、拉拉、鲁宾、尤利娅等“扛着现实的人”；重点是责任重力，不是温吞日常。	https://pathologic.fandom.com/wiki/Alexander_Saburov	重责任和秩序，不是空官腔。	Npcs.Saburov.Name
+Sakh Män	萨克·曼	kin_warden	major	沉、古、像口传法则；少解释，多定规矩和债。	适用于草原长者、看护者和与传统秩序、土地法则直接相关的人；要有传承和惩戒的重量。	https://pathologic.fandom.com/wiki/Oyun	像在口传规矩，不急着解释，只负责把法则压下来。	Npcs.SakhMen.Name
+The Good	善人	theatre_mythic	secondary	仪式化、寓言化，但每句仍要让人听懂。	适用于执行者、悲剧演员、死亡化身等舞台或寓言角色；可抬高气氛，但不能只剩谜语。	https://pathologic.fandom.com/wiki/Tragedian		Npcs.patient_GodsFool_Good.Name
+Soldier	士兵	state_force_generic	secondary	命令式、程序式、执行式，短句优先。	适用于军队、警备、调查和政府执行链条角色；重点是职能感，不是华丽措辞。	https://pathologic.fandom.com/wiki/Aglaya_Lilich		Npcs.Army_Soldier.Name
+Guard	守卫	state_force_generic	secondary	命令式、程序式、执行式，短句优先。	适用于军队、警备、调查和政府执行链条角色；重点是职能感，不是华丽措辞。	https://pathologic.fandom.com/wiki/Aglaya_Lilich		Npcs.Prologue_Guardian.Name
+Clerk	书记员	state_force_generic	secondary	命令式、程序式、执行式，短句优先。	适用于军队、警备、调查和政府执行链条角色；重点是职能感，不是华丽措辞。	https://pathologic.fandom.com/wiki/Aglaya_Lilich		Npcs.GovernmentOfficial.Name
+Lapwing	田凫	children_liminal	major	轻、怪、安静，像半只脚踩在现实边缘的孩子。	适用于格蕾丝、米什卡、小钉、滴答及其同类别名；保留异感和超龄洞察，不写成甜腻儿童腔。	https://pathologic.fandom.com/wiki/Grace	孩子气里带异感，像从现实边缘探头说话。	Npcs.Paramon.Name
+Peewit	田凫	children_liminal	major	轻、怪、安静，像半只脚踩在现实边缘的孩子。	适用于格蕾丝、米什卡、小钉、滴答及其同类别名；保留异感和超龄洞察，不写成甜腻儿童腔。	https://pathologic.fandom.com/wiki/Grace	孩子气里带异感，像从现实边缘探头说话。	Npcs.Girl_Teen_Nata.Name
+Buzzard	秃鹫	humble_underworld	major	口语、会试探、会抖包袱，笑里带刺也带价码。	适用于格里夫及其周边、街面和地下世界相关角色；重点是半真半假的熟人感、风声感和场面感。	https://pathologic.fandom.com/wiki/Bad_Grief	格里夫系的地下熟人感更重，说话更像替地盘探风声。	Npcs.GriefMate.Name
+Valeria	瓦莱里娅	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Valeria.Name
+Victor Kain	维克多·凯恩	utopian_patrician	major	高位、抽象、结构先行，像在解释世界如何运作。	适用于凯恩家和与城市结构、多面体、现实设计有关的高位人物；重点是世界解释权和上位距离。	https://pathologic.fandom.com/wiki/Simon_Kain	守成、体面、背着家族责任说话。	Npcs.VictorKain.Name
+Veronica Croy	维罗妮卡·克罗伊	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Voronika.Name
+Pawn	夏洛特	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Charlotte.Name
+Chess Club Director	象棋俱乐部主管	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.ChessMaestro.Name
+Sticky	小钉	children_liminal	major	轻、怪、安静，像半只脚踩在现实边缘的孩子。	适用于格蕾丝、米什卡、小钉、滴答及其同类别名；保留异感和超龄洞察，不写成甜腻儿童腔。	https://pathologic.fandom.com/wiki/Grace	狡黠、灵、脏兮兮但不油腻。	Npcs.Spichka.Name
+Trader	小贩	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Merchant.Name
+Vlad the Younger	小弗拉德	olgimsky_family	major	稳、重、讲掌控和继承，产业与家产的现实感很强。	适用于奥尔金斯基家族及其直接影响范围；比凯恩家更落地、更占有、更讲安排和控制。	https://pathologic.fandom.com/wiki/Big_Vlad	会谈条件，会包装自己，不是轻浮少爷。	Npcs.YoungVlad.Name
+Serafima	谢拉菲玛	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Serafima.Name
+Bachelor	学者	healer_bachelor	core	先判断后论证，礼貌外壳下压着焦躁与优越感。	适用于 Bachelor 本人和明显承自学院观察者视角的自述；要有分析欲、责任感和冷感并存。	https://pathologic.fandom.com/wiki/Bachelor	先判断后论证，礼貌外壳下压着焦躁与优越感。	Npcs.Danko.Name
+Patrolman	巡逻的人	state_force_generic	secondary	命令式、程序式、执行式，短句优先。	适用于军队、警备、调查和政府执行链条角色；重点是职能感，不是华丽措辞。	https://pathologic.fandom.com/wiki/Aglaya_Lilich		Npcs.IzekPatrolman.Name
+Yakov Little	雅科夫·利特尔	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Vatson.Name
+Alexander Block	亚历山大·布洛克	capital_authority	major	冷、硬、程序清楚，像在裁定、分责和宣告边界。	首都审查、法度、调查、裁决相关角色；优先给人“制度压人”的感觉，不写成空官腔。	https://pathologic.fandom.com/wiki/Aglaya_Lilich	低温、程序化，个人情绪必须服从任务。	Npcs.Block.Name
+Grouse	秧鸡	children_liminal	major	轻、怪、安静，像半只脚踩在现实边缘的孩子。	适用于格蕾丝、米什卡、小钉、滴答及其同类别名；保留异感和超龄洞察，不写成甜腻儿童腔。	https://pathologic.fandom.com/wiki/Grace	孩子气里带异感，像从现实边缘探头说话。	Npcs.Kamil.Name
+Nightjar	夜鹰	children_liminal	major	轻、怪、安静，像半只脚踩在现实边缘的孩子。	适用于格蕾丝、米什卡、小钉、滴答及其同类别名；保留异感和超龄洞察，不写成甜腻儿童腔。	https://pathologic.fandom.com/wiki/Grace	孩子气里带异感，像从现实边缘探头说话。	Npcs.Klim.Name
+Eva Yan	伊娃	utopian_bohemian	major	聪明、戏剧化、带自我展示欲，也带危险和失衡。	适用于斯塔马京兄弟、马克、伊娃等舞台感或审美感强的人；保留魅力、夸张和失稳边缘。	https://pathologic.fandom.com/wiki/Peter_Stamatin	柔软、审美化、轻盈，但不是空心花瓶。	Npcs.Eva.Name
+Pawn	伊泽克	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Izek.Name
+Cherry	樱桃	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Vishnya.Name
+Yulia Lyuricheva	尤利娅·卢里切娃	humble_duty	major	务实、克制、先处理后果，再暴露情绪和疲惫。	适用于萨布罗夫、拉拉、鲁宾、尤利娅等“扛着现实的人”；重点是责任重力，不是温吞日常。	https://pathologic.fandom.com/wiki/Alexander_Saburov	清醒、敏感、观察快，比学者更有人味。	Npcs.Julia.Name
+Postman	邮差	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Mailman.Name
+Haruspex	肠卜师	healer_haruspex	core	粗粝、贴身、压着火，先伸手做事再开口解释。	适用于 Haruspex 本人及明显承自土地、身体和手艺经验的话语；少学院气，多动作和身体感。	https://pathologic.fandom.com/wiki/Haruspex	粗粝、贴身、压着火，讨厌空谈但可靠。	Npcs.Burakh.Name
+Weaver	织工	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.Weaver.Name
+Associate N.	助手N	town_role_generic	secondary	地方化、直给、以信息为先，说完事再说情绪。	适用于普通镇民、工人、守夜人、邻居、小贩、邮差等；要有镇上人的生存语感，不装腔。	https://pathologic.fandom.com/wiki/Townsfolk		Npcs.TanatColleagueN.Name

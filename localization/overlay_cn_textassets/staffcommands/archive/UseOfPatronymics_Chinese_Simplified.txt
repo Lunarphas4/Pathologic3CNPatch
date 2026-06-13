@@ -1,0 +1,2 @@
+{StaffCommands.Archive.UseOfPatronymics.Name} 以父名称呼
+{StaffCommands.Archive.UseOfPatronymics.Description} 要求公务场合使用正式父称，以维持秩序与体面。

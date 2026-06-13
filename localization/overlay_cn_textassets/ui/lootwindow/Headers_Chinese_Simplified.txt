@@ -1,0 +1,2 @@
+{UI.LootWindow.Headers.Inventory} 物品栏
+{UI.LootWindow.Headers.QuestInventory} 圣物

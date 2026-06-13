@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q6_GodsFool.Day5_Q6_MM_NoMoreTreatment.Name} 按手礼
+{Minds2.Days.Day5.Day5_Q6_GodsFool.Day5_Q6_MM_NoMoreTreatment.Description} “圣克拉拉”奇迹般“治愈”了一名病人。这究竟意味着什么？

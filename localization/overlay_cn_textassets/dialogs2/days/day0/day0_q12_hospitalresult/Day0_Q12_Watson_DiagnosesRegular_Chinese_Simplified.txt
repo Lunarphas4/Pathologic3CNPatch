@@ -1,0 +1,8 @@
+﻿{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesRegular.2972} 丹科夫斯基医生！请先别急着训我——我是从未感染街区一路到静水庄来的！军方护送了我。严格说，是他们坚持要这样护送……
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesRegular.28536} 你带来了病人报告？交给我，我来查看。
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesRegular.52244} 我不喜欢军方插手你的事。插手<i>我们的</i>事！医院的事。
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesRegular.25316} 他们习惯按自己的方式思考——也就是军队那套，按军衔来。他们不想让一个普通护工在镇上乱跑；他们要找至少“中士”之类的人。我只好自愿来。
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesRegular.38623} 很好。所有人，<i>字面意义上</i>所有人，都迫不及待想用某种方式妨碍我！
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesRegular.25833} 也许有点道理。军队必须恢复镇上的秩序。只是他们选了个很奇怪的地方开始。
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesRegular.45003} 没有你我该怎么办，小家伙。你已经不是中士了——至少也是上尉。
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesRegular.61283} 我发誓，要是再看见你在外面乱跑，我就把医院的门钉死，把你关在里面！

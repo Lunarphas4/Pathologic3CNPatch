@@ -1,0 +1,7 @@
+{Dialogs2.Hospital.Day9.Hospital_Aristarkh.Hospital_Aristarkh_GeraBrothersAgain.34} 他在那儿！告诉过你他迟早会从木制品中爬出来！
+{Dialogs2.Hospital.Day9.Hospital_Aristarkh.Hospital_Aristarkh_GeraBrothersAgain.29885} 先生们，你们表现出执念的迹象。回家休息吧。
+{Dialogs2.Hospital.Day9.Hospital_Aristarkh.Hospital_Aristarkh_GeraBrothersAgain.1} 要不要我们让你睡一觉，聪明人？喂，滑头，咱们让好医生马上卧床休息。
+{Dialogs2.Hospital.Day9.Hospital_Aristarkh.Hospital_Aristarkh_GeraBrothersAgain.15266} 我真是受够你们了……
+{Dialogs2.Hospital.Day9.Hospital_Aristarkh.Hospital_Aristarkh_GeraBrothersAgain.13539} 子弹贵如黄金，而我还得把它们浪费在各种蠢货身上！
+{Dialogs2.Hospital.Day9.Hospital_Aristarkh.Hospital_Aristarkh_GeraBrothersAgain.29903} 我想我知道你们在找谁。一个叫赫拉的女人，对吗？
+{Dialogs2.Hospital.Day9.Hospital_Aristarkh.Hospital_Aristarkh_GeraBrothersAgain.11953} 所以你帮着让赫拉消失了？喂，滑头，咱们让好医生马上卧床休息。

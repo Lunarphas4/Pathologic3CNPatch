@@ -1,0 +1,16 @@
+{Dialogs2.Eva.Evening.Eva_Evening_10.34497} 不错的夜晚，对吗？
+{Dialogs2.Eva.Evening.Eva_Evening_10.13992} 在可怕的一天之后。
+{Dialogs2.Eva.Evening.Eva_Evening_10.40278} 你知道我从来没告诉过你什么吗？我在静水观星台和教堂之间作选择时有多艰难。我知道自己属于家里——可教堂多年来一直缺了某样东西，我总在想：如果我能做到呢？如果我能让它更快乐一点呢。
+{Dialogs2.Eva.Evening.Eva_Evening_10.41898} 更快乐？靠从它的屋顶跳下去？
+{Dialogs2.Eva.Evening.Eva_Evening_10.39169} 是的。一座没有奇迹信仰的教堂，算什么教堂？它的空洞在召唤某个人去填满。我回应了。
+{Dialogs2.Eva.Evening.Eva_Evening_10.38576} 我很高兴你没有把它做到底。没有彻底做完。
+{Dialogs2.Eva.Evening.Eva_Evening_10.19188} 没有你，静水观星台显得空空的。
+{Dialogs2.Eva.Evening.Eva_Evening_10.39827} 我知道。没有我，它会……被浮萍堵得喘不过气。它也会更常把那些停在岸边休息的人淹没。不是因为它捕食人。它只是需要着了迷的旅人——而我不用去任何地方，就能每天重新迷住自己。
+{Dialogs2.Eva.Evening.Eva_Evening_10.26105} 你可以。
+{Dialogs2.Eva.Evening.Eva_Evening_10.2594} 你总想着别人——甚至想着建筑。也许你该多想想你自己。
+{Dialogs2.Eva.Evening.Eva_Evening_10.52540} 可那很乏味。你一定以为我是殉道者。我不是。人们总责备我像一只风向标——总是转向对我有利的方向。这责备倒也公道。只是我的“有利”，就是“有趣”。而美从来不是没有代价的。
+{Dialogs2.Eva.Evening.Eva_Evening_10.28308} 好在今天的美没有找上你。
+{Dialogs2.Eva.Evening.Eva_Evening_10.38483} 那我们比起初看上去更相像。
+{Dialogs2.Eva.Evening.Eva_Evening_10.694} 晚安，伊娃。晚安。
+{Dialogs2.Eva.Evening.Eva_Evening_10.52418} 伊娃，我们就安静坐一会儿吧。我害怕想起来。
+{Dialogs2.Eva.Evening.Eva_Evening_10.27320} 最好不过。因为你还在这里——还在静水观星台。

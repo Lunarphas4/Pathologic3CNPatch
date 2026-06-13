@@ -1,0 +1,6 @@
+﻿{UI.CharacterWindow.Tooltips.CathedralWardenTooltips.Intro} 大教堂钥匙的保管人
+{UI.CharacterWindow.Tooltips.CathedralWardenTooltips.Cathedral} 第3天，打开了大教堂的大门
+{UI.CharacterWindow.Tooltips.CathedralWardenTooltips.Stillwater} 第8天，带着他的钥匙离开大教堂，进入静水观星台
+{UI.CharacterWindow.Tooltips.CathedralWardenTooltips.Roof} 第10天，把另一处大教堂屋顶的钥匙交给了我
+{UI.CharacterWindow.Tooltips.CathedralWardenTooltips.Bull} 第10天，把一间上锁房间的钥匙交给了公牛
+{UI.CharacterWindow.Tooltips.CathedralWardenTooltips.Farkhad} 第11天，把法尔哈德房间的钥匙交给了我

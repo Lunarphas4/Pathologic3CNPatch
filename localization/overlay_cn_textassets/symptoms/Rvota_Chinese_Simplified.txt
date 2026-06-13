@@ -1,0 +1,2 @@
+{Symptoms.Rvota.Name} 恶心呕吐
+{Symptoms.Rvota.Description} 胃内容物外排的强烈不适冲动，既可能是疾病症状，也可能由变质食物中毒或妊娠引起。

@@ -1,0 +1,28 @@
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.14797} ……我的职责不是增加死亡人数，而是在可能时减少它。而您提出的事……
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.31261} 别把情绪误认作证据。多面体是沙疫的源头。这是事实。摧毁它，是迅速而有效终结疫情的唯一办法。这也是事实。 其余一切都是情绪——蒙蔽你的视线，让你无法作出正确决定。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.51251} 如果我的线人可信，现在多面体里约有五百个孩子。莉莉奇，你给我们提出了一笔极其冷酷的交易：用数百个孩子的生命，换取对瘟疫的胜利。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.16201} 我们不能允许这样。一定还有别的办法。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.48314} 丹科夫斯基，你有十二天时间阻止这种结果。现在太晚了：镇子是一个患了坏疽的病人。居然还要向一个医生解释截肢，真奇怪。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.42386} 丹科夫斯基不是外科医生，而我自己当然也不赞同这种外科式思维。而且，继续你的比喻，莉莉奇，我主张保守治疗。 我有一些关于让多面体安全化的工作笔记。是的，它们不像你的方案那样壮观，也没那么迅速，但我确实懂一点，咳，如何把不可能物从现实中隔离出来。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.26114} 你也许能打动将军——或者我们的观察者丹科夫斯基。但我认识你太久了。 承认吧：瘟疫对你并不重要。你只是想把另一个不可能物加入你的收藏。就像那座永远在拆卸的码头……你还不如收集瓶中小船。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.42362} 卡尔明斯基，是真的吗？你真有办法把多面体与镇子隔离开，让它不再造成伤害？
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.12646} 我说过，我有工作笔记。我建议我们冒险相信它们，因为多面体的价值不能用理性衡量。 向它开炮，就像焚毁亚历山大图书馆。那样的损失会让全人类倒退。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.61828} 我同意。而且如果我的声音在这里算数，我愿意赌这一把。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.36990} 诸位先生，省省这些高谈阔论吧。 有一个实际得多的问题：多面体里有孩子。他们彻底拒绝撤离。考虑到整座结构的建造方式，强行把他们带出来似乎不可能。即便我有那个胆量。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.39150} 将军，我再说一遍：多面体是沙疫的源头。你已经看过我收集的东西。由这些证据支持的我的指令，高于卡尔明斯基的命令——我们谈的是紧急事态的起源。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.52196} 这不只是平民的血。这是孩子的血。不可接受。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.46206} 我可以确认孩子们不会自愿离开。这十二天里，我和他们谈得够多了。我明白他们怎么想。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.34011} 将军，你没有问，但我会回答。而且我会诚实回答：当多面体被从现实中写除时，我不能保证不会造成伤害。 但这个过程应当会把孩子们逼出来。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.45030} 你确定？
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.17871} 在能确定的范围内，我确定。孩子们……对此类事物过分敏感。如果我成功，迟早他们根本无法留在那里。他们会自己出来。 不过，每个不可能物都是独一无二的——而且几乎都很顽固。我会尽力把损害降到最低。沙疫会被击败。很快。但不是今天，不像莉莉奇坚持的那样。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.53338} 谢谢你坦率说明，卡尔明斯基审判官。 我也坦率回答：若不是为了孩子，我不会拿你的实验方法冒险。但有孩子在……我面前有两道命令——我选择服从你的。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.26980} 你正在把镇子——还有整个国家——判给灾难。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.13438} 这是我的最终决定。多面体不会被摧毁。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.25386} 恶性循环。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.17007} 这会让我们全都完了。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.16658} 这是一个机会。是我们共同拥有的唯一奇迹机会。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.7254} 将军，你本可以找出某种半强制撤离的办法。我们必须尽快止住瘟疫。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.56336} 我同意你关于价值、以及失去它的代价的判断。但风险……
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.19245} 不。高塔不值得用成千上万条命来换。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.14676} 这很可怖。但看来真的没有别的选择。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndTriumph.37721} 听医生的，诸位。镇子是一个患了坏疽的病人。截肢无法避免。

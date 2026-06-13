@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q14_ExtraditionOfRubin.Day5_Q14_MM_RubinSaved.Name} 守护者
+{Minds2.Days.Day5.Day5_Q14_ExtraditionOfRubin.Day5_Q14_MM_RubinSaved.Description} 鲁宾偷走了遗体，但他有自己的理由。

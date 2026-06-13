@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q9_MariaJudith.Day10_Q9_2_MM_Mirrors.Name} 藏匿处
+{Minds2.Days.Day10.Day10_Q9_MariaJudith.Day10_Q9_2_MM_Mirrors.Description} 一堆镜子。痕迹到此为止。我得四下查看！

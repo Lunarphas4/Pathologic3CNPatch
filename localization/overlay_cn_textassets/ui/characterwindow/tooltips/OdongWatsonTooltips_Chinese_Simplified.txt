@@ -1,0 +1,2 @@
+﻿{UI.CharacterWindow.Tooltips.OdongWatsonTooltips.Intro} 好奇的虫民
+{UI.CharacterWindow.Tooltips.OdongWatsonTooltips.Hiring} 第3天，住进静水观星台，研究我并出售消耗性试剂

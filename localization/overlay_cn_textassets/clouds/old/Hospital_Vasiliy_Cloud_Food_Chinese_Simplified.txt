@@ -1,0 +1,6 @@
+{Clouds.Old.Hospital_Vasiliy_Cloud_Food.23890} 活在自己的污秽里。
+{Clouds.Old.Hospital_Vasiliy_Cloud_Food.21378} 活在自己的污秽里。
+{Clouds.Old.Hospital_Vasiliy_Cloud_Food.4937} 人怎么会沦落到这种地步？
+{Clouds.Old.Hospital_Vasiliy_Cloud_Food.5426} 卫生条件恶劣。
+{Clouds.Old.Hospital_Vasiliy_Cloud_Food.2980} 寄生虫的痕迹？
+{Clouds.Old.Hospital_Vasiliy_Cloud_Food.29840} 这里可能已经有鼠患。

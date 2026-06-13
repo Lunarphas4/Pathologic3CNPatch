@@ -1,0 +1,14 @@
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_BrokenPromise.15691} 有人告诉你今天不要来这里。没明白？
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_BrokenPromise.22782} 我在这里工作。走开。
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_BrokenPromise.13175} 好奇心占据了上风。
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_BrokenPromise.15369} 怎么样？所以你不需要时间。我要收回我好心给你的一切。
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_BrokenPromise.14708} 等待！
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_BrokenPromise.6097} 协议被打破了。
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_BrokenPromise.14068} 是的，窒息。
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_BrokenPromise.21681} 提出一个不那么血腥的交易。
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_BrokenPromise.7255} 看来你没听懂。没关系，你仍然有大量的机会来了解一切。
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_BrokenPromise.7534} 你笑了。
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_BrokenPromise.2183} 希望。
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_BrokenPromise.23012} 把你的手拿开，你这个傻瓜！你自己想出了什么办法？
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_BrokenPromise.25846} 我不需要杀人的时间。你把我当成谁了？
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_BrokenPromise.11732} 我没有签署该协议。是你强加给我的。

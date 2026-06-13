@@ -1,0 +1,2 @@
+{Prologue.Minds.Prologue_PartOne_Capital.Prologue_Skeptic.Day5.Prologue_Skeptic_KeyNode_Day5.Name} 线索断绝
+{Prologue.Minds.Prologue_PartOne_Capital.Prologue_Skeptic.Day5.Prologue_Skeptic_KeyNode_Day5.Description} 所有可能知晓西蒙·凯恩之死——或他是否存在——的人，都已命丧黄泉。

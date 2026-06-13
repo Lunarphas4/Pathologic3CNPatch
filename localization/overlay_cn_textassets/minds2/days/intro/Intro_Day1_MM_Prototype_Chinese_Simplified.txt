@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Intro.Intro_Day1_MM_Prototype.Name} 拿回原型机
+{Minds2.Days.Intro.Intro_Day1_MM_Prototype.Description} 在首都，它看起来不过是件有趣的小玩意。但我可不愿失去一项独特发明，尤其是普拉东如此珍视的发明。

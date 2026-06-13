@@ -1,0 +1,4 @@
+{Clouds2.FlavorNew.Outdoor.StillwaterOutdoor.Cloud_StillwaterOutdoor_Playground.44925} 孩子们喜欢静水观星台和周边
+{Clouds2.FlavorNew.Outdoor.StillwaterOutdoor.Cloud_StillwaterOutdoor_Playground.10340} 孩子们喜欢静水观星台和周边
+{Clouds2.FlavorNew.Outdoor.StillwaterOutdoor.Cloud_StillwaterOutdoor_Playground.56689} 有时会妨碍工作
+{Clouds2.FlavorNew.Outdoor.StillwaterOutdoor.Cloud_StillwaterOutdoor_Playground.61752} 但也带来活着的感觉

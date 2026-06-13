@@ -1,0 +1,4 @@
+{Clouds2.Decrees.Fireworks.Fireworks_Clouds_Bride'sCorpse.10253} 她的头被砸碎了
+{Clouds2.Decrees.Fireworks.Fireworks_Clouds_Bride'sCorpse.14549} 她的头被砸碎了
+{Clouds2.Decrees.Fireworks.Fireworks_Clouds_Bride'sCorpse.59332} 那个暴徒的破衣服上沾着血
+{Clouds2.Decrees.Fireworks.Fireworks_Clouds_Bride'sCorpse.8599} 这里发生了什么？！

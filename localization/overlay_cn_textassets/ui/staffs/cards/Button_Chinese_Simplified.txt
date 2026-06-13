@@ -1,0 +1,3 @@
+{UI.Staffs.Cards.Button.Cancel} 取消
+{UI.Staffs.Cards.Button.Approved} 同意
+{UI.Staffs.Cards.Button.Accept} 接受

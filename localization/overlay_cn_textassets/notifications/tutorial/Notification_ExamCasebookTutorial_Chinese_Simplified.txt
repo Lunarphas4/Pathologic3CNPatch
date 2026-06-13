@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_ExamCasebookTutorial.Name} 病历簿
+{Notifications.Tutorial.Notification_ExamCasebookTutorial.Description} 在病人身上发现的症状须录入病例本——之后才能与病人讨论。按 <InputActions/UI/Tablet> 打开病例本。

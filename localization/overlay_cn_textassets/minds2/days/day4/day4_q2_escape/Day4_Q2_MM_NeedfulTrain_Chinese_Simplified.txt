@@ -1,0 +1,2 @@
+{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_NeedfulTrain.Name} 这笔交易
+{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_NeedfulTrain.Description} 我已经看见铁轨上的列车，万事俱备，只待开车。恶徒格里夫没骗我！

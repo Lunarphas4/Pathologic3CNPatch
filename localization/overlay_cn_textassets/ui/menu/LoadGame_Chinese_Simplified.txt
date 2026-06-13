@@ -1,0 +1,7 @@
+﻿{UI.Menu.LoadGame.Header} 载入游戏
+{UI.Menu.LoadGame.Load} 载入游戏
+{UI.Menu.LoadGame.Delete} 删除存档
+{UI.Menu.LoadGame.Cancel} 取消
+{UI.Menu.LoadGame.SaveNameFormat} 第<day>天，<hours>:<minutes>, <building>
+{UI.Menu.LoadGame.SaveDateTimeFormat} <year>年<month>月<day>日，<hour>:<minute>
+{UI.Menu.LoadGame.LastSaveDateTimeFormat} 最后存档：<year>,<month>.<day>.<hour>:<minute>

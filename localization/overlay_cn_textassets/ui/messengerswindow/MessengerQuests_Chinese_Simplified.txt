@@ -1,0 +1,4 @@
+{UI.MessengersWindow.MessengerQuests.InWork} 进行中
+{UI.MessengersWindow.MessengerQuests.Completed} 已完成
+{UI.MessengersWindow.MessengerQuests.Failed} 已失败
+{UI.MessengersWindow.MessengerQuests.Quest} 任务

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Hospital.Name} 医院
+{QuestMarkers.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Hospital.Description} 我的助手在这里等着。

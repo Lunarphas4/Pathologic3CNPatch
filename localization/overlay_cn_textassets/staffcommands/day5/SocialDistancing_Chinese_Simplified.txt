@@ -1,0 +1,2 @@
+{StaffCommands.Day5.SocialDistancing.Name} 保持社交距离
+{StaffCommands.Day5.SocialDistancing.Description} 命令镇民保持距离，减少接触。

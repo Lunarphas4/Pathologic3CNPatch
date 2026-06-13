@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_HouseIsExplored.Name} 雏儿
+{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_HouseIsExplored.Description} 我对基拉的"东家"有几个问题。要把屋里所见之事问问那些孩子。

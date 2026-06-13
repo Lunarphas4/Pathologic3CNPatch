@@ -1,0 +1,2 @@
+{Note.Day11_Q9_RubinAttempt.Day11_Q9_RubinNote.Name} 鲁宾的便条
+{Note.Day11_Q9_RubinAttempt.Day11_Q9_RubinNote.Description} 丹科夫斯基：\n\n我们得见一面。到我在后躯区的公寓来。\n就在斯塔马京酒馆对面，以防你忘了。不是仓库。\n\n斯坦尼斯拉夫·鲁宾

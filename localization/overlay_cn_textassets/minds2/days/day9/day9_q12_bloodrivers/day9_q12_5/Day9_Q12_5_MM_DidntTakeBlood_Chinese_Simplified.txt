@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_5.Day9_Q12_5_MM_DidntTakeBlood.Name} 疑虑
+{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_5.Day9_Q12_5_MM_DidntTakeBlood.Description} 我下意识地觉得不该把布拉赫扯进来。但少了他，我多半也理不清头绪。

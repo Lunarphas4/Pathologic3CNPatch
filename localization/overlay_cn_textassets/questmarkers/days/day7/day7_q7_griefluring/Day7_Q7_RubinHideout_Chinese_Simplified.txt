@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_RubinHideout.Name} 鲁兵的藏身处
+{QuestMarkers.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_RubinHideout.Description} 鲁宾在仓库的秘密藏身处。格里夫不会就藏在这里吧？

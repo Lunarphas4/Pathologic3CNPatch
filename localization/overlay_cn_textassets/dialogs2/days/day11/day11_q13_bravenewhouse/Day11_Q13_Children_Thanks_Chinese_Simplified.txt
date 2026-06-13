@@ -1,0 +1,14 @@
+{Dialogs2.Days.Day11.Day11_Q13_BraveNewHouse.Day11_Q13_Children_Thanks.16783} 看，波尔坎——就是他！我们的恩人！是他把这栋房子给我们洗劫的！
+{Dialogs2.Days.Day11.Day11_Q13_BraveNewHouse.Day11_Q13_Children_Thanks.18138} 我到底要说多少遍——不是波尔坎，是波利卡尔普！还有小声点，他会反悔的！
+{Dialogs2.Days.Day11.Day11_Q13_BraveNewHouse.Day11_Q13_Children_Thanks.33357} 我不会反悔。放心。孩子们，你们在这里过得怎么样？
+{Dialogs2.Days.Day11.Day11_Q13_BraveNewHouse.Day11_Q13_Children_Thanks.21530} 好得不能再好——我的头都不痒了。
+{Dialogs2.Days.Day11.Day11_Q13_BraveNewHouse.Day11_Q13_Children_Thanks.51580} 那是因为现在轮到你的猫长跳蚤了。告诉我，医生——他们不会把我们赶出去吧？
+{Dialogs2.Days.Day11.Day11_Q13_BraveNewHouse.Day11_Q13_Children_Thanks.47772} 你们要是守规矩——就不会。
+{Dialogs2.Days.Day11.Day11_Q13_BraveNewHouse.Day11_Q13_Children_Thanks.57540} 谁会把你们赶出去？
+{Dialogs2.Days.Day11.Day11_Q13_BraveNewHouse.Day11_Q13_Children_Thanks.23932} 谁都可能！也许是一帮吸血鬼。或者鬼！
+{Dialogs2.Days.Day11.Day11_Q13_BraveNewHouse.Day11_Q13_Children_Thanks.22989} 别犯傻，孩子。吸血鬼和鬼都是神话——它们不存在。
+{Dialogs2.Days.Day11.Day11_Q13_BraveNewHouse.Day11_Q13_Children_Thanks.61522} 不用怕鬼。它们以恐惧为食——你不怕，它们就伤不了你。
+{Dialogs2.Days.Day11.Day11_Q13_BraveNewHouse.Day11_Q13_Children_Thanks.26148} 吸血鬼未经允许进不了屋。别放它们进来——就这么简单。
+{Dialogs2.Days.Day11.Day11_Q13_BraveNewHouse.Day11_Q13_Children_Thanks.11514} 镇上只有一个吸血鬼。他在教堂里开庭。至于鬼——你要是细想的话……
+{Dialogs2.Days.Day11.Day11_Q13_BraveNewHouse.Day11_Q13_Children_Thanks.56986} 什么劫掠？你们以为自己在干什么？
+{Dialogs2.Days.Day11.Day11_Q13_BraveNewHouse.Day11_Q13_Children_Thanks.45659} 什么也没干！真的！别听他的，他就是话太多。告诉我，医生——他们不会把我们赶出去吧？

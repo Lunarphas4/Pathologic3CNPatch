@@ -1,0 +1,2 @@
+{SymptomGroups.Nervi.Name} 中枢神经系统
+{SymptomGroups.Nervi.Description} 中枢神经系统包括大脑和脊髓。相关问题从精神障碍、行为改变到普通头痛不等。

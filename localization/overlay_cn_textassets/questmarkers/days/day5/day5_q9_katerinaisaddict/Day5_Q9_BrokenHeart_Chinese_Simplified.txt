@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_BrokenHeart.Name} 碎心人酒馆
+{QuestMarkers.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_BrokenHeart.Description} 那位换生灵克拉拉究竟多大年纪？她进酒馆不是太小了吗？

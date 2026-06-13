@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_MM_YouMissedEva.Name} 彼此错过
+{Minds2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_MM_YouMissedEva.Description} 我在医院看到伊娃了吗？我被别的事绊住，忘了和她谈谈。也许那很重要。

@@ -1,0 +1,96 @@
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.27578} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.55734} 这里就是我搭建实验室的地方。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.16545} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.16} 一边是试剂……
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.16393} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.56291} 一套分析用试剂。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.46587} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.23189} 确定靴子上泥土的成分。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.42802} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.63797} 哈哈，悠着点，丹科夫斯基侦探！
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.14614} 检查血型。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.42954} 检测一位不朽者的组织。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.15761} 研究正在杀死小镇的化合物！
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.62940} 一套化学合成用具。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.30795} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.62692} 我不能合成抗生素，不过……
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.58272} ……其实我现在还没在合成任何东西。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.18488} 现在，至于原型机……
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.52344} 够了。开始工作吧！
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.56576} 另一边——处理原型机。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.14881} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.15393} 原型机的充电站。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.63545} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.42908} 总有一天，这种设备的充电器……
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.32400} ……会比手提箱还小。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.21485} 一台实验用仪器。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.9196} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.11852} 也许我能得到第一份疫苗样本？
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.48821} 不适合大规模生产。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.52931} 回到试剂……
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.16396} 没时间检查了——反正我都记得。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.7134} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.4249} 这里就是我搭建实验室的地方。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.37707} 1
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.30945} 一套分析用试剂。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.15164} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.19356} 确定靴子上泥土的成分。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.34552} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.47148} 哈哈，悠着点，丹科夫斯基侦探！
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.9899} 检查血型。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.46844} 检测一位不朽者的组织。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.18826} 2
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.44728} 研究正在杀死小镇的化合物！
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.30523} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.53943} 也许，“死粥”也能派上用场
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.34383} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.56565} 其实这毒物的基础原则是正确的……
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.33970} 给牧人的突破性技术！
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.53514} 只不过，这项技术用错了
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.46829} 3
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.43098} 如果加以改进，它能救人，而不是杀人
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.48671} 研究“死粥”只是第一阶段
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.17735} 4
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.58990} 希望他们很快会把舞女的血送来
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.11580} 4.1
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.53567} 如果许多人一开始就有这样的抵抗力，瘟疫会被拖慢
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.57294} 5
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.343} 用草原毒物和舞女的血，我会制成第一份——试验性——药剂
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.37465} 它不会完美，但能推迟小镇的灭亡！
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.29949} ……希望如此。我没有犯错的资格
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.4826} 6
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.42525} 制作第一份样本，我自己的设备也足够了
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.43542} 如果样本证明有效，就必须扩大规模
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.38120} 7
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.12346} 现在权力在我手里——我可以把疫苗接种写成法令
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.16273} 而我麾下的志愿者会在城里分发血清
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.35729} 8
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.46201} 那么，先在分析器里研究“死粥”
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.55955} 然后加入舞女的血，在装置里制备第一份样本
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.35343} 最后——给勤务员发布新的疫苗接种法令
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.35866} 9
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.28703} 开工！
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.59021} 等等……我再重复一遍，免得忘了什么
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.16900} ……就像他们当初为小弗拉德做的那样
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.1730} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.20217} 是的，人们对医学的信任已经被破坏
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.20299} 民众不会欢迎又一种毒物
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.9299} 又或者——他们不会看出区别？
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.18771} 在医院组装装置，建立大规模生产
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.51814} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.56147} 只是医院得先开起来……
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.48115} 剧院化妆间里有足够空间
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.37126} 那位患者的血，她比别人更久地抵抗瘟疫
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.57970} 但首先，我还要再检查一次设备
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.63365} 一套化学合成用具。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.44384} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.60435} 我不能合成抗生素，不过……
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.64638} ……其实我现在还没在合成任何东西。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.22297} 原型机的充电站。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.53247} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.56900} 总有一天，这种设备的充电器……
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.43431} ……会比手提箱还小。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.24628} 没时间检查了——反正我都记得。
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.35659} 
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.37736} 如果我想让她撑到那时候……
+{Dialogs2.MindPalace.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MP_Analyser.47814} 现在该做的不是叹气，而是工作

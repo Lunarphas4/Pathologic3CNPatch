@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_2_MM_FinalRot.Name} 尾声
+{Minds2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_2_MM_FinalRot.Description} 一切都已腐朽：奇迹般的多面体、草原小镇、死亡学院。\n\n而我自己，似乎也开始腐朽。

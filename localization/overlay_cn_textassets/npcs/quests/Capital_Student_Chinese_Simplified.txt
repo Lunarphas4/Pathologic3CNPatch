@@ -1,0 +1,3 @@
+{Npcs.Quests.Capital_Student.Name} 热血学生
+{Npcs.Quests.Capital_Student.FullName} ⁠
+{Npcs.Quests.Capital_Student.Description} ⁠

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_1_MM_BadBegining.Name} 开端之终
+{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_1_MM_BadBegining.Description} 我永远离不开这里了。他们把我困在这座血腥小镇里，现在我又被困在牢房里。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q14_CursedStreet_Ending.Day12_Q14_MM_Destiny.Name} 毁灭的必然
+{Minds2.Days.Day12.Day12_Q14_CursedStreet_Ending.Day12_Q14_MM_Destiny.Description} 我在那条诅咒之街上看见我的实验室被毁的景象——那个未来，应验了。

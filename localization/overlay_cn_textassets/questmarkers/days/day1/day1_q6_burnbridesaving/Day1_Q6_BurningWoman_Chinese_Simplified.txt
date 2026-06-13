@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_BurningWoman.Name} 骨桩场
+{QuestMarkers.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_BurningWoman.Description} 我在这里失去了理智

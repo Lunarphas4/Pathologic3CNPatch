@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Staff.Notification_RemoveVladDecree.Name} 使用办公桌，撤除接种政令
+{Notifications.Tutorial.Staff.Notification_RemoveVladDecree.Description} 使用办公桌，撤除那道接种政令。

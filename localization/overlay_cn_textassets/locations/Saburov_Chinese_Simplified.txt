@@ -1,0 +1,2 @@
+﻿{Locations.Saburov.Name} 脊宅
+{Locations.Saburov.Description} 脊宅

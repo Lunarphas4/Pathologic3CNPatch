@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Cathedral.Name} 大教堂
+{QuestMarkers.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Cathedral.Description} 镇上的当局们聚到一起开最后一次会。他们就等我一个人？

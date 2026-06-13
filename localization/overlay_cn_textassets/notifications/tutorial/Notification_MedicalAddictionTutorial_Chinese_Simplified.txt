@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_MedicalAddictionTutorial.Name} 依药
+{Notifications.Tutorial.Notification_MedicalAddictionTutorial.Description} 库存撑不了多久。每用一次药，效力都会减弱。在这里，我能调出比本地能找到的药更强的东西。

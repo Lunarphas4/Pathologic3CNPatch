@@ -1,0 +1,5 @@
+{Clouds.Old.Hospital_Vasiliy_Cloud_Pie.28921} 晚饭剩菜。
+{Clouds.Old.Hospital_Vasiliy_Cloud_Pie.26549} 晚饭剩菜。
+{Clouds.Old.Hospital_Vasiliy_Cloud_Pie.7079} 肉几乎是生的。
+{Clouds.Old.Hospital_Vasiliy_Cloud_Pie.16089} 这种状态的食物通常该扔掉。
+{Clouds.Old.Hospital_Vasiliy_Cloud_Pie.10353} 也许菲拉特没钱买好食物？

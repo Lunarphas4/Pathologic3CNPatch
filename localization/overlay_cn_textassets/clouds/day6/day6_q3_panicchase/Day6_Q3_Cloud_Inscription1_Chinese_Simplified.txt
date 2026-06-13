@@ -1,0 +1,3 @@
+{Clouds.Day6.Day6_Q3_PanicChase.Day6_Q3_Cloud_Inscription1.10531} 注意！迷宫里的每条铭文都需要单独建一个标签云。云名称里把 InscriptionN 的 N 改成对应序号。Root 里设置同编号的逻辑变量。
+{Clouds.Day6.Day6_Q3_PanicChase.Day6_Q3_Cloud_Inscription1.1033} 注意！迷宫里的每条铭文都需要单独建一个标签云。云名称里把 InscriptionN 的 N 改成对应序号。Root 里设置同编号的逻辑变量。
+{Clouds.Day6.Day6_Q3_PanicChase.Day6_Q3_Cloud_Inscription1.7488} ...

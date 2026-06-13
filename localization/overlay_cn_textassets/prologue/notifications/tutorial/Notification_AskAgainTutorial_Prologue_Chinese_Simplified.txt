@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_AskAgainTutorial_Prologue.Name} 未选中所有症状
+{Prologue.Notifications.Tutorial.Notification_AskAgainTutorial_Prologue.Description} 请仔细检查患者，在病历簿补充遗漏症状并进行询问

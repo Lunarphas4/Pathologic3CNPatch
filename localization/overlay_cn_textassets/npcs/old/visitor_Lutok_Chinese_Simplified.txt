@@ -1,0 +1,3 @@
+{Npcs.Old.visitor_Lutok.Name} ⁠
+{Npcs.Old.visitor_Lutok.FullName} ⁠
+{Npcs.Old.visitor_Lutok.Description} ⁠

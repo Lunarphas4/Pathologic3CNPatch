@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_Saba.Name} 萨芭
+{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_Saba.Description} 在镇外的草原村里能遇到一位能解读符号的医者。

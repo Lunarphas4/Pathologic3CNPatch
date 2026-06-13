@@ -1,0 +1,12 @@
+{Dialogs2.Decrees.SteppeBridesDancing.SteppeBridesDancing_DancingBrides.25832} 你为什么四处乱走，erdem（学者）？你挡着我们了。我们在做自己的工作——帮助镇子，也帮助你。你在妨碍。为什么？
+{Dialogs2.Decrees.SteppeBridesDancing.SteppeBridesDancing_DancingBrides.60603} 帮——我？这倒新鲜。
+{Dialogs2.Decrees.SteppeBridesDancing.SteppeBridesDancing_DancingBrides.49234} 具体怎么个帮法？
+{Dialogs2.Decrees.SteppeBridesDancing.SteppeBridesDancing_DancingBrides.23220} 镇上的人不认识草药。他们不知道草药的名字。所以我们选择帮忙。
+{Dialogs2.Decrees.SteppeBridesDancing.SteppeBridesDancing_DancingBrides.5821} 我还是不明白你们跳舞和这事有什么关系。
+{Dialogs2.Decrees.SteppeBridesDancing.SteppeBridesDancing_DancingBrides.23585} 我下令种植药草。结果就变成了这个？
+{Dialogs2.Decrees.SteppeBridesDancing.SteppeBridesDancing_DancingBrides.60891} 我们知道如何切开大地。我们跳舞的地方，草药会自己找到上来的路。这就是我们给镇子的帮助——也是给你的帮助。别干涉。
+{Dialogs2.Decrees.SteppeBridesDancing.SteppeBridesDancing_DancingBrides.33820} 我不认为草药被踩过就长得更好。不过随你们吧。
+{Dialogs2.Decrees.SteppeBridesDancing.SteppeBridesDancing_DancingBrides.46672} 有趣的迷信。
+{Dialogs2.Decrees.SteppeBridesDancing.SteppeBridesDancing_DancingBrides.42752} 很好。继续吧。至少能让镇民稍微分心。
+{Dialogs2.Decrees.SteppeBridesDancing.SteppeBridesDancing_DancingBrides.43097} 我不想让你失望，但跳舞现在帮不了任何人。
+{Dialogs2.Decrees.SteppeBridesDancing.SteppeBridesDancing_DancingBrides.63551} 你说的是苦话，shudarga beshe，说的是你不懂的事。镇上的人不认识草药。他们不知道草药的名字。所以我们选择帮忙。

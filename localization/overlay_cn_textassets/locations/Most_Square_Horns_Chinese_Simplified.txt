@@ -1,0 +1,2 @@
+﻿{Locations.Most_Square_Horns.Name} 桥头广场
+{Locations.Most_Square_Horns.Description} 桥头广场

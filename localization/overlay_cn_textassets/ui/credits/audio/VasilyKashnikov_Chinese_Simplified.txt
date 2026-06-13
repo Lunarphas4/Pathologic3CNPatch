@@ -1,0 +1,2 @@
+{UI.Credits.Audio.VasilyKashnikov.VasilyKashnikov} Vasily Kashnikov
+{UI.Credits.Audio.VasilyKashnikov.Conductor} 作曲、声音设计、技术声音设计

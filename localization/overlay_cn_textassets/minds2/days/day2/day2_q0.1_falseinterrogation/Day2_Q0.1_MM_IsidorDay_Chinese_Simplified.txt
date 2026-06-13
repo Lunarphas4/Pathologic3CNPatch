@@ -1,0 +1,2 @@
+{Minds2.Days.Day2.Day2_Q0.1_FalseInterrogation.Day2_Q0.1_MM_IsidorDay.Name} 第二次暴发
+{Minds2.Days.Day2.Day2_Q0.1_FalseInterrogation.Day2_Q0.1_MM_IsidorDay.Description} 今天小镇得知了瘟疫。回忆第二天，对理解疫情起源很有价值

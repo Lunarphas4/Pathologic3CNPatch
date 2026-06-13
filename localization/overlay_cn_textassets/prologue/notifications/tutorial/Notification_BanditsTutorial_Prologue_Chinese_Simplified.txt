@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_BanditsTutorial_Prologue.Name} 左轮手枪
+{Prologue.Notifications.Tutorial.Notification_BanditsTutorial_Prologue.Description} 隔离区的暴徒想杀我。我必须自卫。<InputActions/Weapon/Slot2>——拔出左轮手枪，<InputActions/Weapon/Reload>——重新装弹

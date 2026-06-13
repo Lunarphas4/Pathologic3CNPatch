@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_MM_Testing.Name} 该死
+{Minds2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_MM_Testing.Description} 审判官在筹备亵渎之实验。我未能劝阻他。看来周遭的梦魇还不足以让他止步？

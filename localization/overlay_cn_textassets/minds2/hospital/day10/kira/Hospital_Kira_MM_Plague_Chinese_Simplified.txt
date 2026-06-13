@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_Plague.Name} 沙疫
+{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_Plague.Description} 在戈尔洪河岸上，我撞见了瘟疫的化身。若眼下不是疫情正盛——我倒该把自己也送进医院。

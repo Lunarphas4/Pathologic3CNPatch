@@ -1,0 +1,5 @@
+{ArchiveDialogs.Hospitals.Old.Sukhonos.Hospital_Burakh_FindReagent.2505} 我还没取血。你可以先去找试剂。
+{ArchiveDialogs.Hospitals.Old.Sukhonos.Hospital_Burakh_FindReagent.26479} 患者又反抗了？他不是请求你了吗。
+{ArchiveDialogs.Hospitals.Old.Sukhonos.Hospital_Burakh_FindReagent.28022} 马上就好，别担心。
+{ArchiveDialogs.Hospitals.Old.Sukhonos.Hospital_Burakh_FindReagent.5652} 希望如此。
+{ArchiveDialogs.Hospitals.Old.Sukhonos.Hospital_Burakh_FindReagent.6398} 是，多一份试剂也不碍事。

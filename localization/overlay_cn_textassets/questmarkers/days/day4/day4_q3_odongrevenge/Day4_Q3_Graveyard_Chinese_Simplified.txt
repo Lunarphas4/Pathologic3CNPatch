@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day4.Day4_Q3_OdongRevenge.Day4_Q3_Graveyard.Name} 墓园
+{QuestMarkers.Days.Day4.Day4_Q3_OdongRevenge.Day4_Q3_Graveyard.Description} 一个人被活埋在墓园里。我得赶在他窒息之前。

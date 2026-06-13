@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_Nerves.Name} 神经
+{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_Nerves.Description} 所有路都通向死路。我需要一位扳道工。

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_Rod_Dog.Name} 权杖宅
+{QuestMarkers.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_Rod_Dog.Description} 在出人命之前，总督得知道孩子们这场胡闹。

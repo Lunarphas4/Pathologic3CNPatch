@@ -1,0 +1,3 @@
+{Npcs.CathedralWarden.Name} 大教堂看守者
+{Npcs.CathedralWarden.FullName} ⁠
+{Npcs.CathedralWarden.Description} ⁠

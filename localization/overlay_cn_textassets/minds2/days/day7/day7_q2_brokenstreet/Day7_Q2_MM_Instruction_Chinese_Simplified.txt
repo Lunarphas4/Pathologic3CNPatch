@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_Instruction.Name} 算法
+{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_Instruction.Description} 要让这条街生效，必须曲折而行，沿途登上四级门廊。

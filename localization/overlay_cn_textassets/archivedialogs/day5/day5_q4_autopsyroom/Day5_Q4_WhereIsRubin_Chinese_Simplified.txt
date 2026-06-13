@@ -1,0 +1,4 @@
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_WhereIsRubin.28840} 那个吸血鬼在哪？
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_WhereIsRubin.30909} 鲁宾？
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_WhereIsRubin.28067} 他不配有名字。叛徒……
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_WhereIsRubin.28300} 那也许他会回来，等等他吧。

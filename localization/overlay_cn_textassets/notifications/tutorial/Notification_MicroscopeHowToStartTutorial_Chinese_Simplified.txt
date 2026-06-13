@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_MicroscopeHowToStartTutorial.Name} 有用之器
+{Notifications.Tutorial.Notification_MicroscopeHowToStartTutorial.Description} 我可以用显微镜研究所采集的样本。

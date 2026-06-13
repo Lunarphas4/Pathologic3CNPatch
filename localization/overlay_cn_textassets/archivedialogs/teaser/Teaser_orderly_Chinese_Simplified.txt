@@ -1,0 +1,6 @@
+{ArchiveDialogs.Teaser.Teaser_orderly.19645} 五年前，沙疫从草原而来。人们在短短几个小时里烧尽。它沿着房屋爬，沿着空气爬。
+{ArchiveDialogs.Teaser.Teaser_orderly.6815} 人的疾病不会像您说的那样沿着房屋爬行。
+{ArchiveDialogs.Teaser.Teaser_orderly.13396} 怎么不会？潮湿棚户区里就有被感染的房子。您自己去看看。那里一切都像主人马上就要回来。
+{ArchiveDialogs.Teaser.Teaser_orderly.19250} 我确信你弄错了。不过可以原谅——你没有医学教育。
+{ArchiveDialogs.Teaser.Teaser_orderly.30895} 潮湿棚户区？有时间我会去看看。
+{ArchiveDialogs.Teaser.Teaser_orderly.15410} 你夸大了。疾病可以很迅猛，但不会迅猛到那种程度。

@@ -1,0 +1,2 @@
+{SymptomGroups.Common.Name} 全身
+{SymptomGroups.Common.Description} 一般性症状。

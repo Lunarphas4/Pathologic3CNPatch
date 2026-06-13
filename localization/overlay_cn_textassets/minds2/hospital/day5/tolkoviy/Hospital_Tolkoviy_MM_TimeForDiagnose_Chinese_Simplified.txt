@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day5.Tolkoviy.Hospital_Tolkoviy_MM_TimeForDiagnose.Name} 显微镜
+{Minds2.Hospital.Day5.Tolkoviy.Hospital_Tolkoviy_MM_TimeForDiagnose.Description} 现在我可以采集病人样本，并用显微镜确定诊断。对病人嘲鸫来说，这尤其有用。

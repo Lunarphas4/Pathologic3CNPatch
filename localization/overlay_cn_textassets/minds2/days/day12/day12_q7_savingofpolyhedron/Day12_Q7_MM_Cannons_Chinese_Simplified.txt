@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q7_SavingOfPolyhedron.Day12_Q7_MM_Cannons.Name} 炮火轰鸣
+{Minds2.Days.Day12.Day12_Q7_SavingOfPolyhedron.Day12_Q7_MM_Cannons.Description} 我选择摧毁多面体。

@@ -1,0 +1,2 @@
+{Messengers.MessengerDefinition_Test_2.Name} ⁠
+{Messengers.MessengerDefinition_Test_2.Description} ⁠

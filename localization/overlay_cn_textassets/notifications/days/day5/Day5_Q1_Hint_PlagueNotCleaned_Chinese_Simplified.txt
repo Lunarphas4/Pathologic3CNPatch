@@ -1,0 +1,2 @@
+{Notifications.Days.Day5.Day5_Q1_Hint_PlagueNotCleaned.Name} ⁠
+{Notifications.Days.Day5.Day5_Q1_Hint_PlagueNotCleaned.Description} 我得用原型器具清除瘴气。

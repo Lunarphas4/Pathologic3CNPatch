@@ -1,0 +1,2 @@
+﻿{Notifications.Map.Map_EndDay_Notification.Name} 关闭
+{Notifications.Map.Map_EndDay_Notification.Description} 此日终时不可用。

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_WickedOldHouse2.Name} 威洛斯
+{QuestMarkers.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_WickedOldHouse2.Description} 安娜·安琪尔住在这里。

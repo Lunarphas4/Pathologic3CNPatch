@@ -1,0 +1,4 @@
+{Clouds.Metabolism.Apathy.RegionRailwayStation.Cloud_RegionRailwayStation_PassangerDoors.20565} 你不可能徒步穿过草原。
+{Clouds.Metabolism.Apathy.RegionRailwayStation.Cloud_RegionRailwayStation_PassangerDoors.8175} 你不可能徒步穿过草原。
+{Clouds.Metabolism.Apathy.RegionRailwayStation.Cloud_RegionRailwayStation_PassangerDoors.10054} 没人能离开这地狱。
+{Clouds.Metabolism.Apathy.RegionRailwayStation.Cloud_RegionRailwayStation_PassangerDoors.22804} 我们都会一起死。

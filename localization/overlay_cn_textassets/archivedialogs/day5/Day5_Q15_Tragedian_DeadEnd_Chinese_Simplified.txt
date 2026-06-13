@@ -1,0 +1,14 @@
+{ArchiveDialogs.Day5.Day5_Q15_Tragedian_DeadEnd.42008} 您是学士，无畏的研究者！如果学者发现自己走进了死胡同，会怎么做？给我们的戏指点指点吧，我们在排一出新的默剧。
+{ArchiveDialogs.Day5.Day5_Q15_Tragedian_DeadEnd.2822} 科学家会从头开始。
+{ArchiveDialogs.Day5.Day5_Q15_Tragedian_DeadEnd.40521} 可惜人生不能像笔记那样，撕掉失败的一页就从头来过。坏消息，学士：现在所有本能帮你的人，不是死了，就是不想和你说话。是时候承认失败了。你打算怎么办？
+{ArchiveDialogs.Day5.Day5_Q15_Tragedian_DeadEnd.27734} 去拜访凯恩家。死者西蒙的亲属。要弄清接下来该怎么办，值得询问他们。
+{ArchiveDialogs.Day5.Day5_Q15_Tragedian_DeadEnd.27953} 必须去见伊西多尔·布拉赫。是他邀请了我，给我写信谈起西蒙。无论如何，他知道些什么。
+{ArchiveDialogs.Day5.Day5_Q15_Tragedian_DeadEnd.17189} 该逃出这座城，就是这样。首都还有人在等我。
+{ArchiveDialogs.Day5.Day5_Q15_Tragedian_DeadEnd.42503} 您还打算多少次被自己的愚蠢烫伤？这也是研究吗——没完没了地把鼻子伸进捕鼠夹？我预言结果：您会再次挨上一记。但如果这就是科学方法——好吧，我闭嘴。
+{ArchiveDialogs.Day5.Day5_Q15_Tragedian_DeadEnd.19756} 你说得轻巧——你没有鼻子。
+{ArchiveDialogs.Day5.Day5_Q15_Tragedian_DeadEnd.16603} 我厌倦这个地方了。
+{ArchiveDialogs.Day5.Day5_Q15_Tragedian_DeadEnd.52434} 我厌倦这场谈话了。
+{ArchiveDialogs.Day5.Day5_Q15_Tragedian_DeadEnd.14968} 如果研究走进死胡同，就要退回上一个岔路，再转向另一边。
+{ArchiveDialogs.Day5.Day5_Q15_Tragedian_DeadEnd.57562} 可惜时间不能退回到“上一个岔路口”，对吧？坏消息，学士：现在所有本能帮你的人，不是死了，就是不想和你说话。是时候承认失败了。你打算怎么办？
+{ArchiveDialogs.Day5.Day5_Q15_Tragedian_DeadEnd.5367} 还是说：为什么我到处都看见你？现在你又装成戏子，扮演员——可你在现实里并不存在。你是谁？
+{ArchiveDialogs.Day5.Day5_Q15_Tragedian_DeadEnd.36321} 说得也是——怎么可能看见不存在之物？也许我只是一幅插图？您知道“借另一个人思考”这个说法吗？我就是那个“另一个”，您借我来思考，寻找死胡同的出口。那么请思考：接下来您要做什么？

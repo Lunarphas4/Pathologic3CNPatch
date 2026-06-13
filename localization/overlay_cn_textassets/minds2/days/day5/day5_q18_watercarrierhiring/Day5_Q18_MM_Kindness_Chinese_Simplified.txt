@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q18_WaterCarrierHiring.Day5_Q18_MM_Kindness.Name} 以善还善
+{Minds2.Days.Day5.Day5_Q18_WaterCarrierHiring.Day5_Q18_MM_Kindness.Description} 今天拉拉答应派一个她照看的人来支援我。也许他已经到了。

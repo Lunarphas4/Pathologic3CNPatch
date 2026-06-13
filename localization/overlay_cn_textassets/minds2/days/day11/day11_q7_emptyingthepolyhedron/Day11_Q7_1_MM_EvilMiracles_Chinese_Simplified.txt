@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_1_MM_EvilMiracles.Name} 彩窗的碎片
+{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_1_MM_EvilMiracles.Description} 唯有奇迹能扭转局面。\n\n而奇迹有许多种。

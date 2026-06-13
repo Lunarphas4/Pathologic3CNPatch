@@ -1,0 +1,10 @@
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_NoBlock.35877} 站住。报上姓名、职务和来意。
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_NoBlock.19026} 丹尼尔·丹科夫斯基——命运弄人，如今是这座镇的首席医师。我需要同布洛克将军谈话。
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_NoBlock.8475} 将军不在——他因公务外出了。
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_NoBlock.15598} 我看得出他不在。他什么时候回来？
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_NoBlock.42906} 我们接到命令，不许说——也不许知道。我不是秘书，我是士兵。
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_NoBlock.13106} 一团糟。
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_NoBlock.42276} 可惜。秘书会比你有用得多。
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_NoBlock.57368} 明白。稍息。
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_NoBlock.61301} 连副官也没有……那一定很严重——他居然一个人都没留下。
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_NoBlock.36900} 那么，他到底去了哪儿？

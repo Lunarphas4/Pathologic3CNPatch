@@ -1,0 +1,3 @@
+{Clouds2.Days.Intro.Extra.Intro_Station_Cloud_DecoratingMen.57075} 用鲜亮的链条把列车拴在小镇上。
+{Clouds2.Days.Intro.Extra.Intro_Station_Cloud_DecoratingMen.27818} 用鲜亮的链条把列车拴在小镇上。
+{Clouds2.Days.Intro.Extra.Intro_Station_Cloud_DecoratingMen.5374} 这些织网者很快会把一切都织满。

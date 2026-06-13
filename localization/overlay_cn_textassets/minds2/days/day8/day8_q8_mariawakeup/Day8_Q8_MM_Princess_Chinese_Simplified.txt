@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_MM_Princess.Name} 豌豆公主
+{Minds2.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_MM_Princess.Description} 我竟被一种巫术式的逻辑驱使着行事。但若这片床下的壳能让玛丽亚拒绝镜子——那就这么办。

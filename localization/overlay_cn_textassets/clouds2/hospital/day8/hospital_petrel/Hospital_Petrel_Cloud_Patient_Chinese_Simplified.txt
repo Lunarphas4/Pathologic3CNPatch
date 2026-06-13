@@ -1,0 +1,3 @@
+{Clouds2.Hospital.Day8.Hospital_Petrel.Hospital_Petrel_Cloud_Patient.20700} 以闯入感染房屋为业
+{Clouds2.Hospital.Day8.Hospital_Petrel.Hospital_Petrel_Cloud_Patient.19305} 以闯入感染房屋为业
+{Clouds2.Hospital.Day8.Hospital_Petrel.Hospital_Petrel_Cloud_Patient.6899} 我手上又来了一个疯子！

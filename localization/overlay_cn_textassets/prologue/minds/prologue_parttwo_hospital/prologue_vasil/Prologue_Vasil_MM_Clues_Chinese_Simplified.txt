@@ -1,0 +1,2 @@
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_Vasil.Prologue_Vasil_MM_Clues.Name} 渐见曙光
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_Vasil.Prologue_Vasil_MM_Clues.Description} 那绝非幻象，是个真实男孩！或可询问菲拉特生平——但需线索引导提问。

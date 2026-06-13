@@ -1,0 +1,13 @@
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Final.24729} 是你。你注定我们要死在这个被诅咒的小镇里。
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Final.14439} 我要写下你的诊断。然后确保它交到军方手里。就这样。
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Final.11138} 听着，你本可能死在路上。连你的孩子也可能。沙疫不是唯一有死亡率的病。
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Final.31584} 生活常常不公。你也该安静一次了。
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Final.52370} 你无法想象我有多感激你，丹科夫斯基医生！我永远不会忘记你的仁慈。
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Final.62354} 拼布，你怎么还在这里？带上孩子立刻撤离。你的情况可能恶化，到时士兵会看穿这个把戏。
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Final.21604} 等一下，我得写下你的诊断！你和你的孩子都需要处方。照着做，一字不差。
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Final.3398} 一定让你的孩子长大后记得这座镇。也记得它遭遇过什么。
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Final.53625} 那么你怎么说，医生？我能带孩子撤离吗？你会签一张证明我们健康的文件吗？
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Final.44066} 你并不健康。我已经给你诊断过了。这不是沙疫，但它可能很危险——对你是，对你身边的人也是。
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Final.29044} 好啊……那现在怎么办？让我的孩子留在这座镇上，低头等着沙疫把他们吞了？你为什么要这样对我们……
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Final.7593} 你的诊断会保密。我会签撤离文件。但要小心，盯紧些。他们可能发现你，或者你的病会加重……祝你好运，拼布。
+{Dialogs2.Hospital.Day9.Poshinok.Hospital_Poshinok_Final.9524} 抱歉。我不能伪造这种文件。我的军方面声誉会因此受牵连——撤离者的健康也一样。

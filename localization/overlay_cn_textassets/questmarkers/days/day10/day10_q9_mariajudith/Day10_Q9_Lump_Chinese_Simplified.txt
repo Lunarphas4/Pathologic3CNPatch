@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day10.Day10_Q9_MariaJudith.Day10_Q9_Lump.Name} 块石宅
+{QuestMarkers.Days.Day10.Day10_Q9_MariaJudith.Day10_Q9_Lump.Description} 也许玛丽亚和卡佩拉有共同的生意？

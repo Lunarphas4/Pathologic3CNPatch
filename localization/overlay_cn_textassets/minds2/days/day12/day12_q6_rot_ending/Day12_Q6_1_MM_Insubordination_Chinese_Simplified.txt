@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_1_MM_Insubordination.Name} 对峙
+{Minds2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_1_MM_Insubordination.Description} 布洛克将军接到了审判官莉莉奇的命令：摧毁多面体。\n\n但他没有服从。

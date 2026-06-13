@@ -1,0 +1,3 @@
+{Npcs.Merchant.Name} 小贩
+{Npcs.Merchant.FullName} ⁠
+{Npcs.Merchant.Description} ⁠

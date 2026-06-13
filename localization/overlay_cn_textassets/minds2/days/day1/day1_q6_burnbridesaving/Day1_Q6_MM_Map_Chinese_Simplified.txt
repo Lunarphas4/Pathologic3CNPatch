@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Map.Name} 疆域
+{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Map.Description} 在他们据说埋葬西蒙的地方——他们正在埋葬制图师。埋葬他的地图。埋葬小镇。

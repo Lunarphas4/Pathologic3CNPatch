@@ -1,0 +1,2 @@
+{UI.Credits.GameDesign.AlexeySuvorov.Name} Alexey Suvorov
+{UI.Credits.GameDesign.AlexeySuvorov.Description} 游戏设计师

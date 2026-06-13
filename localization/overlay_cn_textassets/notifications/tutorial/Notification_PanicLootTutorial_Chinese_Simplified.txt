@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_PanicLootTutorial.Name} 只是凡人
+{Notifications.Tutorial.Notification_PanicLootTutorial.Description} 他们怕死。投降的人不再构成威胁——甚至会任你拿走他们的财物。

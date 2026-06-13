@@ -1,0 +1,11 @@
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_RubinShadow_BeforeOperation.28542} 十七次。鲁宾协助伊西多尔做过这类手术的次数就是十七次。他会这样问你：而你呢，丹科夫斯基？你哪怕只在手术台边当过助手吗？
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_RubinShadow_BeforeOperation.29198} 闭嘴。影子，你来这里有什么目的？阻拦我？
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_RubinShadow_BeforeOperation.54032} 这还不明显吗？我来提醒你鲁宾的事，把他此刻会多么有用这个念头种进你脑子里。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_RubinShadow_BeforeOperation.17266} 胡说。我没有他也能应付得很好。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_RubinShadow_BeforeOperation.20358} 这倒是真的。同僚的帮助从来不会白费。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_RubinShadow_BeforeOperation.48467} 你疯了吗，影子？鲁宾已经死了那么久……你真要我把这件事也纠正过来？
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_RubinShadow_BeforeOperation.60845} 我只是提示你，仅此而已。爱鲁宾的人很少，重视他的人更少。但觉得他有用的人很多。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_RubinShadow_BeforeOperation.60128} 也许吧。我会考虑。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_RubinShadow_BeforeOperation.5465} 说我没有时间管鲁宾，未免荒唐——不过力气又是另一回事。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_RubinShadow_BeforeOperation.45416} 鲁宾即使死了也仍旧让人难以忍受。我简直能想象他在坟墓那边会有多么讨厌。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_RubinShadow_BeforeOperation.4245} 我来提醒你他，把他此刻会多么有用这个念头种进你脑子里。

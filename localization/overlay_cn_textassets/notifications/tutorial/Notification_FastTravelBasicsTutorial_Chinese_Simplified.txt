@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_FastTravelBasicsTutorial.Name} 穿镇而行
+{Notifications.Tutorial.Notification_FastTravelBasicsTutorial.Description} <InputActions/Weapon/Shoot> 选择城区将其加入路线。再按一次开始移动。

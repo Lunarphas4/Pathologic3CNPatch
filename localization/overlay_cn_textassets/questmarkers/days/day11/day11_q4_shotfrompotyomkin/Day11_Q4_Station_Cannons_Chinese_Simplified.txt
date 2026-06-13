@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Station_Cannons.Name} 车站
+{QuestMarkers.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Station_Cannons.Description} 铁路上架着巨型大炮。今天它们派上了用场。

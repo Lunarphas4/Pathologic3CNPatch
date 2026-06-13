@@ -1,0 +1,65 @@
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.6386} 你好，医者。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.14716} 说说，我身上有什么不寻常的气味吗？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.14258} 我还以为你不喜欢谈气味。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.18261} 回答问题就行。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.12795} 我不喜欢。但有人说我闻起来有铁锈和死亡的味道。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.13956} 谁说的？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.23175} 重要吗？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.292} 说这话的显然不是镇民。一定是个很敏感的人。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.20331} 所以，我有味道吗？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.8985} 几乎闻不出来，但确实有。铁锈味。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.8679} 荒唐。铁锈没有气味。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.9849} 万物都有气味。也都有颜色。铁锈的气味有点偏褐……所以褐色 twyre（特维草）应该对它有用。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.22886} 有什么办法能让我摆脱这股该死的味道吗？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.1825} 有。铁锈的气味带褐色……所以褐色 twyre（特维草）应该对它有用。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.18702} 原来气味还有颜色。还有什么？工作？孩子？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.4128} 没有工作，也没有孩子。但确实有颜色。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.9988} 那我的恼火也有颜色和气味吗？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.2491} 当然。有万寿菊的色调，你越恼火，它就越偏沙色。就像现在。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.29275} 现在我确信你是在耍我。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.32199} 你真是个怪人，布拉赫。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.12992} 你生什么气？你问了问题，我回答了。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.13281} 长期恼火只是我性格的一部分。不过别说这个了；褐色 twyre（特维草）去哪弄？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.9702} 褐色很特别。很少见。据说twyre（特维草）长在活埋之人的坟上，才会变成这个颜色。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.20360} 现在我真的开始恼火了。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.24981} 换成你站在我的位置，你不会生气吗？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.9001} 愤怒没有益处。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.2160} 你知道什么才有益处吗？回答我的问题。这褐色 twyre（特维草）去哪弄？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.11914} 你根本不知道，你这副安详智者的样子有多让我烦。你那层盔甲真是怎么都刺不穿，是吧？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.22395} 你确实需要些褐色 twyre（特维草）。不管有没有那味道，你都用得上它的镇静作用。据说twyre（特维草）只有长在活埋之人的坟上，才会变成褐色。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.31434} 我听说过通感，但真正的通感者，我还是第一次见。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.8872} 颜色只是一种预感，一种感觉……
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.7828} 行了行了，别吟诗了。这褐色 twyre（特维草）去哪弄？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.16351} 褐色 twyre（特维草），是吧。去哪弄？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.20060} 草原。但褐色 twyre（特维草）很特别。据说这种草只有长在被活埋之人的坟上，才会呈现这种颜色。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.18595} 你一定是在开玩笑。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.10543} 我没有。不过我相信你也可以靠交换弄到twyre（特维草）。去问斯塔马京。他酿twyrine（特维酒），手里应该有一些。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.30339} 你早该这么告诉我，省得我听这些吓人的民间故事。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.21061} 当然，易货只适合意志软弱的人。我去找活埋的坟。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.29579} ……荒谬透顶……
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.11164} 你是在建议什么？让我去草原上活埋一个人？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.29173} 好。那简单办法是什么？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.17107} 我相信你也可以靠交换弄到twyre（特维草）。去问斯塔马京。他酿twyrine（特维酒），手里应该有一些。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.10777} 他最擅长的多半是把事情弄复杂。跟其他所有“很敏感”的人一样。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.14275} 我不知道你想从他那里得到什么，但我知道你为什么没得到。铁锈的气味令人不安。这我能理解。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.19817} 还有一个叫磐石的 odongh（金族牧人）。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.3900} 他非常敏感。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.17908} 那个因为我身上的味道而拒绝帮我的人。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.23943} 所以你才来？来问气味？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.28522} 是的。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.21741} 他们今天要处决我。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.630} 我不觉得事情会走到那一步。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.6631} 就……走吧，丹科夫斯基。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.16422} 所以你不打算帮我？那你也见鬼去吧。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.4767} 判得太快的人，很快就会后悔。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.27936} 我会试着帮你。但我先需要你帮我。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.2816} 有人说我闻起来有铁锈和死亡的味道。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.2329} 你每次靠近我，都会闻一闻空气。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.4635} 习惯而已。抱歉。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.26710} 这一次，我正需要你这个习惯。我身上闻起来像什么？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.31617} 每个人都有自己的恶习。我的恶习是时间循环。对你来说很糟。比烟草还糟。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.30984} 什么？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.13722} 别在意。告诉我，我闻起来像什么？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.2910} 你有没有觉得，自己在一遍又一遍地经历同样的事？
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.22759} 没有。但有时我确实觉得，能经历的一切，我很久以前就已经经历完了。
+{Dialogs2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex_Rust.10440} 那你不会懂。好吧，算了。你看，我已经知道别人说我身上是什么味道。现在我需要你给第二个判断。

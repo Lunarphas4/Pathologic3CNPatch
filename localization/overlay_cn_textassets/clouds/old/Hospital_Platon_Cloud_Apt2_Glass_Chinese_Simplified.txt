@@ -1,0 +1,4 @@
+{Clouds.Old.Hospital_Platon_Cloud_Apt2_Glass.10418} 肯定不是侦探。
+{Clouds.Old.Hospital_Platon_Cloud_Apt2_Glass.20393} 肯定不是侦探。
+{Clouds.Old.Hospital_Platon_Cloud_Apt2_Glass.14195} 男孩说病人视力不好。
+{Clouds.Old.Hospital_Platon_Cloud_Apt2_Glass.28348} 据邻居说。

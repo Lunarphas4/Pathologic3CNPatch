@@ -1,0 +1,33 @@
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.27791} 日安，医生。您找我们尊敬的审判官有事吗？
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.64726} 我找的是<i>你</i>，赫伦。关于紧急指挥部，有许多事要处理。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.62510} 我能献上的只有慰问。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.1140} 他们指控你什么了吗？还是传唤你作证？我会尽力把你弄出去。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.21442} 我是你无能的见证人，不过别担心——我不是以那个身份来的。\n\n昨天我花了一整天观察审判官卡明斯基到来后的影响，并做了一些计算。结果是，我决定转去为他服务，担任临时助理。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.49054} 什么？！
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.58558} 审判官卡明斯基极其认真地接受了我的提议，并且已经交给我一些远比你给我的工作有意义的任务。你当然明白，细节我不能透露——审判庭不是你那套过家家的紧急指挥部。\n\n所以，恕我失陪，我得回去工作了。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.57760} 我早该料到你会这样。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.17934} 很高兴我们想法一致。Boös（兄长） Vlad（大弗拉德）派我到您身边，是为了在紧急状态下维持秩序。\n\n但您，医生，您本身就是另一种紧急状态。我无力与您抗衡。然而我宁愿帮助灭火的人，而不是点火的人。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.62206} 抛弃紧急指挥部，怎么能算“维持秩序”？
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.31851} 我认为，注定失败的事业就该被放弃，而不是靠一个人的劳动和技能，维持它痛苦的濒死抽搐。我不会回紧急指挥部。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.37700} 很不幸，紧急指挥部的案头比以往任何时候都更需要你。关于法令的全部文档……阵亡了。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.21410} 我为什么一点也不惊讶？我离开还不到一天，您就已经把灾祸招到手里了。\n\n细节免了吧。我确信这又是您糟糕组织能力的光辉范例。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.45843} 哦，但我<i>确实</i>能让你惊讶！文件被一头公牛吃了。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.5596} 饶了我吧！我一点也不惊讶。我很久以前就在图表上把一头公牛标成了混乱因子。\n\n抱歉，但我帮不了您。我现在为另一个机构工作。您可以去市政厅求助。当然，您得排队。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.14321} 你自己也在排队：排在审判庭的巨口前。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.61245} 恢复法令不是为了我的名誉！这是为了全镇的安康。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.32800} 你是个平庸的仕途人，赫伦：记仇，自尊大得吓人。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.27991} 我很抱歉，真的。说不定我还会怀念您那张刻薄的脸。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.62842} 那不重要。重要的是尽快恢复紧急指挥部的运作。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.63752} 抱歉，我帮不了您。我现在为另一个机构工作。您可以去市政厅求助。当然，您得排队。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.61951} 没有你我撑不住，赫伦。或许我们可以谈谈……我不知道，新的安排？
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.25664} 别试图贿赂我，也别试图打动我的怜悯。我认为，注定失败的事业就该被放弃，而不是靠一个人的劳动和技能，维持它痛苦的濒死抽搐。我不会回紧急指挥部。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.13104} 我不是个好上司，我知道。过去的一切，请原谅我。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.10025} 你疯了吗，赫伦？你知道审判庭是什么样的地方吗？对他们来说，你是可消耗品，而且你很快就会明白这一点！
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.26162} 像所有缺乏精神纪律的人一样，您容易受到阴谋论的诱惑。我不会纵容您的这种罪。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.22866} 希望你不必以惨痛方式发现我是对的。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.53031} 够了。Boös（兄长） Vlad（大弗拉德）派我到您身边，是为了在紧急状态下维持秩序。\n\n但您，医生，您本身就是另一种紧急状态。我无力与您抗衡。然而我宁愿帮助灭火的人，而不是点火的人。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.36938} 以后别哭着来，说你错得多么可怕。虽然到那时候，也许已经没人可找了。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.19739} 这场谈话正变得很古怪。显然我漏掉了什么。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.17041} 您承认自己的缺点，比如一无所知。这算是个开端——但太晚了。\n\n昨天我花了一整天观察审判官卡明斯基到来后的影响，并做了一些计算。结果是，我决定转去为他服务，担任临时助理。
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.50048} 你没事！至少现在没事。我刚开始担心……
+{Dialogs2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Kuron_NoDecrees.24241} 我当然没事。若要我说，比昨天还好。

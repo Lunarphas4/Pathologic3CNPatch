@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_2_MM_Riot.Name} 不安
+{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_2_MM_Riot.Description} 军队自顾不暇：布洛克之死引发了指挥层危机。

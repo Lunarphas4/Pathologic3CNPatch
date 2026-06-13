@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day6.Olusha.Hospital_Olusha_MM_Stains.Name} 衣上的污渍
+{Minds2.Hospital.Day6.Olusha.Hospital_Olusha_MM_Stains.Description} 红色，已干……值得一问。万一她受了伤呢？

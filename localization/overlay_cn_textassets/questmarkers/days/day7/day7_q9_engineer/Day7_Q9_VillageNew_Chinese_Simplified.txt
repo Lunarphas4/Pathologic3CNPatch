@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day7.Day7_Q9_Engineer.Day7_Q9_VillageNew.Name} 草原村
+{QuestMarkers.Days.Day7.Day7_Q9_Engineer.Day7_Q9_VillageNew.Description} 机师巨石等我驱除铁锈味。

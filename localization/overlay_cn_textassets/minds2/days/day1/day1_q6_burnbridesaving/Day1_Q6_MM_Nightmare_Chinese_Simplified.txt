@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Nightmare.Name} 理性沉睡
+{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Nightmare.Description} 我可以跳回过去救下她，但我救不了成千上万被杀害的镇民中的每一个。而我必须救。

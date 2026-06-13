@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_MM_HospitalSummary.Name} 要造疫苗，须研究非典型病例
+{Minds2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_MM_HospitalSummary.Description} 沙疫病人的并发症能延长他们的生命。若能找到规律，我们便能造出疫苗。

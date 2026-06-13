@@ -1,0 +1,2 @@
+﻿{StaffCommands.Day1.StopTheTime.Name} 停止时间
+{StaffCommands.Day1.StopTheTime.Description} 让镇上的钟停摆

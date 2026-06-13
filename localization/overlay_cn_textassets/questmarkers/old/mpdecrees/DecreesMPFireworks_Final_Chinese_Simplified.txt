@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Old.MPDecrees.DecreesMPFireworks_Final.Name} 过往的疫情热点
+{QuestMarkers.Old.MPDecrees.DecreesMPFireworks_Final.Description} 我会在这里找到答案。

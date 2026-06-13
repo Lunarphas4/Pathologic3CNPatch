@@ -1,0 +1,2 @@
+{UI.MicroscopeFinals.Good.Name} 器官很健康
+{UI.MicroscopeFinals.Good.Description} 未检测到病原体

@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_ExtremePsychoTutorial_Prologue.Name} 狂躁状态
+{Prologue.Notifications.Tutorial.Notification_ExtremePsychoTutorial_Prologue.Description} 躁狂会加重心脏负荷，数值过高会迅速死亡。但能提升移动速度，加速生命流逝

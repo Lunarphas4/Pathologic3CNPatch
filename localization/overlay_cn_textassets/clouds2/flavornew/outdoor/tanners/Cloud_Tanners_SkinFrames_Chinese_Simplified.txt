@@ -1,0 +1,5 @@
+{Clouds2.FlavorNew.Outdoor.Tanners.Cloud_Tanners_SkinFrames.44925} 古时候，鞣革区都会设在偏僻处
+{Clouds2.FlavorNew.Outdoor.Tanners.Cloud_Tanners_SkinFrames.10340} 古时候，鞣革区都会设在偏僻处
+{Clouds2.FlavorNew.Outdoor.Tanners.Cloud_Tanners_SkinFrames.56689} 因为气味难以忍受
+{Clouds2.FlavorNew.Outdoor.Tanners.Cloud_Tanners_SkinFrames.62859} 但这里情况特殊
+{Clouds2.FlavorNew.Outdoor.Tanners.Cloud_Tanners_SkinFrames.61752} 整座城都是屠宰场和鞣革场

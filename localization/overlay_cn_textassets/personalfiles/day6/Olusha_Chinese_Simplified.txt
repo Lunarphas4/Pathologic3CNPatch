@@ -1,0 +1,2 @@
+{PersonalFiles.Day6.Olusha.Name} 甘妮特
+{PersonalFiles.Day6.Olusha.Description} 有人看见她从受感染区域出来。

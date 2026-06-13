@@ -1,0 +1,10 @@
+{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day4_Visitors_Guard.29385} 向高高在上的长官敬礼！
+{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day4_Visitors_Guard.6042} 还开玩笑？那谁来维持秩序？
+{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day4_Visitors_Guard.10597} 这里要是不说笑，能被闷死！派我们来抓贼，可贼在哪儿呢？
+{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day4_Visitors_Guard.8291} 派你们来，正是为了让他们不出现。
+{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day4_Visitors_Guard.31424} 好吧，不死于沙疫，也会死于无聊。
+{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day4_Visitors_Guard.3000} 一切安静？没有违规者？
+{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day4_Visitors_Guard.28558} 只有一只猫盯上了缬草。我把它吓跑了。
+{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day4_Visitors_Guard.25697} 前几夜不会也是它干的吧？
+{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day4_Visitors_Guard.539} 谁知道呢。
+{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day4_Visitors_Guard.17688} 我走了，你们继续保持。

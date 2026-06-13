@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Common.QuestMarker_SecondTwyrine.Name} 值得留意之处
+{QuestMarkers.Common.QuestMarker_SecondTwyrine.Description} 这里有事在发生。

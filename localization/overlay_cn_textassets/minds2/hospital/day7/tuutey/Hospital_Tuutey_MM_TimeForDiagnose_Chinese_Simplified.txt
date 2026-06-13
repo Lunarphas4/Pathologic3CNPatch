@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day7.Tuutey.Hospital_Tuutey_MM_TimeForDiagnose.Name} 任凭我们怎么劝——她也不停
+{Minds2.Hospital.Day7.Tuutey.Hospital_Tuutey_MM_TimeForDiagnose.Description} 下诊断时要把图泰的"不知疲倦"算进去。她仿佛从不疲惫。

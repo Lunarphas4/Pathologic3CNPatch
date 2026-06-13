@@ -1,0 +1,2 @@
+{Minds2.Days.Intro.Intro_Day1_MM_Station.Name} 这也行？
+{Minds2.Days.Intro.Intro_Day1_MM_Station.Description} 我才刚下火车，东西就立刻被偷了。真是乡下生活的热情欢迎。没有工具，我什么也做不了。必须尽快找回原型机和显微镜，那两样都至关重要

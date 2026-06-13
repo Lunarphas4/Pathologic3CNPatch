@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_Shelter.Name} 庇护所
+{QuestMarkers.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_Shelter.Description} 这位长大成人的"化学家"在这里搞慈善。

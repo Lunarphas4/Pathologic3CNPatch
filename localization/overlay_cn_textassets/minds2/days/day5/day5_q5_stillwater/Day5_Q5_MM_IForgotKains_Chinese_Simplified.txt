@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q5_Stillwater.Day5_Q5_MM_IForgotKains.Name} 落空的期待
+{Minds2.Days.Day5.Day5_Q5_Stillwater.Day5_Q5_MM_IForgotKains.Description} 几天前，我答应尤利娅·柳里切娃替她挡住凯恩家的人，但我没有兑现。我可以做得更好。

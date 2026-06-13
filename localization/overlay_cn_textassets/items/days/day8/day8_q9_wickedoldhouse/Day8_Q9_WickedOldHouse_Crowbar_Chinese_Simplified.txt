@@ -1,0 +1,3 @@
+﻿{Items.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_WickedOldHouse_Crowbar.Name} 撬棍
+{Items.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_WickedOldHouse_Crowbar.Description} 一块沉重、略微弯曲的金属。
+{Items.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_WickedOldHouse_Crowbar.Description2} 有了它，我可以撬开封住窗户的木板。

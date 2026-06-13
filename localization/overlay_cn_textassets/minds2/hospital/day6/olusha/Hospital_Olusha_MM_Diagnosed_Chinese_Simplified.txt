@@ -1,0 +1,2 @@
+{Minds2.Hospital.Day6.Olusha.Hospital_Olusha_MM_Diagnosed.Name} 已下诊断
+{Minds2.Hospital.Day6.Olusha.Hospital_Olusha_MM_Diagnosed.Description} 进染疫城区拿货——这一趟让甘妮特付出沉重代价：她得了沙疫。但目前第二种病为她延了几日命。

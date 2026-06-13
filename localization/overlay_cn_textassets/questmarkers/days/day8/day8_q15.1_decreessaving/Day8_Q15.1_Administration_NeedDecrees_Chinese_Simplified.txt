@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Administration_NeedDecrees.Name} 市政厅
+{QuestMarkers.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Administration_NeedDecrees.Description} 处理我每一道法令的人都在这里工作

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Hospital.Day8.Hospital_Mirosya.Hospital_Mirosya_House.Name} 托派的宅子
+{QuestMarkers.Hospital.Day8.Hospital_Mirosya.Hospital_Mirosya_House.Description} 让我看看病人的生活，我便能告诉你他得了什么病。

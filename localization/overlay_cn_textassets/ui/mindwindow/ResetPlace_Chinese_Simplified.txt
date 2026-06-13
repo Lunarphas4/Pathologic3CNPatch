@@ -1,0 +1,2 @@
+{UI.MindWindow.ResetPlace.ResetQuest} <Key> 改变事件的进程
+{UI.MindWindow.ResetPlace.RevertQuest} <Key> 重置进度

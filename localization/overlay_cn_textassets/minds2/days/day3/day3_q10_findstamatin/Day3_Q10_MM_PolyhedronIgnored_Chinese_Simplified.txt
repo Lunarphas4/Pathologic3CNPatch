@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_PolyhedronIgnored.Name} 高过云端
+{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_PolyhedronIgnored.Description} 这一天，我本有正当理由去查看多面体。我本该把握这个机会的——不是吗？

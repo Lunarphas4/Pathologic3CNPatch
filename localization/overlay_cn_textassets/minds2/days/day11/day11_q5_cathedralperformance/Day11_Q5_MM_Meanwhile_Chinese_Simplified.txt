@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_MM_Meanwhile.Name} 与此同时
+{Minds2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_MM_Meanwhile.Description} 它又一次发生了。

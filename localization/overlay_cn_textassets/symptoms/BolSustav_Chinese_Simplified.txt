@@ -1,0 +1,2 @@
+{Symptoms.BolSustav.Name} 关节痛
+{Symptoms.BolSustav.Description} 结缔组织受损后，骨骼相对运动会在关节内产生摩擦并引发疼痛。

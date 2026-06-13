@@ -1,0 +1,3 @@
+﻿{Items.CraftRecipes.Health_HealingCream_RecipeItem.Name} 配方：汞补剂
+{Items.CraftRecipes.Health_HealingCream_RecipeItem.Description} 汞补剂。恢复大量健康。
+{Items.CraftRecipes.Health_HealingCream_RecipeItem.Description2} 汞补剂。恢复大量健康。

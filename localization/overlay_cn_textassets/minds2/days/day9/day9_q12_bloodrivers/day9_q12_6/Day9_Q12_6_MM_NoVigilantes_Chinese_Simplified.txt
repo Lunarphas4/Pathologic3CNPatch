@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_6.Day9_Q12_6_MM_NoVigilantes.Name} 无力
+{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_6.Day9_Q12_6_MM_NoVigilantes.Description} 五个义勇队员能改变什么？但我连五个都没有。

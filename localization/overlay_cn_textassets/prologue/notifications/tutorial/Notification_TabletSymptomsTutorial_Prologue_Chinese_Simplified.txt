@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_TabletSymptomsTutorial_Prologue.Name} 诊断流程
+{Prologue.Notifications.Tutorial.Notification_TabletSymptomsTutorial_Prologue.Description} 选择所有相关症状并确定诊断。

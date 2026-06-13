@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q15_BullAnalysisSecond.Day8_Q15_MM_SecondAnalysisNeed.Name} 例行事项
+{Minds2.Days.Day8.Day8_Q15_BullAnalysisSecond.Day8_Q15_MM_SecondAnalysisNeed.Description} 观察公牛的第二天。又得做一次化验：沙疫是否仍存？

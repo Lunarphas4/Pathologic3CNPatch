@@ -1,0 +1,4 @@
+{Clouds2.Days.Intro.Old.Intro_Cloud_TrammelModel.16524} 我本希望小镇能拯救我。
+{Clouds2.Days.Intro.Old.Intro_Cloud_TrammelModel.17568} 我本希望小镇能拯救我。
+{Clouds2.Days.Intro.Old.Intro_Cloud_TrammelModel.30730} 可本该由我来拯救小镇。
+{Clouds2.Days.Intro.Old.Intro_Cloud_TrammelModel.1545} 这只是个模型。

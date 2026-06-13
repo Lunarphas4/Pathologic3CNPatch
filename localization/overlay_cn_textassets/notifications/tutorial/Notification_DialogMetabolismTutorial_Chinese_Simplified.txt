@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_DialogMetabolismTutorial.Name} 可怕的极端
+{Notifications.Tutorial.Notification_DialogMetabolismTutorial.Description} 我太冷漠或太狂躁时难以与人交谈。得先让自己的状态稳定下来。

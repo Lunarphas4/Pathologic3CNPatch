@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_Isidom_Mold.Name} 伊西多尔的宅子
+{QuestMarkers.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_Isidom_Mold.Description} 伊西多尔·布拉赫的房子覆着增生物，渗着脓液。征兆不祥。

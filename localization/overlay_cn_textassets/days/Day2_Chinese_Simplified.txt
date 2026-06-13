@@ -1,0 +1,3 @@
+{Days.Day2.Name} 第二天
+{Days.Day2.Description} 今日，学者两度惊扰大地
+{Days.Day2.Name_StartDay} 第二天，

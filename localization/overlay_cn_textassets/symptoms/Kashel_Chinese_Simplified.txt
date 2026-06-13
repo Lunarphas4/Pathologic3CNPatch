@@ -1,0 +1,2 @@
+{Symptoms.Kashel.Name} 咳嗽
+{Symptoms.Kashel.Description} 清除呼吸道异物和分泌物的保护性反射，可能与感染性疾病有关。

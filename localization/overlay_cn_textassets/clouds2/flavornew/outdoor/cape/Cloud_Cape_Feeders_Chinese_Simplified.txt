@@ -1,0 +1,4 @@
+{Clouds2.FlavorNew.Outdoor.Cape.Cloud_Cape_Feeders.44925} 我听说城里人把自己比作鸟
+{Clouds2.FlavorNew.Outdoor.Cape.Cloud_Cape_Feeders.10340} 我听说城里人把自己比作鸟
+{Clouds2.FlavorNew.Outdoor.Cape.Cloud_Cape_Feeders.56689} 他们不太看重个体性
+{Clouds2.FlavorNew.Outdoor.Cape.Cloud_Cape_Feeders.61752} 东方城市的典型作风

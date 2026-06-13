@@ -1,0 +1,2 @@
+﻿{ArchiveDialogs.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Saburov_GoHome.13139} 我已经告诉过你了，丹科夫斯基，回家去，把这条街从脑子里丢掉。
+{ArchiveDialogs.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Saburov_GoHome.8520} 我已经处理完了。

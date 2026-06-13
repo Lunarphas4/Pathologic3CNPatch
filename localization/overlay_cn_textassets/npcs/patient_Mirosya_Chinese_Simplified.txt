@@ -1,0 +1,3 @@
+{Npcs.patient_Mirosya.Name} 病人塞壬
+{Npcs.patient_Mirosya.FullName} ⁠
+{Npcs.patient_Mirosya.Description} ⁠

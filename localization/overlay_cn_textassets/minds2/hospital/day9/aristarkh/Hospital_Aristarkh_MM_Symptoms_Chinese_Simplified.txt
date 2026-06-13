@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_Symptoms.Name} 检查结果
+{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_Symptoms.Description} 先把发现的症状录入病例本，再就此向病人详加询问。

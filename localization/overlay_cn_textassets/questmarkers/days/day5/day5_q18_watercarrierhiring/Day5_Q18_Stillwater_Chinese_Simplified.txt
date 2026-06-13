@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day5.Day5_Q18_WaterCarrierHiring.Day5_Q18_Stillwater.Name} 静水宅
+{QuestMarkers.Days.Day5.Day5_Q18_WaterCarrierHiring.Day5_Q18_Stillwater.Description} 拉拉·拉维尔答应给我派一名助手。

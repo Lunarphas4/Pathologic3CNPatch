@@ -1,0 +1,2 @@
+{UI.Credits.GameDesign.AlexanderSouslov.Name} Alexander Souslov
+{UI.Credits.GameDesign.AlexanderSouslov.Description} 首席游戏设计师

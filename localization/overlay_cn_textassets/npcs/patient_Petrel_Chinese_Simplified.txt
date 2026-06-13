@@ -1,0 +1,3 @@
+{Npcs.patient_Petrel.Name} 海燕
+{Npcs.patient_Petrel.FullName} ⁠
+{Npcs.patient_Petrel.Description} ⁠

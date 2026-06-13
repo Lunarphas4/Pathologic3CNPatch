@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Past.Name} 往昔
+{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Past.Description} 那种细节我在伊西多尔的书房里见过——是第二天。如今书房关闭了！

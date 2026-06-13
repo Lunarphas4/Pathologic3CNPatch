@@ -1,0 +1,4 @@
+{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_StackOfFirewood.9595} 柴火又湿又发霉
+{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_StackOfFirewood.25852} 柴火又湿又发霉
+{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_StackOfFirewood.4508} 总比没有好
+{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_StackOfFirewood.13709} 显然有人从中捞了好处

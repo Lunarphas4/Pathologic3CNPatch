@@ -1,0 +1,2 @@
+{UI.DlcTitle.PolyhedralRoom} 追加内容：多面体房间
+{UI.DlcTitle.SupporterPack} 追加内容：支持者包

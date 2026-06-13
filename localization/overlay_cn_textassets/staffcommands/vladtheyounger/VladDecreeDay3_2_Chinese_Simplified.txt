@@ -1,0 +1,2 @@
+{StaffCommands.VladTheYounger.VladDecreeDay3_2.Name} 否决
+{StaffCommands.VladTheYounger.VladDecreeDay3_2.Description} 封锁白蚁窝的大门，防止感染蔓延进去。

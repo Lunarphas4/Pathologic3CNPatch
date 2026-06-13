@@ -1,0 +1,3 @@
+{Npcs.Old.visitor_Pogonysh.Name} ⁠
+{Npcs.Old.visitor_Pogonysh.FullName} ⁠
+{Npcs.Old.visitor_Pogonysh.Description} ⁠

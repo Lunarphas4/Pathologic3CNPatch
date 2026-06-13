@@ -1,0 +1,2 @@
+{Minds2.Hospital.Old.Zhitochnik.MM_SickZhitochnik_Dead.Name} 硬汉死了
+{Minds2.Hospital.Old.Zhitochnik.MM_SickZhitochnik_Dead.Description} 治疗没能救下病人硬汉。

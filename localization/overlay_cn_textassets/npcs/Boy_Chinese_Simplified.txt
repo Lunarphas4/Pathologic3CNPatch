@@ -1,0 +1,3 @@
+{Npcs.Boy.Name} 男孩
+{Npcs.Boy.FullName} ⁠
+{Npcs.Boy.Description} ⁠

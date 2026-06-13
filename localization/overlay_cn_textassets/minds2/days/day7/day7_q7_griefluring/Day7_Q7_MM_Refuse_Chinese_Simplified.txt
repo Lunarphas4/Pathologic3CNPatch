@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_Refuse.Name} 终末之选
+{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_Refuse.Description} 不。我不会丢下这座染疫之镇。我要么以救世者的身份走出去，要么和成千上万本地人一同被火葬。

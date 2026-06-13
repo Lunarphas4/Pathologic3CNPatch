@@ -1,0 +1,2 @@
+{UI.Credits.HypeTrain.Localization.EugeniaNekrashevich.EugeniaNekrashevich} Eugenia Nekrashevich
+{UI.Credits.HypeTrain.Localization.EugeniaNekrashevich.KeeperAlternative} 另类语言现实守护者

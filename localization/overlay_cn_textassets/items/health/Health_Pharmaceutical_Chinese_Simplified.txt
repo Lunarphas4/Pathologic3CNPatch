@@ -1,0 +1,3 @@
+{Items.Health.Health_Pharmaceutical.Name} 甘汞
+{Items.Health.Health_Pharmaceutical.Description} 由氯化汞制成的万能药。可治各种小病，恢复身体。古代炼金术士敬畏这种奇异的液态金属，确有其道理。
+{Items.Health.Health_Pharmaceutical.Description2} ⁠

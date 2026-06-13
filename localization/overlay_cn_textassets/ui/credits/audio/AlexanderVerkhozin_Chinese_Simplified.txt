@@ -1,0 +1,2 @@
+{UI.Credits.Audio.AlexanderVerkhozin.Name} Alexander Verkhozin
+{UI.Credits.Audio.AlexanderVerkhozin.Description} 草原之声

@@ -1,0 +1,4 @@
+{ArchiveDialogs.Test.StaffResources_Test.24998} 你好啊，老兄！
+{ArchiveDialogs.Test.StaffResources_Test.4873} 哦，你好！
+{ArchiveDialogs.Test.StaffResources_Test.8058} 拿着，老兄，资源！
+{ArchiveDialogs.Test.StaffResources_Test.38784} 那就谢谢了……

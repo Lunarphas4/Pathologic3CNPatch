@@ -1,0 +1,3 @@
+{ArchiveDialogs.Hospitals.Poshinok.Hospital_Poshinok_Inspection.27843} 医生，能给我检查一下吗？
+{ArchiveDialogs.Hospitals.Poshinok.Hospital_Poshinok_Inspection.23345} 我只是路过。
+{ArchiveDialogs.Hospitals.Poshinok.Hospital_Poshinok_Inspection.11018} 也许会检查。脱衣服！

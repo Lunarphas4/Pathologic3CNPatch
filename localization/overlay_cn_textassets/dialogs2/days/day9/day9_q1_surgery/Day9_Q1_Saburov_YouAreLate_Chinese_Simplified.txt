@@ -1,0 +1,14 @@
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Saburov_YouAreLate.62704} 学士丹科夫斯基。我希望你选择去处理、而不是来帮我妻子的那件事，确实重要。我希望你满意。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Saburov_YouAreLate.40999} 我来检查卡捷琳娜。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Saburov_YouAreLate.63057} 是的，我被迫耽搁了。但我们已经开始准备。我现在可以回到这件事上。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Saburov_YouAreLate.55794} 我究竟该满意什么？
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Saburov_YouAreLate.55797} 他们说你一生都在研究死亡。可你始终没弄懂最重要的一点：死亡不等人。你来晚了。卡捷琳娜已经走了。死亡带走了她。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Saburov_YouAreLate.7961} 我很抱歉。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Saburov_YouAreLate.29215} 收起你的怜悯。离开。我不想看见你。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Saburov_YouAreLate.3232} 我这就走。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Saburov_YouAreLate.54769} 这是我的错，萨布罗夫。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Saburov_YouAreLate.41141} 我本有机会救她……
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Saburov_YouAreLate.26799} 我只离开了几个小时。她什么时候死的？
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Saburov_YouAreLate.64511} 离开。马上离开。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Saburov_YouAreLate.54544} 那我需要检查遗体。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Saburov_YouAreLate.56462} 你竟敢……简直不可理喻。离开。马上离开。

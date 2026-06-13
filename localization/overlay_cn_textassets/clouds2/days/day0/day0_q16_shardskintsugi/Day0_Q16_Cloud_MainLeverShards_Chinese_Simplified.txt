@@ -1,0 +1,3 @@
+{Clouds2.Days.Day0.Day0_Q16_ShardsKintsugi.Day0_Q16_Cloud_MainLeverShards.25583} 能修复合剂容器
+{Clouds2.Days.Day0.Day0_Q16_ShardsKintsugi.Day0_Q16_Cloud_MainLeverShards.29169} 能修复合剂容器
+{Clouds2.Days.Day0.Day0_Q16_ShardsKintsugi.Day0_Q16_Cloud_MainLeverShards.35714} 破碎之物会被补好

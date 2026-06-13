@@ -1,0 +1,11 @@
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Haruspex_KilledPatient.27725} 他向你要的是无痛的死，emshen（医者）。那看起来可不无痛。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Haruspex_KilledPatient.11624} 手滑了。常有的事。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Haruspex_KilledPatient.4108} 你以为这么容易？！那你为什么不自己杀了他，‘emshen（医者）’？没话说了，是吧？我就知道。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Haruspex_KilledPatient.12363} 你做得对，医生。别怀疑自己。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Haruspex_KilledPatient.30842} 我知道。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Haruspex_KilledPatient.3360} 我不确定“对”这个字合不合适。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Haruspex_KilledPatient.25466} 我们没多少时间。我需要他的肝脏样本。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Haruspex_KilledPatient.2556} 给我一分钟……
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Haruspex_KilledPatient.2816} ……给，拿去。要是我是你，我会赶快。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Haruspex_KilledPatient.3866} 我这就去。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Haruspex_KilledPatient.19864} 谢谢你帮忙，布拉赫。及时施与，等于加倍施与。

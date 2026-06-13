@@ -1,0 +1,2 @@
+{UI.Menu.Settings.Values.HUDVariant.Variant1} 一体化功能栏
+{UI.Menu.Settings.Values.HUDVariant.Variant2} 屏幕左右两侧对称显示的双功能栏

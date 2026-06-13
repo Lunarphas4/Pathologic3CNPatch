@@ -1,0 +1,2 @@
+﻿{UI.Inventories.DividePanel.Title} 拆分堆叠物品
+{UI.Inventories.DividePanel.DivideButton} 拆分

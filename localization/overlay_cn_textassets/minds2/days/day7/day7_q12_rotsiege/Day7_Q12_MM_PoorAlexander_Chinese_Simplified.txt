@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q12_RotSiege.Day7_Q12_MM_PoorAlexander.Name} 礼节性拜访
+{Minds2.Days.Day7.Day7_Q12_RotSiege.Day7_Q12_MM_PoorAlexander.Description} 审判官把萨布罗夫降了职，并逼他与女儿断绝关系。或许我该去表示一下慰问？

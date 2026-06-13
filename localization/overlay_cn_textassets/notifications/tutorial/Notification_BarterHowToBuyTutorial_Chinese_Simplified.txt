@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_BarterHowToBuyTutorial.Name} 交易
+{Notifications.Tutorial.Notification_BarterHowToBuyTutorial.Description} 要换一件物品，我得把它放进交易槽。

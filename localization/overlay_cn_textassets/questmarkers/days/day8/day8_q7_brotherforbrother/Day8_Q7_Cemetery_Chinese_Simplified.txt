@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day8.Day8_Q7_BrotherForBrother.Day8_Q7_Cemetery.Name} 墓园
+{QuestMarkers.Days.Day8.Day8_Q7_BrotherForBrother.Day8_Q7_Cemetery.Description} 斯塔马京常爱欣赏墓园里的景致。

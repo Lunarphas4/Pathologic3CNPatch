@@ -1,0 +1,2 @@
+{Minds2.Hospital.Day8.Astrild.Hospital_Astrild_MM_PersonalFile.Name} 坚忍的阿斯特丽德
+{Minds2.Hospital.Day8.Astrild.Hospital_Astrild_MM_PersonalFile.Description} 已发烧一周，来求退烧药。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Desecration.Name} 亵渎
+{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Desecration.Description} 西蒙的遗体在他死后不久便消失了。

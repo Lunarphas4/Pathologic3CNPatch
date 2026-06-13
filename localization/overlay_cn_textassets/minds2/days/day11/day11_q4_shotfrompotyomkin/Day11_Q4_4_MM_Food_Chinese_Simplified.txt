@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_4_MM_Food.Name} 我的贡献
+{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_4_MM_Food.Description} 卡佩拉仍在狱中，至少没有性命之忧。先前被我喂饱的士兵不会容许私刑发生。

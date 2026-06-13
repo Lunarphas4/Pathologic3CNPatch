@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_FindSteppeMan.Name} 文化通
+{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_FindSteppeMan.Description} 得找一个通晓草原符号的人。我想弄清这究竟是诅咒，还是求救。

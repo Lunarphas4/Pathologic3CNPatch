@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_3_MM_Devouring.Name} 以火攻火
+{Minds2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_3_MM_Devouring.Description} 沙疫会吞噬体内其他疾病。它本身几近一味万灵药——可惜随即把宿主一并杀死。

@@ -1,0 +1,3 @@
+{Npcs.Herdsman_RavenRock.Name} 牧羊人
+{Npcs.Herdsman_RavenRock.FullName} ⁠
+{Npcs.Herdsman_RavenRock.Description} ⁠

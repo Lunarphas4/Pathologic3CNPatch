@@ -1,0 +1,5 @@
+{Clouds.Flavor.Cloud_RegionMost_Stone.17796} 不会出现在试玩版里。
+{Clouds.Flavor.Cloud_RegionMost_Stone.11185} 施工后留下的石头？
+{Clouds.Flavor.Cloud_RegionMost_Stone.12104} 它们一直都躺在这里？
+{Clouds.Flavor.Cloud_RegionMost_Stone.11103} 为什么不清走？故意的？
+{Clouds.Flavor.Cloud_RegionMost_Stone.10223} 石头下面藏着生命。

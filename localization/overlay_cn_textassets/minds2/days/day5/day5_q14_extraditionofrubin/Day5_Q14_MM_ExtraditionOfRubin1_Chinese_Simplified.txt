@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q14_ExtraditionOfRubin.Day5_Q14_MM_ExtraditionOfRubin1.Name} 告发他？
+{Minds2.Days.Day5.Day5_Q14_ExtraditionOfRubin.Day5_Q14_MM_ExtraditionOfRubin1.Description} 凯恩家要我寻找西蒙的遗体。遗体已经找到，他们必须知道。

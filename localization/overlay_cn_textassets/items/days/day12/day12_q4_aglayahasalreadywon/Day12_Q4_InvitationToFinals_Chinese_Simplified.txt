@@ -1,0 +1,3 @@
+﻿{Items.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_InvitationToFinals.Name} 大教堂通行证
+{Items.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_InvitationToFinals.Description} 一张单程票。Alea iacta est(骰子已经掷下)。
+{Items.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_InvitationToFinals.Description2} 一张看起来很正式的纸条，背面有阿格拉娅匆匆写下的几行字。凭它我可以进入大教堂，直面小镇的命运。

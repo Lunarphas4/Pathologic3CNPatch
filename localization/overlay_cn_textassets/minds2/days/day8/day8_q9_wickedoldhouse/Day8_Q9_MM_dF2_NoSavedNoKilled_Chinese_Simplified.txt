@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_MM_dF2_NoSavedNoKilled.Name} 研究素材
+{Minds2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_MM_dF2_NoSavedNoKilled.Description} 勤杂工会把病人抬走——他的病例或许能推进研究。

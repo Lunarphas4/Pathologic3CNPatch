@@ -1,0 +1,4 @@
+{Clouds2.Technical.Cloud_Gate_ClosedByQuest.20889} 我得另找一道拱门。
+{Clouds2.Technical.Cloud_Gate_ClosedByQuest.34012} 我得另找一道拱门。
+{Clouds2.Technical.Cloud_Gate_ClosedByQuest.2038} 我发誓昨天还可以从这里过去。
+{Clouds2.Technical.Cloud_Gate_ClosedByQuest.61603} 关上了？

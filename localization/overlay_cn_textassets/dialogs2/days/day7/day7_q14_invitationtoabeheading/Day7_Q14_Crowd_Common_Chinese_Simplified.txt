@@ -1,0 +1,14 @@
+{Dialogs2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_Crowd_Common.38731} 吊刑法官！他们这样叫他可不是没缘由的……为什么，为什么他们没把奥尔夫审判官派来？奥尔夫会把这一切处理妥当。照规矩来。奥尔夫会给我们真正的公正。不是眼下这团烂账……
+{Dialogs2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_Crowd_Common.47579} 他做得对，我告诉你！这有什么不对，嗯？我早说过：这里的人除了斧头和绞索，什么都听不懂。让他们都看着。也许这回终于能看明白。
+{Dialogs2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_Crowd_Common.31891} 你又扭着身子逃出来了，是不是，你这小黄鼠狼？你的同伙吊着，在风里晃，你却还自由走着。记住我的话：审判官会找到每一个人。每个有罪的人都会套上领带。
+{Dialogs2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_Crowd_Common.31074} “领带”，嗯？纸张暴动后，他们就是这么称呼绞索的。看来我们从那些事里什么也没学到。
+{Dialogs2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_Crowd_Common.39297} 不管你怎么想，审判官都会惩罚每一个人。那就是法。人造的法，但像自然一样确凿。你可以反抗它，可要否认它的存在，那就是愚蠢。
+{Dialogs2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_Crowd_Common.12433} 你不担心他们也给你套上“领带”吗？
+{Dialogs2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_Crowd_Common.1480} 我没时间和你争。好好看戏吧。
+{Dialogs2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_Crowd_Common.53140} 你对这事兴奋得过头了。我猜你觉得他们绝不会绞死你，是吧？
+{Dialogs2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_Crowd_Common.28487} 为什么会？我是他们的人。他们不动自己人。
+{Dialogs2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_Crowd_Common.40819} 你听说过纸张暴动吗？
+{Dialogs2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_Crowd_Common.33416} 那整件事？嗯……他们是自找的。正常人谁会对上级动手？所以他们才被吊起来，那些叛徒。
+{Dialogs2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_Crowd_Common.33824} 人会犯错，愚者才执迷不改。
+{Dialogs2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_Crowd_Common.3811} 你该什么时候读本书。至少知道点自己的历史。也许对你有好处。
+{Dialogs2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_Crowd_Common.8084} 你这人挺有趣。等卡尔明斯基也把你吊起来时，会有点可惜。嗯……也许也不可惜。

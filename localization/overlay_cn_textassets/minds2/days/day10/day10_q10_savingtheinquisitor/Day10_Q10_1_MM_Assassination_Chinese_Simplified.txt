@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_1_MM_Assassination.Name} 未来无法修补？
+{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_1_MM_Assassination.Description} 就这样吧。

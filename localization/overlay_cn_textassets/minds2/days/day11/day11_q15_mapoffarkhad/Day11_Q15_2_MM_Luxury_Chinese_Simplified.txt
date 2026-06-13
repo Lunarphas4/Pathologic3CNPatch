@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_2_MM_Luxury.Name} 华贵
+{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_2_MM_Luxury.Description} 我搬入静水观星台时何其不察！\n地图已到手——该交给尤利娅了。

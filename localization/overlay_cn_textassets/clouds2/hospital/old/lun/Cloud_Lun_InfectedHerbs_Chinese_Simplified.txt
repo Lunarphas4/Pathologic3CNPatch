@@ -1,0 +1,5 @@
+{Clouds2.Hospital.old.Lun.Cloud_Lun_InfectedHerbs.6851} 采来卖的？
+{Clouds2.Hospital.old.Lun.Cloud_Lun_InfectedHerbs.11379} 采来卖的？
+{Clouds2.Hospital.old.Lun.Cloud_Lun_InfectedHerbs.6610} 拿来酿酊剂？
+{Clouds2.Hospital.old.Lun.Cloud_Lun_InfectedHerbs.9087} 这里有真菌！
+{Clouds2.Hospital.old.Lun.Cloud_Lun_InfectedHerbs.15691} 草原的气味！

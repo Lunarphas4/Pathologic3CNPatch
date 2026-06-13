@@ -1,0 +1,4 @@
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_EmptyQuarter.Prologue_Tragedians_StillEmpty.20485} 大人！事到如今，您倒像是来\n自毁前程的。容我等再次提醒：\n时机未至，您的戏码尚早。\n眼下不如先去寻那医院所在。\n\n恕仆僭越，大人。\n我终究不过是个蹩脚的场务，算不得角儿。
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_EmptyQuarter.Prologue_Tragedians_StillEmpty.16838} 凑近点儿，我告诉你个秘密——我在踩点呢。说不定能摸到些好东西？
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_EmptyQuarter.Prologue_Tragedians_StillEmpty.4774} 天呐，我也不知道，就是不想去医院。半点都不想去。能拖就拖吧。
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_EmptyQuarter.Prologue_Tragedians_StillEmpty.1151} 好好好，你说服我了。客气点说不就行了么。

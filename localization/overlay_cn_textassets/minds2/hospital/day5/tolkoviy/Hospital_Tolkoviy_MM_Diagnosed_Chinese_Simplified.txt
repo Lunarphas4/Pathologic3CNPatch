@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day5.Tolkoviy.Hospital_Tolkoviy_MM_Diagnosed.Name} 诊断已确定
+{Minds2.Hospital.Day5.Tolkoviy.Hospital_Tolkoviy_MM_Diagnosed.Description} 经历这一切后，病人嘲鸫终于能休息了。

@@ -1,0 +1,2 @@
+{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_YuliaBlood.Name} 又一瓶
+{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_YuliaBlood.Description} 我手里有一份尤利娅·柳里切娃的血样。

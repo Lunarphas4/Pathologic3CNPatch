@@ -1,0 +1,10 @@
+{UI.Tablet.PersonalFileWindow.PersonalFile} 病历
+{UI.Tablet.PersonalFileWindow.Name} 名字：
+{UI.Tablet.PersonalFileWindow.Age} 年龄：
+{UI.Tablet.PersonalFileWindow.FamilyStatus} 婚姻状况：
+{UI.Tablet.PersonalFileWindow.Work} 职业：
+{UI.Tablet.PersonalFileWindow.Day} 天：
+{UI.Tablet.PersonalFileWindow.BadHabits} 不良嗜好：
+{UI.Tablet.PersonalFileWindow.SuspectedSymptoms} 疑似症状：
+{UI.Tablet.PersonalFileWindow.Diagnosis} 诊断：
+{UI.Tablet.PersonalFileWindow.PlaceHolder} 没有病历

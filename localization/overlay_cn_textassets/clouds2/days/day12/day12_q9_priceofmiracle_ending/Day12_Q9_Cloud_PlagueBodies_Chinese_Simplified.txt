@@ -1,0 +1,4 @@
+{Clouds2.Days.Day12.Day12_Q9_PriceOfMiracle_Ending.Day12_Q9_Cloud_PlagueBodies.65462} 瘟疫
+{Clouds2.Days.Day12.Day12_Q9_PriceOfMiracle_Ending.Day12_Q9_Cloud_PlagueBodies.24486} 瘟疫
+{Clouds2.Days.Day12.Day12_Q9_PriceOfMiracle_Ending.Day12_Q9_Cloud_PlagueBodies.39962} 瘟疫
+{Clouds2.Days.Day12.Day12_Q9_PriceOfMiracle_Ending.Day12_Q9_Cloud_PlagueBodies.41879} 瘟疫

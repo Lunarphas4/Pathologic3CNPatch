@@ -1,0 +1,2 @@
+{ArchiveDialogs.Decrees.Decree_Receiving.Decree_Receiving_Protocol5.27458} 我们从第二天的患者身上制造出了疫苗！
+{ArchiveDialogs.Decrees.Decree_Receiving.Decree_Receiving_Protocol5.31573} 非常好。

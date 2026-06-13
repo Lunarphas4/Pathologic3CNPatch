@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_WickedHouse.Name} 受诅之屋
+{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_WickedHouse.Description} 前天我被困其中时，这屋子并不安全。我险被天花板压死，也险被瘟疫害死。

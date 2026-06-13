@@ -1,0 +1,3 @@
+{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Result3_Sick.Name} 弹壳
+{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Result3_Sick.Description} 里面是空的。
+{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Result3_Sick.Description2} 里面是空的。

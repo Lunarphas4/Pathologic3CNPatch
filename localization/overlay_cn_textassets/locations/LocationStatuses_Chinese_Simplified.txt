@@ -1,0 +1,6 @@
+{Locations.LocationStatuses.Diseased} 感染
+{Locations.LocationStatuses.Blocked} 动荡
+{Locations.LocationStatuses.None} 平静
+{Locations.LocationStatuses.DescriptionDiseased} 此地瘟疫肆虐
+{Locations.LocationStatuses.DescriptionBlocked} 此地并不欢迎我
+{Locations.LocationStatuses.DescriptionNone} 这里暂时安全

@@ -1,0 +1,2 @@
+{UI.Commons.MessageBox.Buttons.Ok} 好
+{UI.Commons.MessageBox.Buttons.Cancel} 取消

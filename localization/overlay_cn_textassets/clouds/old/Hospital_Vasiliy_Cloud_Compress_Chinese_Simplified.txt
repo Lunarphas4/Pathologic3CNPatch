@@ -1,0 +1,6 @@
+{Clouds.Old.Hospital_Vasiliy_Cloud_Compress.16063} 湿抹布。
+{Clouds.Old.Hospital_Vasiliy_Cloud_Compress.17486} 湿抹布。
+{Clouds.Old.Hospital_Vasiliy_Cloud_Compress.15637} 为什么在床上？
+{Clouds.Old.Hospital_Vasiliy_Cloud_Compress.13933} 敷在额头上？
+{Clouds.Old.Hospital_Vasiliy_Cloud_Compress.16227} 想退烧？
+{Clouds.Old.Hospital_Vasiliy_Cloud_Compress.13582} 头痛用的湿敷？

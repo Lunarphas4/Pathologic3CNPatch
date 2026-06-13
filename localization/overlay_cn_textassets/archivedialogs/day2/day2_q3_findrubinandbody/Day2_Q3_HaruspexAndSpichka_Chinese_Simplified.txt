@@ -1,0 +1,17 @@
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_HaruspexAndSpichka.10002} ……你到底明不明白，屋里可能有什么？你看见这霉斑了——离远点。你真是一点也不怕，小子。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_HaruspexAndSpichka.15518} 我明白，我都快爬进去了。里面空的……连老头的东西都没有。你见过他的尸体了吗？我才不信你会杀人。人都蠢……
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_HaruspexAndSpichka.25874} 人们需要一个罪人。谁给你灌输说是我杀了父亲？
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_HaruspexAndSpichka.6819} 是斯塔赫……他说你没在老头叫你回家时赶回来，就是你杀了他。还有，他把头剃了……也不知道为什么……
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_HaruspexAndSpichka.9110} ……这才是最大的蠢货。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_HaruspexAndSpichka.11182} 布拉赫——对吧？——您明明知道这栋有油腻霉斑的房子很危险，却还站在旁边，还让孩子待在身边。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_HaruspexAndSpichka.9603} 噢，对了。老布拉赫也叫他来了。为什么怪你，不怪他？他不是先到的吗？
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_HaruspexAndSpichka.20116} 男孩，我就站在旁边，用第三人称说我很不礼貌。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_HaruspexAndSpichka.16271} 斯塔赫恨我，所以才造谣。至于丹科夫斯基……丹科夫斯基关我屁事。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_HaruspexAndSpichka.30504} 啊！你们在演一出当我不存在的戏？很好，你们真是烂演员。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_HaruspexAndSpichka.24957} 行了，别龇牙了。怎么，接下来要去拉拉家住？
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_HaruspexAndSpichka.4922} 嗯，她不会赶我走，只要我去……总之，我不会没地方住。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_HaruspexAndSpichka.24061} 我到底在等什么……
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_HaruspexAndSpichka.2326} 至少我没装作你们不存在。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_HaruspexAndSpichka.9631} 这很粗鲁。我不想参与这种事。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_HaruspexAndSpichka.13500} 凭什么怪我？我没杀任何人。
+{ArchiveDialogs.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_HaruspexAndSpichka.11288} ...

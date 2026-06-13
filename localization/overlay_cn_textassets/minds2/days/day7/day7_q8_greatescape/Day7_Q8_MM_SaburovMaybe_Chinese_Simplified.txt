@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_SaburovMaybe.Name} 无钩可挂
+{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_SaburovMaybe.Description} 萨布罗夫不会无故撤走卫兵。我先等等——也许会有机会？

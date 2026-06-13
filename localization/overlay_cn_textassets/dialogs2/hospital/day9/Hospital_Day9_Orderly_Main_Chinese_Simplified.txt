@@ -1,0 +1,12 @@
+{Dialogs2.Hospital.Day9.Hospital_Day9_Orderly_Main.709} 军队本该带来秩序，可看起来他们只是增加了混乱。按我的计算，这里有三名半患者等着见您。
+{Dialogs2.Hospital.Day9.Hospital_Day9_Orderly_Main.11089} 三个半是什么意思？
+{Dialogs2.Hospital.Day9.Hospital_Day9_Orderly_Main.50228} 第一个——他自称拼布——不是病人，是来办一些文件的。我们需要您处理他的请求。按通常流程，还有三个病人：阿里斯塔尔赫，一个学生；萨克·曼，一位草药新娘；还有渡渡，一名军队中士。
+{Dialogs2.Hospital.Day9.Hospital_Day9_Orderly_Main.64516} 军队，你说……他们刚到就一个个倒下。那个中士有什么主诉？
+{Dialogs2.Hospital.Day9.Hospital_Day9_Orderly_Main.48959} 慢性军训……噢，请原谅我拙劣的幽默感，医生。渡渡中士是被上级军官送来的，他们怀疑他可能染了瘟疫。该夸他们一句！中士熬过了规定时数，并表现出对瘟疫的抵抗力。他适合用来制备疫苗。
+{Dialogs2.Hospital.Day9.Hospital_Day9_Orderly_Main.30655} 拼布需要什么？什么文件？
+{Dialogs2.Hospital.Day9.Hospital_Day9_Orderly_Main.60545} 说实话，我没太听明白。他很紧张。他要求和您私下谈。
+{Dialogs2.Hospital.Day9.Hospital_Day9_Orderly_Main.18639} 草药新娘？别告诉我，我又得在草原语里熬过一次问诊。那太妨碍诊断了！
+{Dialogs2.Hospital.Day9.Hospital_Day9_Orderly_Main.16218} 她是从一间封死的屋子里救出来的。屋里满是尸体——所有人都死于沙疫，只有她没死。我真想知道她怎么会在那里。
+{Dialogs2.Hospital.Day9.Hospital_Day9_Orderly_Main.14361} 另一个人是谁？学生？我还以为你们这里没有大学。
+{Dialogs2.Hospital.Day9.Hospital_Day9_Orderly_Main.1455} 他就是这样介绍自己的，学生。像我这样勤勉的人，就照样记下来了。护工是在感染区找到他的，当时他醉得像石头。他们把他当成尸体，正要扔上火葬堆，阿里斯塔尔赫醒了。就像现在流行的那些恐怖活动影戏一样。
+{Dialogs2.Hospital.Day9.Hospital_Day9_Orderly_Main.17751} 谢谢。我有得忙了。三个半病人……

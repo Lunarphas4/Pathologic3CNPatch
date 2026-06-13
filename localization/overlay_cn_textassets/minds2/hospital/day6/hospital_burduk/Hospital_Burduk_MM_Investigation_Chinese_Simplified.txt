@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_Investigation.Name} 拜访匪窝
+{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_Investigation.Description} 看来我不得不一窥黑道生活。不亲眼看一看，便理不出诊断。

@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MM_MayBeSandPlague.Name} 异常霉菌。它真会是沙疫吗？
+{ArchiveMinds.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MM_MayBeSandPlague.Description} 我在伊西多尔家的墙上发现了霉菌。这会不会真是沙疫的最初征兆？

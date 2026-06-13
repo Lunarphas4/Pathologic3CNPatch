@@ -1,0 +1,3 @@
+{Npcs.Karina.Name} 访客勺嘴鹬
+{Npcs.Karina.FullName} ⁠
+{Npcs.Karina.Description} ⁠

@@ -1,0 +1,3 @@
+{Npcs.Quests.Investigator_Twin.Name} 他不在此
+{Npcs.Quests.Investigator_Twin.FullName} ⁠
+{Npcs.Quests.Investigator_Twin.Description} ⁠

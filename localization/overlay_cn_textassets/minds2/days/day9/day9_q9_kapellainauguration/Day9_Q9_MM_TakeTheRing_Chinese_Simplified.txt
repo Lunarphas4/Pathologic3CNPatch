@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_MM_TakeTheRing.Name} 跑腿小子
+{Minds2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_MM_TakeTheRing.Description} 玛丽亚要我把一件饰物送去给卡佩拉。我猜——凯恩家钱已花光，连个信差都雇不起了？

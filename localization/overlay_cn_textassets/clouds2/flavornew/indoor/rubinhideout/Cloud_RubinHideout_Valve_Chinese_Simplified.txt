@@ -1,0 +1,4 @@
+{Clouds2.FlavorNew.Indoor.RubinHideout.Cloud_RubinHideout_Valve.44925} 老旧管道几乎承受不住压力
+{Clouds2.FlavorNew.Indoor.RubinHideout.Cloud_RubinHideout_Valve.10340} 老旧管道几乎承受不住压力
+{Clouds2.FlavorNew.Indoor.RubinHideout.Cloud_RubinHideout_Valve.56689} 我也觉得再多一点就要爆炸了
+{Clouds2.FlavorNew.Indoor.RubinHideout.Cloud_RubinHideout_Valve.61752} 得放掉些蒸汽……

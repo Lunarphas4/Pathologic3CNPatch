@@ -1,0 +1,2 @@
+{Minds2.Days.Day8.Day8_Q15.2_BullSaving.Day8_Q15.2_MM_BullWillBeSafe.Name} 实验组
+{Minds2.Days.Day8.Day8_Q15.2_BullSaving.Day8_Q15.2_MM_BullWillBeSafe.Description} 伊娃总是乐意帮我。她为朋友要挨饿而难过……但至少他不会有危险

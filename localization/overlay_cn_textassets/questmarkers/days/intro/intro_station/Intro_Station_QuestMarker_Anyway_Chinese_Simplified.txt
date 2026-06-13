@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Intro.Intro_Station.Intro_Station_QuestMarker_Anyway.Name} 车站
+{QuestMarkers.Days.Intro.Intro_Station.Intro_Station_QuestMarker_Anyway.Description} 这个时辰行人虽少，也许仍有人能告诉我该去哪里找剩下的孩子。

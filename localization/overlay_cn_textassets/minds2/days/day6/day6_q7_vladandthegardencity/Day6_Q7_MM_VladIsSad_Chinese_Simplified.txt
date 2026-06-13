@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_MM_VladIsSad.Name} 花园之城
+{Minds2.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_MM_VladIsSad.Description} 政府审判官即将到来的前夕，小弗拉德为他的家人忧心忡忡。可叹——我帮不了他。

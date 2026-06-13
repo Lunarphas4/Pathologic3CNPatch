@@ -1,0 +1,20 @@
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.30506} Myy yuymen, erdem（学者）.（我是恶物，学者。）我很快就会变成Odongh（金族牧人）。你打算怎么治这个？你治不了。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.24815} 有人告诉我，你们的odonghe（金族牧人）是大地亲自生下的。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.9960} 由Boddho（大地母亲）决定。她愿意怎样，就会怎样。她若愿意，能把水碾成尘……她若愿意，能把坚石煮沸。她若愿意，我就会变成Odongh（金族牧人）。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.36028} 你不怕odonghe（金族牧人）们知道你只要生病就能变成他们中的一员之后，把你揍一顿吗？
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.36523} 不是因病，erdem（学者）。是因Boddho（大地母亲）的意志！她的孩子里谁会反对？Odonghe（金族牧人）不是你以为的 teneghyyd（傻瓜们）。在Boddho（大地母亲）所有孩子中，他们离她最近……
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.42451} 那么Boddho（大地母亲）的意志有什么症状？哪里疼？
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.64975} 不疼。不是那样。Boddho（大地母亲）惩罚我，我接受。她的光从我眼里烧掉苏奥克的黑暗。闪一下……然后 untarna（熄灭）。又闪一下，erdem（学者）。一次又一次。你怎么能懂？你不会懂……
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.14196} 如果odonghe（金族牧人）比任何人都更接近你们的，呃，神祇——那么你也不介意这场“转化”。是这样吗？
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.44463} 我来到这里以后，一直很好奇odonghe（金族牧人）在生物学上究竟是什么。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.2320} 我们都是Boddho（大地母亲）的孩子，erdem（学者），而odonghe（金族牧人）最接近她。有些孩子远离家园，ekhe kholo（离母亲很远）。有些孩子在近处安顿，却独自生活。还有些孩子永远留在母亲身边——他们就是odonghe（金族牧人）。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.36301} 这不是生物学，勉强算哲学都不够。我会说是民俗。那么哪里疼？
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.39215} 我受够这些胡话了。你到底哪里不舒服？
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.41228} 我没有不适。我接受。Boddho（大地母亲）惩罚我，我接受。她的光从我眼里烧掉苏奥克的黑暗。闪一下……然后 untarna（熄灭）。又闪一下，erdem（学者）。一次又一次。你怎么能懂？你不会懂……
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.29645} 你要是别再打哑谜，我就能懂。所以你会看见强光闪烁？
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.2324} 是。Gherel namaye zobohono。光带来苦痛。我必须谦卑地接受。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.36320} 这样下去不会有结果。来吧，让我检查你。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.28263} 你也可以谦卑地接受我取些样本。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.27932} 我稍后回来。请在我回来前尽量别变成虫。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.49775} 有时候我真怀疑这座城是不是隔一个人就有一个在说胡话。你莫非是喝twyrine（特维酒）的人？
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Interview.64089} Beesh。我没醉，erdem（学者）。Boddho（大地母亲）把苦痛赐给我，我必须谦卑地接受。

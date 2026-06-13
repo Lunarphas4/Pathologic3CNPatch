@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_Lump.Name} 块石宅
+{QuestMarkers.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_Lump.Description} 老奥尔金斯基必须知晓他继承人的死讯。

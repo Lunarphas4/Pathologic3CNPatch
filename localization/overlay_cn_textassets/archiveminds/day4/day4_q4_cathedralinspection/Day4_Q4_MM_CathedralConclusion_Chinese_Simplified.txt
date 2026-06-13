@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.Day4.Day4_Q4_CathedralInspection.Day4_Q4_MM_CathedralConclusion.Name} 隔离病房绝不能设在这个危险之地！
+{ArchiveMinds.Day4.Day4_Q4_CathedralInspection.Day4_Q4_MM_CathedralConclusion.Description} 隔离病房不能设在这里。必须谨慎对待这个地方。

@@ -1,0 +1,2 @@
+{Minds2.Hospital.Old.Aristarh.Hospital_MM_Aristarh_Bar.Name} 碎心酒吧
+{Minds2.Hospital.Old.Aristarh.Hospital_MM_Aristarh_Bar.Description} 安德烈·斯塔马京也许知道阿里斯塔尔赫住哪。

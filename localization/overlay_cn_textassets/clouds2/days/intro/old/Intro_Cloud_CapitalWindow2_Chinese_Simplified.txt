@@ -1,0 +1,4 @@
+{Clouds2.Days.Intro.Old.Intro_Cloud_CapitalWindow2.12668} 刚才走过去的是谁？
+{Clouds2.Days.Intro.Old.Intro_Cloud_CapitalWindow2.14527} 刚才走过去的是谁？
+{Clouds2.Days.Intro.Old.Intro_Cloud_CapitalWindow2.20075} 嘿！我在这儿！
+{Clouds2.Days.Intro.Old.Intro_Cloud_CapitalWindow2.10800} 一定是别人。

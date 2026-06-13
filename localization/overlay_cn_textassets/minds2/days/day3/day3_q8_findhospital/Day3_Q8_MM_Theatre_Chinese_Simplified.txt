@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_MM_Theatre.Name} 解剖剧场
+{Minds2.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_MM_Theatre.Description} 医院将设在剧场。我得把此事呈报市政厅。

@@ -1,0 +1,2 @@
+{StaffCommands.Archive.NoLights.Name} 熄灯令
+{StaffCommands.Archive.NoLights.Description} 熄灭街区灯火，减少夜间骚动与无序流动。

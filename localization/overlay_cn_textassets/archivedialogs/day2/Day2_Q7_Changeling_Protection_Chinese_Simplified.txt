@@ -1,0 +1,6 @@
+{ArchiveDialogs.Day2.Day2_Q7_Changeling_Protection.26830} 在这里，我可以把当着父亲没说出口的事告诉你。我见过瘟疫。它来找过我——我把它赶走了。它还会再来。
+{ArchiveDialogs.Day2.Day2_Q7_Changeling_Protection.12233} 我也不得不这样说我自己……
+{ArchiveDialogs.Day2.Day2_Q7_Changeling_Protection.58570} 瘟疫会把你碾碎。你应付不了。它还没真正开始，你已经应付不了了。我该怎么办呢？再怎么说，你也是个盟友……决定了：我把自己的保护给你，瘟疫就不会碰你。我想得很妙吧？
+{ArchiveDialogs.Day2.Day2_Q7_Changeling_Protection.39156} 那你想要什么回报？让我替你偷个孩子？
+{ArchiveDialogs.Day2.Day2_Q7_Changeling_Protection.12253} 什么都不要。保护已经生效了。我帮你不求回报。就算你指控我、打我、把我无辜关进笼子，我也还是会帮你。
+{ArchiveDialogs.Day2.Day2_Q7_Changeling_Protection.54917} 这么说，你已经知道我为什么该把你关进笼子了……

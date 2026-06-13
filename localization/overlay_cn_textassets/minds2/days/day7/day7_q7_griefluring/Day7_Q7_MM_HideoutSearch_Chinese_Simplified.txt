@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_HideoutSearch.Name} 亵渎之地
+{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_HideoutSearch.Description} 仓库里有一间秘密解剖室，鲁宾曾躲在那儿。我得搜一下。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_MM_F1_Vigilantes.Name} 纵火者落网
+{Minds2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_MM_F1_Vigilantes.Description} 阴谋者被抓住了，可什么有用的都问不出来。得不偿失：眼下须先安抚全镇。

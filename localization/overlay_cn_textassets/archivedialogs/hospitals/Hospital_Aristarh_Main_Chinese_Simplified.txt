@@ -1,0 +1,3 @@
+﻿{ArchiveDialogs.Hospitals.Hospital_Aristarh_Main.8660} ？
+{ArchiveDialogs.Hospitals.Hospital_Aristarh_Main.31211} 去做检查吧。
+{ArchiveDialogs.Hospitals.Hospital_Aristarh_Main.15149} ...

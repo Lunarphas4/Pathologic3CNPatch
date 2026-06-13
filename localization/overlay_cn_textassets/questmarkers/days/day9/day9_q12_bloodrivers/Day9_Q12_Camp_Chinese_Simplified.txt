@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_Camp.Name} 士兵营地
+{QuestMarkers.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_Camp.Description} 军队在车站周围扎下了一整片营地。那位阵亡士兵的帐篷应在此处。

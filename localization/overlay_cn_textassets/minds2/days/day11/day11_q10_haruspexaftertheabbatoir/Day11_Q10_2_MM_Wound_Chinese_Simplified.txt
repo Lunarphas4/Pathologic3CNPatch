@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q10_HaruspexAfterTheAbbatoir.Day11_Q10_2_MM_Wound.Name} 大地之伤
+{Minds2.Days.Day11.Day11_Q10_HaruspexAfterTheAbbatoir.Day11_Q10_2_MM_Wound.Description} ……他会不会看见过多面体的"配重"？是的。\n\n是的——看来是那"奇迹般的"多面体引发了瘟疫。

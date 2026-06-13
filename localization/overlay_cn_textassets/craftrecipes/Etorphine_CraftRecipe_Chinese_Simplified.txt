@@ -1,0 +1,2 @@
+﻿{CraftRecipes.Etorphine_CraftRecipe.Name} 莨菪碱
+{CraftRecipes.Etorphine_CraftRecipe.Description} 中度增加躁狂

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_KaterinaIsDead.Name} 卡捷琳娜·萨布罗娃之死
+{Minds2.Days.KeyNodes.KeyNode_KaterinaIsDead.Description} 卡捷琳娜·萨布罗娃死了。

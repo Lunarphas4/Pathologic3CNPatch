@@ -1,0 +1,2 @@
+{Notifications.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_Hint_Box.Name} ⁠
+{Notifications.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_Hint_Box.Description} 伊西多尔书房里那个盒子变热了。

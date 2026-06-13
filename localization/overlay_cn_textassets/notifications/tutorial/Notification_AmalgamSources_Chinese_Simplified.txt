@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_AmalgamSources.Name} 汞合金
+{Notifications.Tutorial.Notification_AmalgamSources.Description} 可以通过砸碎镜子获得……还有别的几种方式。

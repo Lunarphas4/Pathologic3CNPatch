@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_Hospital.Name} 医院
+{QuestMarkers.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_Hospital.Description} 布拉赫也许识草原文字、通本地传统。

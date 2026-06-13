@@ -1,0 +1,4 @@
+{Clouds.Metabolism.Normal.Cloud_Universal_PharmacySign.20386} 一间药房。
+{Clouds.Metabolism.Normal.Cloud_Universal_PharmacySign.11448} 一间药房。
+{Clouds.Metabolism.Normal.Cloud_Universal_PharmacySign.22617} 至少有东西可用。
+{Clouds.Metabolism.Normal.Cloud_Universal_PharmacySign.26777} 也许我们能熬过去。

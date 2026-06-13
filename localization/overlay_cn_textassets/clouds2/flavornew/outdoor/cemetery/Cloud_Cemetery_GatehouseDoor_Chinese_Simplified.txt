@@ -1,0 +1,5 @@
+{Clouds2.FlavorNew.Outdoor.Cemetery.Cloud_Cemetery_GatehouseDoor.44925} 夜里那边传来低语和奇怪的微光
+{Clouds2.FlavorNew.Outdoor.Cemetery.Cloud_Cemetery_GatehouseDoor.10340} 夜里那边传来低语和奇怪的微光
+{Clouds2.FlavorNew.Outdoor.Cemetery.Cloud_Cemetery_GatehouseDoor.10062} 也许拉斯卡在和死人说话
+{Clouds2.FlavorNew.Outdoor.Cemetery.Cloud_Cemetery_GatehouseDoor.56689} 也许颓废派在那里聚会
+{Clouds2.FlavorNew.Outdoor.Cemetery.Cloud_Cemetery_GatehouseDoor.61752} 作为体面人，我那时正在睡觉

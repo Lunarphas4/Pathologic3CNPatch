@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_MM_VaccineWorks.Name} 未经许可的疫苗也许有用，但救不了我们。
+{ArchiveMinds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_MM_VaccineWorks.Description} 这支来路不明的疫苗只能提供暂时免疫。远不足以阻止瘟疫。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q3_MM_OrderCancelled.Name} 命令撤销
+{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q3_MM_OrderCancelled.Description} 现在小弗拉德的命令也被撤销了。

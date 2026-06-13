@@ -1,0 +1,3 @@
+{Npcs.Prologue_PatientTwo.Name} 芬奇
+{Npcs.Prologue_PatientTwo.FullName} ⁠
+{Npcs.Prologue_PatientTwo.Description} ⁠

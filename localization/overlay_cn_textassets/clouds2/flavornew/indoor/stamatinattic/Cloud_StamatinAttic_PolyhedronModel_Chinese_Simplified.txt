@@ -1,0 +1,4 @@
+{Clouds2.FlavorNew.Indoor.StamatinAttic.Cloud_StamatinAttic_PolyhedronModel.44925} 向天空呼喊的漏斗
+{Clouds2.FlavorNew.Indoor.StamatinAttic.Cloud_StamatinAttic_PolyhedronModel.10340} 向天空呼喊的漏斗
+{Clouds2.FlavorNew.Indoor.StamatinAttic.Cloud_StamatinAttic_PolyhedronModel.56689} 缠绕着城镇命运之线的纺锤
+{Clouds2.FlavorNew.Indoor.StamatinAttic.Cloud_StamatinAttic_PolyhedronModel.61752} 城中孩子在其中嗡鸣的蜂巢

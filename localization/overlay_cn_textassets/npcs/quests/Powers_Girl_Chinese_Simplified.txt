@@ -1,0 +1,3 @@
+{Npcs.Quests.Powers_Girl.Name} 画眉
+{Npcs.Quests.Powers_Girl.FullName} ⁠
+{Npcs.Quests.Powers_Girl.Description} ⁠

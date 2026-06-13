@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_1_MM_Security.Name} 国之仆从
+{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_1_MM_Security.Description} 我相信我阻止了对审判官的刺杀。可代价几何？

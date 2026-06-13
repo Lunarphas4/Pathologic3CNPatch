@@ -1,0 +1,2 @@
+{Symptoms.ZatrudnenieDihaniya.Name} 呼吸受阻
+{Symptoms.ZatrudnenieDihaniya.Description} 空气通过呼吸道时出现各种障碍。

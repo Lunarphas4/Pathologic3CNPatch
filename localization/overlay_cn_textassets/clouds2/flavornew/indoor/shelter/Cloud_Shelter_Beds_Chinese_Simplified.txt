@@ -1,0 +1,5 @@
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_Beds.44925} 不敢相信我竟允许了这种事
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_Beds.10340} 不敢相信我竟允许了这种事
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_Beds.56689} 只要漏过一个感染者……
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_Beds.571} ……活人之家就会变成死人之家
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_Beds.61752} 可他们还能住到哪里去？

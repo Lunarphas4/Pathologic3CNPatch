@@ -1,0 +1,27 @@
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.56158} 你为什么在这里？你听不见铃声吗？我摇到上气不接下气。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.57180} 你在这里做什么，影子？我已经把鲁宾从凶手手里救下来了！
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.11143} 铃声？我没听见铃声。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.12615} 他们把他塞进棺材，盖上泥土。把一根铃绳放在他手里。说那根绳会决定他是生是死。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.4326} 又一次谋杀，真的？这次凶手是谁。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.11610} 为什么要费这么大劲，又是棺材又是铃？难道没有更简单的杀人办法？
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.33591} 是族民。Odongh（金族牧人）——虫子。他们有许多禁忌：不能用刀切割身体；不能用绳子侮辱脖颈……但如果你是被活埋的，嗯，那就不是他们杀了你。你只是自己窒息而死。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.21170} 这镇上有没有<i>不想</i>杀鲁宾的人？
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.37422} 鲁宾做了什么，惹怒了族民？
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.63233} 鲁宾跟随伊西多尔学习。对族民来说，伊西多尔不像对你和小镇那样只是医生。对族民来说，他是menkhu（门库），基本上就是祭司。\n\n谁知道menkhu（门库）教了鲁宾什么？但族民中有人认为，他教了不该教的东西。认为鲁宾偷走了他不配拥有的知识。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.34136} 这就是谋杀的理由？野蛮人。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.22355} 你不是按他们的方式思考。鲁宾就像卡在族民喉咙里的一根骨头。所以他们找了个借口除掉他。他们说他是ba'e nedebbe（巴埃·内德贝）。按照他们的习俗，如果你不懂“线”却切开死者的身体，你就要替他躺进地里。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.24568} 他们把他埋在哪里？地点和时间？
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.27743} 一口破旧的棺材里。盖子裂开，泥土灌了进去。但最糟糕的并不是窒息。你知道最糟糕的是什么吗？
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.33501} 是什么？
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.18592} 土里的虫子。爬到你的皮肤下面，指甲下面，鼻子里。你抓不住，也杀不死。到处都是尸蚁，在彻底黑暗里，一点一点把你拆开。\n\n鲁宾一直拉着绳子，直到最后，连他自己都能隔着泥土听见头顶上的铃响。但没人来把他挖出来。墓地里一个人也没有。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.55829} 集中点。我不关心这场处刑的细节。告诉我时间和地点。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.56436} 鲁宾一直拉着绳子，直到最后，连他自己都能隔着泥土听见头顶上的铃响。但没人来把他挖出来。墓地里一个人也没有。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.15866} 那就是墓地。今天？昨天？
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.37092} 你从凯恩家打手手里救下他的第二天。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.63143} 以后谁来找我，我都这么说：我忙着再次把鲁宾从死人堆里拖回来。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.46850} 墓地，第四天，铃。明白了。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.45338} 他切开了哪具尸体，才激怒族民？
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.46493} 很多，很多尸体。这就是病理学家的工作。但后来他们受够了……他们把他埋进一口破旧的棺材。盖子裂开，泥土灌了进去。但最糟糕的并不是窒息。你知道最糟糕的是什么吗？
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.21555} 我永远理解不了这些偏远文化……知识的意义不就是传承下去吗？
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.60624} 他们去找伊西多尔本人算账不是更合理吗？鲁宾有什么错？
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_RubinShadow_StillDead.40871} 这是关于西蒙的尸体吗？

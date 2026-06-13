@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Cult.Name} 教派
+{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Cult.Description} 士兵们起了疑心——布洛克对"圣人"克拉拉那种突如其来的盲目崇拜，动摇了他们对他的信任。

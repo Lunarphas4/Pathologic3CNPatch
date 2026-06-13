@@ -1,0 +1,2 @@
+{Symptoms.ZelenayaSypb.Name} 绿色皮疹
+{Symptoms.ZelenayaSypb.Description} 皮肤上出现绿色斑疹，提示异常感染或毒性反应。

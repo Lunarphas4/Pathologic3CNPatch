@@ -1,0 +1,3 @@
+﻿{Items.Metabolism.Valeriana.Name} 缬草提取物
+{Items.Metabolism.Valeriana.Description} 镇静剂。丹科夫斯基学士有时候也会饮用，就跟他祖母当年一样。
+{Items.Metabolism.Valeriana.Description2} 镇静剂。缬草不会有什么问题的。

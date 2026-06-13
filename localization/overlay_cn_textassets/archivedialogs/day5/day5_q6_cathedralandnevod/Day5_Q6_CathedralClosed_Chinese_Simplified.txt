@@ -1,0 +1,4 @@
+{ArchiveDialogs.Day5.Day5_Q6_CathedralAndNevod.Day5_Q6_CathedralClosed.21348} 关门了，公民！
+{ArchiveDialogs.Day5.Day5_Q6_CathedralAndNevod.Day5_Q6_CathedralClosed.19592} 怎么回事？
+{ArchiveDialogs.Day5.Day5_Q6_CathedralAndNevod.Day5_Q6_CathedralClosed.3360} 说了，关门了。
+{ArchiveDialogs.Day5.Day5_Q6_CathedralAndNevod.Day5_Q6_CathedralClosed.4108} 好吧。

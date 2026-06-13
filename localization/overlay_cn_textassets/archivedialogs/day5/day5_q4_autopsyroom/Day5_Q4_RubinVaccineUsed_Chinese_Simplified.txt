@@ -1,0 +1,8 @@
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_RubinVaccineUsed.9403} 就这样。
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_RubinVaccineUsed.26056} 斯塔赫，我得对凯恩家说些什么。
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_RubinVaccineUsed.25942} 我就是凶手。已经没有什么能洗净我了。即便你把我的名字告诉凯恩家，他们决定把我付之一炬，那也只会是渎圣者的灰烬。我恨你，因为我看见你奔向审判官，伸手指认我。
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_RubinVaccineUsed.23739} 别过早审判。
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_RubinVaccineUsed.6638} 即便你罪有应得？……
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_RubinVaccineUsed.17992} 你自己接种了吗？
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_RubinVaccineUsed.3853} 没有。
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_RubinVaccineUsed.1972} 怕了？

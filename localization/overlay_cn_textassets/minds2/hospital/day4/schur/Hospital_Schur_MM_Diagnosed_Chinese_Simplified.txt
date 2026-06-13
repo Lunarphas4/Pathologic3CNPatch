@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day4.Schur.Hospital_Schur_MM_Diagnosed.Name} 确认诊断
+{Minds2.Hospital.Day4.Schur.Hospital_Schur_MM_Diagnosed.Description} 将按此诊断给芬奇开药。到傍晚便能看出诊断对不对。

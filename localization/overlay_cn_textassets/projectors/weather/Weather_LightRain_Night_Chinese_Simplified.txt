@@ -1,0 +1,3 @@
+{Projectors.Weather.Weather_LightRain_Night.17901} ⁠
+{Projectors.Weather.Weather_LightRain_Night.17684} 夜间细雨
+{Projectors.Weather.Weather_LightRain_Night.21458} 下起零星小雨

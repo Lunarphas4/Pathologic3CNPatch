@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_SuicideTimerTutorial.Name} 终局
+{Notifications.Tutorial.Notification_SuicideTimerTutorial.Description} 我的手伸向最后一颗子弹。若能迅速收拢心绪，我便能停下。<i>必须在时间耗尽之前，理出并按下能让我得到慰藉的那些念头。</i>

@@ -1,0 +1,3 @@
+{Npcs.OldMan.Name} 老人
+{Npcs.OldMan.FullName} ⁠
+{Npcs.OldMan.Description} ⁠

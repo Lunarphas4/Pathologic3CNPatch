@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_Marrow_Watson.Name} 骨骨髓区背巷
+{QuestMarkers.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_Marrow_Watson.Description} 但愿那个年轻发明家还没溜。

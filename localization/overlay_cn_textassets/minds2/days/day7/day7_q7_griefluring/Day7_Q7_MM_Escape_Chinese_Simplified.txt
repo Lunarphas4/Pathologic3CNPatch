@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_Escape.Name} 走！
+{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_Escape.Description} 格里夫答应帮我。出逃的准备开始了！

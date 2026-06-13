@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_EuthanasiaTutorial.Name} 取其余生
+{Notifications.Tutorial.Notification_EuthanasiaTutorial.Description} 抑制类药物让我接近目标，亢奋类药物则把我推远。必须在脉搏到达 200 之前完成安乐死。

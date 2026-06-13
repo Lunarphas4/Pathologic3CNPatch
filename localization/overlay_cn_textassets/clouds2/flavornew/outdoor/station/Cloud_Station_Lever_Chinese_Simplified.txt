@@ -1,0 +1,4 @@
+{Clouds2.FlavorNew.Outdoor.Station.Cloud_Station_Lever.44925} 纹丝不动
+{Clouds2.FlavorNew.Outdoor.Station.Cloud_Station_Lever.10340} 纹丝不动
+{Clouds2.FlavorNew.Outdoor.Station.Cloud_Station_Lever.56689} 也难怪
+{Clouds2.FlavorNew.Outdoor.Station.Cloud_Station_Lever.61752} 我甚至不知道该把它往哪边扳

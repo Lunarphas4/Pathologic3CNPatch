@@ -1,0 +1,2 @@
+{Minds2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19.1_MM_Plague.Name} 拥有理性
+{Minds2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19.1_MM_Plague.Description} 瘟疫无法不回应这样绝望的呼唤

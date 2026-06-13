@@ -1,0 +1,2 @@
+{ArchiveMinds.OldNew.Day4_Q2_Escape.Day4_Q2_MM_Carriage.Name} 格里夫的礼物
+{ArchiveMinds.OldNew.Day4_Q2_Escape.Day4_Q2_MM_Carriage.Description} 恶徒格里夫为愿意逃离镇子的人提供了一节火车车厢。

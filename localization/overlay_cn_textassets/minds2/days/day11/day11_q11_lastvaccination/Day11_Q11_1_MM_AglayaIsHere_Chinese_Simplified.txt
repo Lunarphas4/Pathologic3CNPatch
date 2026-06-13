@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_AglayaIsHere.Name} 阿格拉娅
+{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_AglayaIsHere.Description} 这些天阿格拉娅一直避着我，只在视野边缘一闪而过，她的斗篷在门关上前一瞬掠过。如今——她就在这里。

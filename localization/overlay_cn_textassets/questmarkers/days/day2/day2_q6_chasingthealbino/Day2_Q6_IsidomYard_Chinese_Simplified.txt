@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_IsidomYard.Name} 后躯区
+{QuestMarkers.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_IsidomYard.Description} 据说孩子们在这一带见过伊西多尔的凶手。

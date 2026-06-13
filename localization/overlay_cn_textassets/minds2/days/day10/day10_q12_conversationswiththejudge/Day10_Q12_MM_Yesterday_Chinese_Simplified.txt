@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q12_ConversationsWithTheJudge.Day10_Q12_MM_Yesterday.Name} 事如风暴
+{Minds2.Days.Day10.Day10_Q12_ConversationsWithTheJudge.Day10_Q12_MM_Yesterday.Description} 裁判遗憾地推掉了这次会面。我有什么没弄懂。昨日有什么没弄懂。

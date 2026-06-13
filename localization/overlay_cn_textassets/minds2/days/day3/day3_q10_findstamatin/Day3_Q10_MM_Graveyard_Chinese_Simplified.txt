@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Graveyard.Name} 这里随时欢迎你
+{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Graveyard.Description} 彼得今天颇为抢手。他甩开一众仰慕者，逃到了全镇最安静的地方——墓园。

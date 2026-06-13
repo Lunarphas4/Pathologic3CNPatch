@@ -1,0 +1,2 @@
+{Quests.QuestDefinition_Test_2.Name} ⁠
+{Quests.QuestDefinition_Test_2.Description} ⁠

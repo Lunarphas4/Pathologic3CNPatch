@@ -1,0 +1,2 @@
+{PersonalFiles.Day8.Petrel.Name} 海燕
+{PersonalFiles.Day8.Petrel.Description} 疲惫不堪的男人，已经不记得今天是哪一天。

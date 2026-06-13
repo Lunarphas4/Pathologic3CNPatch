@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q3_YouKnowNothing_Ending.Day12_Q3_MM_Overthrow.Name} 覆灭
+{Minds2.Days.Day12.Day12_Q3_YouKnowNothing_Ending.Day12_Q3_MM_Overthrow.Description} 镇上的当局将决定它的命运。我却不能——过去有些事我未能弄清。我已无力左右任何结果。

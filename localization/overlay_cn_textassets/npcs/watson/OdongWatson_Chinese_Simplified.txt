@@ -1,0 +1,3 @@
+{Npcs.Watson.OdongWatson.Name} 库尔霍伊
+{Npcs.Watson.OdongWatson.FullName} ⁠
+{Npcs.Watson.OdongWatson.Description} ⁠

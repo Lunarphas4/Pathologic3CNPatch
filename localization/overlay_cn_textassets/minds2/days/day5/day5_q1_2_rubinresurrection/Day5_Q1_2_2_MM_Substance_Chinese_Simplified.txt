@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q1_2_RubinResurrection.Day5_Q1_2_2_MM_Substance.Name} 元素周期表之外
+{Minds2.Days.Day5.Day5_Q1_2_RubinResurrection.Day5_Q1_2_2_MM_Substance.Description} 仪器和试剂都在尖叫：疫苗不可能存在。我明白的要点是，它不会造成伤害。

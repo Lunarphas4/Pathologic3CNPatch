@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Hospital.Day8.Hospital_Mirosya.Hospital_Mirosya_Village.Name} 草原村
+{QuestMarkers.Hospital.Day8.Hospital_Mirosya.Hospital_Mirosya_Village.Description} 她母亲不知出于何故把病人托派带去那里，回来之后她更糟了。

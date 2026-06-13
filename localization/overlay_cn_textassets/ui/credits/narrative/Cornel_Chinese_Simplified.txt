@@ -1,0 +1,2 @@
+{UI.Credits.Narrative.Cornel.Name} Cornell Laine
+{UI.Credits.Narrative.Cornel.Description} 编辑、编剧

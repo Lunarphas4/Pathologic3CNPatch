@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_NoTwelveDay.Name} 好奇之缺
+{Minds2.Days.KeyNodes.KeyNode_NoTwelveDay.Description} 我未能解开瘟疫之谜，也未能洞悉深处与奇迹之谜，因此我所做的一切并未左右这座小镇的命运。

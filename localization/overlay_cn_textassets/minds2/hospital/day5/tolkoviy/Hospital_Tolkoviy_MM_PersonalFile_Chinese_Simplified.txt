@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day5.Tolkoviy.Hospital_Tolkoviy_MM_PersonalFile.Name} 锁闭车厢中的幸存者
+{Minds2.Hospital.Day5.Tolkoviy.Hospital_Tolkoviy_MM_PersonalFile.Description} 昨夜，惊恐的人们试图乘火车逃离小镇。逃亡失败，几乎所有人都死了。但病人嘲鸫活了下来。

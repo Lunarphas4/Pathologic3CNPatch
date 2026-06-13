@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q9_SimonExhumation.Day6_Q9_MM_Mystery.Name} 谜
+{Minds2.Days.Day6.Day6_Q9_SimonExhumation.Day6_Q9_MM_Mystery.Description} 墓里没有尸首，只有一具偶人和一张图——要么是仪式，要么是恶作剧。颇合凯恩家的口味。

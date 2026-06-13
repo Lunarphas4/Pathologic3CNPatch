@@ -1,0 +1,2 @@
+{Notifications.Tutorial.Matches.Notification_ChooseMatchSlot.Name} ⁠
+{Notifications.Tutorial.Matches.Notification_ChooseMatchSlot.Description} 使用 <InputActions/Inventory/NextSlot>/<InputActions/Inventory/PrevSlot> 选择快捷栏物品。

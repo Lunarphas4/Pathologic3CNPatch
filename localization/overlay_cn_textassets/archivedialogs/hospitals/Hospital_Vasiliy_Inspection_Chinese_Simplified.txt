@@ -1,0 +1,16 @@
+{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Inspection.31273} ⁠
+{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Inspection.16264} 开始检查
+{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Inspection.8509} -
+{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Inspection.25649} 检查头部
+{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Inspection.30642} 脸颊潮红
+{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Inspection.6023} 记下。
+{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Inspection.6586} -
+{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Inspection.28640} 检查双手
+{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Inspection.16878} 指节破裂
+{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Inspection.16136} 记下。
+{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Inspection.30045} -
+{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Inspection.8777} 检查躯干
+{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Inspection.4625} 皮疹
+{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Inspection.24625} 记下。
+{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Inspection.7334} -
+{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Inspection.3926} 结束检查

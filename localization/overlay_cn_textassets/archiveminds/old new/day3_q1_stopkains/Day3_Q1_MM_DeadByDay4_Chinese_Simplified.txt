@@ -1,0 +1,2 @@
+{ArchiveMinds.OldNew.Day3_Q1_StopKains.Day3_Q1_MM_DeadByDay4.Name} 怪异行为
+{ArchiveMinds.OldNew.Day3_Q1_StopKains.Day3_Q1_MM_DeadByDay4.Description} 前一天，鲁宾向恶徒格里夫讨要藏身处，于是得到了剖尸房。鲁宾害怕着什么。

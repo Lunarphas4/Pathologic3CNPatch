@@ -1,0 +1,12 @@
+﻿{UI.Headquarters.Cards.Staff_Food} 口粮
+{UI.Headquarters.Cards.Staff_Equipment} 装备
+{UI.Headquarters.Cards.Staff_Fuel} 燃料
+{UI.Headquarters.Cards.Staff_Medicines} 药物
+{UI.Headquarters.Cards.Staff_Vigilantes_Free} 巡逻人员
+{UI.Headquarters.Cards.Staff_Medical_Free} 护理员
+{UI.Headquarters.Cards.Staff_Plague_Day} 传染
+{UI.Headquarters.Cards.Staff_Rebel_Day} 不安
+{UI.Headquarters.Cards.StaffTitle} 特别小队
+{UI.Headquarters.Cards.ResourcesTitle} 资源
+{UI.Headquarters.Cards.EffectsTitle} 效果
+{UI.Headquarters.Cards.Approved} 同意

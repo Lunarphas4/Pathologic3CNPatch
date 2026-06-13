@@ -1,0 +1,24 @@
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.14321} 日安！哪天这词也许还真能有点意思。来上交给镇子的燃料？不多也别担心——再小的一点也算数。积少成多，话是这么说的。
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.20317} 说得好听。可惜我没什么可上交的。我所有的东西都随身带着。
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.59300} 的确是个好日子。我是学者丹科夫斯基。征收进行得怎么样？进度跟得上吗？
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.7329} 学者先生？！您好！我们还行，尽力在干。大家都把旧破烂送来——正是我们需要的。哪怕一把歪凳子，也值一烧！
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.28102} 也就是说，他们是自愿把东西送来的？老实说，我还以为镇民们会有别的优先考虑。
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.37307} 呃……我能跟您说实话吗？我觉得他们送来的不是烧的凳子。他们送来的是自己的旧日子。大家都知道——旧东西离开屋子，旧麻烦也会跟着走。
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.14612} 又是民间征兆和迷信……不过，只要对征收有帮助，那就随它吧。
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.32479} 是这样吗？可一切都在崩塌的时候，不该反过来吗？人们不该更死抓着过去不放吗？
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.32844} 哦……容我再坦白一点。其实……很多人相信，这场瘟疫是为了我们好才降下来的！是更新，是净化。也不难理解他们为什么这么想——这样一想，事情就没那么可怕了。
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.51113} 可惜你没法颁一道禁止恐惧的法令。
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.62053} 但愿这种宿命论只会让他们交出旧凳子——别闹出更糟的事。
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.15344} Morsque minus poena quam mora mortis habet（比死亡更痛苦的，是等待死亡）。顺便问一句——那边堆着的那些公家传单，是什么，从哪儿来的？
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.13591} Morsque minus poena quam mora mortis habet（比死亡更痛苦的，是等待死亡。）
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.11471} 很好。那这些公家的传单——就堆在这里的这些——是什么，从哪儿来的？
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.55755} 哦！那是我们宣传员干的。看着真让人暖心——说明世上还有这样的人。说明这世界还没烂透。
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.53087} 宣传员，是吗……记下了。
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.27427} 要是再有哪个更有“主意”的人把公家东西送来当燃料，你就把他们记下来。然后向我报告。
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.41605} 辛苦了。
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.34112} Non multa, sed multum（不在多，而在精。）
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.62687} 的确是个好日子。告诉我，这些公家传单——堆在这里的这些——是什么，从哪儿来的？
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.3423} 哦！那是我们宣传员干的。看着真让人暖心——说明世上还有这样的人。说明这世界还没烂透。
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.35099} 燃料征收进展如何？
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.5545} 很顺利！大家都在送东西来——一根树枝、一截圆木，甚至一把歪凳子，你看？乍看都不算什么，可再一看你就会想——这些东西到底是什么时候堆出来的？
+{Dialogs2.Decrees.FuelCollection.FuelCollection_Vigilante.16683} 这种时候，人们居然还能做善事？这……挺鼓舞人的。

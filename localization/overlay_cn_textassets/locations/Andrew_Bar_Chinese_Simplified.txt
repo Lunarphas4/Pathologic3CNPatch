@@ -1,0 +1,2 @@
+﻿{Locations.Andrew_Bar.Name} 碎心人
+{Locations.Andrew_Bar.Description} 碎心人

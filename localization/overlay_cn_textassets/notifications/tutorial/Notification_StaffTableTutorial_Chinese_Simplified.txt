@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_StaffTableTutorial.Name} 应急指挥台
+{Notifications.Tutorial.Notification_StaffTableTutorial.Description} 镇上的管理工作在我的办公桌上完成。

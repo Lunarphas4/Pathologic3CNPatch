@@ -1,0 +1,3 @@
+{Items.Weapons.Silver.Name} 银枪
+{Items.Weapons.Silver.Description} 银质武器。
+{Items.Weapons.Silver.Description2} 为特殊用途准备的银质武器。

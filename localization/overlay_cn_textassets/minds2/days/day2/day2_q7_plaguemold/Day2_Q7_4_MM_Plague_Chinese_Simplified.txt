@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_4_MM_Plague.Name} 非我莫属
+{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_4_MM_Plague.Description} 当局已收到瘟疫卷土重来的铁证。我终于可以歇下了……至少在明天他们传我去市政厅之前。

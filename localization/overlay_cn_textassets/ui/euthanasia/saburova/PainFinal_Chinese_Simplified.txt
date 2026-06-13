@@ -1,0 +1,2 @@
+﻿{UI.Euthanasia.Saburova.PainFinal.Name} 不安睡眠
+{UI.Euthanasia.Saburova.PainFinal.Description} 麻醉随时可能失效

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day3.Day3_Q6_Haruspex.Day3_Q6_Administration_Haruspex.Name} 市政厅
+{QuestMarkers.Days.Day3.Day3_Q6_Haruspex.Day3_Q6_Administration_Haruspex.Description} 镇上还有另一位医者。是友是敌？

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_LostBull.Name} 无牛可寻
+{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_LostBull.Description} 静水观星台附近没看见牛。得问问家里的人。

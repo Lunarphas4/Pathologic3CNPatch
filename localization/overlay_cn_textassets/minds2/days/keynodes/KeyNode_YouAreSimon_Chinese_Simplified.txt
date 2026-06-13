@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_YouAreSimon.Name} 因与果
+{Minds2.Days.KeyNodes.KeyNode_YouAreSimon.Description} 我承继西蒙之位。踏入多面体之举让我可以选定过往诸事的结局。

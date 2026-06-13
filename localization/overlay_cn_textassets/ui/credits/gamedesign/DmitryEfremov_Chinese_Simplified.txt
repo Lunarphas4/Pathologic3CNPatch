@@ -1,0 +1,2 @@
+{UI.Credits.GameDesign.DmitryEfremov.Name} Dmitry Efremov
+{UI.Credits.GameDesign.DmitryEfremov.Description} 平衡设计师、游戏设计师

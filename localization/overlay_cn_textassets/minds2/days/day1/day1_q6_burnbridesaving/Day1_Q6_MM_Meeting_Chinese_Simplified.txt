@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Meeting.Name} 另一场会面
+{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Meeting.Description} 难怪我当时觉得：我早就认识伊娃。

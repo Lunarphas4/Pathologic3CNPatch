@@ -1,0 +1,2 @@
+{StaffCommands.Day3.Curfew.Name} 宵禁
+{StaffCommands.Day3.Curfew.Description} 限制镇民出行，以减缓疫病传播。

@@ -1,0 +1,3 @@
+{Days.Capital.Name} 首都
+{Days.Capital.Description} 现在
+{Days.Capital.Name_StartDay} 首都。

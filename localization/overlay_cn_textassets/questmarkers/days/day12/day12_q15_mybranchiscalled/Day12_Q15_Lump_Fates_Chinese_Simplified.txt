@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Lump_Fates.Name} 块石宅
+{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Lump_Fates.Description} 块石宅还有一些我尚未得知的命运。

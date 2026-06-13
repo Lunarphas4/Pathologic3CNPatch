@@ -1,0 +1,12 @@
+﻿{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Laska_SimonBody.48358} ……凯恩家说死者的遗体藏在一个冷室里——如果我理解没错，就在炉宅的某处。但我听到传闻说那是谎言。今天下午，有一具无名尸体被埋在墓地。带我看看那发生在哪里。
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Laska_SimonBody.23926} 真奇妙……我常常看见死亡站在一个人身后。但这是我第一次看见生命。
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Laska_SimonBody.30513} 那你一定把我当成了与死亡作战的人。
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Laska_SimonBody.56104} 也许你只是用眼角瞥见了<i>我</i>……你真的很不寻常。
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Laska_SimonBody.37640} 离这里不远，在墓地西墙边，凯恩家的仆人正在埋葬一个没有名字的人。但那似乎不是西蒙·凯恩……看起来不像。
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Laska_SimonBody.59252} 凯恩家也许死了别的人。这并非不可能。\n\n谢谢你，孩子。我去看看。
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Laska_SimonBody.55409} 请走轻一点。今天已经有一个活着的姑娘从坟里爬出来了。不过她刚才离开了。我宁愿其余死者都待在原地。
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Laska_SimonBody.42686} 人从坟里爬出来，这种事很常见吗？
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Laska_SimonBody.6935} 不，不。那不可能发生。太可怕了……反正她没有死。她活着。我想，只是个换生灵。
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Laska_SimonBody.36712} 你说换生灵……也许值得和她谈谈。比和凯恩家的仆人谈更值得。我有种感觉，她看事情的方式不同。
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Laska_SimonBody.10853} 谢谢你，格蕾丝。
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Laska_SimonBody.58423} 所以第一天你终究还是去寻找了西蒙的遗体，丹科夫斯基。你并没有闲着。那么，为什么到了第二天，你会放弃得如此彻底，以至于你的整段奥德赛都塌缩回自身？

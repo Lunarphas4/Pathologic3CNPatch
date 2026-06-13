@@ -1,0 +1,5 @@
+{Clouds.Metabolism.Psychosis.RegionZavodi.Cloud_RegionZavodi_PubEntranceFan.12516} 先是铸造厂。
+{Clouds.Metabolism.Psychosis.RegionZavodi.Cloud_RegionZavodi_PubEntranceFan.17277} 先是铸造厂。
+{Clouds.Metabolism.Psychosis.RegionZavodi.Cloud_RegionZavodi_PubEntranceFan.9205} 后来是屠宰铺。
+{Clouds.Metabolism.Psychosis.RegionZavodi.Cloud_RegionZavodi_PubEntranceFan.1376} 现在是酒馆。
+{Clouds.Metabolism.Psychosis.RegionZavodi.Cloud_RegionZavodi_PubEntranceFan.17527} 曾经倾倒钢水，如今倾倒酒水。

@@ -1,0 +1,2 @@
+{UI.Metabolism.MetabolismTooltip.Name} 精神状态/肉体健康
+{UI.Metabolism.MetabolismTooltip.Description} 外圈刻度代表的是精神状态。刻度往顺时针方向增加，表示狂躁加剧，往逆时针方向增加则表示冷漠加深。过度狂躁和过度冷漠，都会影响你的肉体健康和能力，请尽量避免陷入这两种极端状态。可使用物品栏中的消耗品调整精神状态。\n\n内圈刻度代表的是肉体健康。

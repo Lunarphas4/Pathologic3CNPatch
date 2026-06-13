@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Piece.Name} 此刻
+{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Piece.Description} 这种细节我在伊西多尔的书房见过。这些天里——我一直把它带在身上！

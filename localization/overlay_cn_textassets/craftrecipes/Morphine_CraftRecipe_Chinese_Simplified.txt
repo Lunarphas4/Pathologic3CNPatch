@@ -1,0 +1,2 @@
+﻿{CraftRecipes.Morphine_CraftRecipe.Name} 吗啡
+{CraftRecipes.Morphine_CraftRecipe.Description} 中度增加冷漠

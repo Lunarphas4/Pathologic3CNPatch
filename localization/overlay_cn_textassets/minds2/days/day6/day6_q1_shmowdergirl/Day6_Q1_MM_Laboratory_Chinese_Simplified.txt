@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_MM_Laboratory.Name} 就在眼皮底下
+{Minds2.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_MM_Laboratory.Description} 中心城区藏着一间孩子们的实验室，危险的药剂便从那里散布全镇。检查官正赶往那里。

@@ -1,0 +1,4 @@
+{Clouds.Old.NoLights.NoLights_Cloud_LostMan.624} 醉了？不，他迷路了。
+{Clouds.Old.NoLights.NoLights_Cloud_LostMan.25991} 醉了？不，他迷路了。
+{Clouds.Old.NoLights.NoLights_Cloud_LostMan.18006} 他为什么在黑暗里游荡？
+{Clouds.Old.NoLights.NoLights_Cloud_LostMan.21917} 一张令人不快的脸。还是只是影子在作怪？

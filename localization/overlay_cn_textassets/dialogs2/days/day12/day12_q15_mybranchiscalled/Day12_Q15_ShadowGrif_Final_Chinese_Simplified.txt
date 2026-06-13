@@ -1,0 +1,6 @@
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_ShadowGrif_Final.23816} 你想要什么？活人还在等你——你却像个小贼一样在坟边翻找。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_ShadowGrif_Final.15276} 你是格里夫的影子？为什么在这里？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_ShadowGrif_Final.61778} 他——我——还能去哪儿？死后，人会更紧地抓住最亲近的人。 在另一个人生里，格里夫会把想对拉拉说的话全说出来。但不是这一生。不是这一生。这一生里，他只坐在她的坟前。即便死了也如此。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_ShadowGrif_Final.16020} 乍看上去，他们毫不相像。但仔细看——两人都走投无路。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_ShadowGrif_Final.30728} 我一直在想：有没有办法救下他们？格里夫和拉拉·拉维尔。我本可以不让他们死吗？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_ShadowGrif_Final.21129} 拉拉不在这里——但她本可以在。也许知道她活了下来，会让格里夫的命运轻一点。还是说，他已经再也不能理解了？

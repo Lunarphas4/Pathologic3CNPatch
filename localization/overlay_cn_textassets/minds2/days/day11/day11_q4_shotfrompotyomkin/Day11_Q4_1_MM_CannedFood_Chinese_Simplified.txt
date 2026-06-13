@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_1_MM_CannedFood.Name} 蓄意致染
+{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_1_MM_CannedFood.Description} 那批罐头看着糟糕，可能带菌。我得做足防护去化验。

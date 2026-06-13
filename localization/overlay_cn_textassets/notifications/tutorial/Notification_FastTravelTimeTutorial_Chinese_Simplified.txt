@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_FastTravelTimeTutorial.Name} 穿镇而行
+{Notifications.Tutorial.Notification_FastTravelTimeTutorial.Description} 走来走去要耗时。直线路径最快。

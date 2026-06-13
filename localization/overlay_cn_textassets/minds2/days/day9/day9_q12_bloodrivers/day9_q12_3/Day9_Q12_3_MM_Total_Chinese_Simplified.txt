@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_3.Day9_Q12_3_MM_Total.Name} 呈给督察的便条
+{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_3.Day9_Q12_3_MM_Total.Description} 这不是与军队冲突的结果。这是本地孩童疯狂游戏的结果——他们为进入一栋"神迹之屋"而能拔枪杀人。

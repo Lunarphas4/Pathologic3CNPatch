@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q4_MeetTheChangeling.Day4_Q4_MM_MeetTheChangeling.Name} 换生灵
+{Minds2.Days.Day4.Day4_Q4_MeetTheChangeling.Day4_Q4_MM_MeetTheChangeling.Description} 一位奇异的访客在医院门口等我。

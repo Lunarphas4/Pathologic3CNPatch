@@ -1,0 +1,8 @@
+﻿{UI.CharacterWindow.Tooltips.SaburovTooltips.Death} 第7天，因妻子的死而开枪自尽
+{UI.CharacterWindow.Tooltips.SaburovTooltips.DeathTwo} 第9天，因妻子的死而开枪自尽
+{UI.CharacterWindow.Tooltips.SaburovTooltips.Intro} 小镇的总督
+{UI.CharacterWindow.Tooltips.SaburovTooltips.Daughter} 第1天，在家中庇护了一个从坟墓里来的乞儿
+{UI.CharacterWindow.Tooltips.SaburovTooltips.Epidemy} 第2天，第一个组织起对抗沙疫的行动
+{UI.CharacterWindow.Tooltips.SaburovTooltips.Overthrown} 第7天，被剥夺权力，并与女儿断绝关系
+{UI.CharacterWindow.Tooltips.SaburovTooltips.AliveHealthyWife} 第12天，开始新的生活
+{UI.CharacterWindow.Tooltips.SaburovTooltips.AliveSickWife} 第12天，决定以铁腕统治小镇

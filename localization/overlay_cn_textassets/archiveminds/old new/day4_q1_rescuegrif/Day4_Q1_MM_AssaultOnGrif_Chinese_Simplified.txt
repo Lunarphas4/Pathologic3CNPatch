@@ -1,0 +1,2 @@
+{ArchiveMinds.OldNew.Day4_Q1_RescueGrif.Day4_Q1_MM_AssaultOnGrif.Name} 逼近的威胁
+{ArchiveMinds.OldNew.Day4_Q1_RescueGrif.Day4_Q1_MM_AssaultOnGrif.Description} 恶徒格里夫有性命危险。

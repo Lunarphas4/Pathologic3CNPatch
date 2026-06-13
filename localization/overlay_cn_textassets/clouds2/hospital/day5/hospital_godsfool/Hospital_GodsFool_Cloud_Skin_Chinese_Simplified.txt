@@ -1,0 +1,4 @@
+{Clouds2.Hospital.Day5.Hospital_GodsFool.Hospital_GodsFool_Cloud_Skin.14325} 擦伤？卫生糟糕造成的？
+{Clouds2.Hospital.Day5.Hospital_GodsFool.Hospital_GodsFool_Cloud_Skin.40295} 擦伤？卫生糟糕造成的？
+{Clouds2.Hospital.Day5.Hospital_GodsFool.Hospital_GodsFool_Cloud_Skin.15555} 还是传染病的后果？
+{Clouds2.Hospital.Day5.Hospital_GodsFool.Hospital_GodsFool_Cloud_Skin.30640} 病人还浑身发痒

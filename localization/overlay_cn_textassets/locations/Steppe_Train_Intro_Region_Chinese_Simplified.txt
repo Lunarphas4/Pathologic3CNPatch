@@ -1,0 +1,2 @@
+﻿{Locations.Steppe_Train_Intro_Region.Name} 草原
+{Locations.Steppe_Train_Intro_Region.Description} 草原

@@ -1,0 +1,5 @@
+{Clouds2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Cloud_House_Handkerchiefs.32355} 止不住血？
+{Clouds2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Cloud_House_Handkerchiefs.11261} 止不住血？
+{Clouds2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Cloud_House_Handkerchiefs.23603} 咳血？
+{Clouds2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Cloud_House_Handkerchiefs.30880} 流鼻血？
+{Clouds2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Cloud_House_Handkerchiefs.3663} 红色黏液……

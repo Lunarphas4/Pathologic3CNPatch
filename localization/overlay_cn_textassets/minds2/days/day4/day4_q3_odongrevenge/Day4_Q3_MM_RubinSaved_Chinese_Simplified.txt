@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q3_OdongRevenge.Day4_Q3_MM_RubinSaved.Name} 从坟里回来
+{Minds2.Days.Day4.Day4_Q3_OdongRevenge.Day4_Q3_MM_RubinSaved.Description} 鲁宾受了惊，眼下说不出话。我得给他时间，让他从那场"埋葬"中缓过来。

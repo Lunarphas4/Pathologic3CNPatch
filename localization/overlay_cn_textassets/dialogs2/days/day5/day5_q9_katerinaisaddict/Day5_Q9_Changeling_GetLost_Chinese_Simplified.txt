@@ -1,0 +1,8 @@
+{Dialogs2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_Changeling_GetLost.157} 你不光无聊，还烦得像只苍蝇。你是打算一直这样在我身边嗡嗡转吗？
+{Dialogs2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_Changeling_GetLost.20479} 你这么小，就整天泡在酒馆里，不嫌太早了吗？
+{Dialogs2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_Changeling_GetLost.18082} 怎么，你不喜欢？
+{Dialogs2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_Changeling_GetLost.25822} ...
+{Dialogs2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_Changeling_GetLost.14810} 连话都懒得说一句，是吧？
+{Dialogs2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_Changeling_GetLost.11835} ...
+{Dialogs2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_Changeling_GetLost.21443} 行，随便吧。跟砖头说话都比跟你说强。
+{Dialogs2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_Changeling_GetLost.3055} 对，我就要一直这样在你身边转。

@@ -1,0 +1,2 @@
+{StaffCommands.Day6.MedicalRequisition.Name} 药品征用
+{StaffCommands.Day6.MedicalRequisition.Description} 要求镇民无偿交出多余药品，供全镇使用。

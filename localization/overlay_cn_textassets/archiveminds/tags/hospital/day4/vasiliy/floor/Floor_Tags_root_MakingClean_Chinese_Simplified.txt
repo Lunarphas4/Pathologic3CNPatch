@@ -1,0 +1,2 @@
+{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.Floor.Floor_Tags_root_MakingClean.Name} ⁠
+{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.Floor.Floor_Tags_root_MakingClean.Description} 试图洗掉什么东西。

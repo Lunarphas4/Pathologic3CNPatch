@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_NoGeotgiy.Name} 悬崖上的裁判
+{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_NoGeotgiy.Description} 问格奥尔基也无用。

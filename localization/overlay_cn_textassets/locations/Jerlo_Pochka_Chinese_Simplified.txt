@@ -1,0 +1,2 @@
+{Locations.Jerlo_Pochka.Name} 喉口区
+{Locations.Jerlo_Pochka.Description} 喉口区

@@ -1,0 +1,16 @@
+{ArchiveDialogs.Day5.Day5_Visitors.Karina.Day5_Visitors_StepanOnHealer.13842} 谢谢您，医生，还记得我。不过今晚倒是平静，没什么可抱怨的。
+{ArchiveDialogs.Day5.Day5_Visitors.Karina.Day5_Visitors_StepanOnHealer.23176} 我也有好消息告诉您。看来我有了嫌疑人。
+{ArchiveDialogs.Day5.Day5_Visitors.Karina.Day5_Visitors_StepanOnHealer.32529} 真的吗？听见这话太好了。是谁？
+{ArchiveDialogs.Day5.Day5_Visitors.Karina.Day5_Visitors_StepanOnHealer.11951} 之前没注意过什么可疑的人吗？
+{ArchiveDialogs.Day5.Day5_Visitors.Karina.Day5_Visitors_StepanOnHealer.9672} 让我想想……人来人往，脑子都乱了……不过等等，确实有个女人，连续几天来这里闲逛，后来就不见了。但那还是您来之前的事。
+{ArchiveDialogs.Day5.Day5_Visitors.Karina.Day5_Visitors_StepanOnHealer.25867} 也许是在踩点。
+{ArchiveDialogs.Day5.Day5_Visitors.Karina.Day5_Visitors_StepanOnHealer.16244} 现在还得找到她……
+{ArchiveDialogs.Day5.Day5_Visitors.Karina.Day5_Visitors_StepanOnHealer.17800} 她是不是从仓库那边来的？
+{ArchiveDialogs.Day5.Day5_Visitors.Karina.Day5_Visitors_StepanOnHealer.13125} 就是那边！
+{ArchiveDialogs.Day5.Day5_Visitors.Karina.Day5_Visitors_StepanOnHealer.13067} 多半就是她。
+{ArchiveDialogs.Day5.Day5_Visitors.Karina.Day5_Visitors_StepanOnHealer.10164} 您知道她什么事吗？
+{ArchiveDialogs.Day5.Day5_Visitors.Karina.Day5_Visitors_StepanOnHealer.28825} 听说仓库区有个女人熬某种草药酊剂，冒充药卖。也许该去拜访她。
+{ArchiveDialogs.Day5.Day5_Visitors.Karina.Day5_Visitors_StepanOnHealer.10637} 我也想去——也许能认出她，可我不能离开岗位。
+{ArchiveDialogs.Day5.Day5_Visitors.Karina.Day5_Visitors_StepanOnHealer.8832} 别担心。需要的话，我会压她一压，吓唬她说有人在公园见过她。看看她怎么反应。
+{ArchiveDialogs.Day5.Day5_Visitors.Karina.Day5_Visitors_StepanOnHealer.31608} 您还是别太……万一她和这事无关呢。
+{ArchiveDialogs.Day5.Day5_Visitors.Karina.Day5_Visitors_StepanOnHealer.14034} 当然。这大概就是全部。我继续走了。

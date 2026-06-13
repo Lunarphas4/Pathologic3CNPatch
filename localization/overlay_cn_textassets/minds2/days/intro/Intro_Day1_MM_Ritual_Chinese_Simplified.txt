@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Intro.Intro_Day1_MM_Ritual.Name} 民族志入门
+{Minds2.Days.Intro.Intro_Day1_MM_Ritual.Description} 当地人相信，他们传说中不死的英雄博斯·图罗赫死了。它与我自己的研究惊人地相似。谢天谢地，我并不迷信。

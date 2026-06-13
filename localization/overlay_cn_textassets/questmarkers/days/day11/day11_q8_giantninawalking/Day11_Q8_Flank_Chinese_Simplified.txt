@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_Flank.Name} 活动的塑像
+{QuestMarkers.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_Flank.Description} 妮娜去了哪里？

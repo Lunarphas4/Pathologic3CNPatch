@@ -1,0 +1,12 @@
+{Dialogs2.Hospital.Day6.Hospital_Day6_Orderly_Main.7128} 我们今天这座剧院满座了——四名正在抵抗瘟疫的患者！
+{Dialogs2.Hospital.Day6.Hospital_Day6_Orderly_Main.29306} 要把他们全检查完可不容易……多说一点。简短些。
+{Dialogs2.Hospital.Day6.Hospital_Day6_Orderly_Main.22551} 一个叫硬汉的发明家，本地小贩燕雀，秧鸡——一个相当古怪的女人。还有牛蒡——我觉得他……嗯，是个强盗。这样说病人不太好，我知道……
+{Dialogs2.Hospital.Day6.Hospital_Day6_Orderly_Main.10626} 硬汉到底发明了什么？
+{Dialogs2.Hospital.Day6.Hospital_Day6_Orderly_Main.3521} 到目前为止？发明了弄到一桶被没收的感染水，还从里面喝水的办法。有些人就是没有保命的脑子。
+{Dialogs2.Hospital.Day6.Hospital_Day6_Orderly_Main.15070} 燕雀有什么症状？
+{Dialogs2.Hospital.Day6.Hospital_Day6_Orderly_Main.30132} 是别人对她有意见。邻居看见她从感染区出来。她违反了隔离。
+{Dialogs2.Hospital.Day6.Hospital_Day6_Orderly_Main.7249} 你说秧鸡古怪？什么意思？
+{Dialogs2.Hospital.Day6.Hospital_Day6_Orderly_Main.29953} 怎么说呢……她口袋里全是泥土——我们拿走了。不能把脏土带进医院。您最好亲自看看。不过她不太爱说话。
+{Dialogs2.Hospital.Day6.Hospital_Day6_Orderly_Main.22657} 牛蒡有什么令人担心的？
+{Dialogs2.Hospital.Day6.Hospital_Day6_Orderly_Main.31538} 我知道这种本地人：瘟疫转到别处后，他们就去空区里翻抢东西。所以，医生，和牛蒡打交道要小心。以防万一……不过他仍然是个人。我不是建议拒绝治疗他！
+{Dialogs2.Hospital.Day6.Hospital_Day6_Orderly_Main.11090} 立刻把他们的病历给我。无论如何，四个病人都会花更多时间。

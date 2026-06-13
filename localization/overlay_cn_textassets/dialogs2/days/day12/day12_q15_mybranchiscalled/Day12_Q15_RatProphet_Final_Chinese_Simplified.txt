@@ -1,0 +1,62 @@
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.57948} 你盯着什么，人类？我已经几天没沾一滴露，也没吃一口命运了。听见那响声了吗？那是我的肚子，我的饥饿，从深处呻吟。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.36824} 你为什么坐在坟边？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.41369} 因为我饥饿。坟墓是空的，因为我的胃是空的。让我挨饿，你们就会有一座又一座空坟；谁脚下一滑，就会成我的食物。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.52937} 有没有办法不献祭也喂饱你？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.40861} 你真是一把钝掉的凿子，人类。你自己什么也不懂；连一件事都解不出来。 你昨天本可以喂饱我，但现在太迟了。现在你完了，这座镇也完了。饥饿的先知比瘟疫更糟——记住这一点。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.2781} 也许从前我会害怕你的预言。现在？我一点也不在乎。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.23992} 我可以给你带些干面包。要吗？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.8562} 我不吃你们肮脏的凡人食物。我以命运和梦为食。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.24604} 你面前就有整整一座镇的磨损命运。吃吧。欢庆吧。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.61589} 我希望你饿死，你这肮脏的有尾巴东西。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.6713} 我可以给你带些干面包。要吗？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.44241} 我不吃你们肮脏的凡人食物。我以命运和梦为食。 坟墓是空的，因为我正向它靠近。让我挨饿，你们就会有一座又一座空坟；谁脚下一滑，就会成我的食物。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.49017} 过去十二天，已经有这么多人滑进坟里。吃吧。欢庆吧。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.40667} 别打扰我，人类。你看不出我正忙吗？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.12998} 坟里的那些娃娃是什么？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.44124} 你要我救孩子——把他们弄出那座可怜的塔。我把他们弄出来了。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.21897} 你把他们弄出来，然后……？把话说完！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.46521} 你做了什么，你这肮脏的有尾巴东西？！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.26327} 你想让那座可怜的塔空掉，它空了。那里没有孩子了。 他们在别的地方吗？那么——你现在要怎么知道呢。也许我把他们的脐带从那座塔上啃干净了。也许我把他们全吞了。可怕吧——不知道真相？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.20522} 可怕。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.11804} 我为什么会让你掺进这事……
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.6096} 坟里只是娃娃。只是娃娃！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.28263} 那镜子呢？那镜子又是什么？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.61002} 你比我更懂镜子，人类。你也像我一样吃它们——不是吗？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.13288} 什么鬼话？我不吃镜子。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.61488} 就是那面镜子，人类。看——它没有杀任何人。你想让我拿走玛丽亚·凯纳的梦——我拿走了。 梦很好吃，人类。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.61421} 我想让你拿走的是一个特定的梦——那个关于可能杀死卡尔明斯基的镜子的梦。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.40887} 可你最后让我喂给你了玛丽亚所有的梦——现在的和未来的。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.33503} 因为你，她失去了女主人的天赋……
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.30269} 你的愤怒找错了地方，人类。我很有礼貌；没有被允许，我什么都不拿。是你给了我许可。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.59156} 我不是那个意思！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.1713} 我恨你。我也恨我自己。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.57831} 另一方面，我得到了自己想要的：卡尔明斯基活着。至于玛丽亚……她会撑过去。胃口好，老鼠。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.1238} 所以玛丽亚失去了女主人的天赋？永远？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.53503} 你是骗子！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.15045} 某种意义上。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.42021} 坟边为什么有一面镜子？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.61358} 你比我更懂镜子，人类。你也像我一样吃它们——不是吗？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.59714} 什么鬼话？我不吃镜子。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.58970} 就是那面镜子，人类。看——它没有杀任何人。你想让我拿走玛丽亚·凯纳的梦——我拿走了。 梦很好吃，人类。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.3582} 我想让你拿走的是一个特定的梦——那个关于可能杀死卡尔明斯基的镜子的梦。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.4528} 可你最后让我喂给你了玛丽亚所有的梦——现在的和未来的。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.60727} 因为你，她失去了女主人的天赋……
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.47327} 你的愤怒找错了地方，人类。我很有礼貌；没有被允许，我什么都不拿。是你给了我许可。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.23062} 我不是那个意思！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.47190} 我恨你。我也恨我自己。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.60284} 另一方面，我得到了自己想要的：卡尔明斯基活着。至于玛丽亚……她会撑过去。胃口好，老鼠。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.55734} 好吧，镜子，我……明白了。可娃娃——它们从哪儿来的？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.38845} 你要我救孩子——把他们弄出那座可怜的塔。我把他们弄出来了。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.64162} 你把他们弄出来，然后……？把话说完！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.57178} 你做了什么，你这肮脏的有尾巴东西？！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.16383} 你想让那座可怜的塔空掉，它空了。那里没有孩子了。 他们在别的地方吗？那么——你现在要怎么知道呢。也许我把他们的脐带从那座塔上啃干净了。也许我把他们全吞了。可怕吧——不知道真相？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.5725} 可怕。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.53239} 我为什么会让你掺进这事……
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.56006} 坟里只是娃娃。只是娃娃！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.23728} 所以玛丽亚失去了女主人的天赋？永远？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.58522} 你是骗子！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.9788} 某种意义上。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.2129} 你到底在忙什么？坐在这里，盯着一座坟。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.20984} 我在吃完我的餐，你打扰了我的餐。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.17253} 吃完——什么，娃娃？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RatProphet_Final.17120} 那你要镜子做什么？

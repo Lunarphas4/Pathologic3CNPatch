@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_Pub.Name} 碎心人的常客
+{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_Pub.Description} 好一个倔头！连地址都不肯给。只好去斯塔马京的酒馆打听。

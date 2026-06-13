@@ -1,0 +1,2 @@
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PatientOne.Prologue_PatientOne_MM_Inspection.Name} 体检结束
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PatientOne.Prologue_PatientOne_MM_Inspection.Description} 需将结果记入病例簿，再与患者核对。

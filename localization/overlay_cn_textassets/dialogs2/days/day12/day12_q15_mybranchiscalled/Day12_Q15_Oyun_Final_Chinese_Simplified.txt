@@ -1,0 +1,12 @@
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Oyun_Final.11903} 年轻的布拉赫选择了力量之路——证明自己配得上部族。他饶了我的命；如今我的命在他手里。我还没有挣得以死解脱的资格。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Oyun_Final.34421} 饶了你的命？这是什么意思？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Oyun_Final.28422} 是你。你把年轻布拉赫的眼睛指向了正道。他看见了——于是让我继续活着：穆阿米达拉尔，一条污浊的命。他不许以血偿血。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Oyun_Final.14779} 我承认，我一个字也听不懂。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Oyun_Final.10045} 伊西多一向任性。他去了镇上生活，娶了一个不是哈坦格的妻子。他与石庭区的疯子们来往——自己也成了疯子，嘎勒祖。我明白自己在做什么：我本想以恶抗恶，也准备付出代价。可我没想到，最残酷的代价竟是被迫什么也不用付。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Oyun_Final.8268} 别担心——很快，人人都会偿还一切。小镇和多面体的命运，今天就要定下。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Oyun_Final.46905} 小镇的命运不在石头里决定，而在土地上决定。外人从来决定不了什么——塔尼格达古伊·浑。石庭区会倒下；那座玻璃塔会倒下。那是好事。那是正道——提梅·拜赫·约霍托伊。金族有了新的守门者——一个配得上重新开始的人。他待我严厉，但我会第一个向他的法则低头。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Oyun_Final.50101} 我永远也弄不懂你们的习俗。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Oyun_Final.16788} 你拿幻想来安慰自己：以为小镇发生的事传不到草原，以为你们活在某个封死的自家天地里。不是这样。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Oyun_Final.33884} 那对金族倒是好事。至少等后面的事结束了，还有人会有容身之处。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Oyun_Final.53740} 所以……伊西多之死，到头来你还是牵涉其中？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Oyun_Final.38735} 为什么我总会在最意想不到——也最可疑——的地方碰见你？

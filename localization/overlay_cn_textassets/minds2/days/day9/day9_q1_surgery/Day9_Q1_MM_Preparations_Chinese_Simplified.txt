@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_Preparations.Name} 听我号令
+{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_Preparations.Description} 身为大夫，我的本分是把全副心力投向救人。一切准备就绪后，我便回到卡捷琳娜身边。

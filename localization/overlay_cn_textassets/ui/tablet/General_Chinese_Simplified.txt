@@ -1,0 +1,2 @@
+{UI.Tablet.General.PossibleDiagnoses} 疑似诊断：
+{UI.Tablet.General.AffectedOrgans} 受影响的器官：

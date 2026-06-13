@@ -1,0 +1,3 @@
+{Npcs.patient_GodsFool_Good.Name} 善人
+{Npcs.patient_GodsFool_Good.FullName} ⁠
+{Npcs.patient_GodsFool_Good.Description} ⁠

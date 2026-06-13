@@ -1,0 +1,12 @@
+﻿{ArchiveDialogs.Test.Stash_Day5_MysStash.6191} 嘿，蛇皮！诺特金派我来帮你把事情弄明白。
+{ArchiveDialogs.Test.Stash_Day5_MysStash.27709} 我自己跟他说。
+{ArchiveDialogs.Test.Stash_Day5_MysStash.21541} 他出门帮开膛手了。所以你最好听我的。我们在岬角给你藏了一处补给。
+{ArchiveDialogs.Test.Stash_Day5_MysStash.17234} 你们就不能找个近点的地方？
+{ArchiveDialogs.Test.Stash_Day5_MysStash.27724} 找到最近的凉亭，从那儿朝带螺旋的纪念碑走一步。附近有两张长椅和一个垃圾桶。
+{ArchiveDialogs.Test.Stash_Day5_MysStash.18055} 接着说。
+{ArchiveDialogs.Test.Stash_Day5_MysStash.26195} 过了垃圾桶，沿着小路往石头妮娜走。她一只手背在身后，你认得出来。继续沿着小路走。
+{ArchiveDialogs.Test.Stash_Day5_MysStash.9548} 你们在“藏补给”这件事上可真够周密的……
+{ArchiveDialogs.Test.Stash_Day5_MysStash.2446} 当你看到右边有两张长椅和一个喂鸟器，就沿小路左侧走，找一盏灯。灯旁边会有一段坡，下到水边。
+{ArchiveDialogs.Test.Stash_Day5_MysStash.21080} 还有吗？
+{ArchiveDialogs.Test.Stash_Day5_MysStash.13535} 如果你走到岬角最边上的凉亭——那就是走过头了，往回。
+{ArchiveDialogs.Test.Stash_Day5_MysStash.26855} 我去看看。

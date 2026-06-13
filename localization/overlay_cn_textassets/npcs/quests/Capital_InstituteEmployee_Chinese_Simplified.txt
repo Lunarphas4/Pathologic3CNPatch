@@ -1,0 +1,3 @@
+{Npcs.Quests.Capital_InstituteEmployee.Name} 同僚
+{Npcs.Quests.Capital_InstituteEmployee.FullName} ⁠
+{Npcs.Quests.Capital_InstituteEmployee.Description} ⁠

@@ -1,0 +1,2 @@
+{PersonalFiles.Aristarh.Name} 阿里斯塔尔赫
+{PersonalFiles.Aristarh.Description} 学生，被发现睡在感染区。

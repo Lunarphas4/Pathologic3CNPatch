@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q18_RatWatson.Day12_Q18_MM_GoodOne.Name} 做得好，老兄
+{Minds2.Days.Day12.Day12_Q18_RatWatson.Day12_Q18_MM_GoodOne.Description} 先知向我保证，他不会对高塔造成损害。他无法直白地撒谎。既然他对我可能有用，我便答应了。

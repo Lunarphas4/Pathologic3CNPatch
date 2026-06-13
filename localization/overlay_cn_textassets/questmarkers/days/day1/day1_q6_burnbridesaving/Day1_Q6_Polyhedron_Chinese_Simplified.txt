@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Polyhedron.Name} 多面体
+{QuestMarkers.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Polyhedron.Description} 我在这里得知了自己希望的崩塌

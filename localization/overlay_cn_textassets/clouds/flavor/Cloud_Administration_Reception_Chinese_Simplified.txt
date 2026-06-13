@@ -1,0 +1,5 @@
+{Clouds.Flavor.Cloud_Administration_Reception.17796} 秒针是一枚齿轮。
+{Clouds.Flavor.Cloud_Administration_Reception.11185} 秒针是一枚齿轮。
+{Clouds.Flavor.Cloud_Administration_Reception.12104} 分针是一道弧。
+{Clouds.Flavor.Cloud_Administration_Reception.11103} 时针是一个半圆。
+{Clouds.Flavor.Cloud_Administration_Reception.13837} 还是说，这根本不是钟？

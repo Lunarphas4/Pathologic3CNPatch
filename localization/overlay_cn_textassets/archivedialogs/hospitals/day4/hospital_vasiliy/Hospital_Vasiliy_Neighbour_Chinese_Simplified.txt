@@ -1,0 +1,14 @@
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Neighbour.12364} 你在这里干什么？没看见我正在打扫吗？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Neighbour.14678} 打扰一下，谁在这里闹得这么厉害？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Neighbour.5378} 你最好去问我邻居瓦西里。那个醉鬼把我们唯一的浴室砸了！这栋楼所有公寓就这么一个浴室。正常人会在这里给孩子洗澡，自己一周洗两次，还把地方收拾干净，可瓦西里不会！话说你为什么在这里？上帝保佑，可别是那混账的朋友！
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Neighbour.19221} 瓦西里住哪间公寓？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Neighbour.17719} 我为什么要告诉你？你到底是谁，又为什么来这里？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Neighbour.4591} 我是医生。瓦西里是我的病人。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Neighbour.28242} 把他带走吧，医生，早该把他隔离了！他就该进医院，离正常人远点。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Neighbour.21688} 多说说瓦西里：他是什么样的人？行为上有没有什么异常？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Neighbour.23952} 一个词——酒鬼。以前他还出门工作，现在整天坐在房里喝酒，自言自语，嘀嘀咕咕。要是他只待在自己房里也还能忍——关我们什么事？可不，他偏要跑出来，吐得我们浴室到处都是，那个无赖！我们只好叫他那些蚁巢守卫同事来处理他。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Neighbour.12204} 是那些守卫把这里弄成这样的？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Neighbour.7792} 别这么说！是瓦西里自己想反抗。别的守卫跟他不同，全都是骑士风度和体面。那当然——他们肩上担着这么大的责任！他们不只是看守蚁巢——也是替我们防着住在里面的那些草原渣滓。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Neighbour.6926} 你确定瓦西里是在自言自语，不是在和别人说话？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Neighbour.6030} 他没什么人可说话——没妻子，没孩子，也没人来看他。也许他看见什么幻觉了？不过，天知道里面有什么。医生，要不你检查一下他的房间？以防万一。我把钥匙给你。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Neighbour.16532} 当然，为什么不呢？谢谢你的钥匙。

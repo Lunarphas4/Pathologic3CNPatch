@@ -1,0 +1,3 @@
+{Days.Day10.Name} 第十天
+{Days.Day10.Description} 今日医院关闭
+{Days.Day10.Name_StartDay} 第十天，

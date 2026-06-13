@@ -1,0 +1,15 @@
+﻿{UI.CharacterWindow.Tooltips.BurakhTooltips.Death} 第7天，以开膛手之名被绞死
+{UI.CharacterWindow.Tooltips.BurakhTooltips.Intro} 伊西多尔·布拉赫的继承人
+{UI.CharacterWindow.Tooltips.BurakhTooltips.Arrival} 第1天，抵达镇上，被指控杀害父亲，但洗清了名声
+{UI.CharacterWindow.Tooltips.BurakhTooltips.Funeral} 第2天，安葬父亲，接受遗产，并寻找凶手
+{UI.CharacterWindow.Tooltips.BurakhTooltips.Bargain} 第3天，我们同意一起对抗沙疫
+{UI.CharacterWindow.Tooltips.BurakhTooltips.Refusal} 第3天，提议一起对抗沙疫，但我们没有达成一致
+{UI.CharacterWindow.Tooltips.BurakhTooltips.Hospital} 第4天，加入医院工作
+{UI.CharacterWindow.Tooltips.BurakhTooltips.Survival} 第7天，审判官审判了他，并判定他无罪
+{UI.CharacterWindow.Tooltips.BurakhTooltips.PlotBlood} 第9天，我把多面体地下的血样交给了他
+{UI.CharacterWindow.Tooltips.BurakhTooltips.Panacea} 第9天，发明了治疗瘟疫的药
+{UI.CharacterWindow.Tooltips.BurakhTooltips.Abattoir} 第10天，深入屠宰场下方的地牢，得知地下有血之河
+{UI.CharacterWindow.Tooltips.BurakhTooltips.Proofs} 第11天，向阿格拉娅证明了多面体的危险
+{UI.CharacterWindow.Tooltips.BurakhTooltips.DeadButUseful} 第11天，既没有帮我，也没有帮阿格拉娅，但我记得他未曾说出口的血河之言
+{UI.CharacterWindow.Tooltips.BurakhTooltips.HeadOfKin} 第12天，成为部族的领袖
+{UI.CharacterWindow.Tooltips.BurakhTooltips.Failure} 第12天，因为已经死去，无法从父亲的名单中拯救那些孩子

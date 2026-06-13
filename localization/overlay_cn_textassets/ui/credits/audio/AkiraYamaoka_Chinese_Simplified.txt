@@ -1,0 +1,2 @@
+{UI.Credits.Audio.AkiraYamaoka.Name} Akira Yamaoka
+{UI.Credits.Audio.AkiraYamaoka.Description} 客座作曲，曲目“现实之影”

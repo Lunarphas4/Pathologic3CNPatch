@@ -1,0 +1,2 @@
+{Minds2.Days.Day4.Day4_Q3_OdongRevenge.Day4_Q3_MM_AngryOdongs.Name} odonghe（金族牧人）之复仇
+{Minds2.Days.Day4.Day4_Q3_OdongRevenge.Day4_Q3_MM_AngryOdongs.Description} 金族人因某事对鲁宾发了怒。

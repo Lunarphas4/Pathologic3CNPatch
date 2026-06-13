@@ -1,0 +1,5 @@
+{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_BigPillar.44925} 柱子大概是世界树的象征？
+{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_BigPillar.10340} 柱子大概是世界树的象征？
+{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_BigPillar.56689} 那么这根杆子也是通往天空的梯子
+{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_BigPillar.42736} 不过草原上哪来的世界树？
+{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_BigPillar.61752} 世界乌鸦莓吧

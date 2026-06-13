@@ -1,0 +1,13 @@
+{Dialogs2.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_Citizens_Far.63786} 她差点踩到我的脚，你能想象吗？再偏一寸，我就没有脚了——只有一张肉饼。
+{Dialogs2.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_Citizens_Far.64041} 你说的是那座纪念像？
+{Dialogs2.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_Citizens_Far.41633} 现在我倒觉得，要是她真这么做反而更好。要是她杀了我就好了！如果妮娜回来了，对我们就没有好事。
+{Dialogs2.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_Citizens_Far.14315} 为什么？
+{Dialogs2.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_Citizens_Far.53532} 妮娜是个无情的女主人——人人都知道。她活着时，带走了我邻居还在吃奶的孩子。她只是走过来，说：“给我。”你又怎么拒绝她？
+{Dialogs2.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_Citizens_Far.60660} 那她把孩子怎么了？
+{Dialogs2.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_Citizens_Far.61943} 没人知道。扔进戈尔孔河，养在富贵里，交给蠕虫……人们早就忘了。记忆是个蠢货。它擦掉坏事，却拿好事往你脸上揍。人就是这么记的——歪歪扭扭，全不成样子。
+{Dialogs2.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_Citizens_Far.14128} 我听说，人们一想到妮娜可能回来还挺高兴。现在却是这样。
+{Dialogs2.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_Citizens_Far.31829} 记忆是个蠢货。它擦掉坏事，却拿好事往你脸上揍。人就是这么记的——歪歪扭扭，全不成样子。
+{Dialogs2.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_Citizens_Far.52421} 她去哪儿了？
+{Dialogs2.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_Citizens_Far.15971} 我不知道。那可是妮娜·凯纳——最好别看她往哪儿走，最好连她都别看！她在这片街区附近游荡，但离这里很远——不然我的膝盖现在还在发软……
+{Dialogs2.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_Citizens_Far.38781} 很远，是吗……我试着追上去。
+{Dialogs2.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_Citizens_Far.535} 有时候真觉得，这镇上的人连用手指指路都不会。

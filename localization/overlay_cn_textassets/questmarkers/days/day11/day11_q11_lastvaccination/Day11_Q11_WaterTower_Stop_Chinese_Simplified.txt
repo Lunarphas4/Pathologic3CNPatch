@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_WaterTower_Stop.Name} 水塔
+{QuestMarkers.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_WaterTower_Stop.Description} 动手前我得和执行者及可能的受害者各谈一次。

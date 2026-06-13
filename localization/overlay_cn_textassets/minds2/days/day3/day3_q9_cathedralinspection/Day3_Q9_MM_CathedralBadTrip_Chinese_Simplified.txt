@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_MM_CathedralBadTrip.Name} 神迹之庭
+{Minds2.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_MM_CathedralBadTrip.Description} 我在大教堂里经历了某种我无法以理性解释之事。如今那位看守人的胡话听来不再那么疯癫。我得再去问他。

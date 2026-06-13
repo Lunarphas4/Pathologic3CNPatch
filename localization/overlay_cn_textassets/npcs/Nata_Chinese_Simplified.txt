@@ -1,0 +1,3 @@
+{Npcs.Nata.Name} 娜塔
+{Npcs.Nata.FullName} ⁠
+{Npcs.Nata.Description} ⁠

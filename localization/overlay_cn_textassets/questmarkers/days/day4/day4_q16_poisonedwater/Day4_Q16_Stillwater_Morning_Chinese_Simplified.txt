@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_Stillwater_Morning.Name} 静水宅
+{QuestMarkers.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_Stillwater_Morning.Description} 我作为抗疫指挥部首脑的第一个清晨！人们都盼着我的关注。

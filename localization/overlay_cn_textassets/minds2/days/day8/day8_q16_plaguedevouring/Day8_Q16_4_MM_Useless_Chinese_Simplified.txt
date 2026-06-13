@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_4_MM_Useless.Name} 未解之谜
+{Minds2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_4_MM_Useless.Description} 我们对瘟疫的认识仍不够。需要更多研究、更准确的诊断……这位病人最终没派上用场。

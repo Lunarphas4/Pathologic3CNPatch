@@ -1,0 +1,7 @@
+﻿{ArchiveDialogs.Hospitals.Hospital_Aristarh_Interview.20820} ？
+{ArchiveDialogs.Hospitals.Hospital_Aristarh_Interview.17653} 哪里不舒服？
+{ArchiveDialogs.Hospitals.Hospital_Aristarh_Interview.31618} 我咳血。
+{ArchiveDialogs.Hospitals.Hospital_Aristarh_Interview.25520} 胸口疼。
+{ArchiveDialogs.Hospitals.Hospital_Aristarh_Interview.12590} 问来问去烦不烦？
+{ArchiveDialogs.Hospitals.Hospital_Aristarh_Interview.11443} 你的住址
+{ArchiveDialogs.Hospitals.Hospital_Aristarh_Interview.12378} 好让你再去我家里翻一遍？想都别想。

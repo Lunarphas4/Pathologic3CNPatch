@@ -1,0 +1,16 @@
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Officer_BlockKilled.28784} 你是护理员？为什么只派了一个？我要求至少两个。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Officer_BlockKilled.28052} 拉拉，你该死。你答应过……
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Officer_BlockKilled.24894} 你在说什么？
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Officer_BlockKilled.20396} 奇怪，一切都和上一次一模一样。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Officer_BlockKilled.21101} 什么“上一次”？你在说什么？
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Officer_BlockKilled.19223} 算了。我只是有似曾相识的感觉。像是我见过这一幕，分毫不差。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Officer_BlockKilled.22106} 我也会这样。都是缺觉闹的。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Officer_BlockKilled.14957} 凶手现在在地下室的牢房里，对吗？
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Officer_BlockKilled.32463} 算了。凶手现在在地下室的牢房里，对吗？
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Officer_BlockKilled.12404} 没错。等等，站住，你又是谁，嗯？跑到这里来，到处嗅探。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Officer_BlockKilled.23660} 我是丹尼尔·丹科夫斯基。医院和紧急指挥部现在由我负责。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Officer_BlockKilled.21029} 哦，是您啊。抱歉，没认出来。老话说，认不出的人会有钱。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Officer_BlockKilled.21231} “到处嗅探。”你就是这么说话的。你可是军官！将军一死，你身上那层文明的漆皮就全被吹掉了吗？
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Officer_BlockKilled.26700} 哦，是您……学者丹科夫斯基？将军提起过您。抱歉，没认出来。老话说，认不出的人会有钱。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Officer_BlockKilled.25572} 但愿如此。眼下这座镇上的主要财富，就是子弹和药。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Officer_BlockKilled.32177} 有钱？谈不上。我在这镇上待了九天，连一枚硬币都没见过。

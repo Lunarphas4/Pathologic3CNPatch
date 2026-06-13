@@ -1,0 +1,3 @@
+{Npcs.Old.visitor_Dubrovnik.Name} ⁠
+{Npcs.Old.visitor_Dubrovnik.FullName} ⁠
+{Npcs.Old.visitor_Dubrovnik.Description} ⁠

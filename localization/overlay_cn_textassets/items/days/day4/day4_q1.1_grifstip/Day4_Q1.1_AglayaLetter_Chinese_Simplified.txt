@@ -1,0 +1,3 @@
+{Items.Days.Day4.Day4_Q1.1_GrifsTip.Day4_Q1.1_AglayaLetter.Name} 烧焦的纸页
+{Items.Days.Day4.Day4_Q1.1_GrifsTip.Day4_Q1.1_AglayaLetter.Description} 闻起来有烟味，还会把手蹭黑。
+{Items.Days.Day4.Day4_Q1.1_GrifsTip.Day4_Q1.1_AglayaLetter.Description2} 原本是一大摞书信，如今已被烧毁。只剩几行字，还有铁心的徽记。

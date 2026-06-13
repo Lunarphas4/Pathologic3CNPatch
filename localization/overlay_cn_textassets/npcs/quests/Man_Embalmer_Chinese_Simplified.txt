@@ -1,0 +1,3 @@
+{Npcs.Quests.Man_Embalmer.Name} 尸防师
+{Npcs.Quests.Man_Embalmer.FullName} ⁠
+{Npcs.Quests.Man_Embalmer.Description} ⁠

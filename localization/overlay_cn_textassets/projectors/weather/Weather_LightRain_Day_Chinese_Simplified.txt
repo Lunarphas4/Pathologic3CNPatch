@@ -1,0 +1,5 @@
+{Projectors.Weather.Weather_LightRain_Day.16821} ⁠
+{Projectors.Weather.Weather_LightRain_Day.27178} 空气里有青草的气味
+{Projectors.Weather.Weather_LightRain_Day.17896} 湿草的气味
+{Projectors.Weather.Weather_LightRain_Day.12125} 愉悦的忧郁
+{Projectors.Weather.Weather_LightRain_Day.28174} 细雨

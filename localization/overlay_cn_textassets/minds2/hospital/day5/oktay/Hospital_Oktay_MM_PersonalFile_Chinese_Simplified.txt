@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day5.Oktay.Hospital_Oktay_MM_PersonalFile.Name} 金族病人
+{Minds2.Hospital.Day5.Oktay.Hospital_Oktay_MM_PersonalFile.Description} 一个名叫奥克泰的草原青年。不认为自己病了，深信草原传说。

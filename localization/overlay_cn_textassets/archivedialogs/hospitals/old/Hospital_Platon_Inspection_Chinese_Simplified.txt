@@ -1,0 +1,4 @@
+{ArchiveDialogs.Hospitals.Old.Hospital_Platon_Inspection.16424} 你又像鲨鱼一样在我身边晃什么？这次又想干什么？
+{ArchiveDialogs.Hospitals.Old.Hospital_Platon_Inspection.15178} 我的医院。我想晃就晃。
+{ArchiveDialogs.Hospitals.Old.Hospital_Platon_Inspection.22731} 再给你检查一次——说不定我漏了什么。过程中不用跟我说话。
+{ArchiveDialogs.Hospitals.Old.Hospital_Platon_Inspection.9181} 我得从你身上取些样本。叶绿素，或者你到底是什么东西做成的。

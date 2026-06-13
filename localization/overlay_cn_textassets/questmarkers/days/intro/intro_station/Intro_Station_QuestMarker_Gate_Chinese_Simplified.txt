@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Intro.Intro_Station.Intro_Station_QuestMarker_Gate.Name} 喉口区
+{QuestMarkers.Days.Intro.Intro_Station.Intro_Station_QuestMarker_Gate.Description} 镇门。按说我的显微镜被带到了这里。

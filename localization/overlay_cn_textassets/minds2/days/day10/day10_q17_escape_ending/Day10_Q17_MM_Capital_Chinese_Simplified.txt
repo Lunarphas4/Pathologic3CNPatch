@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_MM_Capital.Name} 首都
+{Minds2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_MM_Capital.Description} 我就是这样落到这步田地。我就是这样活下来的。我活下来，是因为再无救镇之机——只剩下救死亡学院的一线机会。\n\n我无须为此羞愧。

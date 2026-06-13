@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_MM_Performance.Name} 大教堂中的演出
+{Minds2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_MM_Performance.Description} 审判官卡明斯基本可以反驳莉莉奇，让天平倒向保留高塔的一方，但他在前一天被多面体的建筑师杀害了。

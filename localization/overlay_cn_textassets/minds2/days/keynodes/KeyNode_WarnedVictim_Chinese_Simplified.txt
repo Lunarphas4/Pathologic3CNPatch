@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_WarnedVictim.Name} 报告
+{Minds2.Days.KeyNodes.KeyNode_WarnedVictim.Description} 卡明斯基已收到警告。

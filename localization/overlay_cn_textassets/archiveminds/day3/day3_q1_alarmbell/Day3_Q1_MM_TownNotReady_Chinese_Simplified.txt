@@ -1,0 +1,2 @@
+{ArchiveMinds.Day3.Day3_Q1_AlarmBell.Day3_Q1_MM_TownNotReady.Name} ⁠
+{ArchiveMinds.Day3.Day3_Q1_AlarmBell.Day3_Q1_MM_TownNotReady.Description} 总督认为这座镇子还没有为面对疫情做好充分准备。

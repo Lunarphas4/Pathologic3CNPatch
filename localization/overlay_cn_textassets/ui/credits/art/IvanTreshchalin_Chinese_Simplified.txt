@@ -1,0 +1,2 @@
+{UI.Credits.Art.IvanTreshchalin.Name} Ivan Treshchalin
+{UI.Credits.Art.IvanTreshchalin.Description} Prop 3D 美术

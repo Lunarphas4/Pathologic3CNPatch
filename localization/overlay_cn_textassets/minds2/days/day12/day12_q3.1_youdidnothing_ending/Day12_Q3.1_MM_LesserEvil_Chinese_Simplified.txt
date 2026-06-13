@@ -1,0 +1,2 @@
+{Minds2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_MM_LesserEvil.Name} 较小的恶
+{Minds2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_MM_LesserEvil.Description} 选择救谁、牺牲什么，就是在最坏的恶之间选择。我宁可完全不选

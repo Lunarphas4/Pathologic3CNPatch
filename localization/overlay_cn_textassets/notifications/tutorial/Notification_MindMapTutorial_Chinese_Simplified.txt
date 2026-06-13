@@ -1,0 +1,4 @@
+{Notifications.Tutorial.Notification_MindMapTutorial.Name} 想法图
+{Notifications.Tutorial.Notification_MindMapTutorial.Description} 每天都会发生重要的事。选择一天，回忆当天发生的事情。
+{NOTIFICATIONS.TUTORIAL.NOTIFICATION_MINDMAPTUTORIAL.NAME} 想法图
+{NOTIFICATIONS.TUTORIAL.NOTIFICATION_MINDMAPTUTORIAL.DESCRIPTION} 每天都会发生重要的事。选择一天，回忆当天发生的事情。

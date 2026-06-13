@@ -1,0 +1,9 @@
+{ArchiveDialogs.NewArchive.Day3_Q2_Mailman_GoToAdministration.9704} 嘿，我认识你！你就是那个从首都来的医生！
+{ArchiveDialogs.NewArchive.Day3_Q2_Mailman_GoToAdministration.27922} 你一定是认错人了。
+{ArchiveDialogs.NewArchive.Day3_Q2_Mailman_GoToAdministration.12018} 外乡人我一眼就能认出来。就是你！骗不过我这把老骨头。市政厅从早上起就在找你。
+{ArchiveDialogs.NewArchive.Day3_Q2_Mailman_GoToAdministration.20450} 假设我是。有什么事？
+{ArchiveDialogs.NewArchive.Day3_Q2_Mailman_GoToAdministration.3813} 嗯，市政厅从早上起就在找你。
+{ArchiveDialogs.NewArchive.Day3_Q2_Mailman_GoToAdministration.16520} 看来要找到我也没那么难。
+{ArchiveDialogs.NewArchive.Day3_Q2_Mailman_GoToAdministration.27600} 这个我就不知道了。他们只是说，在那里等你。
+{ArchiveDialogs.NewArchive.Day3_Q2_Mailman_GoToAdministration.4317} 好。既然他们等我，我就过去看看是什么事。
+{ArchiveDialogs.NewArchive.Day3_Q2_Mailman_GoToAdministration.6626} 我知道，我知道……可以说，我已经被告知过了。

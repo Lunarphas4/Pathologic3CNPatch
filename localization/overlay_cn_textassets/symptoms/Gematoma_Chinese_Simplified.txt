@@ -1,0 +1,2 @@
+{Symptoms.Gematoma.Name} 血肿
+{Symptoms.Gematoma.Description} 血管受损导致的皮下出血，外观为边界模糊的青紫色斑块。

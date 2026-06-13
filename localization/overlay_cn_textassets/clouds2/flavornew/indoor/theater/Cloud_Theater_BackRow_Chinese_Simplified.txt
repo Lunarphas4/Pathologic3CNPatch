@@ -1,0 +1,3 @@
+{Clouds2.FlavorNew.Indoor.Theater.Cloud_Theater_BackRow.44925} 剧院是生活的镜子
+{Clouds2.FlavorNew.Indoor.Theater.Cloud_Theater_BackRow.56689} 剧院是生活的镜子
+{Clouds2.FlavorNew.Indoor.Theater.Cloud_Theater_BackRow.61752} 有时不得不把它打碎

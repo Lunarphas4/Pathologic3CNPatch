@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_3_MM_Concentration.Name} Ekagrata（一心）
+{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_3_MM_Concentration.Description} 这一选择不可更改。

@@ -1,0 +1,16 @@
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Murderers.15482} 你回来了，emshen（医者）！回来和我们一同庆祝！愿大地托起你的脚！Terenei shuhan gazar delkheye khaluulan bayg le（愿他的血温热大地）！
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Murderers.13934} 你们庆典杯里的血不是牛血。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Murderers.12123} 这是小公牛的血，emshen（医者）。净化之血。Hayn shuhan。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Murderers.26339} 别糊弄我。这是人血。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Murderers.23246} 小公牛自己来到窝棚，emshen（医者），他把自己小小的身体带给我们，他 bidenkhee khülisael ghuiba（把自己托付给我们）。我们能拒绝吗？这是正确的事。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Murderers.61672} 这是正确的事。小公牛造成了许多伤害。杀了许多 Khatanghe（金族）。他以血偿血。用他高贵的血，偿还我们微贱的血。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Murderers.48178} 他成为了 Khatanghe（金族）的一部分，emshen（医者）。他想要这样。他成了。成为我们每一个人的一部分。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Murderers.36039} 小弗拉德。他心怀罪疚，所以把自己交了出来。你们杀了他，还吃了他。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Murderers.36466} 你们相信杀死弗拉德会有任何帮助吗？
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Murderers.60732} 现在怎么了，teghel？你不相信大地的声音？我们浇灌了大地，填饱了她的饥饿，解了她的口渴。让大地现在开口吧，gazar khün（人） bükheniie shüüberilkhe。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Murderers.41572} 大地说：都给我滚开，这场唱跳到此为止。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Murderers.8455} 你们让我恶心。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Murderers.38717} 有罪之处，必有惩罚随之而来。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Murderers.44150} 你们终究还是野人。老奥尔吉姆斯基是对的。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Murderers.54762} 你们说的“小公牛”到底是谁？
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Murderers.48435} 你们从什么时候开始拿人献祭了？

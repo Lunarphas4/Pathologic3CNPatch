@@ -1,0 +1,3 @@
+{Npcs.patient_Aristarh_GeraBrother2.Name} 看守
+{Npcs.patient_Aristarh_GeraBrother2.FullName} ⁠
+{Npcs.patient_Aristarh_GeraBrother2.Description} ⁠

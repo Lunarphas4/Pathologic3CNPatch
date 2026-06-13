@@ -1,0 +1,5 @@
+{Clouds.Flavor.Cloud_RegionKhebtovka_StairsWall.17796} 不会出现在试玩版里。
+{Clouds.Flavor.Cloud_RegionKhebtovka_StairsWall.7984} 真想知道有多少人从这里摔下去过。
+{Clouds.Flavor.Cloud_RegionKhebtovka_StairsWall.8602} 没有准备的人，很难爬到这么高。
+{Clouds.Flavor.Cloud_RegionKhebtovka_StairsWall.5705} 这是什么隐喻吗？
+{Clouds.Flavor.Cloud_RegionKhebtovka_StairsWall.21080} 我应该感到什么异常吗？

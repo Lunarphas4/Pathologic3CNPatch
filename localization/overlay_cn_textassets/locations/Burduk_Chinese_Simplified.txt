@@ -1,0 +1,2 @@
+﻿{Locations.Burduk.Name} 布尔杜克的廉价旅舍
+{Locations.Burduk.Description} 布尔杜克的廉价旅舍

@@ -1,0 +1,2 @@
+{Note.Day6_Q7_VladAndTheGardenCity.Day6_Q7_VladLetter2.Name} 小弗拉德的家书
+{Note.Day6_Q7_VladAndTheGardenCity.Day6_Q7_VladLetter2.Description} 亲爱的兄长！\n\n我不瞒你：父亲对你极其失望。他没有考虑到你最初这个想法里蕴含的仁慈，也没有理解你对我们臣民那种细腻的体察，毕竟他们自己也相信那条被追寻的公式。但首都医生的讥刺伤到了父亲：你不会不明白，不管他嘴上怎么说，他都期待你无条件胜过那个人。我求你：这两天先别回家露面，避一避！\n父亲会缓过来的。\n\n永远爱你的妹妹，卡佩拉。

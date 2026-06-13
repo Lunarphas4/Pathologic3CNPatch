@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Old.Day4_Theatre.Name} 剧院
+{QuestMarkers.Old.Day4_Theatre.Description} 不知他们今夜的节目单上有什么？

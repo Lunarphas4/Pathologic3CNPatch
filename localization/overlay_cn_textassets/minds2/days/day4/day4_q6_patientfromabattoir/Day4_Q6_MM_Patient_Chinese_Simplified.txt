@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_MM_Patient.Name} 生还者
+{Minds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_MM_Patient.Description} 布拉赫带来的病人是从屠宰场带来的，而非白蚁巢。这越发耐人寻味。可惜他太固执。

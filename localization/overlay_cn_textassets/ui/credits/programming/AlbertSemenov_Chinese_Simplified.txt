@@ -1,0 +1,2 @@
+{UI.Credits.Programming.AlbertSemenov.Name} Albert Semenov
+{UI.Credits.Programming.AlbertSemenov.Description} 首席程序员

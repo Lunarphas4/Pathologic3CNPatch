@@ -1,0 +1,4 @@
+{ArchiveDialogs.Hospitals.Old.Hospital_Vasiliy_Inspection.22900} 您还要让我等多久？
+{ArchiveDialogs.Hospitals.Old.Hospital_Vasiliy_Inspection.314} 要多久就多久。
+{ArchiveDialogs.Hospitals.Old.Hospital_Vasiliy_Inspection.24582} 我准备好做体格检查了。
+{ArchiveDialogs.Hospitals.Old.Hospital_Vasiliy_Inspection.7923} 别这么急，不然结果可能不是你想要的。我需要取你的样本。

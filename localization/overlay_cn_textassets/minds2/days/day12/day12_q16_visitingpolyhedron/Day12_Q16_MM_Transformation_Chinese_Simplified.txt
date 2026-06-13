@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_MM_Transformation.Name} 蜕变
+{Minds2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_MM_Transformation.Description} 督察先生，我向你陈述时并未糊涂——我经历过、并且仍在经历每一段人生。这一切的根由，是我与西蒙的那次相遇。

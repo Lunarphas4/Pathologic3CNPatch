@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.OldNew.Day7_Q10_MM_LaskaRefused.Name} 死路
+{ArchiveMinds.OldNew.Day7_Q10_MM_LaskaRefused.Description} 我没能完成格蕾丝的任务；她不愿帮忙。

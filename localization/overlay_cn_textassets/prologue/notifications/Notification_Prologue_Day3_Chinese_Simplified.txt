@@ -1,0 +1,2 @@
+{Prologue.Notifications.Notification_Prologue_Day3.Name} 第三天，
+{Prologue.Notifications.Notification_Prologue_Day3.Description} 钟声鸣响

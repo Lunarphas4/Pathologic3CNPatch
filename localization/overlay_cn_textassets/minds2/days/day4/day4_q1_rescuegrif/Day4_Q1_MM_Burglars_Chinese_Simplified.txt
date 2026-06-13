@@ -1,0 +1,2 @@
+{Minds2.Days.Day4.Day4_Q1_RescueGrif.Day4_Q1_MM_Burglars.Name} 贼无金汤之墙
+{Minds2.Days.Day4.Day4_Q1_RescueGrif.Day4_Q1_MM_Burglars.Description} 几个打手正闯进恶徒格里夫的老巢，门眼看就要被砸开。这帮人不像只是忘了带钥匙。

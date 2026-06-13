@@ -1,0 +1,2 @@
+{StaffCommands.VladTheYounger.VladDecreeDay5_1.Name} 宣讲会
+{StaffCommands.VladTheYounger.VladDecreeDay5_1.Description} 组织宣讲，告知人们瘟疫期间应如何行动。

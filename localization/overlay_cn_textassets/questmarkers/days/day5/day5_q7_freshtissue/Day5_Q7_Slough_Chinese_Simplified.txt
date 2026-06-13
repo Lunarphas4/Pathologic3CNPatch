@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Slough.Name} 静水宅
+{QuestMarkers.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Slough.Description} 我得趁这颗心脏尚温把它研究透。光靠显微镜不够。

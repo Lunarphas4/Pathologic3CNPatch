@@ -1,0 +1,2 @@
+{ArchiveMinds.Tags.NoBird.NoBird_Tags_Observation.Name} ⁠
+{ArchiveMinds.Tags.NoBird.NoBird_Tags_Observation.Description} ⁠

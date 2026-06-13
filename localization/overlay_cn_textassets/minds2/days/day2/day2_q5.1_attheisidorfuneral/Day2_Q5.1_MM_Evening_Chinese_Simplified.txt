@@ -1,0 +1,2 @@
+{Minds2.Days.Day2.Day2_Q5.1_AtTheIsidorFuneral.Day2_Q5.1_MM_Evening.Name} 傍晚
+{Minds2.Days.Day2.Day2_Q5.1_AtTheIsidorFuneral.Day2_Q5.1_MM_Evening.Description} 他们不会这么晚下葬。我本该更早来墓地

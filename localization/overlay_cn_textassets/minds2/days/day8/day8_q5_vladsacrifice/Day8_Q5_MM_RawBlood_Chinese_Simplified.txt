@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_RawBlood.Name} 血之庆典
+{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_RawBlood.Description} 我不喜欢草原人生饮公牛血。我得设法弄一份样本，看看是否染了疫。

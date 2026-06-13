@@ -1,0 +1,13 @@
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_SaburovAboutChangeling.30432} 您需要帮助吗？
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_SaburovAboutChangeling.3035} 明显地。
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_SaburovAboutChangeling.24663} 提醒我为什么你的女儿可以在我的医院工作？
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_SaburovAboutChangeling.2755} 因为她也知道如何治愈。也许你对她的方法感到困惑？
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_SaburovAboutChangeling.24266} 发生什么事了吗？
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_SaburovAboutChangeling.23071} 是的。她失控了。她决定自愿让病人出院。没有一个勤务兵证实他们已经康复。你可能不明白，但是每个病人都在一个特殊的地方接受观察，包括为了不传染给其他人。这些不是玩具。
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_SaburovAboutChangeling.32260} 也许你没有向她解释医院是如何运作的......
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_SaburovAboutChangeling.24364} 你说得对。很抱歉克拉拉在本已困难的时期给你带来了困难。
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_SaburovAboutChangeling.26595} 你只能说这些吗？我没有时间应付新手和孩子。
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_SaburovAboutChangeling.24207} 但你不否认她的礼物吗？
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_SaburovAboutChangeling.1584} 克拉拉可能会有所帮助。她有自己的羊群，人们会告诉你她如何知道如何提供帮助。女孩将留在医院。如果她不想离开你。
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_SaburovAboutChangeling.558} 既然如此，她就不需要父亲了。
+{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_SaburovAboutChangeling.4894} 在我看来，我已经认识这个城市的每个人了。没有人称赞你的克拉拉。还是应该去墓地？

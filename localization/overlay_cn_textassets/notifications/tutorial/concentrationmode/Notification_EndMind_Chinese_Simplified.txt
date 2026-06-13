@@ -1,0 +1,2 @@
+{Notifications.Tutorial.ConcentrationMode.Notification_EndMind.Name} ⁠
+{Notifications.Tutorial.ConcentrationMode.Notification_EndMind.Description} 学者对此物品的看法。游戏进程不断推进，还将发现许多这样的物品。

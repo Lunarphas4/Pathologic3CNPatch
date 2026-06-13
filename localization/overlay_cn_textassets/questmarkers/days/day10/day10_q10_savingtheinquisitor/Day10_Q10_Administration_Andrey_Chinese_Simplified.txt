@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Administration_Andrey.Name} 市政厅
+{QuestMarkers.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Administration_Andrey.Description} 眼下斯塔马京关在牢房里。

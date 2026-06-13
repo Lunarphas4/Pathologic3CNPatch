@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_CraftStationTutorial.Name} 新配方
+{Notifications.Tutorial.Notification_CraftStationTutorial.Description} 药房关门了，库存所剩无几。但凭我手头的装备，几乎任何所需我都能自制。

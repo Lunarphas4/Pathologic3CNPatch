@@ -1,0 +1,5 @@
+{Projectors.Weather.Weather_Rain_Day.29889} ⁠
+{Projectors.Weather.Weather_Rain_Day.3792} 晴天太少了
+{Projectors.Weather.Weather_Rain_Day.20143} 真想见见太阳
+{Projectors.Weather.Weather_Rain_Day.1895} 受够这雨了
+{Projectors.Weather.Weather_Rain_Day.17219} 真让人发闷

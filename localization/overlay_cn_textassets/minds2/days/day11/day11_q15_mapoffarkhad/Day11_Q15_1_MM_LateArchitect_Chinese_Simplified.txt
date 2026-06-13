@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_LateArchitect.Name} 往昔遗事
+{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_LateArchitect.Description} 奥尔金斯基死攥着家族那个工程不放。但他告诉我：那些地图是已故建筑师法尔哈德在草原村人协助下绘成的。

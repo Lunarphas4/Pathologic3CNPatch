@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q3_OdongRevenge.Day4_Q3_MM_TryAgain.Name} 再试一次
+{Minds2.Days.Day4.Day4_Q3_OdongRevenge.Day4_Q3_MM_TryAgain.Description} 鲁宾在地下窒息而死。如今我已知道他被埋在哪里。下一次，我能把他救出来。

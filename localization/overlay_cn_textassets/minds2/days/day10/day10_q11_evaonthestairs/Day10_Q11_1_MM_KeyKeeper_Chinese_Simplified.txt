@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_1_MM_KeyKeeper.Name} 持钥之人
+{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_1_MM_KeyKeeper.Description} 大教堂的看守人递给我一把古老的钥匙。也许现在我能把卡明斯基锁在门外？

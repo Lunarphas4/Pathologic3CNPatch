@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_WhatsTheBuzz.Name} 电波
+{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_WhatsTheBuzz.Description} 多面体发出极其诡异、不属人世的声响。还有……是错觉吗，还是它已经倾斜了？

@@ -1,0 +1,3 @@
+{Items.OLD.Q_Day6_Prob.Name} 第3天样本
+{Items.OLD.Q_Day6_Prob.Description} 现在是第6天。这份样本会把你带回那里。若要前往其他日期，请研究疾病，并收集细菌演化不同日期、不同阶段的样本。
+{Items.OLD.Q_Day6_Prob.Description2} 用于回到第3天的样本。

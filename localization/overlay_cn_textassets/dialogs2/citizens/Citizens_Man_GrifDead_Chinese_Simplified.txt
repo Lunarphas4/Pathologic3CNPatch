@@ -1,0 +1,10 @@
+{Dialogs2.Citizens.Citizens_Man_GrifDead.17199} 我听说这附近有人在发救济物资。你听到什么消息了吗？
+{Dialogs2.Citizens.Citizens_Man_GrifDead.23121} 你听岔了。据我所知，镇上没人发物资。
+{Dialogs2.Citizens.Citizens_Man_GrifDead.23336} 这下完了。格里夫是这鬼地方最后一个还算像样的人。
+{Dialogs2.Citizens.Citizens_Man_GrifDead.22757} 这和格里夫有什么关系？
+{Dialogs2.Citizens.Citizens_Man_GrifDead.16211} 他给我们这片的家庭送吃的，还给孩子们分面包。现在他不在了，我们准得挨饿。
+{Dialogs2.Citizens.Citizens_Man_GrifDead.23503} ……
+{Dialogs2.Citizens.Citizens_Man_GrifDead.15699} 我听过不少关于格里夫的事，但说他“像样”？这倒是头一回。
+{Dialogs2.Citizens.Citizens_Man_GrifDead.25705} 我没听错吧？你说的是格里高利·菲林？
+{Dialogs2.Citizens.Citizens_Man_GrifDead.14946} 可惜，我不知道。我也不确定现在到底还有没有人发这个。
+{Dialogs2.Citizens.Citizens_Man_GrifDead.11640} 小心点。这里在外头乱走并不安全。

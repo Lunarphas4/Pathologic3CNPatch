@@ -1,0 +1,5 @@
+{Projectors.Weather.Weather_Rain_Evening.4006} ⁠
+{Projectors.Weather.Weather_Rain_Evening.19898} 湿漉漉的
+{Projectors.Weather.Weather_Rain_Evening.7960} 晚上也会下雨吗？
+{Projectors.Weather.Weather_Rain_Evening.27025} 真让人发闷
+{Projectors.Weather.Weather_Rain_Evening.12288} 湿透到骨头里

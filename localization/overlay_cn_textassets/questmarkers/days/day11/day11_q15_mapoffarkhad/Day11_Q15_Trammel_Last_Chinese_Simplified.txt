@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_Trammel_Last.Name} 束网
+{QuestMarkers.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_Trammel_Last.Description} 该把她那些雇主缄口不言之事——告诉尤利娅了。

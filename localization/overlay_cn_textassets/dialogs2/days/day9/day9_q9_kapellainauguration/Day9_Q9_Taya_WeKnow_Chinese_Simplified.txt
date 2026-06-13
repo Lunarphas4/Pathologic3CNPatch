@@ -1,0 +1,54 @@
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.26650} Zhegtei khun（怪人），去问问他们今天有没有 oat talkh（燕麦面团）！我喜欢甜的，也喜欢面团没烤焦的时候……烤得全是硬壳，就 amtagüy（不好吃）。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.19567} 问谁？
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.29362} 他们！他们呀。他们今天过节，shukhala üder。过节的时候，他们总会分糖果——这是 khun（人） bükhen medene！
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.38081} 我不确定这能不能算作庆典。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.35103} 他们也请你来参加仪式了？这么小一个东西？
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.3953} 你在这里做什么，小姑娘？不觉得无聊吗？
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.8673} 你知道我是谁吗？我要成为公牛们的女主人。所有公牛的，大小公牛全都算！而你——你也是主人。鸟的主人，咳嗽的主人。你喜欢看没穿衣服的人！
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.20445} 你说鸟，我猜是指勤务员？他们不是真鸟——只是穿着戏服的人。那身衣服倒是相当能防瘟疫。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.9914} 你说话真好笑，zhegtei khun（怪人）。像小鸟在叫。你还会从一根树枝跳到另一根树枝。跳呀，蹦呀。跳呀，蹦呀。我一下就看出来了：你是大鸟。我们那里说，鸟都喜欢亮晶晶的东西，zhegtei khun（怪人）。我身上没有亮晶晶。没有东西能送给你……
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.20366} 那我只好收不到礼物了。可惜。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.32698} 我小时候，母亲常叫我小喜鹊。因为我很好奇。不过那已经是很久以前的事了。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.10995} 你说你是公牛的女主人？所以部族也由一个孩子统治？好吧……这有什么可让我惊讶的。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.45188} 你喜欢卡佩拉的庆典吗？我们自己过节的时候，会宰一头公牛，跳舞，玩到月亮升起，再喝公牛的血。我最喜欢跳舞了！
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.40573} 我不建议喝血。你可能会染病。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.50239} 你喜欢卡佩拉的庆典吗？我们昨天也过节了，üsegelder！我们宰了小公牛，喝了他的血！整整跳了一天，直到月亮升起来。我跳得腿现在还疼。我喜欢庆典！
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.49217} 草原人杀了小弗拉德。还把它叫作庆典，甚至请孩子去……
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.28790} 如果公牛是自己来的，那就不是谋杀，zhegtei khun（怪人）。如果公牛是自己来的，那就是庆典。部族配得上庆典！老守护者九天前死了，昨天你们的人，zhegtei khun（怪人），又绞死了新的守护者。现在我是孤儿了。至少让我们过个节吧……
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.9043} 你是在说布拉赫家的人？你们叫他们“守护者”？
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.48236} 我们这样叫他们——而你们杀了他们。鸟对公牛。跳呀，蹦呀。啾啾。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.47582} 我没有杀布拉赫。他被绞死，和我无关。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.10009} 没错，zhegtei khun（怪人）。和你无关。你本可以沿着树枝跳过去，可你没有。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.24484} 等等。你说沿着树枝跳过去，是什么意思？
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.38600} 你真是只鸟！什么都得有人用小鸟嘴叼到你面前，zhegtei khun（怪人）！跳呀，蹦呀。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.14474} 我已经不知道这个比喻到底是什么意思了。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.28317} 也许你说得对。也许我本可以救下布拉赫。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.42335} 我不是他的守卫，也不是他的牧人。我为什么要插手他的事？
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.41855} 正是这样，zhegtei khun（怪人），正是这样！你不是牧人，你是鸟！跳呀，蹦呀。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.65194} 不管怎样，布拉赫死了，我很遗憾。真的。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.47860} 没有鸟，也没有公牛。只有人。而所有人都一样。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.51282} 你很有趣，zhegtei khun（怪人）。谁手里拿着鞭子，谁就是牧人；人是不是一样值钱，由他们决定。Shubuudai garta tashuur。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.54969} 嗯。谢谢你陪我说话，小姑娘。我该走了。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.5701} 公牛天生该有牧人，鸟不是。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.8277} 那鸟天生该有什么，tanay uunen？套索和陷阱吗？
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.14217} 我不知道。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.48187} 嗯……我已经进过笼子了。我不喜欢。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.28094} 你真好笑。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.34906} 为什么是孤儿？布拉赫家是你的家人？
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.40743} 我们都是家人。我们所有人都是一个身体。Nege khubi zaya'an。只有你这样的鸟不懂家人是什么。因为你只会在树枝上跳来跳去。还杀公牛。还杀守护者！
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.41410} 如果公牛是自己来的，那就不是谋杀，zhegtei khun（怪人）。如果公牛是自己来的，那就是庆典。老守护者死在第九天。现在我和新的守护者——我们都是孤儿了。至少让我们过个节吧……
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.21528} 孤儿……那你是布拉赫的妹妹？我不知道。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.36241} 你真好笑！我们都是家人。我们所有人都是一个身体。Nege khubi zaya'an。再说了！等我长大，我要嫁给新的守护者！他最善良，也最快乐。在部族里，大家轮流哄我开心，所以我知道谁最好！
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.39885} 你会改变主意的。等你长大，他会善良、快乐……也会老。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.5018} 你三岁？四岁？说的全是胡话……可草原人竟然听你的。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.61635} 你很有趣。我明白为什么部族里每个人都想逗你开心了。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.6515} 你大概还不知道什么叫“瘟疫中的宴饮”……但有些时候，欢乐——寻欢作乐——并不合适。甚至有害。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.46313} 你真无聊！而且什么都不懂。人们一开心，灾祸就会走开！她从缝里看一眼，然后就走了。因为她也无聊。和你一样。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.38390} 也许你说得对。也许我这张无聊的脸会招来灾祸。老实说，这倒能解释很多事。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.22797} 要是事情真有这么简单就好了……
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.61673} 我小时候不喜欢节日，也不喜欢庆典。我只想把自己关起来读书，不想忍受那些喧闹和闲话。
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.9150} 部族配得上庆典。老守护者死在第九天，昨天你们的人，zhegtei khun（怪人），又绞死了新的守护者。现在我是孤儿了。至少让我们过个节吧……
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.33217} 部族配得上庆典。老守护者死在第九天。现在我和新的守护者——我们都是孤儿了。至少让我们过个节吧……
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.6244} 你为什么要告诉我这些，小姑娘？
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.22876} 我是医生，是的。你怎么知道？
+{Dialogs2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_Taya_WeKnow.14245} 我不喜欢看没穿衣服的人。那叫检查病人。而且我自己也已经厌烦了。

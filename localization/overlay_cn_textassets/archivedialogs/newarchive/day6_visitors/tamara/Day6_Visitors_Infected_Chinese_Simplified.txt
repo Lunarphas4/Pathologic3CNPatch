@@ -1,0 +1,12 @@
+{ArchiveDialogs.NewArchive.Day6_Visitors.Tamara.Day6_Visitors_Infected.29059} 别过来！我们病了！看着像沙疫，和五年前一样。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Tamara.Day6_Visitors_Infected.27115} 那门为什么大敞着？
+{ArchiveDialogs.NewArchive.Day6_Visitors.Tamara.Day6_Visitors_Infected.14014} 我们半小时前才打开。等死了，就没法开锁了。这样也许至少有人能像样地埋了我们，不至于让我们在这儿躺上几个星期。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Tamara.Day6_Visitors_Infected.1987} 别胡思乱想。你们只是需要去医院……
+{ArchiveDialogs.NewArchive.Day6_Visitors.Tamara.Day6_Visitors_Infected.8810} 您确定？
+{ArchiveDialogs.NewArchive.Day6_Visitors.Tamara.Day6_Visitors_Infected.22230} 我们又不是没见过沙疫。我们剩不下多少时候了……
+{ArchiveDialogs.NewArchive.Day6_Visitors.Tamara.Day6_Visitors_Infected.10216} 如果是这样，你们就更该去医院……
+{ArchiveDialogs.NewArchive.Day6_Visitors.Tamara.Day6_Visitors_Infected.31058} 不，我们还是宁愿在自己的床上咽气。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Tamara.Day6_Visitors_Infected.2413} ……或者等护理员来。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Tamara.Day6_Visitors_Infected.25507} 求您，让我们安安静静地死。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Tamara.Day6_Visitors_Infected.22651} 我不能。我是医生。救病人是我的职责。或者，至少努力去救。
+{ArchiveDialogs.NewArchive.Day6_Visitors.Tamara.Day6_Visitors_Infected.15825} 至少得把你们妥善隔离。

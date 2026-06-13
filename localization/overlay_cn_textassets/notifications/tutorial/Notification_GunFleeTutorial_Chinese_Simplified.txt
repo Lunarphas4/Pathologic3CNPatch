@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_GunFleeTutorial.Name} 战术撤退
+{Notifications.Tutorial.Notification_GunFleeTutorial.Description} 关键是不能让他们看出我已无子弹。我随时可以 <InputActions/Movement/Run> 逃跑，但只有用了兴奋剂才够快。

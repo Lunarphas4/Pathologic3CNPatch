@@ -1,0 +1,3 @@
+{Npcs.Quests.Inquisition_AglayaAssistant.Name} 伊拉伊达
+{Npcs.Quests.Inquisition_AglayaAssistant.FullName} ⁠
+{Npcs.Quests.Inquisition_AglayaAssistant.Description} ⁠

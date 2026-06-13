@@ -1,0 +1,3 @@
+{UI.MessengersWindow.Messengers.Messenger} 送信人
+{UI.MessengersWindow.Messengers.Died} 已死亡
+{UI.MessengersWindow.Messengers.Survived} 已幸存

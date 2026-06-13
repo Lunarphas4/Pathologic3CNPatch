@@ -1,0 +1,2 @@
+{Minds2.Days.Day4.Day4_Q1_RescueGrif.Day4_Q1_MM_NoDanger.Name} 患难之交
+{Minds2.Days.Day4.Day4_Q1_RescueGrif.Day4_Q1_MM_NoDanger.Description} 对恶徒格里夫的威胁已解除。现在我要的只是他口中的真相。

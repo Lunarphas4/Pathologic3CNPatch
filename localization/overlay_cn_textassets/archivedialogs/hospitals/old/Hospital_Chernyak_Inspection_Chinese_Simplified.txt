@@ -1,0 +1,4 @@
+{ArchiveDialogs.Hospitals.Old.Hospital_Chernyak_Inspection.11275} 有消息吗，医生？
+{ArchiveDialogs.Hospitals.Old.Hospital_Chernyak_Inspection.14112} 我稍后再回来找你。
+{ArchiveDialogs.Hospitals.Old.Hospital_Chernyak_Inspection.18349} 我们开始体格检查吧。
+{ArchiveDialogs.Hospitals.Old.Hospital_Chernyak_Inspection.12943} 我要取些样本——有几件事需要确认。

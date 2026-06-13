@@ -1,0 +1,2 @@
+{UI.Credits.RullerProductions.EgorTretiakov.Name} Egor Tretiakov
+{UI.Credits.RullerProductions.EgorTretiakov.Description} 创意制作人 & DOP

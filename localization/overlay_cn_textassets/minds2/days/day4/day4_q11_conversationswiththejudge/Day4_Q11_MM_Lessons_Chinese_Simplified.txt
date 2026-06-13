@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q11_ConversationsWithTheJudge.Day4_Q11_MM_Lessons.Name} 西蒙的课
+{Minds2.Days.Day4.Day4_Q11_ConversationsWithTheJudge.Day4_Q11_MM_Lessons.Description} 那场聆讯不像我此前见过的任何审判。格奥尔基约我两天后再去。

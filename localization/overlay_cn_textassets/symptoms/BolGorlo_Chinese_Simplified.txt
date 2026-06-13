@@ -1,0 +1,2 @@
+{Symptoms.BolGorlo.Name} 咽喉痛
+{Symptoms.BolGorlo.Description} 咽喉黏膜发炎，神经末梢会对任何刺激作出强烈反应。

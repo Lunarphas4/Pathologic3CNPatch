@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.OldNew.Day3_Q1_StopKains.Day3_Q1_MM_KilledAgain.Name} 失败
+{ArchiveMinds.OldNew.Day3_Q1_StopKains.Day3_Q1_MM_KilledAgain.Description} 有人抢在我之前找到了鲁宾。他已经死了。

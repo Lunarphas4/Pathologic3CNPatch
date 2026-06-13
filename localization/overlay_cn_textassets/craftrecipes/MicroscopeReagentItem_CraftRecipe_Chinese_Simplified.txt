@@ -1,0 +1,2 @@
+﻿{CraftRecipes.MicroscopeReagentItem_CraftRecipe.Name} 试剂
+{CraftRecipes.MicroscopeReagentItem_CraftRecipe.Description} 用于在显微镜下检验样本

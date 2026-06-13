@@ -1,0 +1,17 @@
+{Dialogs2.Decrees.MedicalRequisition.MedicalRequisition_Courier.23174} 您好，医生，我是市政厅派来的。关于向市民征收药物的法令。
+{Dialogs2.Decrees.MedicalRequisition.MedicalRequisition_Courier.22183} 恐怕你来晚了。我身上没有药品。已经被他们没收了。
+{Dialogs2.Decrees.MedicalRequisition.MedicalRequisition_Courier.10225} 这正是我被派来的原因。出了差错。我们得知有巡逻员没收了丹尼尔·丹科夫斯基的药。那名巡逻员已经受到训斥，并被判处罚，而您可以亲自选择惩罚方式。
+{Dialogs2.Decrees.MedicalRequisition.MedicalRequisition_Courier.25778} 什么？“选择”是什么意思？你们这里都是什么古怪习俗？
+{Dialogs2.Decrees.MedicalRequisition.MedicalRequisition_Courier.24312} 我们本想只罚他钱，但后来决定先来问问您。
+{Dialogs2.Decrees.MedicalRequisition.MedicalRequisition_Courier.24933} 能把他钉在木桩上吗？
+{Dialogs2.Decrees.MedicalRequisition.MedicalRequisition_Courier.43} 恐怕不能。那会超出我们的权限。
+{Dialogs2.Decrees.MedicalRequisition.MedicalRequisition_Courier.27259} 我是在开玩笑。不必惩罚他。那人只是做自己的工作。他不必认得我的脸。现在你们还来问我，荒唐……
+{Dialogs2.Decrees.MedicalRequisition.MedicalRequisition_Courier.30116} 我建议把炸药绑在他身上，然后引爆。这样别人以后就会三思，不敢再打扰体面的医生。活该。
+{Dialogs2.Decrees.MedicalRequisition.MedicalRequisition_Courier.26643} 切掉他一根手指。应该够了。
+{Dialogs2.Decrees.MedicalRequisition.MedicalRequisition_Courier.15559} 天哪，不必惩罚他。那人只是做自己的工作。他不必认得我的脸。
+{Dialogs2.Decrees.MedicalRequisition.MedicalRequisition_Courier.2892} 好。我们就这么办。感谢您的理解。这是您的药。
+{Dialogs2.Decrees.MedicalRequisition.MedicalRequisition_Courier.8751} 谢谢。再会。
+{Dialogs2.Decrees.MedicalRequisition.MedicalRequisition_Courier.4129} 你们就不能把我的药还回来吗？
+{Dialogs2.Decrees.MedicalRequisition.MedicalRequisition_Courier.31808} 当然。这正是我来的原因。
+{Dialogs2.Decrees.MedicalRequisition.MedicalRequisition_Courier.8518} 我警告你们：如果你们再试图从我身上没收任何东西，我会反抗。这太荒唐了。
+{Dialogs2.Decrees.MedicalRequisition.MedicalRequisition_Courier.15934} 不，当然不会。这正是我被派来的原因。我们得知有巡逻员没收了丹尼尔·丹科夫斯基的药。那名巡逻员已经受到训斥，并被判处罚，而您可以亲自选择惩罚方式。

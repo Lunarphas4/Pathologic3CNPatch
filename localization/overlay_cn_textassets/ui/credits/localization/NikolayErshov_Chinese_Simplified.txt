@@ -1,0 +1,2 @@
+{UI.Credits.Localization.NikolayErshov.Name} Nikolay Ershov
+{UI.Credits.Localization.NikolayErshov.Description} 译者

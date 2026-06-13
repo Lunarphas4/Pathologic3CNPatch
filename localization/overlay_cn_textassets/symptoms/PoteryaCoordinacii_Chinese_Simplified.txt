@@ -1,0 +1,2 @@
+{Symptoms.PoteryaCoordinacii.Name} 协调障碍
+{Symptoms.PoteryaCoordinacii.Description} 大脑向肌肉骨骼系统传递信号异常；严重时会跌倒受伤，甚至完全无法行走。

@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.OldNew.Day3_Q1_StopKains.Day3_Q1_MM_RubinInDanger.Name} 伏击
+{ArchiveMinds.OldNew.Day3_Q1_StopKains.Day3_Q1_MM_RubinInDanger.Description} 看来有人试图杀死鲁宾。但会是谁？又为了什么？

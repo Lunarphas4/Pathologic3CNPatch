@@ -1,0 +1,8 @@
+{Dialogs2.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_Courier_ForArchives.55764} 我奉命通知您，尊敬的审判官在大教堂等您。我一找到您，就必须带您过去。
+{Dialogs2.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_Courier_ForArchives.46169} 他想要什么？
+{Dialogs2.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_Courier_ForArchives.31333} 我不可能知道。我只是……信使。
+{Dialogs2.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_Courier_ForArchives.18002} 说明理由会更合乎礼节。我不是在责备你，好人。
+{Dialogs2.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_Courier_ForArchives.26345} 我是不是要被押送过去？
+{Dialogs2.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_Courier_ForArchives.20565} 不。但事情紧急，所以我奉命不能让你走开。
+{Dialogs2.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_Courier_ForArchives.50544} 当然。审判官那里从来没有“不紧急”的事。
+{Dialogs2.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_Courier_ForArchives.11981} 好吧。拒绝审判官代价很高。走吧。

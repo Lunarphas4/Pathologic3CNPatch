@@ -1,0 +1,2 @@
+{Minds2.Days.Day2.Day2_Q5.3_AfterIsidorFuneral.Day2_Q5.3_MM_Duty.Name} 对其子的义务
+{Minds2.Days.Day2.Day2_Q5.3_AfterIsidorFuneral.Day2_Q5.3_MM_Duty.Description} 义务要求我告诉年轻的布拉赫，我对他父亲之死所了解的事。傍晚葬礼后，我会在戈尔洪河岸找到他

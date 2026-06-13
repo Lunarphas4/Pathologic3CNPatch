@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_MM_MotherEarth.Name} 大地之子
+{Minds2.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_MM_MotherEarth.Description} 小钉追草原上来的东西已很久了。再过不久他就会全部捉到，再无余孽。

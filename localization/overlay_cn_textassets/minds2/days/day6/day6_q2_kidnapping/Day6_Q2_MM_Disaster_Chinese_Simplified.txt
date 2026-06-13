@@ -1,0 +1,2 @@
+{Minds2.Days.Day6.Day6_Q2_Kidnapping.Day6_Q2_MM_Disaster.Name} 孩子们的命运
+{Minds2.Days.Day6.Day6_Q2_Kidnapping.Day6_Q2_MM_Disaster.Description} 不堪设想那些孩子会遭遇什么。毕竟——肠卜师是能把一个活人开膛剖肚的。

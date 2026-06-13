@@ -1,0 +1,2 @@
+{StaffCommands.Day9.FuelCollection.Name} 收集柴薪
+{StaffCommands.Day9.FuelCollection.Description} 派守卫没收镇民多余的木制品，用作篝火燃料。

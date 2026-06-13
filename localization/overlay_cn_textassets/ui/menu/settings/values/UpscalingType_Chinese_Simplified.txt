@@ -1,0 +1,3 @@
+{UI.Menu.Settings.Values.UpscalingType.None} 无
+{UI.Menu.Settings.Values.UpscalingType.DLSS} DLSS
+{UI.Menu.Settings.Values.UpscalingType.FSR2} FSR 2

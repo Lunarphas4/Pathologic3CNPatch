@@ -1,0 +1,9 @@
+{Dialogs2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_Saburov_AfterSaving.62478} ……责任不会落到你头上。我来起草文件。照我说的复述一遍。
+{Dialogs2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_Saburov_AfterSaving.19537} 这还有什么不明白的？把窗帘扯下来，分给大家，把呼吸道裹起来……\n\n不过，萨布洛夫总督，这事听着有点吓人……那些窗帘毕竟是市产，是博斯·奥尔基姆斯基拨给市政厅的，他们要是丢了，肯定不会高兴。要不我们还是别动？
+{Dialogs2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_Saburov_AfterSaving.26189} 奥尔基姆斯基看重窗帘胜过看重人命，这事人尽皆知。我正相反。都给我裹起来。\n\n丹科夫斯基。
+{Dialogs2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_Saburov_AfterSaving.23933} 我把所有火都点起来了。出路已经清开了。
+{Dialogs2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_Saburov_AfterSaving.43607} 我只是想听你承认，我是对的。
+{Dialogs2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_Saburov_AfterSaving.38040} 你是想要一封嘉奖信吗？你发过誓不会再回市政厅。这里麻烦已经够多了，用不着再多你一个。\n\n……我们的命是你救的。这没错。但我们还没真正脱险，还没有。我领你的情，可接下来我们自己能应付。
+{Dialogs2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_Saburov_AfterSaving.8050} 要不要也给你几根火柴？省得你来破坏这场救命行动？
+{Dialogs2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_Saburov_AfterSaving.21651} 我什么都不需要。我走了。
+{Dialogs2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_Saburov_AfterSaving.63492} 看来现在还不是说客气话的时候。

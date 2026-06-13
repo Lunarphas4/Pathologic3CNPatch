@@ -1,0 +1,3 @@
+{Items.Metabolism.Tvirin.Name} twyrine（特维酒）
+{Items.Metabolism.Tvirin.Description} 本地草药熬成的黏稠浸剂。据称效果不可预测。部分属实：它会引发幻觉。
+{Items.Metabolism.Tvirin.Description2} 本地草药熬成的黏稠浸剂。据称效果不可预测。部分属实：它会引发幻觉。

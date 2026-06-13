@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day8.Petrel.Hospital_Petrel_MM_TimeForDiagnose.Name} 既错乱又诡谲的病例
+{Minds2.Hospital.Day8.Petrel.Hospital_Petrel_MM_TimeForDiagnose.Description} 或许病人神智不清；或许他真的迷失在了时间里。但有些症状无论如何已早些时候显现。

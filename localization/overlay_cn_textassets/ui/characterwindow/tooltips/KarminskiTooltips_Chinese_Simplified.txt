@@ -1,0 +1,8 @@
+﻿{UI.CharacterWindow.Tooltips.KarminskiTooltips.Death} 第11天，被一片镜子碎片杀死
+{UI.CharacterWindow.Tooltips.KarminskiTooltips.Intro} 政府审判官，专治不可能局面的专家
+{UI.CharacterWindow.Tooltips.KarminskiTooltips.Arrival} 第7天，抵达镇上，试图从瘟疫中拯救它
+{UI.CharacterWindow.Tooltips.KarminskiTooltips.Executions} 第7天，主持审判与大规模处决
+{UI.CharacterWindow.Tooltips.KarminskiTooltips.Mirrors} 第10天，对镜子着了迷
+{UI.CharacterWindow.Tooltips.KarminskiTooltips.Street} 第10天，走过那条受诅咒的街道
+{UI.CharacterWindow.Tooltips.KarminskiTooltips.Attempt} 第11天，在我的帮助下从斯塔马京的刺杀中活了下来
+{UI.CharacterWindow.Tooltips.KarminskiTooltips.Polyhedron} 第12天，使多面体免于毁灭

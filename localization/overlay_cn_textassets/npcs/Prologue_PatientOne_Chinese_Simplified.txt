@@ -1,0 +1,3 @@
+{Npcs.Prologue_PatientOne.Name} 鲁塔
+{Npcs.Prologue_PatientOne.FullName} ⁠
+{Npcs.Prologue_PatientOne.Description} ⁠

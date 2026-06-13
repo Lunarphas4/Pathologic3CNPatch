@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Skinners_Accurate.Name} 剥皮匠区
+{QuestMarkers.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Skinners_Accurate.Description} 工人们正在离白蚁巢不远处接收家具。现在我知道确切位置了！

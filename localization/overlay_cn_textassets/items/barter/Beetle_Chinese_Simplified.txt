@@ -1,0 +1,3 @@
+{Items.Barter.Beetle.Name} 甲虫
+{Items.Barter.Beetle.Description} 有些节肢动物能活很久，有些连一天都活不到。但在孩子眼里，它们只有一个共同点：亮晶晶。
+{Items.Barter.Beetle.Description2} 有些节肢动物能活很久，有些连一天都活不到。但在孩子眼里，它们只有一个共同点：亮晶晶。

@@ -1,0 +1,17 @@
+{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Gramophone.13091} 日安，学者先生！
+{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Gramophone.26708} 为什么它听起来像地狱深处罪人的临终喉音？
+{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Gramophone.22701} 什么临终喉音？什么罪人？这是给镇民欣赏的音乐。是您自己下的命令！
+{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Gramophone.3586} 你本可以选点别的。任何东西都会比……这个好听。
+{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Gramophone.8005} 你们做了什么……这和我设想的完全不同！
+{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Gramophone.54161} 打开冥府大门并非我的本意。好吧。那么，这些唱片你从哪找来的？
+{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Gramophone.23334} 我怎么知道？我自己也是第一次见。他们叫我站在这儿，我就站在这儿——给留声机上弦，看着东西……您也许不高兴，可镇民喜欢。还不错……挺顺耳的！
+{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Gramophone.37124} 这是什么噪音？！立刻关掉——我的头要裂了！
+{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Gramophone.10471} 请原谅，学者先生，但我不能。就算您杀了我，我也不能，我没有许可。而且这毕竟是您的法令！这么快就不满意了？
+{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Gramophone.27264} 如果首都爱乐厅听见这个……音乐应该振奋精神，不是把人逼疯。你们就没有什么……更好的吗？
+{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Gramophone.50022} 镇民喜欢。还不错……挺顺耳的！
+{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Gramophone.10452} 品味无可争辩，然而有时我还是忍不住。
+{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Gramophone.11586} 希望如此。否则……这看起来像蓄意破坏。
+{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Gramophone.9820} 那你呢？你真的……喜欢这个？
+{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Gramophone.24116} 当然！你没听见它怎么扭动吗？像爪子……就在这里，看见了吗？满是感情……
+{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Gramophone.55723} 嗯……不完全喜欢，但我为你高兴。
+{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Gramophone.52903} ……细想起来，它倒也有某种旋律。特雷门琴也不是人人都能接受。

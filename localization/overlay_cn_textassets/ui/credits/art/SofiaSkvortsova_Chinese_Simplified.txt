@@ -1,0 +1,2 @@
+{UI.Credits.Art.SofiaSkvortsova.Name} Sofia Skvortsova
+{UI.Credits.Art.SofiaSkvortsova.Description} 概念美术

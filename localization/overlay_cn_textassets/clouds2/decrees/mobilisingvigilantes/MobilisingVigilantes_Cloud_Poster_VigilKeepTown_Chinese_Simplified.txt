@@ -1,0 +1,5 @@
+{Clouds2.Decrees.MobilisingVigilantes.MobilisingVigilantes_Cloud_Poster_VigilKeepTown.31426} “巡夜队保护城镇免于混乱！”
+{Clouds2.Decrees.MobilisingVigilantes.MobilisingVigilantes_Cloud_Poster_VigilKeepTown.8164} “巡夜队保护城镇免于混乱！”
+{Clouds2.Decrees.MobilisingVigilantes.MobilisingVigilantes_Cloud_Poster_VigilKeepTown.30507} “保护。”“免于混乱。”得更简单些！
+{Clouds2.Decrees.MobilisingVigilantes.MobilisingVigilantes_Cloud_Poster_VigilKeepTown.28702} 对没受过教育的平民来说太复杂
+{Clouds2.Decrees.MobilisingVigilantes.MobilisingVigilantes_Cloud_Poster_VigilKeepTown.11891} 我们的目标是普通百姓，不是知识分子

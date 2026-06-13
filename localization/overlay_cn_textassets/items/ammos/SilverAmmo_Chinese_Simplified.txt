@@ -1,0 +1,3 @@
+{Items.Ammos.SilverAmmo.Name} 银弹
+{Items.Ammos.SilverAmmo.Description} 银弹。
+{Items.Ammos.SilverAmmo.Description2} 为特殊用途准备的银质弹药。

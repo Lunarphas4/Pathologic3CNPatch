@@ -1,0 +1,7 @@
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Thanatica.Prologue_Guard_Thanatica.744} 丹科夫斯基学士，您必须立即前往行政办公室。
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Thanatica.Prologue_Guard_Thanatica.19271} 我这是被捕了还是怎的？
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Thanatica.Prologue_Guard_Thanatica.5169} 不清楚。但我们接到命令要护送您去谈话。
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Thanatica.Prologue_Guard_Thanatica.10945} 那就让学院自治权安息吧……<b>直至此事永志不忘。</b>
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Thanatica.Prologue_Guard_Thanatica.1137} 看来我还是不够决断。你们这群人只听得懂威胁。
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Thanatica.Prologue_Guard_Thanatica.23042} 唉，如果能再有一次机会……
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Thanatica.Prologue_Guard_Thanatica.30484} 好吧……<b>无力为之处，亦当无欲求。</b>

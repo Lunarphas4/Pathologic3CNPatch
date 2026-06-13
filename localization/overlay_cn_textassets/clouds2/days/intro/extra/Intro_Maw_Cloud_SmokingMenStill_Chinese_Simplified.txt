@@ -1,0 +1,4 @@
+{Clouds2.Days.Intro.Extra.Intro_Maw_Cloud_SmokingMenStill.57075} 本地草药的气味压倒一切。
+{Clouds2.Days.Intro.Extra.Intro_Maw_Cloud_SmokingMenStill.27818} 本地草药的气味压倒一切。
+{Clouds2.Days.Intro.Extra.Intro_Maw_Cloud_SmokingMenStill.5374} 看来本地人靠吸烟解决问题。
+{Clouds2.Days.Intro.Extra.Intro_Maw_Cloud_SmokingMenStill.19757} 肺脏污浊，头脑清明。

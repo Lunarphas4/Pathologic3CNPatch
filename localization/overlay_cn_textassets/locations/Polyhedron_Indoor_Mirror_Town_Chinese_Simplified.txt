@@ -1,0 +1,2 @@
+﻿{Locations.Polyhedron_Indoor_Mirror_Town.Name} 镜中镇
+{Locations.Polyhedron_Indoor_Mirror_Town.Description} 镜中镇

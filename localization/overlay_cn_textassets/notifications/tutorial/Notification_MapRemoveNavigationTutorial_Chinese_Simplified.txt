@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_MapRemoveNavigationTutorial.Name} 规划路线
+{Notifications.Tutorial.Notification_MapRemoveNavigationTutorial.Description} 不必急。改主意时，可随时 <InputActions/Map/RemoveLastPoint> 撤销上一步，或 <InputActions/Map/RemoveAllPoints> 重头再来。

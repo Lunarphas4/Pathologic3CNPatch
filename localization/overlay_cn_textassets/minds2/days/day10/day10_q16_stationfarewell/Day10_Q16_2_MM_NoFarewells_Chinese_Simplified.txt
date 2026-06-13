@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_2_MM_NoFarewells.Name} 没工夫道别
+{Minds2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_2_MM_NoFarewells.Description} 格里夫的人在外面等我。再无回头之路。

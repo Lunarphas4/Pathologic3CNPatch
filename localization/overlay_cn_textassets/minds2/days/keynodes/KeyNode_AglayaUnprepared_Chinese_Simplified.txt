@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_AglayaUnprepared.Name} 诉诸权威
+{Minds2.Days.KeyNodes.KeyNode_AglayaUnprepared.Description} 阿格拉娅还未收集到足够的多面体危险证据。

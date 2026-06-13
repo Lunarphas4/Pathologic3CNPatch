@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_TimeForDiagnose.Name} 眉目终现
+{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_TimeForDiagnose.Description} 基拉的感染是步了萨夫卡父亲的后尘。该下诊断了。

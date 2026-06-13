@@ -1,0 +1,2 @@
+{Minds2.Days.Day0.Day0_Q8_BadTrip.Day0_Q8_MM_Curiosity.Name} 好奇心
+{Minds2.Days.Day0.Day0_Q8_BadTrip.Day0_Q8_MM_Curiosity.Description} 中庭有一条街，据说会影响命运。要是用特殊步法走过那里，测试它的效果，那会鲁莽到极点。

@@ -1,0 +1,3 @@
+{Npcs.Intro.Man_StationCleaner.Name} 清扫工
+{Npcs.Intro.Man_StationCleaner.FullName} 火车站清扫工
+{Npcs.Intro.Man_StationCleaner.Description} 在车站值勤的清扫工

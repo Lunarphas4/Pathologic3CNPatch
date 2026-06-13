@@ -1,0 +1,75 @@
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.54295} 学士丹科夫斯基！荣幸之至。维克托·凯恩，愿为您效劳。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.19269} 真希望我们是在更好的境况下见面。今日很阴沉。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.48953} 阴沉？不，我会说……古怪。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.31635} 你刚失去了一个兄长，不是吗？我无意直言冒犯，但……你不觉得难以承受吗？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.8822} 身为幼弟，我从小就以为西蒙和格奥尔基会先我而去……  ……我本该这么说。但坦白讲，不只是工厂的工人以为西蒙是不死的。直到现在，我仍觉得这像一场恶梦。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.28757} 你正在挣扎着接受现实。这是哀悼中一种已知的症状。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.46175} 我的妻子妮娜死去时，我一直问自己，为什么是她？为什么不是我？我寻找答案，却一无所获。她比我更强，更聪明，简直……比我好。如今西蒙死了，我渐渐明白了。  死亡带走最优秀的人。它避开平庸者。譬如我。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.27582} 你错了。死亡不会挑拣。它会带走我们所有人。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.25677} 现在人人都会谈论西蒙是多么伟大的人……而这是真的。可我对他最珍贵的回忆却很简单：他曾为我做了一架明箱。它能把图像投到纸上。丛林里的老虎，壮丽的地方……  我从未见过比那更美的东西。当然，妮娜除外。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.55401} 明箱是什么？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.19538} 暗箱的表亲。一件光学奇物，一块能把世界叠映到纸页上的棱镜。对七岁的孩子来说，那就是奇迹。  不过别在意。我想你来这里，并不只是为了吊唁。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.2486} 有没有可能，西蒙并没有死？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.44538} 没有这种可能。不可能。我愿付出任何代价，只换一线希望，可是……我看见了尸体。我碰过它。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.20898} 我能看看吗？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.61325} 我知道你为什么这样问。格奥尔基一定告诉你了，而且他说得对。尸体被偷走了。不可言说的亵渎。  他的死已经是一把刺进我心口的刀，如今又有恶徒决定转动刀刃。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.11721} 知道是谁做的吗？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.54144} 不知道。很抱歉。我希望我能帮上忙……一想到我的兄长像一袋骨头和内脏一样被拖过街道……我无法想象谁会做出这种事。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.11615} 我会找回你兄长的尸体。我向你保证。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.60770} 谢谢你。也请不要把我的悲痛误认为逃避。你必须问什么，就问吧。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.55683} 请原谅我的冒昧……但我可以查看西蒙的书房吗？我必须亲眼看看那里。我保证不会扰动任何东西。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.41864} 请吧。西蒙一直在等你；他对你寄予厚望。如今剩下的，只是一间空书房。  你尽可以试着进去。西蒙也会希望你这样做。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.17148} “试着进去”？什么意思？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.15095} 像西蒙一样，那间书房有……一种特别的脾性。它也许会准你进入，也许不会。遗憾的是，这不是我能决定的。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.42434} 那好吧。如果你不介意，我就试试运气。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.32135} 当然。你知道……他有一种罕见的天赋。他安排一切都极其周密，却总显得从容。绝不匆忙，却总是准时。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.2704} 我相信他是个非凡的人。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.45557} 我记得有句格言……说守时是王者的美德？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.26392} 守时是君王的礼貌，也是所有绅士的义务。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.6033} 确实。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.61865} 再见，维克多。我想我们很快还会再见。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.38565} 我想，书房的门被某种……精巧的钟表机构封住了。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.1574} 钟，是的……我为西蒙做过不少钟。他总纵容我这点小爱好。  你知道……他有一种罕见的天赋。他安排一切都极其周密，却总显得从容。绝不匆忙，却总是准时。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.3024} 所以，你是说……书房有西蒙的脾性？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.10206} 谢谢你。格奥尔基已经准许了，但书房在炉宅中属于你的那一翼。不来问一声，总觉得失礼。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.36071} 你是个相当尽责的人。当然，我准许你，但遗憾的是，这许可并不由我来授予。像西蒙一样，那间书房有……一种特别的脾性。它也许会准你进入，也许不会。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.58236} 关于你兄长尸体被盗一事……我心里有个嫌疑人。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.30216} 是谁？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.40935} 我还不会指控任何人。除非我有确凿证据。或者更好——有供认。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.23689} 我感谢你这样做。  我的兄长曾是镇法官，所以我明白——指控一个人，是沉重的责任。我很高兴你也同意。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.56013} 你请来检查他的那位医生。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.26571} 你有证据吗？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.26169} 很遗憾，没有。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.29947} 我的兄长曾是镇法官，所以我明白——指控一个人，是沉重的责任。我认为你还没有准备好背负它。  不要再谈这件事了。鲁宾是个正直的人。等你有确凿证据时，再回来。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.41413} 就当是医生的直觉吧。在我的行当里，诊断常常从一种预感开始。而经验教会我相信自己的本能。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.49503} 我知道尸体被偷走了。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.63280} 我听说西蒙的尸体被偷走了。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.63345} 你和格奥尔基谈过了？是的，这是真的。尸体被偷走了。不可言说的亵渎。  他的死像一把刀刺进我的心口，而如今又有恶徒决定转动刀刃。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.59224} “只要我们还记得他，他就仍与我们同在。”这才是合宜的回应。若我相信其中一个字，它本该如此。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.65230} 是，是……这些话触动人心。西蒙没有看错你。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.20685} 人们在陈词滥调中寻求慰藉。无非是为了不去看死亡的终局。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.39985} 唔，也许你在这里的职责，是帮助我们理解记忆的机制……但现在不是时候。  我想你来这里，并不只是为了吊唁。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.58293} 至少，西蒙的记忆是一种激励。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.21750} 真正的平庸之辈从不会这样看待自己。我怀疑你并不符合这个描述。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.14470} 你完全确定西蒙死了吗？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.61339} 为什么怀疑？我愿付出任何代价，只换一线希望，但我看见了尸体。我碰过它。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.36284} 我熟悉这种感觉。我想泰尔曼对此有个术语……
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.17437} 整个小镇都因西蒙之死而震动。就连外人也能感到它的重量。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.15736} 今天他们在哀悼。可昨天，消息传开时……那是一场耻辱。我为我的小镇深感羞愧，丹科夫斯基医生。请接受我的歉意。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.6873} 你为什么要替他们道歉？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.63604} 我在这里握有权柄。这些可怜的人是我的责任。即使他们屈服于疯狂。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.17574} 我不太明白。发生了什么，以至于需要道歉？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.42013} 你能宽容他人的……失礼，这很高贵。你是个相当尽责的人，丹科夫斯基医生。你的礼节，是这黑暗时刻里一束可贵的光。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.24964} 我是来向你致哀的。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.46187} 我向你保证，我什么也不记得了。不过，往下说吧。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.2122} 你知道我的名字？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.6308} 当然。你看起来很惊讶。我不该知道吗？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.1093} 我是科学之人，不是什么名人。被人认出来，我还不习惯。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.3640} 相信我，在炉宅这里，你的名字很有名。西蒙一直热切地等你到来……
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.44902} 对你的损失，我很遗憾。真希望我曾有机会见他一面。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.29162} 你被夺走了那个机会。该由我向你致哀才是。身为幼弟，我从小就以为西蒙和格奥尔基会先我而去……  ……我本该这么说。但坦白讲，不只是工厂的工人以为西蒙是不死的。直到现在，我仍觉得这像一场恶梦。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.42673} 他提到了我的名字？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.64854} 他喜欢出声思考。和死物交谈。和自己争辩。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.19728} 人们知道你的名字，无非出于两种原因：你做了什么重要的事，或者有什么事发生在你身上。而既然我还没有取得任何突破……
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.52798} 有时我会有种感觉：一个人还没见面，我就已经认识他了。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Victor_Sorrows.5013} 也许西蒙在信里提起过我？他那么盼着你来……

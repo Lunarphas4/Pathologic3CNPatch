@@ -1,0 +1,2 @@
+{Locations.Slough.Name} 静水别墅
+{Locations.Slough.Description} 静水别墅

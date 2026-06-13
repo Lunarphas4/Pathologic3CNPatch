@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Sigarette.Name} 时间凝住
+{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Sigarette.Description} 那支香烟仍在燃。

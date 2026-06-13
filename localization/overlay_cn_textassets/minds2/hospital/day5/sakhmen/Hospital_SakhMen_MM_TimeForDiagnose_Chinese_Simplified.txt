@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day5.SakhMen.Hospital_SakhMen_MM_TimeForDiagnose.Name} 假设
+{Minds2.Hospital.Day5.SakhMen.Hospital_SakhMen_MM_TimeForDiagnose.Description} 病人的个人信息几乎没有留下怀疑余地。几乎如此。尽管如此，我仍需要确定诊断。

@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.Day4.Day4_Q1_HospitalIntro.Day4_Q1_MM_HospitalSummary.Name} 我们需要研究非典型病例，才能制造疫苗。
+{ArchiveMinds.Day4.Day4_Q1_HospitalIntro.Day4_Q1_MM_HospitalSummary.Description} 沙疫患者身上的并发症延长了他们的生命。如果我们找出规律，就能制造疫苗。

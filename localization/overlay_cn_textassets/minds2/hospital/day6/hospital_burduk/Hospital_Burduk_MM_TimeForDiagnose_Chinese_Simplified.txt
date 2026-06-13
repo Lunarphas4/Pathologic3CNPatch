@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_TimeForDiagnose.Name} 补齐了点
+{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_TimeForDiagnose.Description} 该把牛蒡的诊断敲定了。

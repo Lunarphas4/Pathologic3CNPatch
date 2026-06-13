@@ -1,0 +1,2 @@
+{UI.Credits.Art.RomanGunger.Name} Roman Gunger
+{UI.Credits.Art.RomanGunger.Description} 概念美术

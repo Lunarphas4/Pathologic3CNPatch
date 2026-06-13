@@ -1,0 +1,2 @@
+﻿{Locations.Stvorki.Name} 中庭
+{Locations.Stvorki.Description} 中庭

@@ -1,0 +1,5 @@
+{Clouds.Flavor.Cloud_Slough_Pool.17796} 这就是名副其实的一潭死水。
+{Clouds.Flavor.Cloud_Slough_Pool.10146} 这就是名副其实的一潭死水。
+{Clouds.Flavor.Cloud_Slough_Pool.28926} 有什么用……？
+{Clouds.Flavor.Cloud_Slough_Pool.11103} 细菌在死水里滋生。
+{Clouds.Flavor.Cloud_Slough_Pool.11185} 木头浸透了树脂和蜡。

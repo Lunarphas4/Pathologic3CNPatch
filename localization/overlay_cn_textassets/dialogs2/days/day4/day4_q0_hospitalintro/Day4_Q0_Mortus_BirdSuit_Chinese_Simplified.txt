@@ -1,0 +1,22 @@
+﻿{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.37877} 报到！志愿护理员队伍现在听候您调遣。我是第三十三号。到目前为止，我们一共一百一十二人。我们还希望继续扩充人数！\n\n遵照您的命令，我们从剧院征用了道具——也就是防护装备。都在这里。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.51772} 我昨天到底在想什么？这造型简直<i>怪诞绝伦</i>。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.48850} 人们在门口看见我们时都说不出话。他们要么以为死神来找他们了，要么以为剧院又在演那出老戏。您知道吗？我们剧院开幕时演的就是一出哑剧，用的正是这些鸟装。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.2666} 是的，我好像听说过这件事。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.3897} 现在他们又在窃窃私语，说您是个邪恶的恶作剧者——说您决定带回无法归来，或许也<i>不该</i>归来的东西。当然，他们指的是过去。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.62969} 我只是想找个办法保证你们安全。护理员需要防护，而剧院碰巧有这些戏服——仅此而已。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.2362} 允许汇报其他传言吗？他们说我们的医院已经不需要了，因为有人已经做出了疫苗，战胜了瘟疫！\n\n他们说的不是奥尔金斯基家的死人粥，而是某种新的、完全不同的东西。据说发明者正在保守秘密。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.8632} 惊慌失措的人能编出的疯话远不止这点。别理他们。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.44471} 我在那些话最多的人身边转悠。假装我也想接种疫苗。\n\n不过没从他们那里问出什么有用的。他们说奇迹疗法很稀缺，说有个供血者——匿名的，不愿暴露身份。据他们说，他的一滴血就足以治好整座镇子……
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.55810} 别浪费时间了，三十三号。这全是童话般的胡言乱语。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.37796} 有意思。如果你再听到类似的事，务必告诉我。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.51666} 既然<i>我们</i>没有什么神奇供血者，那就开始做我们脚踏实地的工作吧。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.38476} 我知道这是怎么回事……或者说，我明天就会知道。可惜，这并不能免除我们任何一方的职责。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.20545} 这镇上好像隔一个人就会发明疫苗。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.11972} 这些传言有根据吗？镇上已经有可疑的“瘟疫疗法”在流传了？
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.59832} 希望这些流言蜚语不要妨碍我们在医院的工作。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.42241} 有时候，我觉得自己已经分不清过去和未来……也分不清它们同现在的区别。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.65022} 我们的职责就是确保剧院不会以那种方式<i>落幕</i>。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.62708} 你们不只是护理员……你们的职责更广。你们是瘟疫屋的侍从。<i>运尸人。</i>若要类比，就是中世纪的 mortui。是的……这才是最准确的词。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.37084} 悉听尊便。那我大概就是第三十三号 mortus。好词，哪怕满是死亡气味。\n\n人们在门口看见我们时都说不出话。他们要么以为死神来找他们了，要么以为剧院又在演那出老戏。您知道吗？我们剧院开幕时演的就是一出哑剧，用的正是这些鸟装。
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.44216} 你们按我吩咐处理过这些套装了吗？至少用焦油和醋处理过？
+{Dialogs2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_Mortus_BirdSuit.10064} 尽管艺术家们抗议，我们还是逐字照办了您的指示。\n\n人们在门口看见我们时都说不出话。他们要么以为死神来找他们了，要么以为剧院又在演那出老戏。您知道吗？我们剧院开幕时演的就是一出哑剧，用的正是这些鸟装。

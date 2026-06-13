@@ -1,0 +1,3 @@
+{Npcs.Patrolman_Investigator.Name} 巡查队侦讯员
+{Npcs.Patrolman_Investigator.FullName} ⁠
+{Npcs.Patrolman_Investigator.Description} ⁠

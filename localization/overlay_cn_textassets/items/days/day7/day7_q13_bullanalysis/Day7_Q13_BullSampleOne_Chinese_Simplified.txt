@@ -1,0 +1,3 @@
+﻿{Items.Days.Day7.Day7_Q13_BullAnalysis.Day7_Q13_BullSampleOne.Name} 第一次公牛分析
+{Items.Days.Day7.Day7_Q13_BullAnalysis.Day7_Q13_BullSampleOne.Description} 一份感染公牛的血样。
+{Items.Days.Day7.Day7_Q13_BullAnalysis.Day7_Q13_BullSampleOne.Description2} 感染公牛的血样。感染后一天采集。我们必须弄清感染是否存活。

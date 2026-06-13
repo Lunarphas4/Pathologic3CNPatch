@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_EngineerYes.Name} 巨石
+{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_EngineerYes.Description} 那位机师已与我同行。

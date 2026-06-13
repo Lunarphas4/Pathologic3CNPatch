@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Stillwater_FirstProbe.Name} 静水宅
+{QuestMarkers.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Stillwater_FirstProbe.Description} 该研究我从感染焦点取得的样本了。静水宅里有专门用于此事的设备。

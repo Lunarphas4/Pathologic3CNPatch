@@ -1,0 +1,16 @@
+{Dialogs2.Days.Day10.Day10_Q1_LeapOfFaith.Day10_Q1_Eva_NoDeath.12315} 丹尼尔，等等……你真的知道……死亡，是吗？
+{Dialogs2.Days.Day10.Day10_Q1_LeapOfFaith.Day10_Q1_Eva_NoDeath.31766} 我知道不少，但还不够。
+{Dialogs2.Days.Day10.Day10_Q1_LeapOfFaith.Day10_Q1_Eva_NoDeath.61618} 你知道，要击败敌人，就必须直视他的脸，对吧？掀起面甲，正视他的眼睛。如果你是个骑士。
+{Dialogs2.Days.Day10.Day10_Q1_LeapOfFaith.Day10_Q1_Eva_NoDeath.36256} 我知道。而且我不怕死亡。
+{Dialogs2.Days.Day10.Day10_Q1_LeapOfFaith.Day10_Q1_Eva_NoDeath.22159} 死亡不存在，丹尼尔。我真的……真的这样相信。
+{Dialogs2.Days.Day10.Day10_Q1_LeapOfFaith.Day10_Q1_Eva_NoDeath.64926} 伊娃，把手给我。你是想谈什么吗？
+{Dialogs2.Days.Day10.Day10_Q1_LeapOfFaith.Day10_Q1_Eva_NoDeath.14717} 是的。但不是用语言。
+{Dialogs2.Days.Day10.Day10_Q1_LeapOfFaith.Day10_Q1_Eva_NoDeath.22824} 是什么？
+{Dialogs2.Days.Day10.Day10_Q1_LeapOfFaith.Day10_Q1_Eva_NoDeath.34320} 死亡并不存在这件事。
+{Dialogs2.Days.Day10.Day10_Q1_LeapOfFaith.Day10_Q1_Eva_NoDeath.33580} 我不明白。但我看得出，我从你嘴里问不出别的了。
+{Dialogs2.Days.Day10.Day10_Q1_LeapOfFaith.Day10_Q1_Eva_NoDeath.18744} 到医院来帮忙吧。你在那里每天都能直面死亡。
+{Dialogs2.Days.Day10.Day10_Q1_LeapOfFaith.Day10_Q1_Eva_NoDeath.45728} 死亡确实存在。但总有一天，它会不复存在。
+{Dialogs2.Days.Day10.Day10_Q1_LeapOfFaith.Day10_Q1_Eva_NoDeath.3731} 与死亡作战时，人应当做一个明智的战略家，而不是战士。
+{Dialogs2.Days.Day10.Day10_Q1_LeapOfFaith.Day10_Q1_Eva_NoDeath.24541} 这场谈话让我不安。你在话里暗示着什么。
+{Dialogs2.Days.Day10.Day10_Q1_LeapOfFaith.Day10_Q1_Eva_NoDeath.63390} 你究竟想知道什么？
+{Dialogs2.Days.Day10.Day10_Q1_LeapOfFaith.Day10_Q1_Eva_NoDeath.11354} 你为什么这样奇怪地看着我？

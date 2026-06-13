@@ -1,0 +1,2 @@
+{UI.Credits.Art.LinaBusarova.Name} Lina Busarova
+{UI.Credits.Art.LinaBusarova.Description} UI 美术

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_MM_Refusal.Name} 日程紧凑
+{Minds2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_MM_Refusal.Description} 审判官的提议通常无法回绝。这次例外。我不知他想要什么，但我不会一叫便到。

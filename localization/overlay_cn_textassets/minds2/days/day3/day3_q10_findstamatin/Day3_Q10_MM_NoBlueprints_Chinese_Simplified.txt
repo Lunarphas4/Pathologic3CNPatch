@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_NoBlueprints.Name} 在找什么？
+{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_NoBlueprints.Description} 彼得的旅程戛然而止，是因为缺了某样东西。我怀疑——那东西正是我让它"消失"的。

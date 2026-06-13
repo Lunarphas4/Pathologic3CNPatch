@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Healthy.Name} 换生灵之教派
+{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Healthy.Description} 就他那种活法而言，那个流浪汉算是健康得不能再健康了。他自己相信是"圣人"克拉拉治好了他。

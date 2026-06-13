@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q0_DeadTown.Day6_Q0_MM_ChangeThePast.Name} 错过的机会
+{Minds2.Days.Day6.Day6_Q0_DeadTown.Day6_Q0_MM_ChangeThePast.Description} 也许，过去本曾有过救镇的机会。

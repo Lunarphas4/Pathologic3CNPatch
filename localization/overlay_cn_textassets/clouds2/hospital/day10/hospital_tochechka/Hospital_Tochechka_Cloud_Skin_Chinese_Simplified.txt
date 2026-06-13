@@ -1,0 +1,4 @@
+{Clouds2.Hospital.Day10.Hospital_Tochechka.Hospital_Tochechka_Cloud_Skin.44864} 某种皮肤症状
+{Clouds2.Hospital.Day10.Hospital_Tochechka.Hospital_Tochechka_Cloud_Skin.36915} 某种皮肤症状
+{Clouds2.Hospital.Day10.Hospital_Tochechka.Hospital_Tochechka_Cloud_Skin.63335} 刚开始显现
+{Clouds2.Hospital.Day10.Hospital_Tochechka.Hospital_Tochechka_Cloud_Skin.52644} 这么早期，很容易判断失误

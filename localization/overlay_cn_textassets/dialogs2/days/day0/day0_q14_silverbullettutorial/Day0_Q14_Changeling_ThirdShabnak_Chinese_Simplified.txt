@@ -1,0 +1,16 @@
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_ThirdShabnak.8178} 她很滑，总是假装成别的东西，披着人的皮。但她总会出错。\n\n当她是人时，腿上只剩白骨；看腿，总能认出她。可你一学会分辨，她就又扭转、变化，再变成别人，让你混乱。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_ThirdShabnak.21360} 而且躲在别的疾病后面。像是披着它们的皮。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_ThirdShabnak.3576} 当然——她是寄生物。其实是个很讨厌的小东西。\n\n她可以是细菌，可以是花，可以是霉，可以是人，可以是大地的骨齿，可以是戈尔洪的水，也可以是巨牛的尸体。你明白吗？她是一切。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_ThirdShabnak.3737} 没有固定形态的东西，要怎么抓住？
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_ThirdShabnak.30925} 这算什么问题？你是学者。做测试。绿火表示假的，红火表示真的。\n\n只是现在你更不能相信她的外貌了。她甚至可能根本不是人，而是一束骨头——或者只是一个坏念头。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_ThirdShabnak.5925} 一个坏念头？那我该把脑袋伸进火里吗？
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_ThirdShabnak.8248} 我倒想看看。但先学会认出土爪形态的Shabnak（泥魔女）。然后你再想自己的脑袋该怎么办。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_ThirdShabnak.15278} 你为什么一直帮我？
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_ThirdShabnak.45495} 我喜欢你。怎么，没想到吧？以为我会叫你傻瓜？\n\n你<i>当然</i>是傻瓜。固执，脑袋也硬得彻底。但你诚实——我喜欢你这一点。你第一个往火里跳，而且不后退。你要是死了，会很可惜。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_ThirdShabnak.48959} 真意外的话。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_ThirdShabnak.18466} 如果我死了，我也会挺难过。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_ThirdShabnak.19787} 我不会说这种感觉是相互的。但我也不能否认你的固执——这一点我尊重。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_ThirdShabnak.17637} 明白了。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_ThirdShabnak.20831} 为什么？
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_ThirdShabnak.39640} 为了溜进她不该去的地方。她是寄生物。其实是个很讨厌的小东西。她可以是细菌，可以是花，可以是霉，可以是人，可以是大地的骨齿，可以是戈尔洪的水，也可以是巨牛的尸体。\n\n你明白吗？她是一切。
+

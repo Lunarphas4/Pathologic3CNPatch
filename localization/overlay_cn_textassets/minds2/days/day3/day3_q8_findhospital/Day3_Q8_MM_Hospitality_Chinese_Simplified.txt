@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_MM_Hospitality.Name} 任务安排妥当
+{Minds2.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_MM_Hospitality.Description} 已通知镇当局。明日清晨起，医院将开始接收首批病人。

@@ -1,0 +1,5 @@
+{Clouds2.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_Cloud_Executor.4719} 有多余的票吗？
+{Clouds2.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_Cloud_Executor.40839} 有多余的票吗？
+{Clouds2.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_Cloud_Executor.42919} 把草药塞进鸟喙，用来遮掩气味
+{Clouds2.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_Cloud_Executor.41491} 采购并分发钩子，好让他们别碰病人
+{Clouds2.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_Cloud_Executor.30076} 还有，把那些骨头扯下来，别扯到见骨！

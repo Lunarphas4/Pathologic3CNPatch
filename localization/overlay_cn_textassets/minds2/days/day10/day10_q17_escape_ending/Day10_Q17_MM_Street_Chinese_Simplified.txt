@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_MM_Street.Name} Fatum（命数）
+{Minds2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_MM_Street.Description} 但归根结底，我所做的并未影响任何结果。真正起作用的，是我很久以前轻率作下的那个抉择。

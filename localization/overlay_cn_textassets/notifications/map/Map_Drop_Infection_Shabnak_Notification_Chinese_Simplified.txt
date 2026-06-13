@@ -1,0 +1,2 @@
+﻿{Notifications.Map.Map_Drop_Infection_Shabnak_Notification.Name} 她在此处
+{Notifications.Map.Map_Drop_Infection_Shabnak_Notification.Description} 无法快速通过此城区。她在此处吞噬生灵。

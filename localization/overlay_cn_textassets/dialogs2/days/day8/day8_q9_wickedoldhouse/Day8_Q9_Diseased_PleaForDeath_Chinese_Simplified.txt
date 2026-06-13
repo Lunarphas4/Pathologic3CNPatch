@@ -1,0 +1,10 @@
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_PleaForDeath.19415} 求您……您答应过……我再也受不了了……求您，帮帮我……
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_PleaForDeath.63015} 我什么都没答应。别碰我！
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_PleaForDeath.38759} 我不打算在你身上浪费药。不会有安乐死，就这么定了。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_PleaForDeath.58801} 该死的！……好吧。躺到地板上。我来处理。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_PleaForDeath.10501} 我有更好的选择：我找到了防毒面具。戴上。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_PleaForDeath.130} 什么？……你，meheshen……为什么……照你答应过的做……
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_PleaForDeath.16780} 你的情况很特殊：如果你撑到现在，理论上仍有恢复的可能。跟我离开这里，你会被送去医院。你还有机会。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_PleaForDeath.50445} 恢复？不可能……Shabnak-adyr（泥魔女） 会吞掉我……发慈悲……Khhh……khh……
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_PleaForDeath.7987} 我没时间哄你。我再说一遍：戴上防毒面具。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_PleaForDeath.55505} 先离开这里，其余的之后再说。

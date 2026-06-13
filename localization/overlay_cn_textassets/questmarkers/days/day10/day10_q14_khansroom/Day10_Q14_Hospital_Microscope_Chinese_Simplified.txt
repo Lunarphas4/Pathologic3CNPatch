@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_Hospital_Microscope.Name} 医院
+{QuestMarkers.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_Hospital_Microscope.Description} 医院里我的显微镜尽职尽责。可汗想借走它。

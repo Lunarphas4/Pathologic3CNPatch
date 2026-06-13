@@ -1,0 +1,4 @@
+﻿{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Orderly_DiagnosesRegular.2786} 三十三号报到。我带来了今日病人的报告——按您的处方治疗后，他们的情况如何。请过目。
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Orderly_DiagnosesRegular.57232} 谢谢，三十三号。
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Orderly_DiagnosesRegular.62358} 今天的报告远远不够。要是你能把<i>明天</i>的报告带来……
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Orderly_DiagnosesRegular.64018} 每一次，我都害怕知道自己是否诊断正确。我想我永远也习惯不了。

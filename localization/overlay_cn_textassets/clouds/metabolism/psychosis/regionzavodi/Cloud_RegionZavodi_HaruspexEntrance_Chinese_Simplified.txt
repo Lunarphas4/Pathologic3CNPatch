@@ -1,0 +1,4 @@
+{Clouds.Metabolism.Psychosis.RegionZavodi.Cloud_RegionZavodi_HaruspexEntrance.12472} 有人住在这里。
+{Clouds.Metabolism.Psychosis.RegionZavodi.Cloud_RegionZavodi_HaruspexEntrance.31938} 有人住在这里。
+{Clouds.Metabolism.Psychosis.RegionZavodi.Cloud_RegionZavodi_HaruspexEntrance.31172} 大概是在躲藏。
+{Clouds.Metabolism.Psychosis.RegionZavodi.Cloud_RegionZavodi_HaruspexEntrance.19621} 躲谁？

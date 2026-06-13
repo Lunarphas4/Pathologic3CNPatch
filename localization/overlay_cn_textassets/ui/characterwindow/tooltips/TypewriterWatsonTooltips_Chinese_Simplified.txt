@@ -1,0 +1,3 @@
+﻿{UI.CharacterWindow.Tooltips.TypewriterWatsonTooltips.Intro} 市政厅来的高级速记员
+{UI.CharacterWindow.Tooltips.TypewriterWatsonTooltips.Decrees} 第8天，帮我在公牛吃掉命令后恢复了那些命令
+{UI.CharacterWindow.Tooltips.TypewriterWatsonTooltips.Hiring} 第9天起，被指挥部雇来协助处理命令

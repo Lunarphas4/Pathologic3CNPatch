@@ -1,0 +1,3 @@
+{Npcs.Tamara.Name} 访客海鸥
+{Npcs.Tamara.FullName} ⁠
+{Npcs.Tamara.Description} ⁠

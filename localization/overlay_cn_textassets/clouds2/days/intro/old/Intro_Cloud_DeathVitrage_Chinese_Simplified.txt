@@ -1,0 +1,5 @@
+{Clouds2.Days.Intro.Old.Intro_Cloud_DeathVitrage.23127} 好吧，又见面了，死亡。我们最近才刚见过，而我依旧不高兴见到你。
+{Clouds2.Days.Intro.Old.Intro_Cloud_DeathVitrage.24610} 好吧，又见面了，死亡。我们最近才刚见过，而我依旧不高兴见到你。
+{Clouds2.Days.Intro.Old.Intro_Cloud_DeathVitrage.8203} 试图用一切可能手段延长人类寿命。
+{Clouds2.Days.Intro.Old.Intro_Cloud_DeathVitrage.11655} 我把一生都献给了与你战斗。
+{Clouds2.Days.Intro.Old.Intro_Cloud_DeathVitrage.12674} 而我已经成就良多。我几乎剪掉了你的毒刺。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_5.Day9_Q12_5_MM_TookBlood.Name} 确实是终点
+{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_5.Day9_Q12_5_MM_TookBlood.Description} 布拉赫向我保证这血与受害者无关。可这血让他显得格外不安。他把血带走了，许诺日后再解释。

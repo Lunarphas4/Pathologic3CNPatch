@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_2_MM_WhereIsMind.Name} 人生的奇异阶段
+{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_2_MM_WhereIsMind.Description} 我的理智仍在抗拒伊娃的归来。

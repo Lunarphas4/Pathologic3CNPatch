@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Common.QuestMarkers_Home.Name} 家
+{QuestMarkers.Common.QuestMarkers_Home.Description} 我目前的栖身处。

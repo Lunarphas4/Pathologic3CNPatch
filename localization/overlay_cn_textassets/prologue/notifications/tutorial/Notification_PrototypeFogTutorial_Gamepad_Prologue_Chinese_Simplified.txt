@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_PrototypeFogTutorial_Gamepad_Prologue.Name} 学者的原型工具
+{Prologue.Notifications.Tutorial.Notification_PrototypeFogTutorial_Gamepad_Prologue.Description} 瘟疫的迷雾中危机重重。长按<InputActions/UI/WeaponSelector>后再按<InputActions/Movement/Look>选中原型工具

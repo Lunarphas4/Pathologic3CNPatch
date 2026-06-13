@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q1_Trial.Day7_Q1_MM_OlgimskyVerdict.Name} 白蚁
+{Minds2.Days.Day7.Day7_Q1_Trial.Day7_Q1_MM_OlgimskyVerdict.Description} 奥尔金斯基一家被控隐瞒白蚁巢里的疫情。

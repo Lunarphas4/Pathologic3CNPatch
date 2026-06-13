@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day8.Day8_Q2_ChangelingArrest.Day8_Q2_Cathedral.Name} 大教堂
+{QuestMarkers.Days.Day8.Day8_Q2_ChangelingArrest.Day8_Q2_Cathedral.Description} 克拉拉危险——让卡明斯基把她关起来。

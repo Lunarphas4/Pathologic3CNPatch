@@ -1,0 +1,3 @@
+﻿{UI.Staffs.Tooltips.ShabnakEventPoint.Title} 已消除感染源
+{UI.Staffs.Tooltips.ShabnakEventPoint.Description} 严格的隔离和防疫措施已经见效。当地疫情已被控制。
+{UI.Staffs.Tooltips.ShabnakEventPoint.Plague} 传染 <plague>

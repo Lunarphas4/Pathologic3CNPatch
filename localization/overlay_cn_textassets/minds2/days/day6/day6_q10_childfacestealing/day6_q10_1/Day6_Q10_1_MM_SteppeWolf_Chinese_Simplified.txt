@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_1.Day6_Q10_1_MM_SteppeWolf.Name} Cave canem（防犬）
+{Minds2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_1.Day6_Q10_1_MM_SteppeWolf.Description} 所谓"怪物"原来是个狗头女孩。她的面具被偷了——人也跟着野化。她偷不了一头牛。

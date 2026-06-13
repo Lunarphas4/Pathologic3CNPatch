@@ -1,0 +1,9 @@
+﻿{UI.CharacterWindow.Tooltips.BigVladTooltips.Intro} 奥尔金斯基家族的家长
+{UI.CharacterWindow.Tooltips.BigVladTooltips.Termitary} 第1天，因内部暴乱关闭了白蚁巢
+{UI.CharacterWindow.Tooltips.BigVladTooltips.SomeonesFault} 第1天，替儿子承担了关闭白蚁巢的罪责
+{UI.CharacterWindow.Tooltips.BigVladTooltips.Submission} 第2天，阿格拉娅取得了对他的控制权
+{UI.CharacterWindow.Tooltips.BigVladTooltips.Confession} 第7天，在审判官的审判上坦白
+{UI.CharacterWindow.Tooltips.BigVladTooltips.NoPower} 第9天，把家族权力移交给卡佩拉
+{UI.CharacterWindow.Tooltips.BigVladTooltips.RottenMeat} 第9天，把腐坏的罐头肉交给军队
+{UI.CharacterWindow.Tooltips.BigVladTooltips.Lost} 第12天，失去了两个孩子
+{UI.CharacterWindow.Tooltips.BigVladTooltips.Retired} 第12天，终于退休

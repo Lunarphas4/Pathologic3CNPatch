@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Graveyard_Changelling.Name} 墓地，无尸之墓
+{QuestMarkers.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Graveyard_Changelling.Description} 他们在这里找到了一个姑娘

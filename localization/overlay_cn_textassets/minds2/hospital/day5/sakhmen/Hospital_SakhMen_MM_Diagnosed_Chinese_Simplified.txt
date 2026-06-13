@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day5.SakhMen.Hospital_SakhMen_MM_Diagnosed.Name} 确认诊断
+{Minds2.Hospital.Day5.SakhMen.Hospital_SakhMen_MM_Diagnosed.Description} 我已经确定诊断，病例结案。

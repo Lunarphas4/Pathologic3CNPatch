@@ -1,0 +1,2 @@
+{Prologue.Notifications.Logo.Notification_Prologue_Suicide.Name} ⁠
+{Prologue.Notifications.Logo.Notification_Prologue_Suicide.Description} 让这小镇、这些人和这场瘟疫都见鬼去吧。他们没救了——不如从头来过。\n\n但我不想放弃。

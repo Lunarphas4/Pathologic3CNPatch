@@ -1,0 +1,13 @@
+{Dialogs2.Shadows.Rubin.Shadows_Rubin_Day10_Traitor.26151} 怎么会这样，丹科夫斯基？你为什么会这样？
+{Dialogs2.Shadows.Rubin.Shadows_Rubin_Day10_Traitor.6180} 哦。你从哪儿冒出来的？
+{Dialogs2.Shadows.Rubin.Shadows_Rubin_Day10_Traitor.14403} 他居然还有脸问。你真是个非凡的东西，丹科夫斯基。你真的一点都不在乎人吗？换生灵杀了拉拉，为什么她还逍遥法外？你为什么什么都没做？你真的就毫不在乎？
+{Dialogs2.Shadows.Rubin.Shadows_Rubin_Day10_Traitor.24303} 你把我和别人弄混了，影子。我不是审判官，也不是小镇的总督。我是医生，我治人，不惩罚人。
+{Dialogs2.Shadows.Rubin.Shadows_Rubin_Day10_Traitor.2775} 拉拉已经救不回来了，但放任杀害她的人逍遥法外，是亵渎，是玷污她的记忆。
+{Dialogs2.Shadows.Rubin.Shadows_Rubin_Day10_Traitor.30149} 你有什么建议？用按手礼杀死换生灵？以眼还眼，以命偿命？
+{Dialogs2.Shadows.Rubin.Shadows_Rubin_Day10_Traitor.9162} 不。是。 我不知道。
+{Dialogs2.Shadows.Rubin.Shadows_Rubin_Day10_Traitor.16824} 那就别折腾我了。如果你担心的是法律，那不是我的领域，去找卡尔明斯基。
+{Dialogs2.Shadows.Rubin.Shadows_Rubin_Day10_Traitor.26958} 我也不知道，影子。我也不知道。
+{Dialogs2.Shadows.Rubin.Shadows_Rubin_Day10_Traitor.17308} 你以为我没有为拉拉哀悼吗？相信我，我已经做了我能做的一切。绝对是一切。
+{Dialogs2.Shadows.Rubin.Shadows_Rubin_Day10_Traitor.4657} 这是谁的影子？我不确定。你们所有人的脸看起来都一样。或者说，你们所有的面具都一样。真希望我们见面时，你们能先自我介绍一下之类的。
+{Dialogs2.Shadows.Rubin.Shadows_Rubin_Day10_Traitor.7265} 求你了。我很累。我们能不能把和死者的对质推迟到以后？
+{Dialogs2.Shadows.Rubin.Shadows_Rubin_Day10_Traitor.2753} 你真是个非凡的东西，丹科夫斯基。你真的一点都不在乎人吗？换生灵杀了拉拉，为什么她还逍遥法外？你为什么什么都没做？你真的就毫不在乎？

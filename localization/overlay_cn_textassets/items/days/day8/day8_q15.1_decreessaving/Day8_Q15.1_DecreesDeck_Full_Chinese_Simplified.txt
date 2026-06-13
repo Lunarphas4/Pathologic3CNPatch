@@ -1,0 +1,3 @@
+{Items.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_DecreesDeck_Full.Name} 已填写的法令表
+{Items.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_DecreesDeck_Full.Description} 仿佛什么都没发生过。
+{Items.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_DecreesDeck_Full.Description2} 隔离措施中井然有序的混乱。

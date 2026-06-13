@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q3_MM_StopVlad.Name} 善意铺就的地狱
+{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q3_MM_StopVlad.Description} 小弗拉德决定用一种来历可疑、出自草原人之手的药剂"拯救"全镇。在事情失控之前，我必须立刻去找他谈一谈。

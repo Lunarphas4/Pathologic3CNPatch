@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_PlagueUnderstanding.Name} 能否克之？
+{Minds2.Days.KeyNodes.KeyNode_PlagueUnderstanding.Description} 任何对抗瘟疫的武器都只是暂时的。瘟疫不可战胜。

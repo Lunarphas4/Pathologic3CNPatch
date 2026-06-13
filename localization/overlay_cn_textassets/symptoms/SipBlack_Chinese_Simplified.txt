@@ -1,0 +1,2 @@
+{Symptoms.SipBlack.Name} 黑色皮疹
+{Symptoms.SipBlack.Description} 皮肤上出现黑色斑疹，常提示严重病变。

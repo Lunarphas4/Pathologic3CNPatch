@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_MM_EscapeFinal.Name} 尾声
+{Minds2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_MM_EscapeFinal.Description} 这镇后来如何？我不知。多半毁了。但我带出了最珍贵之物——关于疫病本质的知识。靠它，我将救下千百万条性命。

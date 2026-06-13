@@ -1,0 +1,5 @@
+{Clouds2.FlavorNew.Outdoor.Factory.Cloud_Factory_Barrels.44925} 工厂都停了
+{Clouds2.FlavorNew.Outdoor.Factory.Cloud_Factory_Barrels.10340} 工厂都停了
+{Clouds2.FlavorNew.Outdoor.Factory.Cloud_Factory_Barrels.56689} 没有公牛计划的肉，这个国家会怎样？
+{Clouds2.FlavorNew.Outdoor.Factory.Cloud_Factory_Barrels.61752} 我相信我们不会让这场瘟疫扩散出去
+{Clouds2.FlavorNew.Outdoor.Factory.Cloud_Factory_Barrels.57156} 但即使如此，国家的面貌也会改变

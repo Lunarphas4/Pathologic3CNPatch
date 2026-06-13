@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_2.Day9_Q12_2_MM_ArmyCamp.Name} 军营
+{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_2.Day9_Q12_2_MM_ArmyCamp.Description} 军队驻在车站。

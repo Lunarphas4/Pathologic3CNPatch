@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_MM_Folklore.Name} 民俗一脉
+{Minds2.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_MM_Folklore.Description} 和土地精灵交谈并非不可能。但我还没疯到接受它们相助的地步。

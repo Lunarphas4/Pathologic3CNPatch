@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_CraftSlotsTutorial.Name} 药物合成
+{Notifications.Tutorial.Notification_CraftSlotsTutorial.Description} 在此我可以用所获材料调配药剂。复杂之物做不出来，但用两三味药材凑出点东西没问题。

@@ -1,0 +1,8 @@
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_MarrowThird.Prologue_Tragedians_GoHome.31965} 大人，您已经尽力了。\n去静水休息吧，那边有人在等您。
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_MarrowThird.Prologue_Tragedians_GoHome.7268} 你凭什么断定我尽力了？
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_MarrowThird.Prologue_Tragedians_GoHome.28406} 您的疫苗明天才能准备好。\n就算成功了，真能解开您的心结吗？\n您还能做什么？
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_MarrowThird.Prologue_Tragedians_GoHome.3978} 我能完成来这儿的目的，去见西蒙·凯恩。
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_MarrowThird.Prologue_Tragedians_GoHome.18185} 给你找点儿不痛快。
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_MarrowThird.Prologue_Tragedians_GoHome.6613} 我可以……呃，加强隔离？省得老碰到你们这些人……
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_MarrowThird.Prologue_Tragedians_GoHome.6147} 你说得对，我得去见伊娃。这鬼地方只有她能让我平静下来。
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_MarrowThird.Prologue_Tragedians_GoHome.24156} 你错了。<b>首都</b>那边还等着我回去。让我去静水，还不如绑块石头跳河算了。

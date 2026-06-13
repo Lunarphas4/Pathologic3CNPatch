@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_Ally.Name} 同盟
+{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_Ally.Description} 若我把地下隧道的地图带给尤利娅——或许能以最小流血止住瘟疫！入口就在屠宰场下方——奥尔金斯基必然知情。

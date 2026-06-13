@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_2_MM_SmallDaniil.Name} 出诊大夫
+{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_2_MM_SmallDaniil.Description} 太高了！我得试试这种增生是否也出现在屋内。

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_Polyhedron_NoKids.Name} 多面体
+{QuestMarkers.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_Polyhedron_NoKids.Description} 孩子们的高塔——似乎已经空了。

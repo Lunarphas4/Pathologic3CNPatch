@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_MM_Sinkhole.Name} 塌陷
+{Minds2.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_MM_Sinkhole.Description} 我们大错特错。如果强行让镇底下的河流倒流——整个镇都会塌入地下。这不是解决之道。

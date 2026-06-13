@@ -1,0 +1,4 @@
+{Clouds.Old.Hospital_Platon_Cloud_Apt1_Glass.630} 可他并不戴眼镜。
+{Clouds.Old.Hospital_Platon_Cloud_Apt1_Glass.27021} 可他并不戴眼镜。
+{Clouds.Old.Hospital_Platon_Cloud_Apt1_Glass.27460} 公寓里也没有眼镜。
+{Clouds.Old.Hospital_Platon_Cloud_Apt1_Glass.11180} 要么在研究植物，要么兼职当侦探。

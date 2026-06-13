@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_2_MM_Farewell.Name} 真正的科学家
+{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_2_MM_Farewell.Description} 我想留下来帮雅科夫·利特尔，但士兵粗暴地把我押回了静水观星台。我们勉强来得及道别。他和其他人后来会怎样——我不知。

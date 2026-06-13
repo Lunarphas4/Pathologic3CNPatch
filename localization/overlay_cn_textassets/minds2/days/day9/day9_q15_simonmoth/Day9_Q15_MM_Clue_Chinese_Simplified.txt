@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Clue.Name} 一条线索？
+{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Clue.Description} 有些东西只能见一次。西蒙的书房——正是其中之一。

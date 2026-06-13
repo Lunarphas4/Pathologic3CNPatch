@@ -1,0 +1,2 @@
+﻿{Locations.Horns_Victor.Name} 熔炉，维克多的偏厅
+{Locations.Horns_Victor.Description} 熔炉，维克多的偏厅

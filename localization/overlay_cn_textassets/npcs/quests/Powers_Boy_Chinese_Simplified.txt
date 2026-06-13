@@ -1,0 +1,3 @@
+{Npcs.Quests.Powers_Boy.Name} 细瘦
+{Npcs.Quests.Powers_Boy.FullName} ⁠
+{Npcs.Quests.Powers_Boy.Description} ⁠

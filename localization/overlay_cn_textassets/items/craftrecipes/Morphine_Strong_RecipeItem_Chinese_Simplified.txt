@@ -1,0 +1,3 @@
+﻿{Items.CraftRecipes.Morphine_Strong_RecipeItem.Name} 配方：大剂量吗啡
+{Items.CraftRecipes.Morphine_Strong_RecipeItem.Description} 镇静剂。大幅增加冷漠。
+{Items.CraftRecipes.Morphine_Strong_RecipeItem.Description2} 镇静剂。大幅增加冷漠。

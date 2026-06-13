@@ -1,0 +1,17 @@
+{Dialogs2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Interview.18608} 陆军第 2 师地面炮兵侦察连指挥官德龙特中士报告。按照医嘱到达医院。
+{Dialogs2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Interview.11777} 中士？以你的年纪，我还以为你至少该是上尉。
+{Dialogs2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Interview.21670} 好士兵升得快。好人嘛……
+{Dialogs2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Interview.45385} 所以你是说军阶越高，人越坏？你对上级不满？
+{Dialogs2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Interview.12662} 没有，长官！我只是不了解，为什么指挥部要把我这个普通感冒的人送到医院。感冒吓不倒士兵。但命令不是拿来理解的。命令是拿来执行的。
+{Dialogs2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Interview.15668} 哪里不舒服？
+{Dialogs2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Interview.7495} 普通感冒。士兵什么时候该怕这个了？我本可以卧床一天，明天就回岗位。我不明白长官为什么把我送到这里，长官。但命令不是拿来理解的。命令是拿来执行的。
+{Dialogs2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Interview.50513} 那就执行我的命令。在医院里，把我当成你的临时指挥官。告诉我，你具体有哪些问题。
+{Dialogs2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Interview.40684} 我的错，长官！下次改正。我的具体问题是发热和头痛。服药未达到预期效果。我被送来接受治疗。请下达指示。
+{Dialogs2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Interview.60365} 这些症状很常见。请去接受检查。
+{Dialogs2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Interview.62898} 我要先采些样本做检测。
+{Dialogs2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Interview.21030} 暂时解散。之后继续。
+{Dialogs2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Interview.45143} 诊断交给医生。是不是感冒，我们现在就要查清楚。
+{Dialogs2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Interview.27950} 能不能别用军队那套说话？
+{Dialogs2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Interview.26143} 我的错，长官！多年从军，习惯成自然。
+{Dialogs2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Interview.58753} 也罢。你显然不是适合讨论军队到来对本镇流行病形势影响的人。
+{Dialogs2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Interview.754} 我本人也不明白，为什么指挥部要把我这个普通感冒的人送到医院。感冒吓不倒士兵。但命令不是拿来理解的。命令是拿来执行的。

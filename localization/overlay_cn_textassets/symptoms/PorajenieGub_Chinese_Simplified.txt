@@ -1,0 +1,2 @@
+{Symptoms.PorajenieGub.Name} 唇部损害
+{Symptoms.PorajenieGub.Description} 唇部黏膜较脆弱，患病时可出现不同来源的皮疹或溃疡。

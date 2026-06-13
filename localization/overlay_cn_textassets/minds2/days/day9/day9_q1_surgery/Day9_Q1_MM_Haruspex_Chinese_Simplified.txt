@@ -1,0 +1,2 @@
+{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_Haruspex.Name} 肠卜师的相助
+{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_Haruspex.Description} 阿尔捷米·布拉赫愿意以言以行助我一臂之力。

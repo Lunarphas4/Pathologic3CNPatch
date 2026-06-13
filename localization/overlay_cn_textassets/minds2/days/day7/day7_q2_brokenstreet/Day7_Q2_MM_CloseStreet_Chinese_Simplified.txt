@@ -1,0 +1,2 @@
+{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_CloseStreet.Name} 共识
+{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_CloseStreet.Description} 柳里切娃造的那条街很危险。明日它将被封堵起来。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_FinallyEscape.Name} 救死亡学院
+{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_FinallyEscape.Description} 就此，我已下定决心返回帝都。格里夫答应帮忙；我只需解决三件事。

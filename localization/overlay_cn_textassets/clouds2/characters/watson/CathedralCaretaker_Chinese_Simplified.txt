@@ -1,0 +1,5 @@
+{Clouds2.Characters.Watson.CathedralCaretaker.57075} 没人知道他是谁
+{Clouds2.Characters.Watson.CathedralCaretaker.27818} 没人知道他是谁
+{Clouds2.Characters.Watson.CathedralCaretaker.5374} 他照看大教堂的机械
+{Clouds2.Characters.Watson.CathedralCaretaker.19757} 维护法尔哈德的工程
+{Clouds2.Characters.Watson.CathedralCaretaker.63632} 没有名字

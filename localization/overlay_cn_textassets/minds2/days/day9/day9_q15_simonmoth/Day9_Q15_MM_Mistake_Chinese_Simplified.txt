@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Mistake.Name} 致命之误
+{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Mistake.Description} 要是第二天我没有鲁莽地冲进西蒙的书房就好了！

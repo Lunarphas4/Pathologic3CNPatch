@@ -1,0 +1,7 @@
+{Dialogs2.Days.Intro.Intro_Exam.Intro_Exam_Patient_NewQuestions.44421} 呼吸稍微轻松些了，但说话还是很困——<i>咳</i>……
+{Dialogs2.Days.Intro.Intro_Exam.Intro_Exam_Patient_NewQuestions.54282} 你现在可以先别说话。我只需要检查你。
+{Dialogs2.Days.Intro.Intro_Exam.Intro_Exam_Patient_NewQuestions.25908} 你现在可以先别说话。我需要再检查你一次。也许我漏掉了什么……
+{Dialogs2.Days.Intro.Intro_Exam.Intro_Exam_Patient_NewQuestions.38260} 希望你的血液检测能告诉我们些什么。
+{Dialogs2.Days.Intro.Intro_Exam.Intro_Exam_Patient_NewQuestions.10417} 我可以再取一份血样分析吗？遗憾的是，我还没能弄清根源。
+{Dialogs2.Days.Intro.Intro_Exam.Intro_Exam_Patient_NewQuestions.30240} 休息吧。我还没查看你随身带来的东西。谢拉菲玛，你说它们在哪儿？后门旁边的桌上？
+{Dialogs2.Days.Intro.Intro_Exam.Intro_Exam_Patient_NewQuestions.22013} 休息吧。我会再看看你被送到停尸间时带着的那些东西。还剩最后一条合乎逻辑的路径。

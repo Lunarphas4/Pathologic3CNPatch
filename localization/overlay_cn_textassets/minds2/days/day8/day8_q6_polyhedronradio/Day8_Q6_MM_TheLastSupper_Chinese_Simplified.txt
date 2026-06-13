@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_TheLastSupper.Name} 路已通
+{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_TheLastSupper.Description} 现在我能去找彼得谈了！

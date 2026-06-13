@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q1_Trial.Day7_Q1_MM_KainsGone.Name} 乌托邦者
+{Minds2.Days.Day7.Day7_Q1_Trial.Day7_Q1_MM_KainsGone.Description} 凯恩家在这场审讯中没有列席。他们竟脱身了？

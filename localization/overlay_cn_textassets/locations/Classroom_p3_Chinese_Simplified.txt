@@ -1,0 +1,2 @@
+﻿{Locations.Classroom_p3.Name} 阶梯教室
+{Locations.Classroom_p3.Description} 阶梯教室

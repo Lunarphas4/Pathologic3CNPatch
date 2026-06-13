@@ -1,0 +1,3 @@
+{Npcs.Quests.Man_Shelter.Name} 可怜虫
+{Npcs.Quests.Man_Shelter.FullName} ⁠
+{Npcs.Quests.Man_Shelter.Description} ⁠

@@ -1,0 +1,3 @@
+﻿{Items.AnalyserItems.Day5_Q7_HeartDead.Name} 死心
+{Items.AnalyserItems.Day5_Q7_HeartDead.Description} 已经安息。
+{Items.AnalyserItems.Day5_Q7_HeartDead.Description2} 这真是奇迹，草原女子的心脏在没有冷藏的情况下竟跳了这么久。但奇迹也有极限。死去的器官毫无用处。

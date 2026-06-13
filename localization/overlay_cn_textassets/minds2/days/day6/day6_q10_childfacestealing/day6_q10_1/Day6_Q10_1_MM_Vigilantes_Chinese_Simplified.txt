@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_1.Day6_Q10_1_MM_Vigilantes.Name} 私刑
+{Minds2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_1.Day6_Q10_1_MM_Vigilantes.Description} 镇民正举着叉子和火把集结，要去铲除"怪物"。以他们那迷信的脾气……怕会闹出无法挽回的事。

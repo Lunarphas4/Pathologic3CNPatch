@@ -1,0 +1,6 @@
+{ArchiveDialogs.Day4.Shadows_Rubin_KilledByKainsDay4.11524} 你找鲁宾？他死了。
+{ArchiveDialogs.Day4.Shadows_Rubin_KilledByKainsDay4.11588} 发生了什么？
+{ArchiveDialogs.Day4.Shadows_Rubin_KilledByKainsDay4.12023} ‘发生了什么。’你要是真在乎，就该知道。你在哪儿，丹科夫斯基？城市快死了，你又在忙什么？鲁宾想救所有人。他是唯一一个在乎这座城、在乎这里人的人。唯一一个不是冷眼旁观的人。结果这就是他得到的报答。
+{ArchiveDialogs.Day4.Shadows_Rubin_KilledByKainsDay4.1223} 看在上帝份上，别哭丧了，说清楚，到底发生了什么？
+{ArchiveDialogs.Day4.Shadows_Rubin_KilledByKainsDay4.9737} 你到城里第三天。鲁宾躲在仓库区，他们找到了他，把他杀了。身边没有一个人能帮他。你在哪儿，丹科夫斯基？
+{ArchiveDialogs.Day4.Shadows_Rubin_KilledByKainsDay4.7266} 第三天，也就是说。得去查查那里到底发生了什么。

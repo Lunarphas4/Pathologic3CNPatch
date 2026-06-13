@@ -1,0 +1,27 @@
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.47886} Zaluushuulai shuhan ghazar delkheye uhalkhan boltogoi！（愿少年的血使大地苏醒！）
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.46733} Bide bagha khüsiye tahalbabdhi！（愿瘟疫远离我们的孩子！）
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.25474} 这突然的节庆是怎么回事？瘟疫结束了？隔离解除了？
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.36745} 坐下，tenegh（傻瓜）。今天是好日子。和我们一起喝。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.47534} 你是说，就用这只杯子？你不是把它弄混了吧——等等，这是……你们在喝血？！
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.25033} 不是普通的血，emshen（医者）。这是小公牛的血！Nanghin shuhan（纯净的血）！这是变化与顺风的征兆！现在，Boddho（大地母亲）会怜悯我们。她会变得 hayn（仁慈），会温暖我们的脚步。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.6106} 这头公牛？大概不是——从活牛身上取血可不是好主意。你会被踩扁。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.63428} 公牛自己来到我们这里，自愿而来，这是征兆，emshen（医者），hayn halkhinai temdegh（好兆头）。这血最纯净。与我们共饮！分享我们的欢喜！
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.64994} 喝公牛血很危险。事实上，会危及性命。它可能被感染。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.64198} 这血最纯净，emshen（医者）。因为公牛自己来了，自愿而来，这是征兆，emshen（医者），hayn halkhinai temdegh（好兆头）。与我们共饮！分享我们的欢喜！
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.19885} 谢谢你们的款待，但我想我还是谢绝。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.60577} 那就带走吧，tenegh（傻瓜）。万一你改了主意。饮下正义之血永远不迟。让客人走近石头，让他从杯中饮下。Gansal shuhan muue usadhadag（愿正义之血洗去恶水）！
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.10675} 那么，谢谢你们的慷慨。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.56389} 跟野人说话就像从石头里放血。不过这一次，倒真的弄到了一份血样。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.13330} 但如果你们取血的是静水观星台那头公牛……听我一句，你们会后悔。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.1223} 我在这镇上待的这几天已经把我逼疯到这种程度了吗？看来确实如此。把杯子递给我。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.60686} 也带一些走吧。先与我们共饮，再与别人分享。让客人走近石头，让他从杯中饮下。Gansal shuhan muue usadhadag！
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.53969} 我能带一些走吗？我想查查你们这血是不是像你们说的那样“纯净”。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.1789} 是的，tenegh（傻瓜），是的。不过拿去吧，我们不拒绝客人。只是你最好直接喝下去。让客人走近石头，让他从杯中饮下。Gansal shuhan muue usadhadag（愿正义之血洗去恶水）！
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.44077} 跟野人说话就像从石头里放血。不过这一次，倒真的弄到了一份血样。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.59561} 公牛？希望不是我的实验公牛。我才刚刚对一种对抗沙疫的新方法燃起希望！我该怎么跟伊娃说？她已经很舍不得它了……
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.5202} 别用你的话伤我们，emshen（医者）。我们从不取不属于我们的东西。我们没有召唤你的公牛，也没有召唤我们的——它自己来了，自愿而来，这是征兆，emshen（医者），hayn halkhinai temdegh（好兆头）。这血最纯净。与我们共饮！分享我们的欢喜！
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.10939} 这有什么好事？
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.7559} 年轻的公牛来到我们这里，zaluu booha（年轻的公牛）！这是变化与顺风的征兆！现在，Boddho（大地母亲）会怜悯我们。她会变得 hayn（仁慈），会温暖我们的脚步。
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.32892} 一头公牛来到你们这里，你们宰了它，现在唱着跳着喝它的血？我理解得没错吧？
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.15097} 我能问问你们在庆祝什么吗？
+{Dialogs2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_SteppePeople_Festival.46135} 我猜今天在静水观星台墙上画血图的就是你们？

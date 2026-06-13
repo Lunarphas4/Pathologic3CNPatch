@@ -1,0 +1,2 @@
+{Notifications.GameHint.Hint_Osmotr_Notification.Name} ⁠
+{Notifications.GameHint.Hint_Osmotr_Notification.Description} 按 <InputActions/UI/Tablet> 查看病例本。可在其中添加症状。

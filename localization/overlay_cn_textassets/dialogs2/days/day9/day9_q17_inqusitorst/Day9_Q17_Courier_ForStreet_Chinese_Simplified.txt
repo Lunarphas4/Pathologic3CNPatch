@@ -1,0 +1,14 @@
+{Dialogs2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_Courier_ForStreet.7571} 抱歉，您是丹尼尔·丹科夫斯基吗？审判官有口信！他在大教堂等您。
+{Dialogs2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_Courier_ForStreet.59814} 今天第二次？他想要什么？
+{Dialogs2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_Courier_ForStreet.63292} 是关于你下令封闭的中庭那条街。审判官特别指出，这一次他愿意等到傍晚。
+{Dialogs2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_Courier_ForStreet.59910} 是吗？好吧，我会去。
+{Dialogs2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_Courier_ForStreet.57466} 告诉审判官，无论傍晚还是明天早上，我都有更重要的事要处理。
+{Dialogs2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_Courier_ForStreet.1173} 你又要把我强行带去大教堂吗？
+{Dialogs2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_Courier_ForStreet.52721} 不。我接到指示，不能那样做。此事需要自愿参与。
+{Dialogs2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_Courier_ForStreet.48707} 审判庭这次倒会装含蓄。它的事务里从来没有自愿者。
+{Dialogs2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_Courier_ForStreet.43725} 说吧。审判官召我去的理由是什么？
+{Dialogs2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_Courier_ForStreet.37662} 我或许能抽出时间见他。
+{Dialogs2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_Courier_ForStreet.27754} 你找错人了。
+{Dialogs2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_Courier_ForStreet.24053} 是关于你下令封闭的中庭那条街。审判官特别指出，这一次他愿意等到傍晚。
+{Dialogs2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_Courier_ForStreet.56374} 我告诉你，你找错人了。我不是丹科夫斯基。我不知道什么街，也不知道什么中庭。
+{Dialogs2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_Courier_ForStreet.15370} 中庭的一条街……有意思。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_MM_Detective.Name} 扮侦探
+{Minds2.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_MM_Detective.Description} 即使我信了这些胡话——伊西多尔的凶手对我又有何用？让当局去处置他罢。我需要的是活着的伊西多尔。

@@ -1,0 +1,3 @@
+{UI.CharacterWindow.Tooltips.ShabnakTooltips.Death} 镇上再也没有无名的Shabnak（泥魔女）化身
+{UI.CharacterWindow.Tooltips.ShabnakTooltips.Intro} Shabnak（泥魔女），泥与骨制成的魔像，瘟疫的化身。她并不存在，却会杀人
+{UI.CharacterWindow.Tooltips.ShabnakTooltips.Killed} 她并非不死。她可以被摧毁。换一天，她还会再来

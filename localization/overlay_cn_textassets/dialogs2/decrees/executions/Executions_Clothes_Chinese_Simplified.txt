@@ -1,0 +1,15 @@
+{Dialogs2.Decrees.Executions.Executions_Clothes.47974} ……说好了：靴子归你，剩下的归我们——他们身上穿的，还有口袋里的，都算。
+{Dialogs2.Decrees.Executions.Executions_Clothes.56401} 不行，那可不成！我们可没说好口袋里的东西也算进去。里头有什么，得另算另分。
+{Dialogs2.Decrees.Executions.Executions_Clothes.20183} 真是配得上志愿者和士兵的争执。
+{Dialogs2.Decrees.Executions.Executions_Clothes.13687} 你们在分死人的钱，是吗？
+{Dialogs2.Decrees.Executions.Executions_Clothes.57114} 对。你脑子彻底裂了吧，朋友？活腻了？等不及去见来世？
+{Dialogs2.Decrees.Executions.Executions_Clothes.25709} 你只是路过，那就继续走。我们不施舍，这里也不是济贫院。
+{Dialogs2.Decrees.Executions.Executions_Clothes.42383} 嘿，别急，那是……
+{Dialogs2.Decrees.Executions.Executions_Clothes.23385} 你骗不了我，你们的花招我隔老远就闻得出来。我不管这个体面的小无名卒是谁。赃物另分。就这样。
+{Dialogs2.Decrees.Executions.Executions_Clothes.45607} 别自相撕咬。你们还有活要做。
+{Dialogs2.Decrees.Executions.Executions_Clothes.57799} 人对人，是狼。
+{Dialogs2.Decrees.Executions.Executions_Clothes.1835} 各取其应得。
+{Dialogs2.Decrees.Executions.Executions_Clothes.57684} 站住。你刚才叫谁母狗？
+{Dialogs2.Decrees.Executions.Executions_Clothes.18671} 学者懂外语，也爱说漂亮话。你倒真是一条疯狗，所以拿去，拿你的钱噎死吧！
+{Dialogs2.Decrees.Executions.Executions_Clothes.38745} 多谢。
+{Dialogs2.Decrees.Executions.Executions_Clothes.48864} 丢人。立刻停下。令人作呕。

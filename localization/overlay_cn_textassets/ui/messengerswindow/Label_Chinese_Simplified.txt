@@ -1,0 +1,2 @@
+﻿{UI.MessengersWindow.Label.Quest:} 任务：
+{UI.MessengersWindow.Label.Guarantor:} 助手：

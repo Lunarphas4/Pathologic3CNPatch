@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q7_SavingOfPolyhedron.Day12_Q7_MM_Clinch.Name} 冲突
+{Minds2.Days.Day12.Day12_Q7_SavingOfPolyhedron.Day12_Q7_MM_Clinch.Description} 布洛克将军同时收到了两道命令：审判官莉莉奇令——摧毁多面体；审判官卡明斯基令——保留多面体。

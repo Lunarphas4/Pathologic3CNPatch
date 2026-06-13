@@ -1,0 +1,2 @@
+{UI.Credits.HypeTrain.QA.AlexanderZinin.AlexanderZinin} Alexander Zinin
+{UI.Credits.HypeTrain.QA.AlexanderZinin.Cursed} 深受理解之苦

@@ -1,0 +1,5 @@
+{Clouds.Flavor.Cloud_Hospital_surgery.17796} 真正的手术剧场。连音响效果都有。
+{Clouds.Flavor.Cloud_Hospital_surgery.11185} 真正的手术剧场。连音响效果都有。
+{Clouds.Flavor.Cloud_Hospital_surgery.12104} 无菌术在这里派不上用场。
+{Clouds.Flavor.Cloud_Hospital_surgery.11103} 没有地方把污染者和洁净者隔开。
+{Clouds.Flavor.Cloud_Hospital_surgery.5171} 闷热会让手术室走向毁灭。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Intro.Intro_Day1_MM_Resourses.Name} 显微镜丢了
+{Minds2.Days.Intro.Intro_Day1_MM_Resourses.Description} 第二件工具被另一伙孩子偷走了。我得在镇上找它。这可不是我期待中的导览！

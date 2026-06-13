@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_MM_NoIsidor.Name} 错失良机
+{Minds2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_MM_NoIsidor.Description} 丹科夫斯基，今天你本会在伊西多家发现什么？现在你永远不会知道了。

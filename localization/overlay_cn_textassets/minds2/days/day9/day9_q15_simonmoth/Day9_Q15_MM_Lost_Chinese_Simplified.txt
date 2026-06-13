@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Lost.Name} 失落的往昔
+{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Lost.Description} 我从未见过这种细节。看来我在过去漏掉了什么。可在何时？

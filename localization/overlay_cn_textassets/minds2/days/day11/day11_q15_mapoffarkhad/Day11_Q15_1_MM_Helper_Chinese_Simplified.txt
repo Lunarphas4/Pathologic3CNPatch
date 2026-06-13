@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_Helper.Name} 神秘助手
+{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_Helper.Description} 卡佩拉提醒我：金族不会喜欢这些问题。我得更小心。还要特别去找白蚁巢工头的女儿。

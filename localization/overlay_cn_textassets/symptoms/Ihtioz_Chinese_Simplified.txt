@@ -1,0 +1,2 @@
+{Symptoms.Ihtioz.Name} 鱼鳞病样改变
+{Symptoms.Ihtioz.Description} 皮肤色素分布不均，形成近似鳞片的深色斑纹，并由较浅区域隔开。

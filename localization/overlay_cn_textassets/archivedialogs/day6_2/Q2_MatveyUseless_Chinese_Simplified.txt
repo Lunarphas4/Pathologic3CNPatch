@@ -1,0 +1,21 @@
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.1} 我可以跟你说话吗，医生？
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.2} 投诉？
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.4} 时代很艰难，医生。袖手旁观真丢人。我们的城市就是这样——兄弟对兄弟，有人可能会说。
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.5} 这不是一种病态。
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.6} 也许我会告诉你一个秘密，但你的城市里有同情者。每个人都看到你如何大惊小怪，但只有那些同情你的人愿意帮助你——就像那样，出于他们内心的善良。
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.8} 人们为我工作不是因为他们同情，而是因为他们被命令这样做。
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.10} 我刚才走过马鞍。那里有一群人。嗯，不只是这样。我走到他们面前说，我是马特维，一名军人，请告诉我发生了什么事。
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.11} 他们说了吗？
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.12} 他们说，4 号屋散发着死人般的臭味。我们需要做点什么。我反应果断。
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.13} 那么呢？
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.14} 所以，三十具尸体中…现在，我在这里记录了…四具在子宫里。十二 - 坦纳斯，他们同意接受它们。我通过熟人达成了协议。他把三个人安置在Stone Dvor，但他们最终都成了好家庭…继续…
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.15} 对不起，什么尸体？
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.16} 就像…死了一样。你不会被打扰的，医生。没有什么。
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.17} 是的，绝对是。
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.19} 我有没有告诉过你从最高的塔上走下来？听着，我仍然受过高等教育。
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.29} 马特维，对吗？照顾好自己，马特维。我不会对待你。
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.27} 不需要。帮忙了，好心人。我希望我能让每个参与其中的人重新站起来。
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.24} 暴力地区。我知道。
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.9} 你到底想说什么？
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.7} 他们还把我写成兄弟？
+{ArchiveDialogs.Day6_2.Q2_MatveyUseless.3} 放心，放心，你不用值班。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_2_MM_Loss.Name} 不可替代的损失
+{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_2_MM_Loss.Description} 无论是人、是兽、是邪祟还是病痛害死了伊西多尔——他在剧痛中咽了气。他之死对小镇的份量，仅西蒙之死可与之相比。

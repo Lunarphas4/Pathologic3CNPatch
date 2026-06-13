@@ -1,0 +1,3 @@
+{Npcs.patient_Tochechka.Name} 雅科夫·利特尔
+{Npcs.patient_Tochechka.FullName} ⁠
+{Npcs.patient_Tochechka.Description} ⁠

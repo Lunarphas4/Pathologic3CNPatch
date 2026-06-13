@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_RushTutorial.Name} 躁狂
+{Notifications.Tutorial.Notification_RushTutorial.Description} 高度狂躁会加快世界的运转，但有损健康。剂量过大时——指引性的幻象会浮现在眼前。

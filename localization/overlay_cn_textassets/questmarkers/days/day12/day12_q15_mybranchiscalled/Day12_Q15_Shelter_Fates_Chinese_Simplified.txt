@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Shelter_Fates.Name} 庇护所
+{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Shelter_Fates.Description} 庇护所里还有一些我尚未得知的命运。

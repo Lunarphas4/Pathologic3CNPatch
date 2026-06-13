@@ -1,0 +1,3 @@
+﻿{Items.Days.Intro.Microscope.Name} 显微镜
+{Items.Days.Intro.Microscope.Description} 光学的奇迹。
+{Items.Days.Intro.Microscope.Description2} 通往微生物世界的仪器。

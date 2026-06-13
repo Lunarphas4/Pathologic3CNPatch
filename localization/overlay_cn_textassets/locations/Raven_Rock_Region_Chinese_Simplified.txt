@@ -1,0 +1,2 @@
+{Locations.Raven_Rock_Region.Name} 鸦石
+{Locations.Raven_Rock_Region.Description} 鸦石

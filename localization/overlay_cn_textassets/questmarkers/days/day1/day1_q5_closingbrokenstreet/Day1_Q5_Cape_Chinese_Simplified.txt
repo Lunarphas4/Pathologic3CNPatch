@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Cape.Name} 维多利亚之墓
+{QuestMarkers.Days.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Cape.Description} 萨布罗夫在她墓前做什么？不管怎样，这并不重要。只要他封闭柳里切娃街就行。

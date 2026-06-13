@@ -1,0 +1,10 @@
+﻿{Dialogs2.Days.Intro.Intro_Spleen.Intro_Spleen_Dogheads_AfterFlashback.33484} ……所以，这是不是说她其实根本没死？
+{Dialogs2.Days.Intro.Intro_Spleen.Intro_Spleen_Dogheads_AfterFlashback.26186} 你说那个据称复活的女人？可惜。
+{Dialogs2.Days.Intro.Intro_Spleen.Intro_Spleen_Dogheads_AfterFlashback.41363} 那你的显微镜到底<i>有什么用</i>？不能看未来，也不能让死人复活——说到底只是个玩具。
+{Dialogs2.Days.Intro.Intro_Spleen.Intro_Spleen_Dogheads_AfterFlashback.11077} 年轻人，你对它的期待可真高。
+{Dialogs2.Days.Intro.Intro_Spleen.Intro_Spleen_Dogheads_AfterFlashback.18599} 好吧。如果那片玻璃里看不见未来，那我们走了。毕竟我们有重要的事要做！
+{Dialogs2.Days.Intro.Intro_Spleen.Intro_Spleen_Dogheads_AfterFlashback.55280} 我也一样。我会先把东西放到临时住处，然后去炉宅见西蒙。
+{Dialogs2.Days.Intro.Intro_Spleen.Intro_Spleen_Dogheads_AfterFlashback.57230} 明智的安排。宝贵时间不该浪费。
+{Dialogs2.Days.Intro.Intro_Spleen.Intro_Spleen_Dogheads_AfterFlashback.39912} 有时我也问自己同样的问题。
+{Dialogs2.Days.Intro.Intro_Spleen.Intro_Spleen_Dogheads_AfterFlashback.17251} 突破不可能在一个动作里完成。它需要持续的努力。每一步起初都显得微小。但总有一天，我们会学会复活死者。
+{Dialogs2.Days.Intro.Intro_Spleen.Intro_Spleen_Dogheads_AfterFlashback.9074} 我们试图寻找的其他那些案例也一样。就目前而言，自发复生似乎只是虚构。

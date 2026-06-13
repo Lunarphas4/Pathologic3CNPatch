@@ -1,0 +1,2 @@
+{UI.Credits.Programming.NikolaiPonomarev.Name} Nikolai Ponomarev
+{UI.Credits.Programming.NikolaiPonomarev.Description} 图形程序员、优化工程师

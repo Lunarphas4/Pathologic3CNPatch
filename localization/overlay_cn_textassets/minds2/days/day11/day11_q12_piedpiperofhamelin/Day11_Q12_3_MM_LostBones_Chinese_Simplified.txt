@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_3_MM_LostBones.Name} 一点不瘆人
+{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_3_MM_LostBones.Description} 要把多面体里的孩子撤出来，鼠先知需要一根孩童的骨头。在火车坟场可以找到合用的。

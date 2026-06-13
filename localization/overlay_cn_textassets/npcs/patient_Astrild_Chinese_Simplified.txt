@@ -1,0 +1,3 @@
+{Npcs.patient_Astrild.Name} 病人阿斯特丽德
+{Npcs.patient_Astrild.FullName} ⁠
+{Npcs.patient_Astrild.Description} ⁠

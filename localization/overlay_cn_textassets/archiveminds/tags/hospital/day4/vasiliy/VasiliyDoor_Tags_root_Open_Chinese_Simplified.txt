@@ -1,0 +1,2 @@
+{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.VasiliyDoor_Tags_root_Open.Name} ⁠
+{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.VasiliyDoor_Tags_root_Open.Description} 可以打开。

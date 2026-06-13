@@ -1,0 +1,2 @@
+{UI.Credits.Art.AlexanderMitin.Name} Alexander Mitin
+{UI.Credits.Art.AlexanderMitin.Description} 联系编织者

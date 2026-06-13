@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_1_MM_RotPolyhedron.Name} 腐朽
+{Minds2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_1_MM_RotPolyhedron.Description} 至此，多面体将不再抵御瘟疫。\n\n但对这座小镇而言，已经太迟了。

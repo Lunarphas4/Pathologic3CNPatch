@@ -1,0 +1,2 @@
+{UI.Credits.RullerProductions.DmitriiKungurov.Name} Dmitrii Kungurov
+{UI.Credits.RullerProductions.DmitriiKungurov.Description} Showrunner & Creative 导演

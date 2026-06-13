@@ -1,0 +1,2 @@
+{PersonalFiles.Day4.Liuta.Name} 柳塔
+{PersonalFiles.Day4.Liuta.Description} 住在锅炉房里，自认身体健康。

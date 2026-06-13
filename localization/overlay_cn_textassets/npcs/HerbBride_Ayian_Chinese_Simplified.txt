@@ -1,0 +1,3 @@
+{Npcs.HerbBride_Ayian.Name} 艾杨
+{Npcs.HerbBride_Ayian.FullName} ⁠
+{Npcs.HerbBride_Ayian.Description} ⁠

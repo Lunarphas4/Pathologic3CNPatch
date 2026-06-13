@@ -1,0 +1,27 @@
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.10220} 他们喂你们稀糊糊，你们还吃得跟过节似的！连公牛都嫌这烂泥，你们倒好……呃。你们真是没落透了！
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.24619} 把你那张蠢嘴闭上！不如狠狠干脆拿吃的把它塞满，省得再往外喷废话！我三天没吃东西了！我才不管这是不是稀汤寡水还是石头汤，有什么我都吃，还要再来一碗。
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.27467} 这女人说得对，虽然她蠢得像头母牛！这稀汤里连一丝肉都没有！全是水！他们这是在拿茶水打发我们呢，真谢谢了！
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.161} “稀汤寡水”又不是什么词。别自己造词。
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.3637} 有没有这个词有什么要紧？要紧的是我肚子里现在总算有点东西在晃荡，饥饿也没再把我脑子逼疯。这在我看来就够好了。
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.59306} 你听见他们在说什么了吗，Emshen（医者）？我跟你讲，那些 ajarai 已经野了。再这样下去，他们就要开始互相吃了，burkhan khoriglokho。我亲眼看见一个男人拿一块干面包，想跟女人换她的孩子！
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.12483} 他想吃那孩子？
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.6392} 我们院子里本来有尸体，结果一下子，到了早晨就没了。人们把他们带回家去了……你懂的。
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.15751} 不，我不懂。你的意思是，人已经开始吃人了？
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.20169} 你真逗。眼下这世道都摆在你面前了，你还装作看不见？这儿发吃的，在我看来是好事。可我们还得多发点，不然总有一天，别人就会把你、把我们都吃了，然后再去啃土。这事已经开始了。
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.63282} 我会考虑你的建议。
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.27687} 那你说说，我们上哪儿再弄更多这种“吃食”？镇子正封着呢。你有什么主意？
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.10066} 那可不是我操心的事。谁管事，谁就该为这种问题动脑子。不过你也知道，肚子空空，脑子就不灵。
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.51184} 俗话可不是这么说的。是“饱腹使人脑钝”。“肚子太饱，脑子就钝。”
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.45672} 哦，真的吗？那可太蠢了。我敢打赌，想出这句俗话的人从没挨过饿。所以他对饱肚子的高见，我一点也不在乎。
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.29065} 你以为自己多聪明，是吧？瞧你那张胖脸，倒像是吃得挺好。你最好小心点，你这只得意洋洋的公鸡。没准哪天真有人把你拔了毛，扔锅里炖。
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.33415} 我上一次吃东西，大概是一周前。在首都。
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.51416} 是啊，我是“饱”了……是被这堆胡闹给饱烦了。
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.35345} 我就知道，人民一直爱戴我。
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.11455} 我碰到的每个人都像是什么都懂，可谁都不肯真做点事。
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.9833} 我在这儿纯属浪费时间。
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.10537} 这事到底是在哪儿发生的？告诉我！
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.62631} 到处都在发生。你真逗。眼下这世道都摆在你面前了，你还装作看不见？这儿发吃的，在我看来是好事。可我们还得多发点，不然总有一天，别人就会把你、把我们都吃了，然后再去啃土。这事已经开始了。
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.53221} 我最好还是走吧。这种胡说八道纯属浪费时间。
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.59616} 你不会真以为，我会相信有人拿孩子换干面包这种离谱故事吧？
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.13022} 公牛见了这锅炖菜都得嫌弃地扭头走，因为主料怕不是牛筋。
+{Dialogs2.Decrees.FoodDistribution.FoodDistribution_FieldKitchen.64406} 它是什么做的根本不重要。就算是小孩的筋，或者木工胶，我也不在乎。只要我肚子里有点东西在晃荡，饥饿不再把我脑子逼疯，我就知足了。

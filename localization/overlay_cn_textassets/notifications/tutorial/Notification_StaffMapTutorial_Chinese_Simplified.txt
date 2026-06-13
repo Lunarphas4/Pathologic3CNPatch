@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_StaffMapTutorial.Name} 后果
+{Notifications.Tutorial.Notification_StaffMapTutorial.Description} 已生效的政令已经在影响这镇。威胁越多——危险城区越多。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_4_MM_DumSpiro.Name} Dum spiro spero（一息尚存，则希望犹在）
+{Minds2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_4_MM_DumSpiro.Description} 送了一位同病之人去医院。他多半帮不了我们——但只要我还有呼吸，便仍抱希望。

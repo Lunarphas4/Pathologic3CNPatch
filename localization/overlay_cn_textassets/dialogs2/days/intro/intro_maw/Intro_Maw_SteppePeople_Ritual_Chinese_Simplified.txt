@@ -1,0 +1,39 @@
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.31719} 布哈，我乖巧的小公牛……钝口，宽额……<i>请</i>原谅我们……
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.62929} 你真傻，埃尔热，你一直都傻。他要回到博斯·图罗赫那里，回到Boddho（大地母亲）那里！我们正把他引入父母的怀抱。你为什么要请求他的原谅？
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.52825} 因为博斯·图罗赫死了，艾娜！\n\n这头小公牛一生都不知道，最美丽的生灵——不死的博斯·图罗赫——一直在等待他。而现在他知道了……博斯·图罗赫却死了。布哈会找到他父亲沉默的尸身。我们怎么能不怜悯他？
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.17342} 谁死了？
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.49298} 博斯·图罗赫，所有哈坦格、人和公牛之父。我们请求苏奥克把他带回来。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.34394} <i>傻的是你</i>，艾娜。苏奥克没有吃掉博斯·图罗赫。她怎么吃得掉？他比她更大，比她更强！\n\n不死者不会被杀死。他是自己选择死亡。我们请求博斯·图罗赫改变心意，回到我们这些孩子身边。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.4828} 博斯·图罗赫是某种神话生物吗？到底发生了什么？
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.11560} 博斯·图罗赫是所有哈坦格、人和公牛之父。啊，我该怎么解释？\n\n我们草药新娘赤脚行走，这样就能一直听见他的心。今晚，它停止跳动了。他的孩子们没有父亲便害怕，所以我们请求他回应。可是……我感觉他已经死了。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.1842} 有尖牙，或者利爪，刺进了他。我感觉到伤口在流血！
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.63472} 铁锈浸进了他体内。我感觉到脚下的腐烂在咕唧作响。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.31819} <i>安静</i>，你们两个。你们什么也不懂。博斯·图罗赫只会因忧郁而死。\n\n我们会让他开心，喂饱他，把我们的喜悦展示给他。我们会把最后的原牛带到他的怀抱。然后他会想起我们，回到我们身边。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.38132} 显然，你们的博斯·图罗赫是一种神话素……但它必然有某种基础。我想知道是什么。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.14757} Boddho（大地母亲）是盲目而慈爱的母亲……是大地的温热。但博斯·图罗赫不仅<i>生下</i>我们，他还看顾我们。我们活在他的注视之下。\n\n如今，镇上没有观者了，Azaghalag Khün（人）。我们现在都是盲目的蠕虫。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.7191} Muugaar，muugaar，坏。蠕虫是蠕虫，人是人。人应当看见，应当建造。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.7842} 看看四周，观者。你看见了什么？
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.63229} 一座允许在居住区献祭活体动物的小镇。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.271} 你还没有仔细看。再往前走，看看我们的庆典。看看最后的原牛。你在这一切里看见什么？\n\n之后告诉古加。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.20698} 我怎么会忘记古加呢？
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.63257} 嗯，至少看你们这些姑娘还挺赏心悦目。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.4307} 原牛就是大公牛，对吧？不管我愿不愿意，我都会看的。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.55489} 我看见西蒙·凯恩的不死，多半也会变成迷信胡话。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.42385} 你。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.5981} 你说观者就是博斯·图罗赫。我凭什么同他相争？
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.6999} 任何一道目光都可能成为博斯·图罗赫的目光。这类事无法预见。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.21782} 也许你们感到了地震余波？东北部偶尔会发生这种事。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.11168} 博斯·图罗赫的心曾在这里跳动。离得不远。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.36497} 所以不死的秘诀就是微笑，并把悲伤放在一边！
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.22183} 喜悦就是生命，khari khun（外乡人）。在葬礼上大笑。疼痛时跳舞！死亡是悲伤的另一个名字。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.41841} 所以，这头公牛是要被献祭？
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.25138} 我们献出一点，以换来许多。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.41332} 嗯……其实，有些动物，比如龙虾，不会经历自然衰老和死亡。但它们仍然会被外力杀死。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.22252} 博斯·图罗赫不是动物。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.41728} 真巧……你们正在埋葬一个不死者，而我是来研究不死者的。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.27299} 所有不死者都是<i>一个</i>不死者，khari khun（外乡人）。因为死亡永远是一。因此，不死者也永远是一。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.13947} “博斯·图罗赫”就是你们对西蒙·凯恩的称呼吗？
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.42631} 所以，博斯·图罗赫发生了什么？
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.2252} “只要是圆的，就是橙色。”面对这样的逻辑，我又有什么资格争辩？
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.54348} 我还以为镇上在举行某种节庆。可你们说的全是死亡。
+{Dialogs2.Days.Intro.Intro_Maw.Intro_Maw_SteppePeople_Ritual.36784} 这是葬礼，khari khun（外乡人）。博斯·图罗赫，所有哈坦格、人和公牛之父，已经死了。我们请求苏奥克把他带回来。

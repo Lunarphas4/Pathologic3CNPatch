@@ -1,0 +1,2 @@
+{UI.Credits.Narrative.VasilisaSherman.Name} Vasilisa Sherman
+{UI.Credits.Narrative.VasilisaSherman.Description} 编剧

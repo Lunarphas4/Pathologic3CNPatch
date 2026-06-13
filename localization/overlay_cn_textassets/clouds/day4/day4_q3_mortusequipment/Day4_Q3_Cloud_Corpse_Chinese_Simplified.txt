@@ -1,0 +1,7 @@
+{Clouds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_Cloud_Corpse.25613} 我该通知亲属吗？他有家人吗？
+{Clouds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_Cloud_Corpse.13645} 我该通知亲属吗？他有家人吗？
+{Clouds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_Cloud_Corpse.7596} 我也可能变成这样。
+{Clouds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_Cloud_Corpse.10100} 他中风了？
+{Clouds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_Cloud_Corpse.10217} 没有外伤，但他看起来病得很重。
+{Clouds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_Cloud_Corpse.10841} 瘟疫这么快就吞掉了他？
+{Clouds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_Cloud_Corpse.25570} 他会不会已经感染了？

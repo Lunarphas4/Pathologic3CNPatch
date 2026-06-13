@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_QuickslotsTutorial_Prologue.Name} 四个口袋
+{Prologue.Notifications.Tutorial.Notification_QuickslotsTutorial_Prologue.Description} 随身携带消耗品。按<InputActions/Inventory/FastSlot1>/<InputActions/Inventory/FastSlot2>/<InputActions/Inventory/FastSlot3>/<InputActions/Inventory/FastSlot4>可快速使用携带的物品

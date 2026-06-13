@@ -1,0 +1,16 @@
+{Dialogs2.Decrees.Disinfection.Disinfection_Raggedy.26894} 多漂亮的火！再添一点！让火焰一直烧到天上去！让天空也烧起来！
+{Dialogs2.Decrees.Disinfection.Disinfection_Raggedy.2987} 以Boddho（大地母亲）之名，为Boddho（大地母亲）之荣光，让万物都烧起来！
+{Dialogs2.Decrees.Disinfection.Disinfection_Raggedy.24345} 你刚才说什么？我一个字也没听懂。
+{Dialogs2.Decrees.Disinfection.Disinfection_Raggedy.3769} 你还好吗？我分不清你是在笑还是在哭。
+{Dialogs2.Decrees.Disinfection.Disinfection_Raggedy.21402} 这重要吗？我们得把天空也烧掉。这才重要！只有这件事重要！
+{Dialogs2.Decrees.Disinfection.Disinfection_Raggedy.17462} 是我！听见了吗？是我，tanihgyi hyn（陌生人）。瘟疫和大火全都是因为我。我向Boddho（大地母亲）祈求自由，erkh chelee（自由）。她给了我！她知道我想要什么，于是她放出了瘟疫——全都是因为我。
+{Dialogs2.Decrees.Disinfection.Disinfection_Raggedy.30486} 要是Boddho（大地母亲）真的听你的，能不能请你求她把瘟疫收回去？
+{Dialogs2.Decrees.Disinfection.Disinfection_Raggedy.17550} 那你想要什么？
+{Dialogs2.Decrees.Disinfection.Disinfection_Raggedy.16221} 那是什么意思？
+{Dialogs2.Decrees.Disinfection.Disinfection_Raggedy.28778} 他们把我嫁出去时，我还只是个女孩。我这一辈子都是 zovson（受苦）。我梦见自己离开这里，yavakhyg mereeddeg baysan（一直盼着能走）。可我做不到。我害怕。我想：“我能去哪儿？”我想：“我有孩子，有丈夫，有家。”现在结束了，bookh zyyliyn tegsel（这一切都完了）！没有孩子，没有丈夫，我所有东西又都在这火里烧着。我终于自由了！
+{Dialogs2.Decrees.Disinfection.Disinfection_Raggedy.6264} 你不能离开小镇。这里还在隔离。
+{Dialogs2.Decrees.Disinfection.Disinfection_Raggedy.25798} 那些都是小事，amdralyn zhizhig zyyl（生活里的小事）。只要我活到那一天，我一定会走。Boddho（大地母亲）听见了我的祈祷。她拿走了一切把我拴在这里的东西。她放我走了。我会重新开始。Ene bol miniy bolomzh（这是我的机会）。
+{Dialogs2.Decrees.Disinfection.Disinfection_Raggedy.30917} 我很遗憾。你失去了孩子，也失去了家。
+{Dialogs2.Decrees.Disinfection.Disinfection_Raggedy.21684} 没什么可遗憾的，kharamsakh zyylgooy（没什么可惋惜的）。Boddho（大地母亲）把他们带走了。我向她祈祷了几百个月，献上供物，求她给我自由。她听见了，现在我又只剩自己了。我是 ynegyi（孑然一身）。
+{Dialogs2.Decrees.Disinfection.Disinfection_Raggedy.21637} 我该走了。
+{Dialogs2.Decrees.Disinfection.Disinfection_Raggedy.24017} 我听说每个人都有自己哀悼的方式，但你的方式确实特别。

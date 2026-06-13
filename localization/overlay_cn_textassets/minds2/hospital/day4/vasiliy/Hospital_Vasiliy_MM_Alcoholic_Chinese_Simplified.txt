@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_Alcoholic.Name} 邻人之证
+{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_Alcoholic.Description} 菲拉特的邻居认为他是酒鬼，自言自语。也许是出现了幻觉？

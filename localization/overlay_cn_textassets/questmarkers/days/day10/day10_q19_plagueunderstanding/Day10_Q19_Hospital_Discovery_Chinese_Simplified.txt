@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_Hospital_Discovery.Name} 医院
+{QuestMarkers.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_Hospital_Discovery.Description} 病入膏肓的雅科夫·利特尔想见我一面。

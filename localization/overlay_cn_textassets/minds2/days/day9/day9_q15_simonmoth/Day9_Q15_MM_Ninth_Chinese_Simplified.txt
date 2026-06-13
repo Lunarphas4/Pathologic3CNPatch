@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Ninth.Name} 特殊之日
+{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Ninth.Description} 西蒙的书房在第九日才开。

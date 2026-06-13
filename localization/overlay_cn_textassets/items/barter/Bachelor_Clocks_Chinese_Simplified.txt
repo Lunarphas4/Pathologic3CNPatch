@@ -1,0 +1,3 @@
+{Items.Barter.Bachelor_Clocks.Name} 大学生的怀表
+{Items.Barter.Bachelor_Clocks.Description} 尼卡在我入学第一天送给我的。表盖上刻着：“Ad Multos Annos”。
+{Items.Barter.Bachelor_Clocks.Description2} 尼卡在我入学第一天送给我的。表盖上刻着：“Ad Multos Annos”。

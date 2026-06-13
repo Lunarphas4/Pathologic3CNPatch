@@ -1,0 +1,1 @@
+{UI.Credits.VoiceActing.MaksimYakimov.Name} Maksim Yakimov

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_MM_ManObeys.Name} 齐射
+{Minds2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_MM_ManObeys.Description} 司令服从了。布洛克把摧毁高塔的命令下达给军队的榴弹炮。如此，全镇可保。

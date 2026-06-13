@@ -1,0 +1,2 @@
+{Prologue.Notifications.Logo.Notification_Prologue_PostCredits_1.Name} ⁠
+{Prologue.Notifications.Logo.Notification_Prologue_PostCredits_1.Description} 2025年推出

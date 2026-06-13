@@ -1,0 +1,3 @@
+{Items.Herbs.BrownTwyre.Name} 褐色 twyre（特维草）
+{Items.Herbs.BrownTwyre.Description} 东北草原的特有植物。当地人用它蒸馏药物和烈酒。
+{Items.Herbs.BrownTwyre.Description2} 东北草原的特有植物。当地人用它蒸馏药物和烈酒。

@@ -1,0 +1,6 @@
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Entrance.30147} 怎么会这样——他们不让普通镇民进去！你们没有这个权利！钟是为所有人敲的！
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Entrance.43849} 我说了：急着冲进去没有意义。多半又是不死之人马克在惹事，就这么回事。要是铃是他自己敲的，我也不奇怪——闲得发慌。只为了看我们全都跑过来。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Entrance.31486} 这镇上至少还有人闲得发慌。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Entrance.54348} 不死之人马克！他连死亡都能弄成马戏。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Entrance.20079} 不死之人马克！他什么都能变成马戏。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Entrance.41948} 请回家吧。别围着。谁知道出了什么事。

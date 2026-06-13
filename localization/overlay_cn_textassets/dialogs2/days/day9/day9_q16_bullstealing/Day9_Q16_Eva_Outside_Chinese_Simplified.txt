@@ -1,0 +1,13 @@
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_Outside.46914} 我都忘了，这里也可以这么好。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_Outside.48103} 在外面看见你，真奇怪。我想你偶尔也会跨过门槛——可从不在我在的时候。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_Outside.59846} 我担心巴乔。那个女人牵它出去已经很久了，到现在还没回来。他们会去哪儿？你没看见他们吧？
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_Outside.64082} 没有。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_Outside.57742} 公牛和那个女人都没看见。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_Outside.52184} 现在我也担心了。她牵它出去已经很久，到现在还没回来。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_Outside.55764} 我不喜欢这样。那头公牛是我们了解瘟疫的新机会。我不愿在实验结束前就失去它。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_Outside.54407} 他们可能出了什么事。如今这座城并不安全……可我们该去哪里找？那个女人——玛尔塔——住在剥皮场。主街往下第二栋房子。也许她的家人知道些什么？
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_Outside.12901} 我去。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_Outside.45967} 一切都会没事的。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_Outside.26715} 我知道那栋房子。我最早的病人之一就住在那里——菲拉特，地穴的守卫。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_Outside.41041} 嗯。我希望玛尔塔对公牛的怜悯没有发展到把它“放生”的地步。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_Outside.18983} 别担心巴乔。我保证会把它带回家。

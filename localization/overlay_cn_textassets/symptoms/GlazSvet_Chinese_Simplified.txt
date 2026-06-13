@@ -1,0 +1,2 @@
+{Symptoms.GlazSvet.Name} 畏光
+{Symptoms.GlazSvet.Description} 面对普通强度光线时出现不适，甚至眼部锐痛，而此前不会有这种反应。

@@ -1,0 +1,5 @@
+{Clouds2.Hospital.old.Sukhonos.Cloud_Sukhonos_Blood.28102} 淋巴细胞升高。也就是说，是病毒。
+{Clouds2.Hospital.old.Sukhonos.Cloud_Sukhonos_Blood.31460} 淋巴细胞升高。也就是说，是病毒。
+{Clouds2.Hospital.old.Sukhonos.Cloud_Sukhonos_Blood.28230} 再加上其他症状，这应该够了。
+{Clouds2.Hospital.old.Sukhonos.Cloud_Sukhonos_Blood.9310} 可惜，在这座城里，化验是最后手段。
+{Clouds2.Hospital.old.Sukhonos.Cloud_Sukhonos_Blood.3016} 试剂确实该省着用。

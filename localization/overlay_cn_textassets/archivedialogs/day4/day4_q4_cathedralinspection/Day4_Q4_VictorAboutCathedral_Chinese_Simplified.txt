@@ -1,0 +1,4 @@
+{ArchiveDialogs.Day4.Day4_Q4_CathedralInspection.Day4_Q4_VictorAboutCathedral.18266} 教堂是睡眠小组建造的。
+{ArchiveDialogs.Day4.Day4_Q4_CathedralInspection.Day4_Q4_VictorAboutCathedral.9373} 什么睡眠小组？
+{ArchiveDialogs.Day4.Day4_Q4_CathedralInspection.Day4_Q4_VictorAboutCathedral.15156} 没读过卡斯塔尼达？唉，年轻人，年轻人……
+{ArchiveDialogs.Day4.Day4_Q4_CathedralInspection.Day4_Q4_VictorAboutCathedral.4747} 能借我那本书吗？

@@ -1,0 +1,3 @@
+{Npcs.patient_Tuutey.Name} 图泰
+{Npcs.patient_Tuutey.FullName} ⁠
+{Npcs.patient_Tuutey.Description} ⁠

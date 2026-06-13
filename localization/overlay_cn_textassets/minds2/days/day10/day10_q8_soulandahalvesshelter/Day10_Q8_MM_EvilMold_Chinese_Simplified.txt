@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_EvilMold.Name} 潜在感染
+{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_EvilMold.Description} 二楼覆上了一层恶意的霉斑！但这不像寻常瘟疫的征象。突变？只是污垢？得化验。

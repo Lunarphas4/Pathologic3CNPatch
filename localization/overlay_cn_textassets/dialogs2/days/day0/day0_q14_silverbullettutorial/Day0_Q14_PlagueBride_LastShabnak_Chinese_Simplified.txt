@@ -1,0 +1,8 @@
+﻿{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_PlagueBride_LastShabnak.55310} 你携着火，oinon。可怕的、银色的、灼人的、疼痛的火。你不怜悯大地的孩子。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_PlagueBride_LastShabnak.2096} 克拉拉在哪？你是为她来的？
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_PlagueBride_LastShabnak.36307} 我们的姐妹背弃了我们。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_PlagueBride_LastShabnak.14628} 我为什么要怜悯你？你们并不怜悯自己。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_PlagueBride_LastShabnak.43533} 你真要向无辜的灵魂举手吗？你不怜悯我吗？
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_PlagueBride_LastShabnak.15477} 我知道你是什么——一具空壳。我见过你许多次。也许你曾经是别的东西。现在你只会从内里吞吃人。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_PlagueBride_LastShabnak.57050} 你们伤害我们，日后会后悔的。我们会哭出灼人的眼泪，泪水流遍小镇，越涨越高，抱住你的——
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_PlagueBride_LastShabnak.18749} 对活人来说，这种混合物的危害不比水银蒸气更大。试试看吧。

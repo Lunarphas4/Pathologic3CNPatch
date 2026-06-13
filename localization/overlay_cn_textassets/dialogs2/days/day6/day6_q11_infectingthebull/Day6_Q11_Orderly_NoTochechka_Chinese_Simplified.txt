@@ -1,0 +1,11 @@
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_Orderly_NoTochechka.30020} 十四号护理员为您效劳。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_Orderly_NoTochechka.40977} 小雅科夫在哪儿？他为什么不在岗位上？
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_Orderly_NoTochechka.2426} 他在外面，去和草原人谈话了。他们需要我们什么。或者反过来？我没听清。你们俩怎么会错过？
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_Orderly_NoTochechka.11024} 好问题——怎么会错过？我去找小雅科夫。没有他，整个流程都要停摆。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_Orderly_NoTochechka.54857} 所以他把宝贵时间浪费在草原人身上？丢下病人不管？真妙。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_Orderly_NoTochechka.28420} 他是替您跑去静水的，先生——把感染样本带给您。我提出帮忙，可他就是不肯，说必须亲手送到。还没回来。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_Orderly_NoTochechka.26464} 嗯。我是为了那头牛要了那个样本。这是不是说牛已经送到了？直接送去静水？
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_Orderly_NoTochechka.60284} 说不好，医生。但在那之前，草原人又在外面聚了起来——还有个胆子大到敲门，喊您或者小雅科夫。嗯，小雅科夫和他说了几句，然后就冲去静水了。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_Orderly_NoTochechka.56177} 希望他没弄混。要是牛还没到，我们必须等着，样本可能会坏。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_Orderly_NoTochechka.35515} 效率可嘉。我现在试着自己追上他。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_Orderly_NoTochechka.51270} 继续履行你的职责，护工。

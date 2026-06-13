@@ -1,0 +1,33 @@
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.53835} 啊——跳得浑身都疼，小腿也酸。跳吧，跳着跳着，死亡就会绕开你。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.23332} 你们高兴什么？庆祝什么？镇子明天就会死。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.9163} 只要我们还在，镇子就在。只要我们的腿还因跳舞而疼，死亡就跳不过我们。守护者会保护我们。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.4747} 是吗？所以跳舞能治好死亡？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.846} 只要你的腿因跳舞而疼，肚子里还有歌——zürkhen duulana——你就不会死，khezyeeshye ükhekhegüi。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.52897} 他们正在决定多面体的命运，而 Shekhen 在跳舞。这座镇子——真是满是反差。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.21764} 真的？好消息这么多。Olon Nyuurtai 终于要消失了。她是外来的，不合自然；一切苦难都是她带来的。shabnak-adyr（泥魔女） 因她而来，带来了疾病。Bodkho（大地母亲） mende！ 和我们一起跳舞——死亡就碰不到你！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.58177} 不了，谢谢。我跳舞很糟。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.2650} 你们在这里做的事——简直就是瘟疫中的宴席。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.50747} 你们外来人不会懂。我们一直在这里；是你们来了——来呼吸我们的草原，来吞吃我们。但我们会比你们活得更久，也会把你们反吃回去。我们会永远在这里——吃得好，活在自己的土地上。而草原的风会把你们像尘土一样卷走。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.10268} 我倒希望它现在就把我卷走。我对这一切都厌倦了。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.1612} 我本想反驳，可你只是个孩子。想信什么就信吧。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.24713} 我肚子疼——很久没吃过好吃的东西了。你带了什么好东西吗？我喜欢好吃的。好东西。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.52266} 没有——抱歉。我身上没有好吃的。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.10384} 你们是什么人，为什么来？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.47361} 我自己也不知道。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.33966} 我是来道别的。镇子明天就没了。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.8971} 胡说。会消失的是你们的镇子，不是我们的——我们的会照旧存在。我的肚子会不疼，一切都会好起来。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.65126} “你们的”镇子是什么意思？镇子只有一个。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.15573} 今天会决定多面体的命运。他们想拆掉它。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.59524} 太好了！也许他们拆掉它，我肚子就不疼了。Olon Nyuurtai 终于要消失了。她是外来的，不合自然；一切苦难都是她带来的。shabnak-adyr（泥魔女） 因她而来，带来了疾病。Bodkho（大地母亲） mende！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.65475} 你知道？你——这么小的东西——知道瘟疫是因为多面体而来？我不敢相信。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.21866} 希望有人给你带点吃的。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.49344} 你的胃为什么疼？你吃了什么吗？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.60230} 没有——我很久很久连一滴水都没喝过了。所以才疼。你有燕麦 talh，或者糖吗？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.23192} 抱歉——我什么都没有。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.44847} 我想要甜的东西——会在舌头上化开的东西。给我找点甜的。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.10826} 封锁镇子里，瘟疫第十二天，我该到哪儿给你找糖……
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.46627} 高塔里的孩子以前会把糖分给我。你们是什么人，为什么来时不带糖？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.34942} 他们今天要拆掉高塔。几乎已经定了。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.48609} 高塔里没有孩子了。他们被带到安全的地方去了。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.22465} 我想我有一块干面包。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_TayaTychik_Final.49873} 我不要干面包。我想要甜的东西——会在舌头上化开的东西。给我找点甜的。

@@ -1,0 +1,25 @@
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.22842} 我的儿子和他的族人在一起。而我也没多少时候了。一切终会回到 Suok（草原神祇）。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.57827} 所以你是布拉赫的母亲？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.46496} Boddho（大地母亲）是布拉赫的母亲。草原是布拉赫的母亲。草原有千只眼，千个子宫。他从那千中出生。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.36343} 肠卜师？不。更像人造小人。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.8910} 再说一遍——用你的舌头，也是最后一遍：族民不会再被奥尔金斯基家的靴子践踏。明智统治者温柔的手会把我们的线向前牵引。祈祷他会怜悯你。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.31554} 我以为你们向波斯·图罗赫祈祷。你们怎么能给人戴上神的花冠，却不把它叫作亵渎？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.50628} 新的时代来了。愿新的智者长久存续。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.24850} 好吧。我听见你了。我会离开。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.41840} 你知道，这些天我用拉丁语回应你的舌头，并不是为了嘲弄你。而是因为对我来说，拉丁语是永恒知识的语言——正如你的语言对你一样。再会，草原女人。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.27975} 你该回草原去。小镇注定灭亡。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.44287} 你怎么看多面体，草原女人？虽然我怀疑你根本不会想它……
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.58250} 所以你终究不是母亲。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.40766} 你那个布拉赫……他让我害怕。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.37811} 是的。而这让我高兴。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.12485} 小心你的高兴反咬族民一口。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.16733} 我想你恋爱了……
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.24798} 好吧，至少有人高兴。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.62156} 你高兴吗？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.10715} 你们这些愚蠢、愚蠢、愚蠢的畜生。你们以为吊死了看守人，我们就会没了头而灭亡。可没有头，我们会裂成一千只爪、一百万张口。我们会把你们撕成碎片，你们这些杂种！ 我可怜的儿子，我可怜、可怜的儿子，库布恩，库布恩……
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.25417} 你是说布拉赫？所以你真是他的母亲？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.9039} 他必须活着……必须活着……
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.57697} 我另作了决定。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.8605} 很抱歉，事情以他的死亡告终。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.60894} 去找镜子吧，草原女人。在某个倒影里，他还活着。找到它，你就能拥有他。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Ospina_Final.48003} 你并不相信自己的话，草原女人。没有领袖，族民所有力量都不知道该去哪里。

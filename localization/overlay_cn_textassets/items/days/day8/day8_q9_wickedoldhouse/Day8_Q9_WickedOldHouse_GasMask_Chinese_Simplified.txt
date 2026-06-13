@@ -1,0 +1,3 @@
+﻿{Items.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_WickedOldHouse_GasMask.Name} 防毒面具
+{Items.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_WickedOldHouse_GasMask.Description} 空洞的目光，金属般的吻部。
+{Items.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_WickedOldHouse_GasMask.Description2} 一副用旧了的军用防毒面具。如果给感染者戴上，他们就有机会活着出来。

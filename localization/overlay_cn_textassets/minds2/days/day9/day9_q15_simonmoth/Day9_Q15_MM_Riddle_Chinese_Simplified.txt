@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Riddle.Name} 谜
+{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Riddle.Description} 那只蛾不发一语。

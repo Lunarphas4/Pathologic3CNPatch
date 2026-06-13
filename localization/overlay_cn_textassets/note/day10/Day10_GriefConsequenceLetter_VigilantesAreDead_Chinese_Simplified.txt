@@ -1,0 +1,2 @@
+{Note.Day10.Day10_GriefConsequenceLetter_VigilantesAreDead.Name} 巡逻队工头通知
+{Note.Day10.Day10_GriefConsequenceLetter_VigilantesAreDead.Description} 丹尼尔·丹科夫斯基！\n\n昨日，一支十五人的志愿队被派去看守军队财物。该队成员如下：\n\n瓦季姆·布罗伊，\n拜尔·奥奇罗夫，\n米哈伊尔·别索夫，\n弗拉基米尔·索尔，\n马特维·阿马加耶夫，\n谢尔盖·涅波姆尼克，\n尤利安·柳布林斯基，\n罗曼·阿尤舍夫，\n阿尔达尔·桑日耶夫，\n埃波列伊·济莫夫，\n维克托·兹韦列夫，\n雅科夫·安德烈耶维奇，\n伊万·希姆科夫，\n瓦连京·拉斯普京，\n彼得·鲍里索夫。\n\n执行任务期间，该队全员死亡。由于缺少信纸和亲属地址，无法向亲属寄送死亡通知。\n\n民兵工头穆拉维约夫

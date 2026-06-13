@@ -1,0 +1,2 @@
+{Locations.Mys.Name} 岬角
+{Locations.Mys.Description} 岬角

@@ -1,0 +1,4 @@
+{Clouds2.Days.Intro.Intro_Maw.Intro_Maw_Cloud_Executor.45967} 服装很惊人，但相当笨重。
+{Clouds2.Days.Intro.Intro_Maw.Intro_Maw_Cloud_Executor.26416} 服装很惊人，但相当笨重。
+{Clouds2.Days.Intro.Intro_Maw.Intro_Maw_Cloud_Executor.29681} 可怜人一定汗流不止。
+{Clouds2.Days.Intro.Intro_Maw.Intro_Maw_Cloud_Executor.3297} 又是鸟的隐喻……

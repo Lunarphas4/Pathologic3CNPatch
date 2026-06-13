@@ -1,0 +1,3 @@
+{Clouds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_Cloud_BullsStone.12734} 看起来像公牛的石头
+{Clouds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_Cloud_BullsStone.12343} 看起来像公牛的石头
+{Clouds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_Cloud_BullsStone.14710} 看起来像石头的公牛？

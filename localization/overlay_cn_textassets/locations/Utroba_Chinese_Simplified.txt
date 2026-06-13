@@ -1,0 +1,2 @@
+﻿{Locations.Utroba.Name} 腹肠区
+{Locations.Utroba.Description} 腹肠区

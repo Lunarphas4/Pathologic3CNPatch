@@ -1,0 +1,2 @@
+{Symptoms.SerdceJjenie.Name} 心区灼痛
+{Symptoms.SerdceJjenie.Description} 心脏区域疼痛提示心脏受损或结构变化，不应与胸痛或胃灼热混淆。

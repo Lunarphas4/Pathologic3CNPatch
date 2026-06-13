@@ -1,0 +1,12 @@
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_NikitaAsGuard.19503} 医生，再次谢谢您帮我写信！
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_NikitaAsGuard.30636} 够了。说到底，我们已经两清。
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_NikitaAsGuard.5518} 是，是，您说得对。我该克制些。
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_NikitaAsGuard.7012} 把信寄给儿子了？
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_NikitaAsGuard.7983} 我一回家就立刻寄了。
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_NikitaAsGuard.19459} 公园里一切安静？
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_NikitaAsGuard.24496} 再安静不过。您是今晚第一个在这里停留的人。
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_NikitaAsGuard.22873} 当然，空公园里谁都敢偷东西，可一派上守卫，就连影子都没了。
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_NikitaAsGuard.5340} 嗯，本来就该如此。
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_NikitaAsGuard.3666} 还没到晚上……准确说，还没到早上。别松懈。
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_NikitaAsGuard.4289} 忙了一整天后这不容易，但我会努力。
+{ArchiveDialogs.Day4.Day4_Visitors.Stepan.Day4_Visitors_NikitaAsGuard.28718} 总之，我指望你。

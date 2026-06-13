@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day6.Day6_Q0_ChangelingCult.Day6_Q0_Square.Name} 剧场广场
+{QuestMarkers.Days.Day6.Day6_Q0_ChangelingCult.Day6_Q0_Square.Description} 我的病人聚在剧场前。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q17_SecretaryReplacementKuron.Day8_Q17_MM_StillTraitor.Name} 有所失
+{Minds2.Days.Day8.Day8_Q17_SecretaryReplacementKuron.Day8_Q17_MM_StillTraitor.Description} ……现在赫伦改投审判官门下。当初他为何要主动来帮我？

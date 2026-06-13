@@ -1,0 +1,2 @@
+{UI.Credits.Audio.NikolaiBalinov.Name} Nikolai Balinov
+{UI.Credits.Audio.NikolaiBalinov.Description} 作曲、技术声音设计

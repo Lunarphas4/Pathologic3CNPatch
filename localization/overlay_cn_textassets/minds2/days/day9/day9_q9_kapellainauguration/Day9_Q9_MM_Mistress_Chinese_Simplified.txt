@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_MM_Mistress.Name} 神秘之权
+{Minds2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_MM_Mistress.Description} 今日卡佩拉接掌奥尔金斯基家。她会有一桩正式请求要交给我。

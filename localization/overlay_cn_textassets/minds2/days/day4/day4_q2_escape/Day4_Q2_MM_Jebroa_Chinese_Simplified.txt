@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_Jebroa.Name} 又或者，像只土拨鼠
+{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_Jebroa.Description} ……要是我想逃——会像老鼠一样被抓住、关进笼里。难道还有路可走？

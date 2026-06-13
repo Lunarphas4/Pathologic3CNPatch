@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q10_Switchman.Day7_Q10_MM_TownHall.Name} 查询处
+{Minds2.Days.Day7.Day7_Q10_Switchman.Day7_Q10_MM_TownHall.Description} 扳道工的住址可以在市政厅查到。

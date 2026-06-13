@@ -1,0 +1,4 @@
+{Clouds.Old.Administration.Cloud_Administration_Phone.22274} 真想给父亲打个电话。
+{Clouds.Old.Administration.Cloud_Administration_Phone.2808} 真想给父亲打个电话。
+{Clouds.Old.Administration.Cloud_Administration_Phone.15619} 或者打给研究所。
+{Clouds.Old.Administration.Cloud_Administration_Phone.22395} 可从这里打不出去。

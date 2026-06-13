@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_FollowThePath.Name} 不安之镇
+{Notifications.Tutorial.Notification_FollowThePath.Description} 若我循 <InputActions/UI/Map> 路线穿过拱门、不偏离主路，余下的旅途便无意外。

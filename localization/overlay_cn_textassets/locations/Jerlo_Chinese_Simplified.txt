@@ -1,0 +1,2 @@
+{Locations.Jerlo.Name} 喉口区
+{Locations.Jerlo.Description} 喉口区

@@ -1,0 +1,9 @@
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_BigVlad_Resources.15712} 你又来了……你以为我没有比……招待你更要紧的事吗？
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_BigVlad_Resources.45641} 现在我准备动用应急指挥部的资源购买一头公牛。希望这能推进我们对瘟疫的研究。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_BigVlad_Resources.54994} 很好。公牛会给你送去……完完整整……很快。别为任何事操心——去忙你的吧。我会安排一切。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_BigVlad_Resources.44313} 很好。要是你没让我为一件可能也救你命的东西付钱就更好了……
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_BigVlad_Resources.47095} 谢谢。不管怎样，和你做生意很愉快。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_BigVlad_Resources.48546} 你给这头公牛开的价未免太高了。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_BigVlad_Resources.47475} 这是怎么了，学者？决定……讨价还价？这不像你……
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_BigVlad_Resources.15610} 趁寻找瘟疫疗法之机牟利，也不像你。
+{Dialogs2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_BigVlad_Resources.21540} 见鬼。这是白日抢劫，但我别无选择。我会付公牛的钱。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_MM_GuineaPig.Name} 小白鼠
+{Minds2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_MM_GuineaPig.Description} 那只"小白鼠"，原来是这位舞者。

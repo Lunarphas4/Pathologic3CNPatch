@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Despair.Name} 极度的绝望
+{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Despair.Description} 我只能去求克拉拉相助，别无他法。她自认是圣人——那便让她去救人！

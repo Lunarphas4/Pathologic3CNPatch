@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Collapse.Name} 希望崩塌
+{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Collapse.Description} 军队占领了医院。布洛克不知所踪。病人全没了，档案全被搬空，疫苗接种失败了。还能更糟吗？

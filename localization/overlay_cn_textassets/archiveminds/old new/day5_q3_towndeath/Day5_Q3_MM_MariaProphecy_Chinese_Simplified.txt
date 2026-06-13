@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.OldNew.Day5_Q3_TownDeath.Day5_Q3_MM_MariaProphecy.Name} 玛丽亚的预言
+{ArchiveMinds.OldNew.Day5_Q3_TownDeath.Day5_Q3_MM_MariaProphecy.Description} 玛丽亚看见了异象：这座镇子将会毁灭。

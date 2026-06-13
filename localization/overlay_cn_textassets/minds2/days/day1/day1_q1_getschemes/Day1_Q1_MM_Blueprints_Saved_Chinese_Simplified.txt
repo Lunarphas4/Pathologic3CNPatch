@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day1.Day1_Q1_GetSchemes.Day1_Q1_MM_Blueprints_Saved.Name} 手稿不会燃烧
+{Minds2.Days.Day1.Day1_Q1_GetSchemes.Day1_Q1_MM_Blueprints_Saved.Description} 我拿到了多面体的蓝图。如果把它们交给卡尔明斯基——我就能救下彼得。还是说，我只会让他的命运更糟？

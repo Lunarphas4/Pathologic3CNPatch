@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_MM_ArchivesStolen.Name} 块石宅失窃
+{Minds2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_MM_ArchivesStolen.Description} 伊西多尔档案的原件被人从"块石宅"里偷走。这必须阻止！

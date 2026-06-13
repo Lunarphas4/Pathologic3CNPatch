@@ -1,0 +1,3 @@
+{Clouds2.FlavorNew.Outdoor.Cemetery.Cloud_Cemetery_RemarkableTombstone.44925} 据说从柱子之间穿过去，就能许愿
+{Clouds2.FlavorNew.Outdoor.Cemetery.Cloud_Cemetery_RemarkableTombstone.56689} 据说从柱子之间穿过去，就能许愿
+{Clouds2.FlavorNew.Outdoor.Cemetery.Cloud_Cemetery_RemarkableTombstone.61752} 但愿望会以灾祸的方式实现

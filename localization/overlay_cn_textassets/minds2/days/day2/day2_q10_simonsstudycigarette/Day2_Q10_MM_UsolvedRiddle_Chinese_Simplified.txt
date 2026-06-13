@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_MM_UsolvedRiddle.Name} 暂时的死局
+{Minds2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_MM_UsolvedRiddle.Description} 显然我遗漏了什么。但今天，书房之谜恐怕已无解——能进得去已是莫大的成果！

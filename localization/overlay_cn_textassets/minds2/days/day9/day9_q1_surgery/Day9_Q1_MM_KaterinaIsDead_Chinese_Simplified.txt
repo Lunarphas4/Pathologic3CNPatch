@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_KaterinaIsDead.Name} 枯枝
+{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_KaterinaIsDead.Description} 卡捷琳娜死了。在这镇千百死者之中，这一人——直接压在我的良心上。

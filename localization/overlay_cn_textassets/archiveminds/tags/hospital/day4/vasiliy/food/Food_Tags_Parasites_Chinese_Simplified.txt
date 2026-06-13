@@ -1,0 +1,2 @@
+{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.Food.Food_Tags_Parasites.Name} ⁠
+{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.Food.Food_Tags_Parasites.Description} 寄生虫痕迹？

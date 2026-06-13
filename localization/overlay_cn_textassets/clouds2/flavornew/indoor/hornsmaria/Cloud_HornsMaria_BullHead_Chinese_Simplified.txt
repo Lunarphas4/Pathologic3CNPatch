@@ -1,0 +1,3 @@
+{Clouds2.FlavorNew.Indoor.HornsMaria.Cloud_HornsMaria_BullHead.44925} 凯恩家的冠冕，金色的角
+{Clouds2.FlavorNew.Indoor.HornsMaria.Cloud_HornsMaria_BullHead.10340} 凯恩家的冠冕，金色的角
+{Clouds2.FlavorNew.Indoor.HornsMaria.Cloud_HornsMaria_BullHead.56689} 用来刺破天穹，洒落群星

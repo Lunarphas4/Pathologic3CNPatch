@@ -1,0 +1,2 @@
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PatientOne.Prologue_PatientOne_MM_Diagnosed.Name} 诊断完成
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PatientOne.Prologue_PatientOne_MM_Diagnosed.Description} 此例已明，转战下一位。

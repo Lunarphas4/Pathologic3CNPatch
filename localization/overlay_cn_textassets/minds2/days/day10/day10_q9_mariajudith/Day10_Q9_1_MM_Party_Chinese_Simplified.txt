@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q9_MariaJudith.Day10_Q9_1_MM_Party.Name} 狼藉
+{Minds2.Days.Day10.Day10_Q9_MariaJudith.Day10_Q9_1_MM_Party.Description} 要么是有人闯进了玛丽亚·凯娜的家，要么——这是一场雅致派对留下的痕迹。

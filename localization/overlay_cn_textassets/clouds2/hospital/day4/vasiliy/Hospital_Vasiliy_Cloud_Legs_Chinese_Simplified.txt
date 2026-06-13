@@ -1,0 +1,4 @@
+{Clouds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_Cloud_Legs.23809} 静脉肯定受损了
+{Clouds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_Cloud_Legs.39509} 静脉肯定受损了
+{Clouds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_Cloud_Legs.6531} 问题是，多久以前……
+{Clouds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_Cloud_Legs.18506} 病人认为这是站着工作造成的

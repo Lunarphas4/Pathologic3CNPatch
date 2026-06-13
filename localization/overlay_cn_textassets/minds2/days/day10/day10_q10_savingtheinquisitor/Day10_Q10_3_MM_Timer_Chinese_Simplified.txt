@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_3_MM_Timer.Name} 时候到了
+{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_3_MM_Timer.Description} 该回去找布洛克将军了。

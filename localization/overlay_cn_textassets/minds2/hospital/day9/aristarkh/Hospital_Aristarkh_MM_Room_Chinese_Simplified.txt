@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_Room.Name} 阿里斯塔尔赫之屋
+{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_Room.Description} 药品、女人的手帕——还有一根断指！搞创作的学生过的还真是别样人生。

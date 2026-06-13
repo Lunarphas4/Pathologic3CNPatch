@@ -1,0 +1,2 @@
+{Minds2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_MM_FullHouse.Name} 全套牌
+{Minds2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_MM_FullHouse.Description} 法令收齐了！该恢复指挥桌了

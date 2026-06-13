@@ -1,0 +1,4 @@
+{Clouds2.Hospital.Day6.Hospital_Astrild.Hospital_Astrild_Cloud_Hands.5122} 手受伤了？
+{Clouds2.Hospital.Day6.Hospital_Astrild.Hospital_Astrild_Cloud_Hands.32070} 手受伤了？
+{Clouds2.Hospital.Day6.Hospital_Astrild.Hospital_Astrild_Cloud_Hands.46578} 溃烂了？
+{Clouds2.Hospital.Day6.Hospital_Astrild.Hospital_Astrild_Cloud_Hands.42560} 她说只是老茧

@@ -1,0 +1,2 @@
+{PersonalFiles.Day10.Tochechka.Name} 雅科夫·利特尔
+{PersonalFiles.Day10.Tochechka.Description} 我的助手也没能躲过感染。

@@ -1,0 +1,2 @@
+﻿{CraftRecipes.PillCraft_Psyco_CraftRecipe.Name} 临时抗压药片
+{CraftRecipes.PillCraft_Psyco_CraftRecipe.Description} 移除一种随机的躁狂副作用

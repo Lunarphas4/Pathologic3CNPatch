@@ -1,0 +1,16 @@
+{Dialogs2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_SeraphimaAndGB_Closing.57087} 我希望你知道，我从个人层面鄙视你们这种人。你们自以为有远见，实际上只是从更需要钱的人那里吸走补贴，用来满足你们的自我沉迷。
+{Dialogs2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_SeraphimaAndGB_Closing.1831} “更需要它们的人”——比如你？去制造新的致命气体，再让我们用各种原型机来驱散？
+{Dialogs2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_SeraphimaAndGB_Closing.51978} 我只是想让你知道。这次被捕是我自愿的。我喜欢把东西清理干净，也喜欢清除寄生虫。
+{Dialogs2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_SeraphimaAndGB_Closing.2846} 所以我才这么想揍你？因为我是寄生虫？
+{Dialogs2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_SeraphimaAndGB_Closing.13671} 发生什么了？
+{Dialogs2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_SeraphimaAndGB_Closing.44467} 老师……！今天委员会驳回了申诉，作出最终裁决：塔纳提卡不复存在了。普拉东和我尽可能拖延，一直等您……您成功了，对吧？您找到不死之人了？我们得救了？
+{Dialogs2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_SeraphimaAndGB_Closing.37455} 恐怕关于不死的所有传闻，结果都只是荒诞故事。那座镇子的出生和死亡记录都很糟糕。
+{Dialogs2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_SeraphimaAndGB_Closing.65250} 我已经尽快回来了——瘟疫让那座镇子被隔离。我来得太迟了吗？
+{Dialogs2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_SeraphimaAndGB_Closing.9212} 您说过会带回证据。能让委员会相信我们的研究有前途的东西。您……没有？那我们完了？
+{Dialogs2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_SeraphimaAndGB_Closing.49080} 我以为在首都会有更多回旋余地。
+{Dialogs2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_SeraphimaAndGB_Closing.18473} 正如我说的。你们思考那些没人能核查的题目时，总是高高在上。可一旦给你们一个简单的实际任务：治好一种病——它很快就变得无法解决。结果呢？你打破自己的隔离，跑回来把疾病传遍全国。你该进监狱……
+{Dialogs2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_SeraphimaAndGB_Closing.57591} 连国家审判官都解决不了这个“简单的实际任务”。
+{Dialogs2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_SeraphimaAndGB_Closing.3129} 我没有感染。不可能！
+{Dialogs2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_SeraphimaAndGB_Closing.63718} 见鬼去吧！回来真的是个错误吗……？
+{Dialogs2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_SeraphimaAndGB_Closing.44786} 我们会重建塔纳提卡。我会死在那座镇子里的！
+{Dialogs2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_SeraphimaAndGB_Closing.60278} 对于一个爱干净的人来说，你的靴子格外脏。

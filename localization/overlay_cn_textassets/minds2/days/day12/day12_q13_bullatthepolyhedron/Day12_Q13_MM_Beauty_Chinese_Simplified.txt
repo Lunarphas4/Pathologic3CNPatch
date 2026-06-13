@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q13_BullAtThePolyhedron.Day12_Q13_MM_Beauty.Name} 分道扬镳
+{Minds2.Days.Day12.Day12_Q13_BullAtThePolyhedron.Day12_Q13_MM_Beauty.Description} 我没法跟着那些动物进入多面体。我永远不会知道，公牛的路通向何处。\n\n但愿那是个美的所在。

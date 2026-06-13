@@ -1,0 +1,2 @@
+{UI.Credits.Narrative.DmitriyKapin.Name} Dmitriy Kapin
+{UI.Credits.Narrative.DmitriyKapin.Description} 编剧

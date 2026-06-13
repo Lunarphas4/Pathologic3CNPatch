@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q15_BullAnalysisSecond.Day8_Q15_MM_SecondConsequences.Name} 失序无法
+{Minds2.Days.Day8.Day8_Q15_BullAnalysisSecond.Day8_Q15_MM_SecondConsequences.Description} 今天的后果……比昨日更显著。

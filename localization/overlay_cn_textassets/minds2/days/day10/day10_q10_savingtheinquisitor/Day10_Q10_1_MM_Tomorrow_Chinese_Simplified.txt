@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_1_MM_Tomorrow.Name} 预感
+{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_1_MM_Tomorrow.Description} 明日卡明斯基将被杀。没有他，我不知如何保住多面体。

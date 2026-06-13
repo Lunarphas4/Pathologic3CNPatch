@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q15_FirstCrucible.Day5_Q15_MM_Judgement.Name} 公正法官
+{Minds2.Days.Day5.Day5_Q15_FirstCrucible.Day5_Q15_MM_Judgement.Description} 格奥尔吉一言不发地把我赶出了他的工坊。

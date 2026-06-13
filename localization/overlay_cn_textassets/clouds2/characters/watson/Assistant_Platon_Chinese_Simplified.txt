@@ -1,0 +1,4 @@
+{Clouds2.Characters.Watson.Assistant_Platon.57075} 据说他离开塔纳蒂卡就会结巴
+{Clouds2.Characters.Watson.Assistant_Platon.27818} 据说他离开塔纳蒂卡就会结巴
+{Clouds2.Characters.Watson.Assistant_Platon.5374} 我从没听见过
+{Clouds2.Characters.Watson.Assistant_Platon.19757} 他会怎么样？

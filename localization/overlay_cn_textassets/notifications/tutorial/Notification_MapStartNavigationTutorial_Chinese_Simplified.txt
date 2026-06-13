@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_MapStartNavigationTutorial.Name} 规划路线
+{Notifications.Tutorial.Notification_MapStartNavigationTutorial.Description} 或者 <InputActions/Map/StartNavigation> 直接朝目标走去。

@@ -1,0 +1,457 @@
+term_id	source_term	cn_term	category	source_game	status	decision_notes	do_not_translate	owner
+demo_npcs_aglaya_name	Aglaya Lilich	阿格拉娅	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Aglaya.Name	yes	codex_seed
+demo_npcs_block_name	Alexander Block	亚历山大·布洛克	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Block.Name	yes	codex_seed
+demo_npcs_saburov_name	Alexander Saburov	萨布罗夫	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Saburov.Name	yes	codex_seed
+demo_npcs_andreystamatin_name	Andrey Stamatin	安德烈·斯塔马京	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.AndreyStamatin.Name	yes	codex_seed
+demo_npcs_anna_name	Anna Angel	安娜·安琪尔	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Anna.Name	yes	codex_seed
+demo_npcs_sickaristarh_name	Aristarkh	病人鸿雁	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.SickAristarh.Name	yes	codex_seed
+demo_npcs_tanatcolleaguen_name	Associate N.	助手N	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.TanatColleagueN.Name	yes	codex_seed
+demo_npcs_patient_astrild_name	Astrild	病人燕鸥	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.patient_Astrild.Name	yes	codex_seed
+demo_npcs_bull_name	Baccio	公牛	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Bull.Name	yes	codex_seed
+demo_npcs_danko_name	Bachelor	学者	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Danko.Name	yes	codex_seed
+demo_npcs_grief_name	Bad Grief	恶徒格里夫	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Grief.Name	yes	codex_seed
+demo_npcs_patient_godsfool_name	Bobok	病人波波克	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.patient_GodsFool.Name	yes	codex_seed
+demo_npcs_decree_bullowner_name	Brant	布兰特	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Decree_BullOwner.Name	yes	codex_seed
+demo_npcs_griefmate_name	Buzzard	秃鹫	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.GriefMate.Name	yes	codex_seed
+demo_npcs_capella_name	Capella	卡佩拉	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Capella.Name	yes	codex_seed
+demo_npcs_maid_name	Capella's Maid	卡佩拉的女仆	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Maid.Name	yes	codex_seed
+demo_npcs_cathedralwarden_name	Cathedral Caretaker	看大教堂的人	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.CathedralWarden.Name	yes	codex_seed
+demo_npcs_changeling_name	Changeling	换生灵	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Changeling.Name	yes	codex_seed
+demo_npcs_vishnya_name	Cherry	樱桃	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Vishnya.Name	yes	codex_seed
+demo_npcs_chessmaestro_name	Chess Club Director	象棋俱乐部主管	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.ChessMaestro.Name	yes	codex_seed
+demo_npcs_governmentofficial_name	Clerk	书记员	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.GovernmentOfficial.Name	yes	codex_seed
+demo_npcs_chernyak_name	Crow	病人小黑	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Chernyak.Name	yes	codex_seed
+demo_npcs_houndheadmessenger_name	Dash-hound	巴迪	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.HoundheadMessenger.Name	yes	codex_seed
+demo_npcs_distributor_deathdecree_name	Distributor of "Dead Gruel"	分发“死粥”的人	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Distributor_DeathDecree.Name	yes	codex_seed
+demo_npcs_houndheadboy_name	Doghead	狗头人	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.HoundheadBoy.Name	yes	codex_seed
+demo_npcs_houndheadgirl_name	Doghead	娜塔	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.HoundheadGirl.Name	yes	codex_seed
+demo_npcs_boy_dormouse_name	Dormouse	瞌睡虫	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Boy_Dormouse.Name	yes	codex_seed
+demo_npcs_oldman_name	Elderly Man	老人	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.OldMan.Name	yes	codex_seed
+demo_npcs_patient_platon_name	Emilia	病人夜莺	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.patient_Platon.Name	yes	codex_seed
+demo_npcs_eva_name	Eva Yan	伊娃	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Eva.Name	yes	codex_seed
+demo_npcs_executer_name	Executor	处刑人	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=Npcs.Executer.Name, Npcs.Executor.Name	yes	codex_seed
+demo_npcs_sickvasiliy_name	Filat	病人松雀	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=Npcs.SickVasiliy.Name, Npcs.Vasiliy.Name	yes	codex_seed
+demo_npcs_prologue_patientthree_name	Filat	菲拉特	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Prologue_PatientThree.Name	yes	codex_seed
+demo_npcs_vasilysneighbor_name	Filat’s Neighbor	菲拉特的邻居	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.VasilysNeighbor.Name	yes	codex_seed
+demo_npcs_prologue_patienttwo_name	Finch	芬奇	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Prologue_PatientTwo.Name	yes	codex_seed
+demo_npcs_handofthedead_name	Foreman's Hand	工头的手	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.HandOfTheDead.Name	yes	codex_seed
+demo_npcs_georgiykain_name	Georgiy Kain	格奥尔基·凯恩	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.GeorgiyKain.Name	yes	codex_seed
+demo_npcs_laska_name	Grace	格蕾丝	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Laska.Name	yes	codex_seed
+demo_npcs_gravedigger_name	Gravedigger	掘墓人	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Gravedigger.Name	yes	codex_seed
+demo_npcs_kamil_name	Grouse	秧鸡	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Kamil.Name	yes	codex_seed
+demo_npcs_prologue_guardian_name	Guard	守卫	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Prologue_Guardian.Name	yes	codex_seed
+demo_npcs_zhitochnik_name	Hardman	病人硬汉	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Zhitochnik.Name	yes	codex_seed
+demo_npcs_burakh_name	Haruspex	肠卜师	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Burakh.Name	yes	codex_seed
+demo_npcs_herbbride_name	Herb Bride	草药新娘	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.HerbBride.Name	yes	codex_seed
+demo_npcs_herdsman_ravenrock_name	Herdsman	牧羊人	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Herdsman_RavenRock.Name	yes	codex_seed
+demo_npcs_crowd_name	Idler	人群	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Crowd.Name	yes	codex_seed
+demo_npcs_investigator_name	Inspector	调查警督	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Investigator.Name	yes	codex_seed
+demo_npcs_streetcleaner_name	Janitor	看管人	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.StreetCleaner.Name	yes	codex_seed
+demo_npcs_kanjur_name	Kanjur	甘珠尔	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Kanjur.Name	yes	codex_seed
+demo_npcs_kondrat_name	Kestrel	红隼	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Kondrat.Name	yes	codex_seed
+demo_npcs_khan_name	Khan	可汗	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Khan.Name	yes	codex_seed
+demo_npcs_toma_name	Langora	兰戈拉	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Toma.Name	yes	codex_seed
+demo_npcs_paramon_name	Lapwing	田凫	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Paramon.Name	yes	codex_seed
+demo_npcs_lararavel_name	Lara Ravel	拉拉·拉维尔	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.LaraRavel.Name	yes	codex_seed
+demo_npcs_prologue_patientone_name	Luta	鲁塔	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Prologue_PatientOne.Name	yes	codex_seed
+demo_npcs_matvey_name	Marat	马拉特	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Matvey.Name	yes	codex_seed
+demo_npcs_maria_name	Maria Kaina	玛丽亚	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Maria.Name	yes	codex_seed
+demo_npcs_mark_name	Mark Immortell	不死之人马克	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Mark.Name	yes	codex_seed
+demo_npcs_mona_name	Mona	莫娜	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Mona.Name	yes	codex_seed
+demo_npcs_mishka_name	Murky	米什卡	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Mishka.Name	yes	codex_seed
+demo_npcs_neighbor_name	Neighbor	邻居	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Neighbor.Name	yes	codex_seed
+demo_npcs_klim_name	Nightjar	夜鹰	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Klim.Name	yes	codex_seed
+demo_npcs_odong_name	Odongh	奥东	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Odong.Name	yes	codex_seed
+demo_npcs_army_officer_name	Officer	军官	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Army_Officer.Name	yes	codex_seed
+demo_npcs_orderly_name	Orderly	护理员	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Orderly.Name	yes	codex_seed
+demo_npcs_patient_poshinok_name	Patchwork	病人红腹灰雀	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.patient_Poshinok.Name	yes	codex_seed
+demo_npcs_izekpatrolman_name	Patrolman	巡逻的人	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=Npcs.IzekPatrolman.Name, Npcs.Militia.Name	yes	codex_seed
+demo_npcs_nativeaigul_name	Pawn	部落妇女	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.NativeAigul.Name	yes	codex_seed
+demo_npcs_zakiroldman_name	Pawn	草原住民	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.ZakirOldman.Name	yes	codex_seed
+demo_npcs_worker_akulich_name	Pawn	工厂工人	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Worker_Akulich.Name	yes	codex_seed
+demo_npcs_marat_name	Pawn	马拉特	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Marat.Name	yes	codex_seed
+demo_npcs_nata_name	Pawn	娜塔	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Nata.Name	yes	codex_seed
+demo_npcs_boy_name	Pawn	男孩	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=Npcs.Boy.Name, Npcs.Gavroche.Name	yes	codex_seed
+demo_npcs_workerizek_name	Pawn	男人	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.WorkerIzek.Name	yes	codex_seed
+demo_npcs_girl_name	Pawn	女孩	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Girl.Name	yes	codex_seed
+demo_npcs_klava_name	Pawn	女人	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=Npcs.Klava.Name, Npcs.Martha.Name	yes	codex_seed
+demo_npcs_charlotte_name	Pawn	夏洛特	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Charlotte.Name	yes	codex_seed
+demo_npcs_izek_name	Pawn	伊泽克	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Izek.Name	yes	codex_seed
+demo_npcs_girl_teen_nata_name	Peewit	田凫	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Girl_Teen_Nata.Name	yes	codex_seed
+demo_npcs_petrstamatin_name	Peter Stamatin	彼得·斯塔马京	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.PetrStamatin.Name	yes	codex_seed
+demo_npcs_prokop_name	Platon	普拉东	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Prokop.Name	yes	codex_seed
+demo_npcs_pochinka_name	Pochinka	波钦卡	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Pochinka.Name	yes	codex_seed
+demo_npcs_mailman_name	Postman	邮差	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Mailman.Name	yes	codex_seed
+demo_npcs_grach_name	Rook	白嘴鸦	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Grach.Name	yes	codex_seed
+demo_npcs_rubin_name	Rubin	鲁宾	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Rubin.Name	yes	codex_seed
+demo_npcs_sergei_name	Ruff	鲁夫	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Sergei.Name	yes	codex_seed
+demo_npcs_sakhmen_name	Sakh Män	萨克·曼	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.SakhMen.Name	yes	codex_seed
+demo_npcs_serafima_name	Serafima	谢拉菲玛	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Serafima.Name	yes	codex_seed
+demo_npcs_shabnak_name	Shabnak	泥魔女	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Shabnak.Name	yes	codex_seed
+demo_npcs_tolkoviy_name	Sharp	病人嘲鸫	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Tolkoviy.Name	yes	codex_seed
+demo_npcs_girl_squirell_name	Shrew	鼩鼱	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Girl_Squirell.Name	yes	codex_seed
+demo_npcs_army_soldier_name	Soldier	士兵	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Army_Soldier.Name	yes	codex_seed
+demo_npcs_death_name	Someone's Death	某个人的死亡	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Death.Name	yes	codex_seed
+demo_npcs_prologue_hall_crowd_name	Spectator	旁观的人	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Prologue_Hall_Crowd.Name	yes	codex_seed
+demo_npcs_patient_kira_stakhovyak_name	Stakhovyak	拉撒路	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.patient_Kira_Stakhovyak.Name	yes	codex_seed
+demo_npcs_spichka_name	Sticky	小钉	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Spichka.Name	yes	codex_seed
+demo_npcs_aristarh_name	Swangoose	病人鸿雁	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Aristarh.Name	yes	codex_seed
+demo_npcs_signalman_name	Switchman	扳道工	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Signalman.Name	yes	codex_seed
+demo_npcs_patient_mirosya_name	Tawpie	病人塞壬	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.patient_Mirosya.Name	yes	codex_seed
+demo_npcs_patient_godsfool_bad_name	The Bad	恶人	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.patient_GodsFool_Bad.Name	yes	codex_seed
+demo_npcs_patient_godsfool_good_name	The Good	善人	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.patient_GodsFool_Good.Name	yes	codex_seed
+demo_npcs_patient_godsfool_evil_name	The Ugly	丑人	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.patient_GodsFool_Evil.Name	yes	codex_seed
+demo_npcs_girl_ticktack_name	Tic-Tac	滴答	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Girl_TickTack.Name	yes	codex_seed
+demo_npcs_houndheadtishka_name	Toby	怪人	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.HoundheadTishka.Name	yes	codex_seed
+demo_npcs_merchant_name	Trader	小贩	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Merchant.Name	yes	codex_seed
+demo_npcs_tragedian_name	Tragedian	悲剧演员	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Tragedian.Name	yes	codex_seed
+demo_npcs_valeria_name	Valeria	瓦莱里娅	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Valeria.Name	yes	codex_seed
+demo_npcs_voronika_name	Veronica Croy	维罗妮卡·克罗伊	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Voronika.Name	yes	codex_seed
+demo_npcs_victorkain_name	Victor Kain	维克多·凯恩	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.VictorKain.Name	yes	codex_seed
+demo_npcs_visitor_name	Visitor	访客	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Visitor.Name	yes	codex_seed
+demo_npcs_platon_name	visitor Auk	访客海雀	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Platon.Name	yes	codex_seed
+demo_npcs_stepan_name	visitor Crossbill	访客交嘴雀	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Stepan.Name	yes	codex_seed
+demo_npcs_dana_name	visitor Dana	访客戴娜	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Dana.Name	yes	codex_seed
+demo_npcs_timophey_name	visitor Grouse	访客松鸡	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Timophey.Name	yes	codex_seed
+demo_npcs_tamara_name	visitor Gull	访客海鸥	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Tamara.Name	yes	codex_seed
+demo_npcs_visitor_kopyto_name	visitor Kopyto	访客蹄足	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.visitor_Kopyto.Name	yes	codex_seed
+demo_npcs_mavra_name	visitor Maura	访客莫拉	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Mavra.Name	yes	codex_seed
+demo_npcs_elizabeth_name	visitor Murre	访客海鸦	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Elizabeth.Name	yes	codex_seed
+demo_npcs_zoya_name	visitor Oriole	访客金莺	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Zoya.Name	yes	codex_seed
+demo_npcs_nikita_name	visitor Puffin	访客海鹦	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Nikita.Name	yes	codex_seed
+demo_npcs_valeriy_name	visitor Snipe	访客沙锥鸟	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Valeriy.Name	yes	codex_seed
+demo_npcs_karina_name	visitor Spoonbil	访客勺嘴鹬	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Karina.Name	yes	codex_seed
+demo_npcs_zakhar_name	visitor Swift	访客雨燕	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Zakhar.Name	yes	codex_seed
+demo_npcs_egor_name	visitor Teal	访客水鸭	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Egor.Name	yes	codex_seed
+demo_npcs_olgimsky_name	Vlad Olgimsky	奥尔金斯基	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Olgimsky.Name	yes	codex_seed
+demo_npcs_youngvlad_name	Vlad the Younger	小弗拉德	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.YoungVlad.Name	yes	codex_seed
+demo_npcs_weaver_name	Weaver	织工	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Weaver.Name	yes	codex_seed
+demo_npcs_vatson_name	Yakov Little	雅科夫·利特尔	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Vatson.Name	yes	codex_seed
+demo_npcs_julia_name	Yulia Lyuricheva	尤利娅·卢里切娃	character_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Npcs.Julia.Name	yes	codex_seed
+demo_days_day1_name	DAY I	第Ⅰ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day1.Name	yes	codex_seed
+demo_days_day1_name_startday	Day I,	第Ⅰ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day1.Name_StartDay	yes	codex_seed
+demo_days_day2_name	DAY II	第Ⅱ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day2.Name	yes	codex_seed
+demo_days_day2_name_startday	Day II,	第Ⅱ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day2.Name_StartDay	yes	codex_seed
+demo_days_day3_name	DAY III	第Ⅲ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day3.Name	yes	codex_seed
+demo_days_day3_name_startday	Day III,	第Ⅲ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day3.Name_StartDay	yes	codex_seed
+demo_days_day4_name	DAY IV	第Ⅳ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day4.Name	yes	codex_seed
+demo_days_day4_name_startday	Day IV,	第Ⅳ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day4.Name_StartDay	yes	codex_seed
+demo_days_day9_name	DAY IX	第Ⅸ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day9.Name	yes	codex_seed
+demo_days_day9_name_startday	Day IX,	第Ⅸ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day9.Name_StartDay	yes	codex_seed
+demo_days_day5_name	DAY V	第Ⅴ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day5.Name	yes	codex_seed
+demo_days_day5_name_startday	Day V,	第Ⅴ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day5.Name_StartDay	yes	codex_seed
+demo_days_day6_name	DAY VI	第Ⅵ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day6.Name	yes	codex_seed
+demo_days_day6_name_startday	Day VI,	第Ⅵ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day6.Name_StartDay	yes	codex_seed
+demo_days_day7_name	DAY VII	第Ⅶ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day7.Name	yes	codex_seed
+demo_days_day7_name_startday	Day VII,	第Ⅶ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day7.Name_StartDay	yes	codex_seed
+demo_days_day8_name	DAY VIII	第Ⅷ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day8.Name	yes	codex_seed
+demo_days_day8_name_startday	Day VIII,	第Ⅷ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day8.Name_StartDay	yes	codex_seed
+demo_days_day10_name	DAY X	第Ⅹ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day10.Name	yes	codex_seed
+demo_days_day10_name_startday	Day X,	第Ⅹ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day10.Name_StartDay	yes	codex_seed
+demo_days_day11_name	DAY XI	第Ⅺ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day11.Name	yes	codex_seed
+demo_days_day11_name_startday	Day XI,	第Ⅺ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day11.Name_StartDay	yes	codex_seed
+demo_days_day12_name	DAY XII	第Ⅻ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day12.Name	yes	codex_seed
+demo_days_day12_name_startday	Day XII,	第Ⅻ天	day_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Days.Day12.Name_StartDay	yes	codex_seed
+demo_ui_menu_settings_values_languageids_none	None	无	language_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.LanguageIds.None	no	codex_seed
+demo_ui_menu_settings_values_languageids_chinese_simplified	简体中文	简体中文	language_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.LanguageIds.Chinese_Simplified	no	codex_seed
+demo_locations_stvorki_name	Atrium	中庭	location_name	pathologic2_style_override	p2_district_style	用户要求地图名沿用 Pathologic 2 补丁“XX区”说法；原官方 demo 简中为“心”；key_count=1；sample_keys=Locations.Stvorki.Name	yes	codex_seed
+demo_locations_hrebtovka_name	Backbone	脊骨	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Hrebtovka.Name	yes	codex_seed
+demo_locations_boyni_name	Boyni	屠宰场	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Boyni.Name	yes	codex_seed
+demo_locations_most_square_horns_name	Bridge Square	拱桥广场	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Most_Square_Horns.Name	yes	codex_seed
+demo_locations_kladbishe_name	Cemetery	墓园	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Kladbishe.Name	yes	codex_seed
+demo_locations_rebro_name	Chine	脊肉	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Rebro.Name	yes	codex_seed
+demo_locations_raven_rock_region_name	Crowstone	鸦石	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Raven_Rock_Region.Name	yes	codex_seed
+demo_locations_zavodi_name	Factory	工厂	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Zavodi.Name	yes	codex_seed
+demo_locations_sedlo_name	Flank	胁腹区	location_name	pathologic2_style_override	p2_district_style	Pathologic 2 补丁出现“胁腹区”；地图名统一采用“XX区”说法；key_count=1；sample_keys=Locations.Sedlo.Name	yes	codex_seed
+demo_locations_utroba_name	Gut	肠	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Utroba.Name	yes	codex_seed
+demo_locations_jilniki_name	Hindquarters	后躯区	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Jilniki.Name	yes	codex_seed
+demo_locations_serdechnik_name	Marrow	髓	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Serdechnik.Name	yes	codex_seed
+demo_locations_jerlo_name	Maw	喉口区	location_name	pathologic2_style_override	p2_district_style	Pathologic 2 补丁出现“喉口区”；用户要求地图名沿用“XX区”说法；key_count=2；sample_keys=Locations.Jerlo.Name, Locations.Jerlo_Pochka.Name	yes	codex_seed
+demo_locations_mnogogrannik_name	Mnogogrannik	多面体	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Mnogogrannik.Name	yes	codex_seed
+demo_locations_odong_village_name	Shekhen, steppe village	奥东	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Odong_Village.Name	yes	codex_seed
+demo_locations_kozevenniy_name	Skinners	剥皮场	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Kozevenniy.Name	yes	codex_seed
+demo_locations_pochka_name	Spleen	脾	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Pochka.Name	yes	codex_seed
+demo_locations_dubilshikov_name	Tanners	鞣匠街	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Dubilshikov.Name	yes	codex_seed
+demo_locations_mys_name	The Cape	岬角	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Mys.Name	yes	codex_seed
+demo_locations_sirie_zastroiki_name	The Crude Sprawl	粗建地	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Sirie_Zastroiki.Name	yes	codex_seed
+demo_locations_most_slough_eva_name	The Stillwater	静水观星台	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Most_Slough_Eva.Name	yes	codex_seed
+demo_locations_railroad_station_name	Train Station	火车站	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Railroad_Station.Name	yes	codex_seed
+demo_locations_skladi_name	Warehouses	仓库	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Skladi.Name	yes	codex_seed
+demo_locations_water_tower_name	Water Tower	水塔	location_name	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=Locations.Water_Tower.Name	yes	codex_seed
+demo_ui_mindwindow_mindtooltip_description	\tThe past can be altered, and with it, the future is rewritten. While there is still time, you can repeatedly rewind the days and undo your decisions. To do this, hover over the final node of the chain and right-click on it (RMB). You can distinguish the final nodes by the corners at the edges.	\t过去可以改变，而过去一旦改变，未来也会重写。只要还有时间，你就可以反复重来，撤销做出的选择。将鼠标悬停在长链的最后一个节点上，单击鼠标右键，即可撤销。看节点的边角可以看出来哪个是最后一个节点。	mind_mechanic	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MindWindow.MindTooltip.Description	no	codex_seed
+demo_ui_mindwindow_resetplace_resetquest	<Key> Alter the course of events	改变事件的进程	mind_mechanic	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MindWindow.ResetPlace.ResetQuest	no	codex_seed
+demo_ui_mindwindow_resetplace_revertquest	<Key> Reset progress	重置进度	mind_mechanic	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MindWindow.ResetPlace.RevertQuest	no	codex_seed
+demo_ui_mindwindow_keynodehint_keynodehint	<Key> You can change that in	可在此处更改	mind_mechanic	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MindWindow.KeyNodeHint.KeyNodeHint	no	codex_seed
+demo_ui_mindwindow_buttons_help	Help	帮助	mind_mechanic	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MindWindow.Buttons.Help	no	codex_seed
+demo_ui_mindwindow_mindtooltip_name	Replay the day	重新开始这一天	mind_mechanic	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MindWindow.MindTooltip.Name	no	codex_seed
+demo_ui_mindwindow_buttons_startday	Start Day	开始新的一天	mind_mechanic	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MindWindow.Buttons.StartDay	no	codex_seed
+demo_ui_timeover_timeover	Time is over	时间到	system_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.TimeOver.TimeOver	no	codex_seed
+demo_ui_commons_messagebox_buttons_cancel	Cancel	取消	system_message	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Commons.MessageBox.Buttons.Cancel	no	codex_seed
+demo_ui_commons_messagebox_buttons_ok	Ok	好	system_message	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Commons.MessageBox.Buttons.Ok	no	codex_seed
+demo_ui_controlsinfo_tags	(Hold) — Concentration Mode	（按住）- 专注模式	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Tags	no	codex_seed
+demo_ui_controlsinfo_weaponselector	(Hold) — Weapon Select	（按住）- 武器选择	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.WeaponSelector	no	codex_seed
+demo_ui_controlsinfo_aim	Aim	瞄准	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Aim	no	codex_seed
+demo_ui_controlsinfo_barter	Barter	交易	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Barter	no	codex_seed
+demo_ui_controlsinfo_camera	Camera	镜头	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Camera	no	codex_seed
+demo_ui_controlsinfo_tablet	Casebook	病历簿	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Tablet	no	codex_seed
+demo_ui_controlsinfo_gun	Draw / Holster Gun	拔出/放回手枪	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Gun	no	codex_seed
+demo_ui_controlsinfo_prototype	Equip / Put Away Prototype	装备/收起原型器具	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Prototype	no	codex_seed
+demo_ui_controlsinfo_interact	Interact	互动	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Interact	no	codex_seed
+demo_ui_controlsinfo_inventory	Inventory	物品栏	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Inventory	no	codex_seed
+demo_ui_controlsinfo_map	Map	地图	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Map	no	codex_seed
+demo_ui_controlsinfo_mindmap	Mindmap	思维导图	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Mindmap	no	codex_seed
+demo_ui_controlsinfo_movement	Movement	行动	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Movement	no	codex_seed
+demo_ui_controlsinfo_nextitem	Next Quickslot	下一个快速槽位	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.NextItem	no	codex_seed
+demo_ui_controlsinfo_notes	Notes	笔记	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Notes	no	codex_seed
+demo_ui_controlsinfo_pause	Pause	暂停	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Pause	no	codex_seed
+demo_ui_controlsinfo_previtem	Previous Quickslot	上一个快速槽位	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.PrevItem	no	codex_seed
+demo_ui_controlsinfo_fastslot	Quickslot	扔火柴	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.FastSlot	no	codex_seed
+demo_ui_controlsinfo_quickslots	Quickslots	快速存档槽位	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Quickslots	no	codex_seed
+demo_ui_controlsinfo_reload	Reload	重新装填	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Reload	no	codex_seed
+demo_ui_controlsinfo_sprint	Sprint	（按住）- 奔跑	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Sprint	no	codex_seed
+demo_ui_controlsinfo_shoot	Use Device / Fire Gun	使用工具/开枪	ui_control	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.ControlsInfo.Shoot	no	codex_seed
+demo_ui_tradewindow_buttons_change	<InputActions/Inventory/Trade> Trade	交易	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.TradeWindow.Buttons.Change	no	codex_seed
+demo_ui_lootwindow_buttons_takeall	<InputActions/UI/TakeAll> Take All	全部拿取	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.LootWindow.Buttons.TakeAll	no	codex_seed
+demo_ui_menu_settings_values_vsynccount_half	1/2	1月2日	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.VSyncCount.Half	no	codex_seed
+demo_ui_menu_settings_values_vsynccount_third	1/3	1月3日	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.VSyncCount.Third	no	codex_seed
+demo_ui_menu_settings_values_vsynccount_fourth	1/4	1月4日	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.VSyncCount.Fourth	no	codex_seed
+demo_ui_menu_settings_graphicshint_ssaoquality	adds ambient occlusion, darkening tight spaces and crevices for greater depth	为场景添加环境阴影，减少缝隙和狭窄区域的光照。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.SSAOQuality	no	codex_seed
+demo_ui_menu_settings_graphicshint_contactshadowsquality	adds fine shadows to small nearby objects, improving realism	为小物体添加微妙的尖锐阴影。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.ContactShadowsQuality	no	codex_seed
+demo_ui_menu_settings_graphicshint_ssrquality	adds screen-space reflections. Improves realism but can reduce performance at higher settings	为场景添加屏幕空间反射效果，提升表面视觉表现。更高质量可以提高效果精度，但会降低GPU性能。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.SSRQuality	no	codex_seed
+demo_ui_menu_settings_graphicshint_motionblurquality	adds slight blur to fast movement of the camera and objects, improving image fluidity	为快速的相机和物体运动添加轻微模糊，提升图像流畅度。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.MotionBlurQuality	no	codex_seed
+demo_ui_menu_settings_graphicshint_volumetriclightingquality	adds volumetric fog and light scattering. Higher settings improve quality but reduce FPS	添加体积光散射和雾效。更高的质量可以提高效果的分辨率，但会降低GPU性能。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.VolumetricLightingQuality	no	codex_seed
+demo_ui_menu_settings_settingslabel_gammahint	Adjust the gamma until the leftmost mask is barely visible.	调整伽马值，调到看不见最左边的面具	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.SettingsLabel.GammaHint	no	codex_seed
+demo_ui_menu_settings_graphicshint_motionblurintensity	adjusts how strong the motion blur effect appears. Lower values recommended at low FPS	控制运动模糊效果的强度。在低帧率下玩游戏时，建议降低此设置。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.MotionBlurIntensity	no	codex_seed
+demo_ui_menu_settings_graphicshint_upscalingsharpening	adjusts image sharpness when upscaling is active. Higher values may reduce blur but increase visible artefacts	控制在开启图像放大时的锐化程度。调高参数可减轻模糊效果，但可能导致伪影更为明显。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.UpscalingSharpening	no	codex_seed
+demo_ui_menu_settings_otherhint_mousesensitivity	adjusts mouse sensitivity	光标移动速度	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.OtherHint.MouseSensitivity	no	codex_seed
+demo_ui_menu_settings_displayhint_gamma	adjusts overall image brightness	控制屏幕亮度	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.DisplayHint.Gamma	no	codex_seed
+demo_ui_menu_settings_graphicshint_shadowresolution	adjusts shadow sharpness and clarity. Higher values increase VRAM usage and reduce performance	控制阴影分辨率。更高质量可以减少模糊并提高清晰度，但会占用更多显存并降低GPU性能。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.ShadowResolution	no	codex_seed
+demo_ui_menu_settings_graphicshint_pcssquality	adjusts the precision of PCSS shadow filtering. Higher values reduce performance	控制PCSS算法的步骤数量。更高的质量可能会降低GPU性能。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.PCSSQuality	no	codex_seed
+demo_ui_menu_bottombuttons_euthanasiainject	Administer	管理	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.BottomButtons.EuthanasiaInject	no	codex_seed
+demo_ui_messengerswindow_titles_aadministration	Administration	管理	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MessengersWindow.Titles.Aadministration	no	codex_seed
+demo_ui_tablet_general_affectedorgans	Affected organs:	受影响的器官：	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.General.AffectedOrgans	no	codex_seed
+demo_ui_tablet_titles_age	Age	年龄	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Titles.Age	no	codex_seed
+demo_ui_tablet_personalfilewindow_age	Age:	年龄：	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.PersonalFileWindow.Age	no	codex_seed
+demo_ui_tablet_getreports_notallapproved	All cases should have a confirmed diagnosis.	所有病例都应得到确诊。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.GetReports.NotAllApproved	no	codex_seed
+demo_ui_menu_bottombuttons_tabletalldays	All Patients	所有病人	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=3；sample_keys=UI.Menu.BottomButtons.TabletAllDays, UI.Tablet.Titles.AllPatientsTab, UI.Tablet.Titles.APPatients	no	codex_seed
+demo_ui_menu_bottombuttons_craftrecipes	All Recipes	所有制作配方	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.BottomButtons.CraftRecipes	no	codex_seed
+demo_ui_interactobjects_interactobjectheaders_analyser	Analyze Items	分析物品	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.InteractObjects.InteractObjectHeaders.Analyser	no	codex_seed
+demo_ui_tablet_titles_inspection	ANAMNESIS MORBI	既往症发病原因	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Titles.Inspection	no	codex_seed
+demo_ui_menu_settings_graphicsname_anisotropicfiltering	Anisotropic Filtering	各向异性过滤	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.AnisotropicFiltering	no	codex_seed
+demo_ui_menu_settings_graphicsname_antialiasing	Antialiasing	反锯齿	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.Antialiasing	no	codex_seed
+demo_ui_menu_bottombuttons_apply	Apply	应用	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Menu.BottomButtons.Apply, UI.Menu.Buttons.Apply	no	codex_seed
+demo_ui_gamewindowselector_questinventory	ARTIFACTS	圣物	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.GameWindowSelector.QuestInventory, UI.LootWindow.Headers.QuestInventory	no	codex_seed
+demo_ui_menu_settings_audioname_baseaudio	Audio	音频	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Menu.Settings.AudioName.BaseAudio, UI.Menu.Settings.CategorieStateEnum.Audio	no	codex_seed
+demo_ui_menu_bottombuttons_cancel	Back	返回	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Menu.BottomButtons.Cancel, UI.Menu.Buttons.Back	no	codex_seed
+demo_ui_menu_settings_values_upscalingquality_balanced	Balanced	平衡	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.UpscalingQuality.Balanced	no	codex_seed
+demo_ui_menu_settings_displayname_basedisplay	Base Rendering	基础渲染	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Menu.Settings.DisplayName.BaseDisplay, UI.Menu.Settings.GraphicsName.BaseRendering	no	codex_seed
+demo_ui_menu_settings_values_windowtype_borderless	Borderless Fullscreen	无边框全屏	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.WindowType.Borderless	no	codex_seed
+demo_ui_interact_break	Break	打碎	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.Break	no	codex_seed
+demo_ui_menu_buttons_cancel	Cancel	取消	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Menu.Buttons.Cancel, UI.Menu.LoadGame.Cancel	no	codex_seed
+demo_ui_tablet_getreports_calculateallconclusion	Case reports ready. To view case reports open the Casebook.	病例报告准备好了。打开病历簿即可查看病例报告。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.GetReports.CalculateAllConclusion	no	codex_seed
+demo_ui_gamewindowselector_tablet	CASEBOOK	病历簿	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.GameWindowSelector.Tablet	no	codex_seed
+demo_ui_menu_bottombuttons_openstaffcommands	Change Decree	改变法令	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.BottomButtons.OpenStaffCommands	no	codex_seed
+demo_ui_menu_bottombuttons_craftclearslots	Clear Slots	清空槽位	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.BottomButtons.CraftClearSlots	no	codex_seed
+demo_ui_tablet_titles_symptoms	Clinical picture	临床表现	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Titles.Symptoms	no	codex_seed
+demo_ui_interactobjects_interactobjectheaders_clock	Clock	时钟	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.InteractObjects.InteractObjectHeaders.Clock	no	codex_seed
+demo_ui_tablet_rightmenu_directory	Compendium	概略	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.RightMenu.Directory	no	codex_seed
+demo_ui_messengerswindow_messengerquests_completed	Completed	已完成	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MessengersWindow.MessengerQuests.Completed	no	codex_seed
+demo_ui_menu_bottombuttons_submit	Confirm	确认诊断	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.BottomButtons.Submit	no	codex_seed
+demo_ui_tablet_seal_interactable	Confirm diagnosis	确认诊断	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Seal.Interactable	no	codex_seed
+demo_ui_menu_settings_graphicsname_contactshadowsquality	Contact Shadows Quality	接触阴影质量	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.ContactShadowsQuality	no	codex_seed
+demo_ui_menu_bottombuttons_closetutorial	Continue	继续	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Menu.BottomButtons.CloseTutorial, UI.Menu.Main.ContinueGame	no	codex_seed
+demo_ui_menu_settings_categoriestateenum_controls	Controls	控制	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.CategorieStateEnum.Controls	no	codex_seed
+demo_ui_menu_settings_graphicshint_drawdistance	controls how far objects are rendered. Higher values reduce performance but increase scene detail	控制某些物体可见的距离。更高的质量可能会降低CPU和GPU性能。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.DrawDistance	no	codex_seed
+demo_ui_menu_settings_graphicshint_resolutionscale	controls rendering resolution. Lower values improve performance. TAAU is recommended for best results.	控制渲染分辨率。降低此参数可能提高性能。建议在较低值下使用时序抗锯齿上采样抗锯齿。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.ResolutionScale	no	codex_seed
+demo_ui_menu_settings_graphicshint_upscalingquality	controls the internal rendering resolution. Lower values improve performance at the cost of quality.	控制内部渲染分辨率。调低分辨率预设可提升运行性能，但会降低画面清晰度。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.UpscalingQuality	no	codex_seed
+demo_ui_menu_settings_audiohint_mastervolume	Controls the master volume	控制主音量	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.AudioHint.MasterVolume	no	codex_seed
+demo_ui_menu_settings_graphicshint_shadowfilteringtype	controls the shadow filtering algorithm. PCSS softens shadows farther from casting surfaces	控制阴影过滤算法。阴影技术通过在投射表面与接收表面距离较远时增加模糊度，使阴影更加真实。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.ShadowFilteringType	no	codex_seed
+demo_ui_menu_settings_graphicshint_upscaling	controls the usage of advanced frame reconstruction and anti-aliasing techniques	控制高级帧重建和抗锯齿技术的使用。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.Upscaling	no	codex_seed
+demo_ui_menu_settings_audiohint_musicvolume	Controls the volume of music	控制音乐音量	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.AudioHint.MusicVolume	no	codex_seed
+demo_ui_menu_settings_audiohint_effectsvolume	Controls the volume of sound effects	控制音效音量	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.AudioHint.EffectsVolume	no	codex_seed
+demo_ui_menu_settings_audiohint_voicevolume	Controls the volume of voiceover	控制画外音音量	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.AudioHint.VoiceVolume	no	codex_seed
+demo_ui_menu_settings_graphicshint_texturestreamingbudget	controls video memory usage for textures. Higher values reduce blur but may hurt performance if VRAM runs out	控制分配给纹理材质的显存容量。提高该参数可减少材质接缝与模糊现象，但若显存耗尽将导致性能显著下降。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.TextureStreamingBudget	no	codex_seed
+demo_ui_tablet_vaccinetooltip_statusavailable	created	已获得	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.VaccineTooltip.StatusAvailable	no	codex_seed
+demo_ui_menu_main_credits	Credits	制作人员名单	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Main.Credits	no	codex_seed
+demo_ui_tablet_titles_currentdaytab	Current day	今天	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Titles.CurrentDayTab	no	codex_seed
+demo_ui_menu_main_customgame	Custom Game	自定义游戏	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Main.CustomGame	no	codex_seed
+demo_ui_tablet_titles_arrivaldate	Date of Admission	入院日期	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Titles.ArrivalDate	no	codex_seed
+demo_ui_tablet_titles_apday	Day	天	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Tablet.Titles.APDay, UI.Tablet.Titles.PersonalFileDay	no	codex_seed
+demo_ui_menu_loadgame_savenameformat	Day <day>, <hours>:<minutes>, <building>	第<day>天，<hours>:<minutes>, <building>	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.LoadGame.SaveNameFormat	no	codex_seed
+demo_ui_tablet_personalfilewindow_day	Day:	天数：	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.PersonalFileWindow.Day	no	codex_seed
+demo_ui_currenttime_dead	Dead	死亡	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.CurrentTime.Dead	no	codex_seed
+demo_ui_menu_loadgame_delete	Delete Save	删除存档	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.LoadGame.Delete	no	codex_seed
+demo_ui_tablet_titles_diagnoses	DIAGNOSES	诊断	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Titles.Diagnoses	no	codex_seed
+demo_ui_tablet_titles_apdiagnosis	DIAGNOSIS	诊断	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Tablet.Titles.APDiagnosis, UI.Tablet.Titles.Diagnosis	no	codex_seed
+demo_ui_tablet_conclusionshort_survived	Diagnosis confirmed	已确认诊断	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Tablet.ConclusionShort.Survived, UI.Tablet.Seal.UnInteractable	no	codex_seed
+demo_ui_menu_bottombuttons_diagnosisdescription	Diagnosis Description	诊断描述	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.BottomButtons.DiagnosisDescription	no	codex_seed
+demo_ui_tablet_titles_diagnosisapproved	Diagnosis determined	确认诊断	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Titles.DiagnosisApproved	no	codex_seed
+demo_ui_tablet_personalfilewindow_diagnosis	Diagnosis:	诊断：	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.PersonalFileWindow.Diagnosis	no	codex_seed
+demo_ui_gamewindowselector_questlog	DIARY	日记	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.GameWindowSelector.QuestLog	no	codex_seed
+demo_ui_messengerswindow_messengers_died	Died	已死亡	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MessengersWindow.Messengers.Died	no	codex_seed
+demo_ui_menu_settings_categoriestateenum_display	Display	显示	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.CategorieStateEnum.Display	no	codex_seed
+demo_ui_menu_settings_values_upscalingtype_dlss	DLSS	深度学习超级采样	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.UpscalingType.DLSS	no	codex_seed
+demo_ui_menu_settings_graphicsname_drawdistance	Draw Distance	绘制距离	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.DrawDistance	no	codex_seed
+demo_ui_menu_settings_audioname_effectsvolume	Effects	效果	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Menu.Settings.AudioName.EffectsVolume, UI.Menu.Settings.GraphicsName.Effects	no	codex_seed
+demo_ui_interact_inspection	Examination	检查	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.Inspection	no	codex_seed
+demo_ui_menu_settings_values_windowtype_exclusivefullscreen	Exclusive Fullscreen	独占全屏	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.WindowType.ExclusiveFullscreen	no	codex_seed
+demo_ui_menu_main_exit	Exit	离开	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Main.Exit	no	codex_seed
+demo_ui_menu_pause_exit	Exit Game	退出游戏	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Pause.Exit	no	codex_seed
+demo_ui_messengerswindow_messengerquests_failed	Failed	已失败	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MessengersWindow.MessengerQuests.Failed	no	codex_seed
+demo_ui_menu_settings_values_upscalingtype_fsr2	FSR2	高品质画质	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.UpscalingType.FSR2	no	codex_seed
+demo_ui_menu_settings_values_antialiasingtype_fxaa	FXAA	快速近似抗锯齿	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.AntialiasingType.FXAA	no	codex_seed
+demo_ui_menu_settings_displayname_gamma	Gamma	伽马值	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.DisplayName.Gamma	no	codex_seed
+demo_ui_menu_settings_settingslabel_gamma	Gamma adjustment	伽玛调节	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.SettingsLabel.Gamma	no	codex_seed
+demo_ui_menu_settings_othername_group	General	通用	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.OtherName.Group	no	codex_seed
+demo_ui_menu_settings_categoriestateenum_graphics	Graphics	图形	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.CategorieStateEnum.Graphics	no	codex_seed
+demo_ui_messengerswindow_titles_guarantors	Guarantors	保证人	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MessengersWindow.Titles.Guarantors	no	codex_seed
+demo_ui_tablet_titles_habits	Harmful Habits	不良嗜好	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Titles.Habits	no	codex_seed
+demo_ui_tablet_personalfilewindow_badhabits	Harmful habits:	不良嗜好：	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.PersonalFileWindow.BadHabits	no	codex_seed
+demo_ui_menu_bottombuttons_tooltipoff	Hide Description	禁用描述	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.BottomButtons.TooltipOff	no	codex_seed
+demo_ui_menu_settings_otherhint_streamermode	hides nudity	隐藏裸露内容	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.OtherHint.StreamerMode	no	codex_seed
+demo_ui_menu_settings_values_qualitylevel_off_vl_l_m_h_vh_u_high	High	高	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Menu.Settings.Values.QualityLevel_Off_VL_L_M_H_VH_U.High, UI.Menu.Settings.Values.QualityLevel_VL_L_M_H_VH_U.High	no	codex_seed
+demo_ui_interact_hit	Hit	击打	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.Hit	no	codex_seed
+demo_ui_menu_main_hospital	Hospital	医院	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Main.Hospital	no	codex_seed
+demo_ui_menu_main_hub	Hub	中心	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Main.Hub	no	codex_seed
+demo_ui_menu_settings_othername_hudvariant	HUD Variant	HUD布局	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.OtherName.HUDVariant	no	codex_seed
+demo_ui_menu_settings_otherhint_hudvariant	HUDVariant	主HUD布局：冷漠/狂躁条，肉体健康和混合物指示器	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.OtherHint.HUDVariant	no	codex_seed
+demo_ui_interact_dialogunavailablepsycho	I cannot talk! The world is abuzz with Mania!	我没法说话了！这个世界充斥着狂躁！	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.DialogUnavailablePsycho	no	codex_seed
+demo_ui_messengerswindow_messengerquests_inwork	In progress	进行中	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MessengersWindow.MessengerQuests.InWork	no	codex_seed
+demo_ui_lootwindow_headers_inventory	Inventory	物品栏	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.LootWindow.Headers.Inventory	no	codex_seed
+demo_ui_menu_settings_othername_invertmouse	Invert Mouse	鼠标翻转	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.OtherName.InvertMouse	no	codex_seed
+demo_ui_menu_settings_otherhint_invertmouse	inverts the mouse's vertical axis (move the mouse forward to look down)	翻转鼠标垂直轴（向前移动鼠标以向下看）	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.OtherHint.InvertMouse	no	codex_seed
+demo_ui_interact_dialogunavailableapat	Is there even a reason to talk… Apathy…	还有什么开口说话的必要么……对一切都很冷漠……	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.DialogUnavailableApat	no	codex_seed
+demo_ui_interact_kick	Kick	踢	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.Kick	no	codex_seed
+demo_ui_menu_loadgame_lastsavedatetimeformat	Last save: <day>.<month>.<year>, <hour>:<minute>	最后存档：<year>,<month>.<day>.<hour>:<minute>	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.LoadGame.LastSaveDateTimeFormat	no	codex_seed
+demo_ui_menu_settings_graphicsname_lighting	Lighting	光照效果	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.Lighting	no	codex_seed
+demo_ui_menu_loadgame_header	Load Game	载入游戏	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=4；sample_keys=UI.Menu.LoadGame.Header, UI.Menu.LoadGame.Load, UI.Menu.Main.LoadGame, ...	no	codex_seed
+demo_ui_menu_main_loadlocation	Load Scene	载入场景	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Main.LoadLocation	no	codex_seed
+demo_ui_interactobjects_interactobjectheaders_sprayweaponcharger	Load the Prototype	充能原型器具	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.InteractObjects.InteractObjectHeaders.SprayWeaponCharger	no	codex_seed
+demo_ui_menu_bottombuttons_tabletdiagnosis	Lock Diagnosis	锁定诊断（按住）	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.BottomButtons.TabletDiagnosis	no	codex_seed
+demo_ui_menu_settings_graphicsname_lods	LODs	细节层次	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.Lods	no	codex_seed
+demo_ui_interact_loot	Loot	搜刮	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.Loot	no	codex_seed
+demo_ui_menu_settings_values_qualitylevel_off_vl_l_m_h_vh_u_low	Low	低	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Menu.Settings.Values.QualityLevel_Off_VL_L_M_H_VH_U.Low, UI.Menu.Settings.Values.QualityLevel_VL_L_M_H_VH_U.Low	no	codex_seed
+demo_ui_menu_pause_mainmenu	Main Menu	主菜单	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Pause.MainMenu	no	codex_seed
+demo_ui_tablet_titles_status	Marital Status	婚姻状况	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Titles.Status	no	codex_seed
+demo_ui_tablet_personalfilewindow_familystatus	Marital status:	材料状态：	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.PersonalFileWindow.FamilyStatus	no	codex_seed
+demo_ui_menu_settings_audioname_mastervolume	Master	主音量	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.AudioName.MasterVolume	no	codex_seed
+demo_ui_tablet_personalfilewindow_personalfile	Medical Chart	病历文件	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.PersonalFileWindow.PersonalFile	no	codex_seed
+demo_ui_tablet_titles_personalfile	MEDICAL CHART	医用图表	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Titles.PersonalFile	no	codex_seed
+demo_ui_tablet_rightmenu_personalfile	Medical Charts	病历文件	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.RightMenu.PersonalFile	no	codex_seed
+demo_ui_menu_settings_values_qualitylevel_off_vl_l_m_h_vh_u_medium	Medium	中等	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Menu.Settings.Values.QualityLevel_Off_VL_L_M_H_VH_U.Medium, UI.Menu.Settings.Values.QualityLevel_VL_L_M_H_VH_U.Medium	no	codex_seed
+demo_ui_menu_bottombuttons_contextmenu	Menu	菜单	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.BottomButtons.ContextMenu	no	codex_seed
+demo_ui_messengerswindow_messengers_messenger	Messenger	送信人	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MessengersWindow.Messengers.Messenger	no	codex_seed
+demo_ui_tablet_conclusionshort_died	Misdiagnosed	误诊	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.ConclusionShort.Died	no	codex_seed
+demo_ui_interactobjects_interactobjectheaders_craft	Mix the Medicine	调配药剂	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.InteractObjects.InteractObjectHeaders.Craft	no	codex_seed
+demo_ui_menu_settings_graphicsname_motionblurintensity	Motion Blur Intensity	动态模糊效果强度	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.MotionBlurIntensity	no	codex_seed
+demo_ui_menu_settings_graphicsname_motionblurquality	Motion Blur Quality	动态模糊效果质量	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.MotionBlurQuality	no	codex_seed
+demo_ui_menu_settings_othername_mousesensitivity	Mouse Sensitivity	鼠标灵敏度	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.OtherName.MouseSensitivity	no	codex_seed
+demo_ui_menu_settings_audioname_musicvolume	Music	音乐	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.AudioName.MusicVolume	no	codex_seed
+demo_ui_tablet_titles_name	Name	名字	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Titles.Name	no	codex_seed
+demo_ui_tablet_personalfilewindow_name	Name:	名字：	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.PersonalFileWindow.Name	no	codex_seed
+demo_ui_tablet_titles_nextdaytab	Next day	下一天	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Titles.NextDayTab	no	codex_seed
+demo_ui_tablet_getreports_nopersonalfiles	No hospital cases.	没有医院病例	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.GetReports.NoPersonalFiles	no	codex_seed
+demo_ui_tablet_personalfilewindow_placeholder	No Medical Charts	没有病历文件	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.PersonalFileWindow.PlaceHolder	no	codex_seed
+demo_ui_menu_settings_categoriestateenum_none	None	无	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=3；sample_keys=UI.Menu.Settings.CategorieStateEnum.None, UI.Menu.Settings.Values.AntialiasingType.None, UI.Menu.Settings.Values.UpscalingType.None	no	codex_seed
+demo_ui_tablet_vaccinetooltip_statusnotavailable	not created	未获得	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.VaccineTooltip.StatusNotAvailable	no	codex_seed
+demo_ui_gamewindowselector_notes	NOTES	笔记	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.GameWindowSelector.Notes	no	codex_seed
+demo_ui_menu_settings_graphicshint_null	Null	无	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.Null	no	codex_seed
+demo_ui_tablet_titles_work	Occupation	工作	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Titles.Work	no	codex_seed
+demo_ui_tablet_personalfilewindow_work	Occupation:	工作：	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.PersonalFileWindow.Work	no	codex_seed
+demo_ui_menu_settings_values_qualitylevel_off_vl_l_m_h_vh_u_off	Off	关闭	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Menu.Settings.Values.QualityLevel_Off_VL_L_M_H_VH_U.Off, UI.Menu.Settings.Values.VSyncCount.None	no	codex_seed
+demo_ui_menu_settings_values_vsynccount_one	On	打开	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.VSyncCount.One	no	codex_seed
+demo_ui_interact_enter	Open	打开	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=3；sample_keys=UI.Interact.Enter, UI.Interact.EnterDoor, UI.Interact.Leave	no	codex_seed
+demo_ui_menu_bottombuttons_tablet	Open Casebook	打开病历簿	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.BottomButtons.Tablet	no	codex_seed
+demo_ui_menu_settings_categoriestateenum_other	Other	其他	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.CategorieStateEnum.Other	no	codex_seed
+demo_ui_tablet_rightmenu_patients	Patients	病人	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.RightMenu.Patients	no	codex_seed
+demo_ui_menu_settings_values_hdrpshadowfilteringmethod_pcf	PCF	阴影柔化	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.HDRPShadowFilteringMethod.PCF	no	codex_seed
+demo_ui_menu_settings_values_hdrpshadowfilteringmethod_pcss	PCSS	自适应软阴影	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.HDRPShadowFilteringMethod.PCSS	no	codex_seed
+demo_ui_menu_settings_graphicsname_pcssquality	PCSS Quality	软阴影质量	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.PCSSQuality	no	codex_seed
+demo_ui_menu_settings_values_upscalingquality_performance	Performance	性能	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.UpscalingQuality.Performance	no	codex_seed
+demo_ui_menu_main_newgame	Play	新游戏	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Main.NewGame	no	codex_seed
+demo_ui_interactobjects_interactobjectheaders_sprayweaponbulletgenerator	Prepare the Projectile	准备充能	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.InteractObjects.InteractObjectHeaders.SprayWeaponBulletGenerator	no	codex_seed
+demo_ui_interact_press	Press	按下	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.Press	no	codex_seed
+demo_ui_tablet_titles_prevday	Previous day	前一天	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Titles.PrevDay	no	codex_seed
+demo_ui_interact_push	Push	推	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.Push	no	codex_seed
+demo_ui_menu_settings_values_upscalingquality_quality	Quality	质量	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.UpscalingQuality.Quality	no	codex_seed
+demo_ui_gamewindowselector_quest	QUEST	任务	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.GameWindowSelector.Quest	no	codex_seed
+demo_ui_messengerswindow_titles_quests	Quests	任务道具	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MessengersWindow.Titles.Quests	no	codex_seed
+demo_ui_menu_bottombuttons_readnote	Read	阅读	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.BottomButtons.ReadNote	no	codex_seed
+demo_ui_menu_bottombuttons_removestaffcommand	Remove Decree	移除法令	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.BottomButtons.RemoveStaffCommand	no	codex_seed
+demo_ui_menu_settings_graphicshint_anisofiltering	removes blur on angled textures. A low-cost effect on most modern GPUs	消除在斜角查看纹理时的模糊。对于大多数现代GPU来说，这是一种相对较轻的效果。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.AnisoFiltering	no	codex_seed
+demo_ui_messengerswindow_titles_report	Report	报告	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MessengersWindow.Titles.Report	no	codex_seed
+demo_ui_tablet_conclusion_reset	Reset	重置	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Conclusion.Reset	no	codex_seed
+demo_ui_tablet_titles_location	Residence	住所	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Titles.Location	no	codex_seed
+demo_ui_menu_settings_displayname_resolution	Resolution	分辨率	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.DisplayName.Resolution	no	codex_seed
+demo_ui_menu_settings_graphicsname_resolutionscale	Resolution Scale	分辨率	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.ResolutionScale	no	codex_seed
+demo_ui_menu_pause_back	Return to Game	返回游戏	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Pause.Back	no	codex_seed
+demo_ui_interactobjects_interactobjectheaders_stafftable	Review Decrees	审阅法令	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.InteractObjects.InteractObjectHeaders.StaffTable	no	codex_seed
+demo_ui_tablet_rightmenu_sandulcer	Sand Pest	沙疫	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.RightMenu.SandUlcer	no	codex_seed
+demo_ui_menu_pause_save	Save Game	保存游戏	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Pause.Save	no	codex_seed
+demo_ui_interactobjects_interactobjectheaders_timetravelclock	See the Past	回溯过往	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.InteractObjects.InteractObjectHeaders.TimeTravelClock	no	codex_seed
+demo_ui_messengerswindow_buttons_send	Send	送出	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MessengersWindow.Buttons.Send	no	codex_seed
+demo_ui_menu_settings_displayhint_resolution	sets the game window's resolution	控制游戏窗口分辨率。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.DisplayHint.Resolution	no	codex_seed
+demo_ui_menu_settings_displayhint_windowtype	sets the window mode. Borderless Fullscreen is recommended	控制游戏窗口类型，推荐选择无边框模式。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.DisplayHint.WindowType	no	codex_seed
+demo_ui_menu_main_settings	Settings	设置	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Main.Settings	no	codex_seed
+demo_ui_menu_settings_graphicsname_shadowfilteringtype	Shadow Filtering Type	阴影过滤类型	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.ShadowFilteringType	no	codex_seed
+demo_ui_menu_settings_graphicsname_shadowresolution	Shadow Resolution	阴影分辨率	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.ShadowResolution	no	codex_seed
+demo_ui_menu_settings_graphicsname_shadows	Shadows	阴影	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.Shadows	no	codex_seed
+demo_ui_menu_settings_graphicsname_upscalingsharpening	Sharpening	锐化	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.UpscalingSharpening	no	codex_seed
+demo_ui_menu_bottombuttons_tooltipon	Show Description	启用描述	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.BottomButtons.TooltipOn	no	codex_seed
+demo_ui_menu_settings_graphicshint_sssquality	simulates subsurface light scattering in materials for more natural lighting effects	模拟某些材料中的复杂光散射。更高的质量增加散射步骤的数量，从而提高效果质量。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.SSSQuality	no	codex_seed
+demo_ui_interact_sit	Sit	坐下	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.Sit	no	codex_seed
+demo_ui_menu_settings_values_antialiasingtype_smaa	SMAA	超级多重采样抗锯齿	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.AntialiasingType.SMAA	no	codex_seed
+demo_ui_menu_settings_graphicshint_antialiasing	smooths jagged edges and improves image quality. TAAU offers the best balance between quality and performance.	平滑画面并消除锯齿。时序抗锯齿上采样在画质和性能之间提供最佳平衡，并加速某些效果的渲染。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsHint.Antialiasing	no	codex_seed
+demo_ui_interact_spin	Spin	旋转	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.Spin	no	codex_seed
+demo_ui_menu_settings_graphicsname_ssaoquality	SSAO Quality	屏幕空间环境光遮蔽质量	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.SSAOQuality	no	codex_seed
+demo_ui_menu_settings_graphicsname_ssrquality	SSR Quality	环境光散射质量	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.SSRQuality	no	codex_seed
+demo_ui_menu_settings_graphicsname_sssquality	SSS Quality	三重超级质量	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.SSSQuality	no	codex_seed
+demo_ui_tablet_titles_apstatus	STATUS	状态	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Tablet.Titles.APStatus, UI.Tablet.VaccineTooltip.StatusTitle	no	codex_seed
+demo_ui_interact_stop	Stop	停止	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.Stop	no	codex_seed
+demo_ui_menu_settings_othername_streamermode	Streamer Mode	直播模式	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.OtherName.StreamerMode	no	codex_seed
+demo_ui_messengerswindow_messengers_survived	Survived	已幸存	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MessengersWindow.Messengers.Survived	no	codex_seed
+demo_ui_tablet_general_possiblediagnoses	Suspected Diagnosis:	疑似诊断：	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.General.PossibleDiagnoses	no	codex_seed
+demo_ui_tablet_titles_symptomsview	SUSPECTED SYMPTOMS	疑似症状	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Titles.SymptomsView	no	codex_seed
+demo_ui_tablet_personalfilewindow_suspectedsymptoms	Suspected Symptoms:	疑似症状：	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.PersonalFileWindow.SuspectedSymptoms	no	codex_seed
+demo_ui_menu_settings_displayhint_vsynccount	synchronizes frames with the monitor to prevent screen tearing	控制屏幕同步，消除水平撕裂伪影。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.DisplayHint.VSyncCount	no	codex_seed
+demo_ui_menu_settings_values_antialiasingtype_taau	TAAU	时序抗锯齿上采样	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.AntialiasingType.TAAU	no	codex_seed
+demo_ui_interact_take	Take	拿取	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.Take	no	codex_seed
+demo_ui_menu_bottombuttons_takeall	Take All	全部拿取	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.BottomButtons.TakeAll	no	codex_seed
+demo_ui_interact_probe	Take Sample	拿取样本	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.Probe	no	codex_seed
+demo_ui_interact_dialog	Talk	交谈	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.Dialog	no	codex_seed
+demo_ui_messengerswindow_messengerquests_quest	Task	任务	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.MessengersWindow.MessengerQuests.Quest	no	codex_seed
+demo_ui_menu_settings_othername_language	Text	语言	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.OtherName.Language	no	codex_seed
+demo_ui_menu_settings_otherhint_language	text language: dialogues, subtitles, item descriptions	文本语言：对话、字幕和物品描述	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.OtherHint.Language	no	codex_seed
+demo_ui_menu_settings_graphicsname_texturestreamingbudget	Texture Streaming Budget	纹理流送预算	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.TextureStreamingBudget	no	codex_seed
+demo_ui_menu_settings_graphicsname_graphicstextures	Textures	图像纹理	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.GraphicsTextures	no	codex_seed
+demo_ui_tablet_conclusion_correct	The treatment started to show results. The patient is recovering.	治疗起效了，病人逐渐康复。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Conclusion.Correct	no	codex_seed
+demo_ui_tablet_conclusion_notcorrect	The treatment wasn't sucessful. The patient died.	治疗失败了，病人已去世。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Conclusion.NotCorrect	no	codex_seed
+demo_ui_gamewindowselector_inventory	THINGS	物品栏	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.GameWindowSelector.Inventory	no	codex_seed
+demo_ui_gamewindowselector_mindmap	THOUGHTS	想法	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=3；sample_keys=UI.GameWindowSelector.MindMap, UI.Interact.Cloud, UI.Menu.BottomButtons.Tags	no	codex_seed
+demo_ui_tablet_vaccinetooltip_descriptionnotavailable	To create the vaccine, more correct diagnoses of diseases intercurrent to the Sand Pest are required	为了制造疫苗，需要更准确地诊断与沙疫相关的并发疾病。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.VaccineTooltip.DescriptionNotAvailable	no	codex_seed
+demo_ui_currenttime_today	Today	今天	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.CurrentTime.Today	no	codex_seed
+demo_ui_tablet_vaccinetooltip_descriptionavailable	Tomorrow, we'll try vaccinating the townsfolk with it. Let's see how long the immunity lasts this time	明天，我们将尝试用它为镇上的人接种。看看这次免疫力能持续多久。	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.VaccineTooltip.DescriptionAvailable	no	codex_seed
+demo_ui_gamewindowselector_map	TOWN	地图	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.GameWindowSelector.Map	no	codex_seed
+demo_ui_interact_trade	Trade	交易	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Interact.Trade, UI.Menu.BottomButtons.Trade	no	codex_seed
+demo_ui_interact_disable	Turn Off	关闭	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.Disable	no	codex_seed
+demo_ui_interact_enable	Turn On	打开	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.Enable	no	codex_seed
+demo_ui_menu_settings_values_qualitylevel_off_vl_l_m_h_vh_u_ultra	Ultra	极高	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Menu.Settings.Values.QualityLevel_Off_VL_L_M_H_VH_U.Ultra, UI.Menu.Settings.Values.QualityLevel_VL_L_M_H_VH_U.Ultra	no	codex_seed
+demo_ui_menu_settings_values_upscalingquality_native	Ultra (Native)	原始	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.UpscalingQuality.Native	no	codex_seed
+demo_ui_menu_settings_values_upscalingquality_ultraperformance	Ultra Performance	极高性能	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.UpscalingQuality.UltraPerformance	no	codex_seed
+demo_ui_tablet_function_workless	Unemployed	无业	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.Function.Workless	no	codex_seed
+demo_ui_menu_settings_graphicsname_upscaling	Upscaling	超采样	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.Upscaling	no	codex_seed
+demo_ui_menu_settings_graphicsname_upscalingquality	Upscaling Quality	超采样质量	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.UpscalingQuality	no	codex_seed
+demo_ui_interact_interact	Use	使用	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Interact.Interact	no	codex_seed
+demo_ui_menu_bottombuttons_craftuserecipes	Use Recipe	使用制作配方	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.BottomButtons.CraftUseRecipes	no	codex_seed
+demo_ui_tablet_vaccinetooltip_title	Vaccine	疫苗	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Tablet.VaccineTooltip.Title	no	codex_seed
+demo_ui_menu_settings_values_hudvariant_variant1	Variant 1	一体化功能栏	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.HUDVariant.Variant1	no	codex_seed
+demo_ui_menu_settings_values_hudvariant_variant2	Variant 2	屏幕左右两侧对称显示的双功能栏	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.HUDVariant.Variant2	no	codex_seed
+demo_ui_menu_settings_values_qualitylevel_off_vl_l_m_h_vh_u_veryhigh	Very High	非常高	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Menu.Settings.Values.QualityLevel_Off_VL_L_M_H_VH_U.VeryHigh, UI.Menu.Settings.Values.QualityLevel_VL_L_M_H_VH_U.VeryHigh	no	codex_seed
+demo_ui_menu_settings_values_qualitylevel_off_vl_l_m_h_vh_u_verylow	Very Low	非常低	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=2；sample_keys=UI.Menu.Settings.Values.QualityLevel_Off_VL_L_M_H_VH_U.VeryLow, UI.Menu.Settings.Values.QualityLevel_VL_L_M_H_VH_U.VeryLow	no	codex_seed
+demo_ui_menu_settings_othername_replicas	Voice	声音	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.OtherName.Replicas	no	codex_seed
+demo_ui_menu_settings_audioname_voicevolume	Voiceover	画外音	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.AudioName.VoiceVolume	no	codex_seed
+demo_ui_menu_settings_otherhint_replicas	voice-over language: character lines, rioter shouts, etc	语音语言：角色台词和暴徒喊叫	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.OtherHint.Replicas	no	codex_seed
+demo_ui_menu_settings_graphicsname_volumetriclightingquality	Volumetric Lighting Quality	体积光效果质量	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.GraphicsName.VolumetricLightingQuality	no	codex_seed
+demo_ui_menu_settings_displayname_vsynccount	VSync	垂直同步	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.DisplayName.VSyncCount	no	codex_seed
+demo_ui_menu_settings_displayname_windowtype	Window	游戏窗口	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.DisplayName.WindowType	no	codex_seed
+demo_ui_menu_settings_values_windowtype_windowed	Windowed	窗口化	ui_label	quarantine_demo	demo_baseline	官方 demo 简中基线；key_count=1；sample_keys=UI.Menu.Settings.Values.WindowType.Windowed	no	codex_seed

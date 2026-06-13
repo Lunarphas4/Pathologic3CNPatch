@@ -1,0 +1,2 @@
+{Minds2.Days.Day3.Day3_Q3.1_ArchivesRequest.Day3_Q3.1_MM_ArchivesWanted.Name} 伊西多尔的档案
+{Minds2.Days.Day3.Day3_Q3.1_ArchivesRequest.Day3_Q3.1_MM_ArchivesWanted.Description} 赫伦说，我一开始就索要了伊西多尔关于五年前沙疫暴发的档案。我不记得这事，但这是个好主意

@@ -1,0 +1,2 @@
+{UI.Credits.Narrative.DanaKirilenko.Name} Dana Kirilenko
+{UI.Credits.Narrative.DanaKirilenko.Description} 编剧

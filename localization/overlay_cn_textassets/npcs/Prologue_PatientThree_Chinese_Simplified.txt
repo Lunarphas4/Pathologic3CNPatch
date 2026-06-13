@@ -1,0 +1,3 @@
+{Npcs.Prologue_PatientThree.Name} 菲拉特
+{Npcs.Prologue_PatientThree.FullName} ⁠
+{Npcs.Prologue_PatientThree.Description} ⁠

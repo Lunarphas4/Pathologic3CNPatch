@@ -1,0 +1,5 @@
+{Clouds2.Hospital.old.Chernysh.Cloud_Chernysh_Pills.7687} 嗯，心脏药。
+{Clouds2.Hospital.old.Chernysh.Cloud_Chernysh_Pills.16149} 嗯，心脏药。
+{Clouds2.Hospital.old.Chernysh.Cloud_Chernysh_Pills.25954} 吃了很久。盒子已经半空。
+{Clouds2.Hospital.old.Chernysh.Cloud_Chernysh_Pills.18933} 拿到药就安心了，本该早说。
+{Clouds2.Hospital.old.Chernysh.Cloud_Chernysh_Pills.3696} 如果是症状，那也是旧症状。没有其他症状就说明不了什么。

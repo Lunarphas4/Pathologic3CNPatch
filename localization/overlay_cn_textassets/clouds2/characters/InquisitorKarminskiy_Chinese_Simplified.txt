@@ -1,0 +1,3 @@
+{Clouds2.Characters.InquisitorKarminskiy.57075} 他的脸仿佛是大理石雕成的
+{Clouds2.Characters.InquisitorKarminskiy.27818} 他的脸仿佛是大理石雕成的
+{Clouds2.Characters.InquisitorKarminskiy.5374} 一座献给自己的活纪念碑

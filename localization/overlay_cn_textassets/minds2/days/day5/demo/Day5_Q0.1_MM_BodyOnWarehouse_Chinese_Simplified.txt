@@ -1,0 +1,2 @@
+{Minds2.Days.Day5.Demo.Day5_Q0.1_MM_BodyOnWarehouse.Name} 嫌疑人，还是继承人？
+{Minds2.Days.Day5.Demo.Day5_Q0.1_MM_BodyOnWarehouse.Description} 最后见过西蒙·凯恩的人，藏在仓库区的某处

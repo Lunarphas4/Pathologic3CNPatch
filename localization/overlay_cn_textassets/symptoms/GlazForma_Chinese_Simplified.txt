@@ -1,0 +1,2 @@
+{Symptoms.GlazForma.Name} 瞳孔形状异常
+{Symptoms.GlazForma.Description} 正常瞳孔呈圆形，形状改变肉眼即可分辨。

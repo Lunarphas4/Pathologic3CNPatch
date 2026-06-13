@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Hospital.Day10.Hospital_Kira.Hospital_Kira_House.Name} 斯塔霍亚克的宅子
+{QuestMarkers.Hospital.Day10.Hospital_Kira.Hospital_Kira_House.Description} 基拉请我去查她的学生是否处于危险之中。

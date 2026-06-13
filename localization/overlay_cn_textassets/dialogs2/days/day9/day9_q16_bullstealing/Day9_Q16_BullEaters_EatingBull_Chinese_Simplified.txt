@@ -1,0 +1,61 @@
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.25443} 真见鬼，你还有这本事。你从哪儿学会这样挥刀的？快得像蜱虫：唰，唰——然后就进火里了！
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.19689} 嘿，我还是个流鼻涕小崽子的时候，就在屠宰场干过一阵。你不知道？以为我是个城里养出来的软胖蠢货？我从没告诉过你——那时候你受不了草原人，受不了他们，也受不了跟他们沾边的任何人。手不会忘，懂吗。它记得血里的活儿。你一旦用刀割过活肉，那东西就不会撒泡尿就冲没了。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.63945} 受不了我们？Bi etigezhe yadanab（我真不敢相信）。黑心肠，你。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.12129} 我现在也觉得你们族里有一半从里到外都是野兽。可麻烦来了，人才显出自己的分量。比如你，糖块——没有你，我们今晚就吃不上这顿。要不是你教我那声小哨子，任何公牛都会跟着走的那种……
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.58638} 你是玛尔塔？你从静水观星台带走了公牛；我是来把它带回去的。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.4661} 哦——医生，日安。你的公牛……它跑了。我吹哨没那么灵——这次来了，下次就未必来。而那可怜公牛，在四面墙里关太久，一闻到自由的气味，就跑了……
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.27054} 你显然在撒谎。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.34925} 它在哪里？我的公牛在哪里？
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.16996} 公牛没了，bukha edibebdi（我们吃了公牛）。它完成了自己的命运——拯救了需要它的人。它救了我们所有人，tere abarba（它救了我们）——用自己的肉把我们从饥饿里救出来。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.3640} 它救了你们，却定了其他所有人的罪。你们吃掉了这座城最后的疫苗希望。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.13753} 哦，相信我，它并没有救你们。它感染了瘟疫。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.31155} 你们在吃什么？牛肉？
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.63039} 是公牛肉，bukha edibebdi（我们吃了公牛）。它完成了自己的命运——拯救了需要它的人。它救了我们所有人，tere abarba（它救了我们）——用自己的肉把我们从饥饿里救出来。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.60719} 城里有隔离令，现在还有戒严。你们知道盗窃会受什么惩罚吗？
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.31595} 盗窃？没人偷东西！
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.11503} 你告诉伊娃，你想带公牛散步——结果却……
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.20598} 我就是在遛它！然后风灌进它鼻子，它就跑了！那么大一头牲口，我怎么拦得住？它现在大概在草原上乱逛呢……
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.64011} 我不信你。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.30165} 不信得好。玛尔塔，别再装傻！他不是瞎子——他能看见我们宴席留下的骨头。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.32317} 你们吃了一头感染瘟疫的公牛！
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.3069} 你现在是在胡说。公牛不会生病，人人都知道。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.56335} Boddho（大地母亲）保护公牛，shi oylgonogüish。Boddho（大地母亲）爱公牛。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.24258} 保护它们免受瘟疫，却不保护它们免遭宰吃。真会挑。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.34570} 我们会看到的——看症状会不会出现。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.846} 你们吃掉的不是一头公牛。你们吃掉的是这座城最后的疫苗希望。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.2029} 我一点也不后悔！我肚子空得像鼓，空了整整一周！饱着死，也比那样死强。你跟瘟疫顶牛，用你的法律把这座城砸得遍体鳞伤，而我们饿死的速度比死于你那该死瘟疫还快！滚出去！
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.62760} 肚子填饱了，威胁人倒容易，是吧？你不羞愧吗？你们那些住在静水观星台里的人，吃的是新鲜面包和黄油，对不对！我知道——我弟弟给你们当勤务员。戴着鸟面具跑腿。说你们在那里过得很舒服。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.41891} 我是在照看你们！若没有我的工作，你们早就全都断气了。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.27417} 断气也比饿死强——我就是这么说！
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.2080} 饥饿的民众不知畏惧。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.55552} 你诅咒我们，emshen（医者）。你放纵你的野舌头，muu yuume khelenesh。我们靠土地活着——你们城里的诅咒沾不到我们，gansal medekhyn tula。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.46301} 你们必须被隔离观察几天。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.32855} 什么面包，什么黄油？我都不记得上次吃东西是什么时候了。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.51847} 哦，当然！你以为我们会信！你在静水观星台肯定一张嘴当三张嘴吃！看看你——脸宽得连门都过不去！
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.55859} 你那个当勤务员的弟弟有没有提过，静水观星台里的公牛是为了实验目的放在那儿的？
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.26504} 什么目的。富人的怪癖——把公牛养在屋里……
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.62463} 我想起来了……我弟弟，那个勤务员，说城里的医生想看看公牛是不是真的不会生病——还是全是胡说，差不多这样。所以这就意味着我们吃了瘟疫肉，对吗……
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.40459} 终于有个理性的声音。女士，既然你是讲理的那个，就请你看住同桌的人，别让他们四散逃跑。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.27367} 你想把我们关起来？
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.26323} 这是隔离，还是监狱？
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.22376} 你们确实该进监狱，是的，但你们已经惩罚了自己。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.6594} 真吓人……我们那么努力不染病，结果现在——这样。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.48580} 接下来这样办。等你那个勤务员弟弟和他的同事来。他们会护送你们去隔离病房——仓库里的剖验所就行，反正空着。我之后有时间会去看你们。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.44878} 我们为什么要听你的？
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.51681} 你们吃掉的不只是我的朋友。你们吃掉的是我的研究。现在，你们就是我的研究。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.6282} 因为这里由我负责，而这是我的决定。讨论结束。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.437} 你们可能对别人构成危险。另外，留在观察之下，是你们获得较仁慈死亡、少受痛苦的机会。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.49223} 顺便说一句，那头公牛叫巴乔。它是我的朋友。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.64236} 这就算给你上一课了，医生。如果你不喂饱人，人就会开始吃你的朋友。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.56892} 这是寓言什么的吗？我有空会琢磨。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.64360} 你们不是“人民”。我倒想告诉你们是什么，可我的教养不允许我把那种词说出口。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.16533} 是的——确实是瘟疫肉。而我们需要看看它会怎样影响你们。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.65457} 如果你们吃了它，我会为此把你们全都排到墙边。明白吗？
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.16206} 你可以把这话留给法庭说。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.43932} 人们私下传你的话都是真的。你就是个暴君！一有麻烦，你就直接威胁！呸。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.43398} 我记得你。你是我第一批病人之一的邻居。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.27000} 哦——医生，日安！是什么把您这样的大人物带到我们门口？屋里有人病了吗？
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.40572} 我想你们全都病了——如果我没猜错，你们刚吃过牛肉。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.26303} 你说有头公牛跟着你？从哪儿来？他们说镇上几乎没有牲畜了。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.4010} 哦——医生，日安！是什么把您这样的大人物带到我们门口？屋里有人病了吗？你的公牛……它跑了。我吹哨没那么灵——这次来了，下次就未必来。而那可怜公牛，在四面墙里关太久，一闻到自由的气味，就跑了……
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_EatingBull.29026} 请享用你们的——咳——餐食，各位女士先生。

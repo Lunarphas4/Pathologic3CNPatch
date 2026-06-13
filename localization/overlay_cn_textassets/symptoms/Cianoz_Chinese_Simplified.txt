@@ -1,0 +1,2 @@
+{Symptoms.Cianoz.Name} 发绀
+{Symptoms.Cianoz.Description} 外观表现为皮肤发青。原因是血液缺氧，通常提示肺部功能异常。

@@ -1,0 +1,2 @@
+{Prologue.Notifications.Hints.Notification_Hint_PlagueQuarter.Name} ⁠
+{Prologue.Notifications.Hints.Notification_Hint_PlagueQuarter.Description} 该区域已遭感染，瘟疫的毒云很危险，不过可以用原型工具驱散。最好赶紧离开

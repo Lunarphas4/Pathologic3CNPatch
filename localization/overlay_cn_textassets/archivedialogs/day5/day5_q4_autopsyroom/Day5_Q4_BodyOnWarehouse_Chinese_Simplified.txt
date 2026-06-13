@@ -1,0 +1,12 @@
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_BodyOnWarehouse.19142} 头儿，还在找那位先生的尸体吗？就是东道主那位。
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_BodyOnWarehouse.28096} 别打扰我！这城里人人都对西蒙的尸体在哪有意见。你们全都闭嘴倒还更好！
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_BodyOnWarehouse.25894} 别发火，求您了。我们可是真的找着尸体了，您还可能错怪我们。
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_BodyOnWarehouse.12532} 那就说。
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_BodyOnWarehouse.829} 您要找的尸体不在墓地，不在医院，不在宅邸，不在沼泽，不在河里，也不在牲畜坟场。
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_BodyOnWarehouse.17812} 那在哪里？
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_BodyOnWarehouse.23462} 在仓库。那里有间做了记号的小屋。您会认出那个标记。
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_BodyOnWarehouse.10867} 他在那里干什么，泡在蜜里被解剖吗？
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_BodyOnWarehouse.17521} 这我们就不知道了。
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_BodyOnWarehouse.16407} 我为什么该信你们？
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_BodyOnWarehouse.12500} 一会儿冒犯我们，一会儿怀疑我们。我们图什么要撒谎？这可是危险事。行了。您没见过我们，我们也没见过您。
+{ArchiveDialogs.Day5.Day5_Q4_AutopsyRoom.Day5_Q4_BodyOnWarehouse.21600} ...

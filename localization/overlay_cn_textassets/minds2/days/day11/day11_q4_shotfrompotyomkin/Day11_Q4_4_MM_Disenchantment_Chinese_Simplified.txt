@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_4_MM_Disenchantment.Name} 幻灭
+{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_4_MM_Disenchantment.Description} 也许卡佩拉关在牢里反而好。奥尔金斯基家已不复存在。腐烂的不仅是那批肉——整个公牛事业都烂透了。

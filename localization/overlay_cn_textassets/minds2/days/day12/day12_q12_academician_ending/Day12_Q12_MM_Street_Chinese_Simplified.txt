@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_MM_Street.Name} 命数
+{Minds2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_MM_Street.Description} 然而违逆所有逻辑——拯救全镇并未给我的学术生涯带来任何助益。

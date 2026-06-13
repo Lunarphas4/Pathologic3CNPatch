@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day4.Liuta.Hospital_Liuta_MM_TimeForDiagnose.Name} 该下诊断了
+{Minds2.Hospital.Day4.Liuta.Hospital_Liuta_MM_TimeForDiagnose.Description} 卢塔的病例确实简单明了。剩下的，便是从单子上选个诊断，盖个章。

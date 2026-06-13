@@ -1,0 +1,3 @@
+{Clouds.Flavor.Cloud_Grief_StageCloset.21432} 贼就是在这里登上舞台中央。
+{Clouds.Flavor.Cloud_Grief_StageCloset.11855} 贼就是在这里登上舞台中央。
+{Clouds.Flavor.Cloud_Grief_StageCloset.16791} 多么戏剧化的灯光。

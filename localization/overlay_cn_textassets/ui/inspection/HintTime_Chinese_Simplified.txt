@@ -1,0 +1,1 @@
+{UI.Inspection.HintTime.Hint} 检查该部位所需时间

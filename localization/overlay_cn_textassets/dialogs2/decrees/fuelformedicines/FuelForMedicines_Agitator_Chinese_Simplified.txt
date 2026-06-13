@@ -1,0 +1,18 @@
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.125} 拿份传单吧，年轻人！别错过！
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.19383} 我也要！也给我一张传单！
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.17375} 你这是干什么，姑娘？我刚给过你一张。你还要一张干嘛？上面写的都一样。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.30375} 这玩意儿可好用了。多张纸总有用处——引火啊，卷烟啊，诸如此类。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.520} 至少在拿它卷“烟”之前，你也该先看看传单上写了什么。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.27403} 内容？那对我有什么用？我字都不识。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.10586} 请问，这些传单是谁写的？“收级木柴。”“对火柴木材慷该。”几乎没一个词拼对。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.7578} 谁在乎拼写？只要意思能传到不就行了。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.25343} 也许你说得对。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.7313} 不过，你们至少可以雇个不是文盲的排字员。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.21369} 这里一半的人都不识字。他们才不管传单上写了什么。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.16368} 那你们发它还有什么意义？图什么？
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.24499} 什么叫“图什么”？上头怎么吩咐，我就怎么干。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.1083} 而且你做得对！能再给我一张那种传单吗？
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.12366} 也给我一张吧，留个纪念。我要把它挂在书桌上，当作警示。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.5290} 告诉那个排字的，要是让我碰见他，他就完了。
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.22344} 那你……算了。Absentem laedit, qui cum ebrio litigat（跟醉汉争执的人，伤的是不在场的人。）
+{Dialogs2.Decrees.FuelForMedicines.FuelForMedicines_Agitator.22102} 如果我的每一道法令都是这样执行的，那我们就完了。

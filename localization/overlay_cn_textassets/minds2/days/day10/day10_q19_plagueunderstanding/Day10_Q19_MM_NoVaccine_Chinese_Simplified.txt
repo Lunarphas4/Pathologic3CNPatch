@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_MM_NoVaccine.Name} 大地之肉中之肉
+{Minds2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_MM_NoVaccine.Description} 瘟疫毒株彼此沟通——攻克一种，其余便学会其法、获得免疫。永久的疫苗——不可能。

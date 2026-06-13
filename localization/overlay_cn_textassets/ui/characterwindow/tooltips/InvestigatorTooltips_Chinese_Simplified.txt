@@ -1,0 +1,8 @@
+﻿{UI.CharacterWindow.Tooltips.InvestigatorTooltips.Intro} 帮助我揭开过去的真相
+{UI.CharacterWindow.Tooltips.InvestigatorTooltips.ClosedFirstDay} 不再愿意讨论第1天
+{UI.CharacterWindow.Tooltips.InvestigatorTooltips.OpenedFirstDay} 重新对第1天产生兴趣
+{UI.CharacterWindow.Tooltips.InvestigatorTooltips.ClosedSecondDay} 在我告诉他医院开启之前，不愿讨论第2天
+{UI.CharacterWindow.Tooltips.InvestigatorTooltips.OpenedSecondDay} 愿意和我讨论第2天
+{UI.CharacterWindow.Tooltips.InvestigatorTooltips.Frenemies} 第12天，我们发现自己已同舟共济
+{UI.CharacterWindow.Tooltips.InvestigatorTooltips.IAmInspector} 第12天，原来我们从未见过
+{UI.CharacterWindow.Tooltips.InvestigatorTooltips.Farewell} 第12天后，我们互相道别

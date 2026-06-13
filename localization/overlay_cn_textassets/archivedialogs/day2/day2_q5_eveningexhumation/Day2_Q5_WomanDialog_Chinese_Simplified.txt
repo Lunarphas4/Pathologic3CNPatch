@@ -1,0 +1,16 @@
+{ArchiveDialogs.Day2.Day2_Q5_EveningExhumation.Day2_Q5_WomanDialog.26796} 您是首都派来的专员吗？我们这里一切都好。
+{ArchiveDialogs.Day2.Day2_Q5_EveningExhumation.Day2_Q5_WomanDialog.26622} 你在说什么？
+{ArchiveDialogs.Day2.Day2_Q5_EveningExhumation.Day2_Q5_WomanDialog.7498} 你是靠什么营生的？你身上一股富贵味，我猜你是拿香槟刷靴子吧。
+{ArchiveDialogs.Day2.Day2_Q5_EveningExhumation.Day2_Q5_WomanDialog.32116} 我是医学学士。
+{ArchiveDialogs.Day2.Day2_Q5_EveningExhumation.Day2_Q5_WomanDialog.12004} 我是个智力非凡、富有科学好奇心的人。我也和所有人一样用鞋油。
+{ArchiveDialogs.Day2.Day2_Q5_EveningExhumation.Day2_Q5_WomanDialog.22591} 我不是专员。我是科学家。
+{ArchiveDialogs.Day2.Day2_Q5_EveningExhumation.Day2_Q5_WomanDialog.23392} 那你在这里研究什么？研究我们怎么穷活？研究我们这些一辈子只穿一双靴子、整个街区只有一套体面衣服的人？
+{ArchiveDialogs.Day2.Day2_Q5_EveningExhumation.Day2_Q5_WomanDialog.12740} 我不是经济学家。我是医生。
+{ArchiveDialogs.Day2.Day2_Q5_EveningExhumation.Day2_Q5_WomanDialog.16591} 那这些科学玩意儿是给谁的？反正不会是给我们。
+{ArchiveDialogs.Day2.Day2_Q5_EveningExhumation.Day2_Q5_WomanDialog.16771} 那你认为是给谁的？
+{ArchiveDialogs.Day2.Day2_Q5_EveningExhumation.Day2_Q5_WomanDialog.10960} 这还不明显。你的肥肚子哪儿去了？是不是被紧腰带勒起来了？回你们首都去研究彼此吧。我们这里是普通人，没有科学家也能活。
+{ArchiveDialogs.Day2.Day2_Q5_EveningExhumation.Day2_Q5_WomanDialog.16061} 抱歉打扰你。
+{ArchiveDialogs.Day2.Day2_Q5_EveningExhumation.Day2_Q5_WomanDialog.23830} 看来我终于领会了你们这破镇子的哲学。
+{ArchiveDialogs.Day2.Day2_Q5_EveningExhumation.Day2_Q5_WomanDialog.31873} 我还会这个：谨慎沉默，胜过空谈无益。
+{ArchiveDialogs.Day2.Day2_Q5_EveningExhumation.Day2_Q5_WomanDialog.29186} 当然是给精英的。你想听的是这个吗？
+{ArchiveDialogs.Day2.Day2_Q5_EveningExhumation.Day2_Q5_WomanDialog.3414} 贫困会促成某些疾病——比如霍乱——这是事实。这里有很多医生该做的事。

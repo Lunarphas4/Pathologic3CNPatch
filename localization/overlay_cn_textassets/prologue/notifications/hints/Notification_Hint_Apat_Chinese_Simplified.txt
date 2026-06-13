@@ -1,0 +1,2 @@
+{Prologue.Notifications.Hints.Notification_Hint_Apat.Name} 冷漠
+{Prologue.Notifications.Hints.Notification_Hint_Apat.Description} 越是冷漠，就越是精准。不过冷漠到了极点便是死亡

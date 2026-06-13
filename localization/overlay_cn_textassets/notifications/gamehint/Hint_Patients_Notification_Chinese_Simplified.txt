@@ -1,0 +1,2 @@
+{Notifications.GameHint.Hint_Patients_Notification.Name} ⁠
+{Notifications.GameHint.Hint_Patients_Notification.Description} 这些是你的病人。在对话中选择医学检查项，并留意他们身上任何不寻常的症状。

@@ -1,0 +1,8 @@
+{ArchiveDialogs.Hospitals.Main.Day5.Hospital_Day5_Orderly_Main.15878} 今天有两个病人等着您，医生。
+{ArchiveDialogs.Hospitals.Main.Day5.Hospital_Day5_Orderly_Main.15935} 这两位幸运儿是谁？
+{ArchiveDialogs.Hospitals.Main.Day5.Hospital_Day5_Orderly_Main.4256} 一个草原女人萨赫·曼，和一个疯癫的男人夏普。
+{ArchiveDialogs.Hospitals.Main.Day5.Hospital_Day5_Orderly_Main.18639} 跟我说说那个草原女人。
+{ArchiveDialogs.Hospitals.Main.Day5.Hospital_Day5_Orderly_Main.16218} 她是从一栋上锁的屋子里被救出来的，里面全是尸体。除了她之外，所有人都死于沙疫。她一被放出来，就去追那头祭祀用的公牛，想喝它的血。
+{ArchiveDialogs.Hospitals.Main.Day5.Hospital_Day5_Orderly_Main.7951} 夏普为什么疯了？
+{ArchiveDialogs.Hospitals.Main.Day5.Hospital_Day5_Orderly_Main.31371} 他被关进了一节塞满人的火车车厢，其中有一个人碰巧染了沙疫。其他人全都染上病死了，只有夏普活了下来。
+{ArchiveDialogs.Hospitals.Main.Day5.Hospital_Day5_Orderly_Main.7126} 我自己去看看他们。

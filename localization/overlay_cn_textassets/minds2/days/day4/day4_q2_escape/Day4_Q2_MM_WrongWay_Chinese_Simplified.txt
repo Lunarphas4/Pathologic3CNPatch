@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_WrongWay.Name} 再试一次
+{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_WrongWay.Description} 不，我不能这样离开镇子。我刚才在想什么？是想耍小聪明骗过自己吗？

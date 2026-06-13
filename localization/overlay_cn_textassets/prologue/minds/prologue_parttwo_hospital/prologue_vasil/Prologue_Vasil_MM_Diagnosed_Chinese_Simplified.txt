@@ -1,0 +1,2 @@
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_Vasil.Prologue_Vasil_MM_Diagnosed.Name} 诊断完成
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_Vasil.Prologue_Vasil_MM_Diagnosed.Description} 今日收官。终于。只待下令制备疫苗。

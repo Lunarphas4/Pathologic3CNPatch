@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_Horns_Victor.Name} 熔炉，西蒙的书房
+{QuestMarkers.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_Horns_Victor.Description} 今日西蒙的书房在指定时段开放。

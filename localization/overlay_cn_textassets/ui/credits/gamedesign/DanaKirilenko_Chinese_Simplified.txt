@@ -1,0 +1,2 @@
+{UI.Credits.GameDesign.DanaKirilenko.Name} Dana Kirilenko
+{UI.Credits.GameDesign.DanaKirilenko.Description} 游戏设计师

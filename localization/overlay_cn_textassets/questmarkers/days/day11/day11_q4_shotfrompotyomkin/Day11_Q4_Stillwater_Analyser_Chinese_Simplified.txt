@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Stillwater_Analyser.Name} 静水观星台
+{QuestMarkers.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Stillwater_Analyser.Description} 血化验得够多了——该化验肉了。

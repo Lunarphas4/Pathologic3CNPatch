@@ -1,0 +1,39 @@
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.6758} 告诉我，Oynon（异乡人），你相信胡夫·扎雅——命数吗？
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.17191} Khuv zayaa？那是什么？
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.27788} 你们语言里有个差不多的词，叫“命运”。不完全一样，但接近。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.26423} 命运是弱者发明出来的，好给自己的不作为找借口。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.22093} 我离开镇子之前，常和拉拉谈 ükhel 和 khuv zayaa（命分）。现在我后悔回来以后没多去看她几次。我以前总觉得拉拉会一直在。别人我从没这么想过——只有她。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.23068} 那你怎么看命运？
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.4215} 草原上有些人，人们会说他们“托着大地”。拉拉就是这样的人。现在我觉得再没人托着大地了，我们只能自己扛着。是我的错。我的 ghem buruu。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.2159} 我们也有句类似的话：“没有一个义人的灵魂，村子就站不住。”
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.12925} 你没什么可自责的，布拉赫。没人能预见未来。没人知道自己什么时候会死。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.8520} ……而且你爱她。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.22128} 我小时候爱过她，可一直没胆量告诉她。现在我后悔了。我当时认定她喜欢恶徒格里夫。她总是被他的笑话逗笑。我们四个总一起探险：有时去废屋，有时去墓地：拉拉、我、恶徒格里夫，还有鲁宾。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.1015} 恶徒格里夫说的正相反。他说无论他怎么卖力，都没法把她逗笑。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.19630} 格里夫不太聪明。拉拉一直被他吸引，他却连看都没看出来。这让我嫉妒。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.22089} 跟我说点拉拉的事吧。什么都行。也许说说回忆，你会好受些？
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.28364} 有什么可说的，Oynon（异乡人）？不，等等。有件事刻在我记忆里。我们以前常去铁路，把硬币放在铁轨上。火车开过去，就会把硬币压扁。像一枚枚小月亮。我们把它们留着，当作好运符。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.7769} 有一天，我们像往常一样沿着铁轨走，等火车把我们的硬币压成小月亮，远远看见一个人，横躺在铁轨上。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.4700} 他是卧轨了吗？
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.3311} 隔得远，我们看不出来。我还担心走近了会看见他已经被火车砍掉了脑袋。可没有，他还活着。他躺在那里做准备。我们过去时，他很不高兴。走开，他说。这里马上会到处是血，你们没必要看这种丑事。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.30501} 他这一生到底出了什么事，才会把他带到那条铁轨上？
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.5018} 那你们做了什么？
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.12084} 我们尽力劝他下来，可他不听。斯塔赫跑去车站通知扳道工。恶徒格里夫和我想把他从铁轨上拖开，可那混蛋太壮了。他把我们挣开。还继续躺在那里，说就这样了。到头了。火车已经在远处轰隆作响，像 khuv zayaa（命分） 本身。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.8454} 你知道拉拉做了什么吗？她在他身边躺下，把头也搁在铁轨上。她躺在那里，对他说了几句话，让他像婴儿一样哭了出来。那时已经能看见火车了，他们两个还躺在铁轨上。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.16181} 她对他说了什么？
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.30494} 我不知道，但他离开了铁轨。她究竟说了什么并不重要。重要的是，她总能为每个人找到合适的话。现在我站在这里，却找不到合适的话给她，这让我受不了。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.31217} 我觉得你已经找到了最好的话，布拉赫。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.19407} 节哀，布拉赫。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.14430} 为人效力，便要燃尽自身；照亮别人，也是在焚烧自己。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.31155} 她说服他离开铁轨了吗？
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.30263} 说服了。她究竟说了什么并不重要。重要的是，她总能为每个人找到合适的话。现在我站在这里，却找不到合适的话给她，这让我受不了。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.25779} 他睡着了吗？
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.12749} 那是他自己选的死法吗？
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.8198} 他是来偷你们的小月亮的吗？
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.16985} 节哀，布拉赫。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.1058} 我看得出她对你有多重要。很少有人会被这样温暖地谈起。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.23585} 我现在想起一件事。那是我们小时候发生的。我们以前常去铁路，把硬币放在铁轨上。火车开过去，就会把硬币压扁。像一枚枚小月亮。我们把它们留着，当作好运符。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.21667} 是，我相信命运。但这不代表我愿意接受它。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.21404} 是，我相信命运。只有疯子才会跟它斗。
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.6027} 为什么问这个？
+{Dialogs2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_Haruspex_AtFuneral.6511} 不。我不信那一套，不管那是什么。

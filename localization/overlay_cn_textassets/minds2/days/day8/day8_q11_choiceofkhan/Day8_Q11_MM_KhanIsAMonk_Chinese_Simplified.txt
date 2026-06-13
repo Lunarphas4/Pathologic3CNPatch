@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_MM_KhanIsAMonk.Name} 殉道者
+{Minds2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_MM_KhanIsAMonk.Description} 可汗说得对。每个人都在孤独中抵达精神之巅。我放弃了营救他的念头。

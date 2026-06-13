@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_NoReminiscences.Name} 我们谈过什么？
+{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_NoReminiscences.Description} 我什么都记不起来。我得"回去一趟"，看看狗头帮先前跟我说过什么。

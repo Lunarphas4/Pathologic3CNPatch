@@ -1,0 +1,3 @@
+{Npcs.Mishka.Name} 米什卡
+{Npcs.Mishka.FullName} 小闷包
+{Npcs.Mishka.Description} 这镇上无数孤儿中的一个。没人知她从何而来——仿佛她是从土地里冒出的，像一株野草。\n她将来要长成什么样的人，无从看清。

@@ -1,0 +1,2 @@
+{UI.MicroscopeFinals.Bad.Name} 器官已受病毒影响
+{UI.MicroscopeFinals.Bad.Description} 发现了一种不明病原体

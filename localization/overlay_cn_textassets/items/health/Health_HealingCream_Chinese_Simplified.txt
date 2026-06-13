@@ -1,0 +1,3 @@
+{Items.Health.Health_HealingCream.Name} 汞补剂
+{Items.Health.Health_HealingCream.Description} 强力防腐剂。汞盐是医生对抗感染的通用利器。
+{Items.Health.Health_HealingCream.Description2} ⁠

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_Superstar.Name} 开锁之道
+{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_Superstar.Description} 小钉在彼得家后门那里等我。他要锁匠用的润滑——公牛的胆汁就行。

@@ -1,0 +1,2 @@
+{Symptoms.BolUshi.Name} 耳痛
+{Symptoms.BolUshi.Description} 耳部疼痛，常与炎症、肿胀或耳道受阻有关。

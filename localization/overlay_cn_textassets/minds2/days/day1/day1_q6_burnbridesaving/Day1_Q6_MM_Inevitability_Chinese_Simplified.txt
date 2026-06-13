@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Inevitability.Name} 致命的必然
+{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Inevitability.Description} 一场追逐长者遗体的无意义奔跑。一场试图夺回指缝间滑走之物的无意义尝试。

@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.OldNew.Day4_Q2_Escape.Day4_Q2_MM_Capital.Name} 大陆
+{ArchiveMinds.OldNew.Day4_Q2_Escape.Day4_Q2_MM_Capital.Description} 我不能再留在这座镇子里了。回首都！

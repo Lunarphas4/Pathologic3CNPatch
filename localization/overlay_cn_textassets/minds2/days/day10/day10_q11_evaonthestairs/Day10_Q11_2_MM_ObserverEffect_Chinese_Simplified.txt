@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_2_MM_ObserverEffect.Name} 观者
+{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_2_MM_ObserverEffect.Description} 我所要做的，竟只是回到静水观星台、单单去见伊娃一面？这怎么可能？

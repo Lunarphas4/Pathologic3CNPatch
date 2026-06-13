@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q5_Dogheads.Day4_Q5_MM_ComeYesterday.Name} 不得入内
+{Minds2.Days.Day4.Day4_Q5_Dogheads.Day4_Q5_MM_ComeYesterday.Description} 那些孩子坚称我第三天和他们谈过话，且拒绝再说一遍。我们当时谈了什么？也许那一天他们甚至让我进过塔？

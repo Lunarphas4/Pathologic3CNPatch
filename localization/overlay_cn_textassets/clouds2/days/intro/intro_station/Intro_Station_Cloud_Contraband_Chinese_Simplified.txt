@@ -1,0 +1,4 @@
+{Clouds2.Days.Intro.Intro_Station.Intro_Station_Cloud_Contraband.45967} 当你打开棺材时，
+{Clouds2.Days.Intro.Intro_Station.Intro_Station_Cloud_Contraband.26416} 当你打开棺材时，
+{Clouds2.Days.Intro.Intro_Station.Intro_Station_Cloud_Contraband.29681} 一条猩红的河向你涌来：
+{Clouds2.Days.Intro.Intro_Station.Intro_Station_Cloud_Contraband.3297} 靴子

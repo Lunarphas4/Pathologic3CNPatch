@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_MM_LastChance.Name} 最后一天
+{Minds2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_MM_LastChance.Description} 我进入多面体的最后机会。也许今日，运气会向我露齿一笑。

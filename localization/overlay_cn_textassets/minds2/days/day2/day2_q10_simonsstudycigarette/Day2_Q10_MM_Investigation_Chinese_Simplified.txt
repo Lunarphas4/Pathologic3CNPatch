@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_MM_Investigation.Name} 至圣所
+{Minds2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_MM_Investigation.Description} 今天我终于获准踏入西蒙的书房。

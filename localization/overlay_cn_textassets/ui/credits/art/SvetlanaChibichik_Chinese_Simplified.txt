@@ -1,0 +1,2 @@
+{UI.Credits.Art.SvetlanaChibichik.Name} Svetlana Chibichik
+{UI.Credits.Art.SvetlanaChibichik.Description} 概念美术

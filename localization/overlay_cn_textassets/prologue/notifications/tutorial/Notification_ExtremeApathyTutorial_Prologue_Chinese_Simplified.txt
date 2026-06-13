@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_ExtremeApathyTutorial_Prologue.Name} 抑郁状态
+{Prologue.Notifications.Tutorial.Notification_ExtremeApathyTutorial_Prologue.Description} 冷漠值太高，时间、求生欲和混合物会从指间流失。没有混合物将无法回溯其他时日

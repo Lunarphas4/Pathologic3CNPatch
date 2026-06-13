@@ -1,0 +1,2 @@
+{Symptoms.BolJivot.Name} 腹痛
+{Symptoms.BolJivot.Description} 腹痛的感觉会随疾病不同而变化，例如胀痛或痉挛。

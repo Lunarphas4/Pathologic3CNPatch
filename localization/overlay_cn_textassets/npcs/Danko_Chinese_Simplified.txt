@@ -1,0 +1,3 @@
+{Npcs.Danko.Name} 学者
+{Npcs.Danko.FullName} ⁠
+{Npcs.Danko.Description} ⁠

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q10_Switchman.Day7_Q10_MM_PlatonHome.Name} 邻里
+{Minds2.Days.Day7.Day7_Q10_Switchman.Day7_Q10_MM_PlatonHome.Description} 那位扳道工和病人夜莺住在同一所宅子里。

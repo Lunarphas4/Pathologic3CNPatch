@@ -1,0 +1,60 @@
+﻿{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.28740} 向你问安，医师。抱歉把你叫到这里来。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.21743} 为什么搞得这么神神秘秘？我们现在是在玩间谍游戏吗？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.18851} 我试过进白蚁巢，可那里……myy uymen（太可怕了）。我从没见过那么多守卫。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.8989} 说点我不知道的。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.12469} 我给你带来一个病人——这是甘珠尔。白蚁巢封锁那天，他碰巧在外面，可他的家人留在了里面。我在屠宰场找到他。\n\n他病了，emshen（医者）。他同意协助你的研究，但有一个条件。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.2217} 什么条件？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.18405} 你要杀了他。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.2533} 我在寻找死亡，emshen（医者）。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.9864} 没问题。你比较喜欢哪种？绞刑还是斩首？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.26328} 要快，而且无痛。毒药就很好。希望你身上带着一些，emshen（医者）。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.9545} 我只是开玩笑……但你不是。你是认真的。你一定把我和刽子手搞混了。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.7529} 你为什么想死？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.13379} 我是个 gantsaardmal（孤身之人），emshen（医者）。我的全家，我的妻子和孩子……他们都带着沙疫去了地下。我也 övchtei（病了）了——已经 övchtei（病了）两天了。\n\nBoddho（大地母亲）两天前就该拥抱我。可她……她带走了我的亲人，却把我留下，成了 gantsaardmal（孤身之人），emshen（医者）。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.1798} 如果你想自杀，办法多得是。为什么需要我？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.745} 我不能。自杀是 khoriotoy（禁忌）。Boddho（大地母亲）会以失明惩罚我。人人都知道：如果你夺走自己的 amdral（生命），Boddho（大地母亲）就会挖掉你的眼睛。而如果我在地下没有眼睛，我就再也看不见我的亲人了。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.10674} 但<i>其他</i>所有盲人死后都会重见光明。那当然。你真的相信这个？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.4767} 你为什么在乎我信什么，emshen（医者）？每个人死后都会得到自己所信的东西。我是在向你提一笔交易。让我们彼此相助。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.1658} 真是精彩的一天！我说出去都没人信。你特地把我叫到这条巷子里，就是为了这个？好让我在没有目击者的地方杀了你？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.8534} 不。我不去镇子的另一边；那是恶徒格里夫的地盘。我不想让他的人看见我。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.10971} 为什么？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.9185} 这不关你的事！我没有窥探你的 setgel（心思）；你也别窥探我的。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.31774} 你是在要求我成为杀你的人。在我做出这个决定之前，我需要弄清你是谁，以及赌注是什么。拿出勇气，诚实到底。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.6140} Kharaal id（该死）。两天前，我和孩子们都觉得 övchtei（病了） baykh（病倒了）。我想逃离这座镇子。人们说 takhal（瘟疫）回来了。于是我带家人去了白蚁巢，叫他们 khulee（等着），然后……\n\n我去了仓库，从一处藏匿点拿了钱——格里夫的钱。我偷了他的钱来救我的家人，emshen（医者）。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.10372} 让我猜猜：等你带钱回来时，白蚁巢已经被封锁，你的计划就垮了。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.6405} 我想 kheel khakhuul（收买）那些守卫。守卫收了钱，可我再也没能 yzne yy（见到）我的家人……我在一<i>堆</i>尸体里看见了他们的身体，kholohos（可怜啊）。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.5486} ……我明白了。我同情你，甘珠尔。就当我们达成交易。请向我描述你的症状。你感觉如何？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.1568} 我的 tolgoi（头）疼，嘴里有苦味。排尿会疼，尿出来是大地的颜色。周围的一切看起来都发黄。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.22606} 你怎么看，布拉赫？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.21458} 他的肝脏正在衰竭。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.14318} 没错。我们需要取一点你的肝脏样本，甘珠尔。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.211} 听起来像肝衰竭。我需要取样。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.2053} 取走我的命吧，emshen（医者）。然后你想要什么，都拿走。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.26978} 恐怕我没有必要的药物，能让你平静死去。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.28388} 我身上有一些，医师。拿去吧。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.3683} 你把我拖进了什么事里……？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.5610} 好吧。再拖下去也没有意义。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.25541} 那就把钱还回去。反正你最后也没用上。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.27879} 你竟然能从格里夫那里偷东西？不错。那就请<i>他</i>杀了你吧。为什么要把我拖进来？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.3897} 我不怕死。但我怕疼，emshen（医者）。我听说过格里夫的人会怎样对待 khulgaich（小偷）。“你不杀老鼠；你砍掉它的尾巴和爪子。”他们是这么说的。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.21990} 我了解恶徒格里夫。他自己的手也许不干净，但因为偷窃就砍掉别人的手，绝不是他的作风。你不该这么怕他。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.26681} 也许吧。但我不想亲自验证。我需要双手去拥抱我的亡者；当我们一同躺在大地里，我需要眼睛去看见他们。你到底帮不帮我？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.15383} 只有外行才会这么想。毒死并不无痛。有些毒物对神经末梢的冲击比电流还强——那不只是疼，还会窒息、恶心、恐惧。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.21460} 我不在乎。够快就行；这才是最要紧的。你能让我死得快一点吗？越快越好？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.26113} 我能。但我为什么要这么做？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.22064} 我真不敢相信我们竟然在谈这个。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.28828} 我不想杀你。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.10868} 我也不想死。但这对所有人都最好。我只是没法自己动手。我想过太多次，却越不过那条线……\n\n他们躺在地下，冻得冰冷。一起受冻，总比彼此分离要好，不是吗？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.2375} 什么？抱歉，我刚才不是那个意思——我的意思是：<i>什么</i>？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.26765} 给我死亡，快而无痛的死亡。你身上有毒药吗？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.11808} 你们俩是喝醉了还是怎么？在胡说些什么？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.24453} 什么？我还得照看<i>他的</i>孩子？没问题。到这份上，我已经是相当有经验的保姆了。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.17396} 你有点得寸进尺了，布拉赫。我已经受够你的条件了。我已经帮过你一次——今天就到此为止。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.8363} 我会让你检查我，emshen（医者）。你想知道什么，我都会告诉你。但之后你必须杀了我。这就是我想要的。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.15852} 所以，你终究还是没能进白蚁巢。看来我整天给你的孩子当保姆，算是白忙了。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.10258} 如果你进不了白蚁巢，那你带来的又是谁？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.24352} 他叫甘珠尔。白蚁巢封锁那天，他碰巧在外面，可他的家人留在了里面。我在屠宰场找到他。\n\n他病了，emshen（医者）。他同意协助你的研究，但有一个条件。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.3468} 布拉赫，你觉得我为什么让你把病人带去医院？有没有可能，是因为在那里工作比在肮脏巷子里方便得多？
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.18964} 你给我们的会面地点挑得可真舒适。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.22706} 如果你关心的话，你的孩子们安然无恙。
+{Dialogs2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_HaruspexAndPatient_Intro.7654} 谢谢你，emshen（医者）。我珍视你的帮助。我试过进白蚁巢，可那里……myy uymen（太可怕了）。我从没见过那么多守卫。

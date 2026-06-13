@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q1_2_RubinResurrection.Day5_Q1_2_MM_RubinMadeVaccine.Name} 遗物
+{Minds2.Days.Day5.Day5_Q1_2_RubinResurrection.Day5_Q1_2_MM_RubinMadeVaccine.Description} 鲁宾把西蒙神圣的身体解剖成了有效疫苗。我从未听过比这更亵渎……也更壮丽的事。

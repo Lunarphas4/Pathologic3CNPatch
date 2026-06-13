@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_3_MM_ZeroBarrels.Name} 野战实验室
+{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_3_MM_ZeroBarrels.Description} 水桶分布在三个尚健康的城区——我那带着分析仪的助手会在附近候着。我得取样并加以化验。

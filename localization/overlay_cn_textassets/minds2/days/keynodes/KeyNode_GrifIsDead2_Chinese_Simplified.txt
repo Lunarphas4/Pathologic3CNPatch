@@ -1,0 +1,2 @@
+{Minds2.Days.KeyNodes.KeyNode_GrifIsDead2.Name} 走火
+{Minds2.Days.KeyNodes.KeyNode_GrifIsDead2.Description} 恶徒格里夫被军队枪杀。

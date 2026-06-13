@@ -1,0 +1,3 @@
+{Items.CraftRecipes.Tvirin_RecipeItem.Name} 配方：twyrine（特维酒）
+{Items.CraftRecipes.Tvirin_RecipeItem.Description} 兴奋剂。增加躁狂。
+{Items.CraftRecipes.Tvirin_RecipeItem.Description2} 兴奋剂。增加躁狂。

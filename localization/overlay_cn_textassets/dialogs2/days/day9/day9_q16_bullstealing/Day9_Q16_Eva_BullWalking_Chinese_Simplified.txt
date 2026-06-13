@@ -1,0 +1,12 @@
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_BullWalking.25727} 很快一切都会改变……我等不及了。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_BullWalking.17820} 告诉我——那头公牛在哪儿？我今天没看见它。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_BullWalking.36140} 她把巴乔牵出去吃点草了。每天待在狭窄的地方，对它太难受。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_BullWalking.3880} 谁把它牵出去了？
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_BullWalking.58179} 所以它可能一直在外面？局势真是忽然变了！
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_BullWalking.5539} 今天早晨有个女人来了静水观星台。她看见巴乔，差点哭出来。把我和你都训了一顿。说我们在折磨一头可怜的牲口——让它挤在里面，饿着，脏着。“啧，啧，啧”，她这么说。也不知她怎么做到的，竟然把它从门里牵出去了。我想它确实瘦了。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_BullWalking.14336} 它可能瘦了。可能是饮食不对，也可能只是因为瘟疫。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_BullWalking.49140} 她正牵着巴乔在静水观星台附近走，应该马上就会带它回来。到时候你可以自己看。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_BullWalking.31895} 可是……我从窗外看出去，并没有看见谁回来。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_BullWalking.20177} 那我去和她谈谈。毕竟这是一头实验用公牛。谁知道会发生什么！
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_BullWalking.20158} 既然它已经在外面了，也许我们不该再把它带回屋里？给它找个更合适的地方。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Eva_BullWalking.19252} 她正牵着巴乔在静水观星台附近走，应该马上就会带它回来。我们就是这么说好的。

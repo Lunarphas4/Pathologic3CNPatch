@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_Cathedral_Aglaya.Name} 大教堂
+{QuestMarkers.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_Cathedral_Aglaya.Description} 审判官非得每日谈一次才肯放我走。

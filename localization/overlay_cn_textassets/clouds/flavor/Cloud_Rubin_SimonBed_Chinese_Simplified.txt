@@ -1,0 +1,5 @@
+{Clouds.Flavor.Cloud_Rubin_SimonBed.18635} 这里什么都没有。
+{Clouds.Flavor.Cloud_Rubin_SimonBed.18066} 这里什么都没有。
+{Clouds.Flavor.Cloud_Rubin_SimonBed.26017} 空无是一条隧道。
+{Clouds.Flavor.Cloud_Rubin_SimonBed.15712} 通向这道奇异的光。
+{Clouds.Flavor.Cloud_Rubin_SimonBed.23432} 我被拉了进去。

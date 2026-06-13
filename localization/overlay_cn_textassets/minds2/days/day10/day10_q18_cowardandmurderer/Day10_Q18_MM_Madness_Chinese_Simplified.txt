@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q18_CowardAndMurderer.Day10_Q18_MM_Madness.Name} 孩童本不该杀孩童
+{Minds2.Days.Day10.Day10_Q18_CowardAndMurderer.Day10_Q18_MM_Madness.Description} 那些游戏害死了许多孩子。首领诺特金在瘟疫中弥留，但临死前亲手杀了卡斯帕·凯恩。这就是疯狂。

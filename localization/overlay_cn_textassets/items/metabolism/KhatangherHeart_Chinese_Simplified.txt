@@ -1,0 +1,3 @@
+{Items.Metabolism.KhatangherHeart.Name} 哈坦格尔之心
+{Items.Metabolism.KhatangherHeart.Description} 哈坦格尔之心
+{Items.Metabolism.KhatangherHeart.Description2} 哈坦格尔之心

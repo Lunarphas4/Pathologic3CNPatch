@@ -1,0 +1,13 @@
+﻿{UI.CharacterWindow.Tooltips.PetrTooltips.Death} 第7天，因拒绝泄露多面体的秘密而被绞死
+{UI.CharacterWindow.Tooltips.PetrTooltips.DeathTwo} 第11天，进入大教堂，与哥哥一同被杀
+{UI.CharacterWindow.Tooltips.PetrTooltips.Intro} 陷入冷漠的天才建筑师
+{UI.CharacterWindow.Tooltips.PetrTooltips.Talker} 第2天，把多面体的秘密泄露给阿格拉娅
+{UI.CharacterWindow.Tooltips.PetrTooltips.Silence} 第2天，我使他免于阿格拉娅追索那些秘密
+{UI.CharacterWindow.Tooltips.PetrTooltips.Burning} 第3天，烧毁了多面体的蓝图
+{UI.CharacterWindow.Tooltips.PetrTooltips.Stealing} 到第3天，我从他那里偷走了多面体蓝图
+{UI.CharacterWindow.Tooltips.PetrTooltips.Arrest} 第7天，被软禁
+{UI.CharacterWindow.Tooltips.PetrTooltips.Replacement} 第8天，哥哥替他接受软禁
+{UI.CharacterWindow.Tooltips.PetrTooltips.Cemetery} 第8天，躲在墓园
+{UI.CharacterWindow.Tooltips.PetrTooltips.Capture} 第11天，进入大教堂，与哥哥一同被捕
+{UI.CharacterWindow.Tooltips.PetrTooltips.Escape} 第12天，与哥哥一同逃出拘押
+{UI.CharacterWindow.Tooltips.PetrTooltips.LastBrother} 到第12天，成了最后的斯塔马京

@@ -1,0 +1,3 @@
+{Items.Metabolism.Stimulant.Name} 兴奋剂
+{Items.Metabolism.Stimulant.Description} 跑吧，丹尼尔，快跑！
+{Items.Metabolism.Stimulant.Description2} ⁠

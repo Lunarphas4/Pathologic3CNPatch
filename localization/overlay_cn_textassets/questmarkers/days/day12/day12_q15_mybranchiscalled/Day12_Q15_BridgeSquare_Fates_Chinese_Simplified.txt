@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_BridgeSquare_Fates.Name} 桥头广场
+{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_BridgeSquare_Fates.Description} 桥头广场还有一些我尚未得知的命运。

@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.OldNew.Hospital_GodsFool_MM_ToTheHospital.Name} 多亏了友善的流浪汉
+{ArchiveMinds.OldNew.Hospital_GodsFool_MM_ToTheHospital.Description} 他解释了一切。我现在该诊断，还是再和博博克谈一次？

@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_ProbeLose.Name} 采样
+{Notifications.Tutorial.Notification_ProbeLose.Description} 失败了。再试一次——不能久久把视线从样本上移开，也不能离感染源太远。

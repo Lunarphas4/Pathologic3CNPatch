@@ -1,0 +1,2 @@
+{PersonalFiles.Day3.Tolkoviy.Name} 夏普
+{PersonalFiles.Day3.Tolkoviy.Description} 试图乘火车逃走，险些丧命。

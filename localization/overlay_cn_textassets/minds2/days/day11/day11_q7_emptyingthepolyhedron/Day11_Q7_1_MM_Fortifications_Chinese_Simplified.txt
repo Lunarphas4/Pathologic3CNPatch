@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_1_MM_Fortifications.Name} 围城
+{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_1_MM_Fortifications.Description} 一切比我预想的还要糟。防御工事已就位。孩子之间的战还不够——现在一场"和孩子的战争"已迫在眉睫！

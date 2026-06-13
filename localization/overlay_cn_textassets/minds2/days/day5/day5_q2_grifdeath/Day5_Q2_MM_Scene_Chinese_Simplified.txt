@@ -1,0 +1,2 @@
+{Minds2.Days.Day5.Day5_Q2_GrifDeath.Day5_Q2_MM_Scene.Name} 可怕现场
+{Minds2.Days.Day5.Day5_Q2_GrifDeath.Day5_Q2_MM_Scene.Description} 疫情开始后，人们似乎都疯了。但仓库的场面即使按本地标准也过于残酷。

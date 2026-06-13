@@ -1,0 +1,17 @@
+{Dialogs2.Hospital.Day4.Hospital_Day4_Orderly_Main.26870} 那么，医生？您四处看过了吗？一切都合您的意吗？都安置妥当了吗？
+{Dialogs2.Hospital.Day4.Hospital_Day4_Orderly_Main.20517} 这样就行了。反正一天之内也做不到更好了。
+{Dialogs2.Hospital.Day4.Hospital_Day4_Orderly_Main.57758} 我们已经尽力了，一整夜没睡……有什么不对的，请告诉我们。
+{Dialogs2.Hospital.Day4.Hospital_Day4_Orderly_Main.40867} 我要亲自检查的病人在哪里？别告诉我他们在台上。你们可真会给他们找地方。
+{Dialogs2.Hospital.Day4.Hospital_Day4_Orderly_Main.9528} 还能在哪里？这是为了看得清楚——把他们和那些我们不敢拿来打扰您的病人分开。再说，剧院似乎有自己的规矩，哪怕现在成了医院也一样：你一走进来，目光就会被舞台吸过去。最有意思的事情都在那里发生。
+{Dialogs2.Hospital.Day4.Hospital_Day4_Orderly_Main.46252} 你们这座小镇就不能不搞象征吗？好吧，就这样放着。
+{Dialogs2.Hospital.Day4.Hospital_Day4_Orderly_Main.25272} 那么，我们开始工作？我们按您的指示办了——寻找那些染上瘟疫后撑过五到八个小时的人。我们找到了两个：店主鲁塔，还有菲拉特，蚁巢的守卫。第三个芬奇，是自己来找我们的。
+{Dialogs2.Hospital.Day4.Hospital_Day4_Orderly_Main.22994} 那个店主怎么说？
+{Dialogs2.Hospital.Day4.Hospital_Day4_Orderly_Main.49809} 从感染区转移出来的。她说自己感觉还好——只是发过烧。如果您允许，我想请您从她开始——她等得最久。有点尴尬。
+{Dialogs2.Hospital.Day4.Hospital_Day4_Orderly_Main.5277} 这个志愿者芬奇是谁？
+{Dialogs2.Hospital.Day4.Hospital_Day4_Orderly_Main.18515} 就是个普通工人，已经把自己当没救的人了。他来医院自首时，要了点治头疼的东西——说头痛。
+{Dialogs2.Hospital.Day4.Hospital_Day4_Orderly_Main.5568} 你是说，菲拉特守的正是大弗拉德隔离的公牛企业工人宿舍？
+{Dialogs2.Hospital.Day4.Hospital_Day4_Orderly_Main.55291} 没错。肯定是在值守时在那里染上的。菲拉特大概不会有什么太多怨言——也许最好把他的病例放到最后……如果我给您这样的名医提建议不算太冒犯的话。
+{Dialogs2.Hospital.Day4.Hospital_Day4_Orderly_Main.37264} 很好，开始吧。你刚才让我先看谁，鲁塔？好吧，按你说的办。
+{Dialogs2.Hospital.Day4.Hospital_Day4_Orderly_Main.13564} 说实话，我不太在乎。只要每天按同一套程序来：你来见我，向我简报病例，然后我去看病人。
+{Dialogs2.Hospital.Day4.Hospital_Day4_Orderly_Main.45645} 这倒也别有意味：一位来自首都的学者，在省城剧院里演一出名叫“诊断”的戏。
+{Dialogs2.Hospital.Day4.Hospital_Day4_Orderly_Main.46639} 听着，针头——还是你叫什么来着。要是没准备好听答案，就别问问题。

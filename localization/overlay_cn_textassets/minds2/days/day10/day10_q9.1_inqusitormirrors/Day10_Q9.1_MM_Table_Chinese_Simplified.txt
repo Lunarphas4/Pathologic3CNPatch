@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q9.1_InqusitorMirrors.Day10_Q9.1_MM_Table.Name} 捕获
+{Minds2.Days.Day10.Day10_Q9.1_InqusitorMirrors.Day10_Q9.1_MM_Table.Description} 镜子不只在岬角——卡明斯基的办公室里到处都是。玛丽亚准备得很周到

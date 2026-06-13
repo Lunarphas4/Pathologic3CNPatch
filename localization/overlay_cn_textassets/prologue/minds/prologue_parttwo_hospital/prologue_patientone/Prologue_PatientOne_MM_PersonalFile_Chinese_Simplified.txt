@@ -1,0 +1,2 @@
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PatientOne.Prologue_PatientOne_MM_PersonalFile.Name} 今日首诊
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PatientOne.Prologue_PatientOne_MM_PersonalFile.Description} 自称健康无恙。但自觉良好从不足为凭。

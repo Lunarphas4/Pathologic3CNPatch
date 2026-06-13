@@ -1,0 +1,2 @@
+{UI.Credits.Audio.NataliaMalochkina.Name} Natalia Malochkina
+{UI.Credits.Audio.NataliaMalochkina.Description} 草原之声

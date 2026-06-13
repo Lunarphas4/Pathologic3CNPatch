@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_BonePole.Name} 骨桩场
+{QuestMarkers.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_BonePole.Description} 娜拉的命悬于此！

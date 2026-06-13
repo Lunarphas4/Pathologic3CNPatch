@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q9_RubinAttempt.Day11_Q9_MM_Angry.Name} 加急约见
+{Minds2.Days.Day11.Day11_Q9_RubinAttempt.Day11_Q9_MM_Angry.Description} 心中含恨的鲁宾想最后见一面。

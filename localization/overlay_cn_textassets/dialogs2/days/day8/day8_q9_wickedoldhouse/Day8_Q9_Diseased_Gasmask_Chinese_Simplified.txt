@@ -1,0 +1,3 @@
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_Gasmask.33347} 咔……咔……真……难受……
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_Gasmask.17089} 我找到防毒面具了。戴上——我们终于能出去了！
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_Diseased_Gasmask.64828} 你不想让火烧到你，对吧？那就快点。

@@ -1,0 +1,7 @@
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_NoTickets.6578} 他们至少一个半小时没让我们进去了。我开始觉得，所谓演出就是我们自己。把观众放上舞台，也说不上是什么新鲜主意。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_NoTickets.7962} 哦！你！就是你！他们让你不用排队就进去了！我们票都买了，还站在这里等……快告诉我们里面怎么了——满足一下我们的好奇心！
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_NoTickets.5553} 什么也没发生。鸟聚在钟旁——所以钟才响了。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_NoTickets.45966} 无可奉告。等官方声明。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_NoTickets.58147} 你们居然买了票？难以置信。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_NoTickets.54012} 审判官……被处决了。也就是说，现在什么都可以发生了。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_NoTickets.49076} 一个好人死了……你大概猜得到，我说的不是卡尔明斯基。

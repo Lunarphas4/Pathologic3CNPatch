@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day5.Day5_Q15_FirstCrucible.Day5_Q15_Horns_Victor.Name} 熔炉，维克多的偏厅
+{QuestMarkers.Days.Day5.Day5_Q15_FirstCrucible.Day5_Q15_Horns_Victor.Description} 西蒙的弟弟维克多·凯恩住在这里。

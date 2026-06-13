@@ -1,0 +1,3 @@
+{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_RightLever.44925} 拉下拉杆时，下面会有钟落下
+{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_RightLever.10340} 拉下拉杆时，下面会有钟落下
+{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_RightLever.15477} 还是在未来？

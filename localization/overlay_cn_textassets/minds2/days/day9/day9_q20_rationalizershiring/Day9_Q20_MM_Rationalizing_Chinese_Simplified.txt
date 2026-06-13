@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q20_RationalizersHiring.Day9_Q20_MM_Rationalizing.Name} 理顺
+{Minds2.Days.Day9.Day9_Q20_RationalizersHiring.Day9_Q20_MM_Rationalizing.Description} 如今指挥部诸事井然，我每日可受理多达四道政令。

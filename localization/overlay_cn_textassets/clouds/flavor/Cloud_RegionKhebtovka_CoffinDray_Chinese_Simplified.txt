@@ -1,0 +1,4 @@
+{Clouds.Flavor.Cloud_RegionKhebtovka_CoffinDray.11011} 搬运工就躺在旁边。
+{Clouds.Flavor.Cloud_RegionKhebtovka_CoffinDray.30471} 搬运工就躺在旁边。
+{Clouds.Flavor.Cloud_RegionKhebtovka_CoffinDray.8125} 隔离没有起效。
+{Clouds.Flavor.Cloud_RegionKhebtovka_CoffinDray.24496} 不过我不会散布恐慌。

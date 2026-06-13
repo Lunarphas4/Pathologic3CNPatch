@@ -1,0 +1,2 @@
+{UI.Credits.Art.RomanGrishin.Name} Roman Grishin
+{UI.Credits.Art.RomanGrishin.Description} 概念美术

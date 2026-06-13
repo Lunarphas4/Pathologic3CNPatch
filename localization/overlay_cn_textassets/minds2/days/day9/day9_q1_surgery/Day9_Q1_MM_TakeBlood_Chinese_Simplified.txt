@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_TakeBlood.Name} 输血
+{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_TakeBlood.Description} 手术可能大量失血。我已取了卡捷琳娜的血样。能赶在用血前找到合适的血源吗？

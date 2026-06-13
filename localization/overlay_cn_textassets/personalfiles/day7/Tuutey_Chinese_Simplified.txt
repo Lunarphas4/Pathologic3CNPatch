@@ -1,0 +1,2 @@
+{PersonalFiles.Day7.Tuutey.Name} 图泰
+{PersonalFiles.Day7.Tuutey.Description} 入院后一直跳舞，没有停过。

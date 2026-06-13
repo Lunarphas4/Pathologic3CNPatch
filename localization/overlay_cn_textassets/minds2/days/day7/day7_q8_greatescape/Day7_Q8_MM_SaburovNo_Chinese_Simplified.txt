@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_SaburovNo.Name} 正人
+{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_SaburovNo.Description} 萨布罗夫死了。我看再也没机会让铁道上的守卫挪开了。

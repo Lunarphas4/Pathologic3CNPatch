@@ -1,0 +1,2 @@
+{Prologue.QuestMarkers.Prologue_PartTwo_Hospital.Prologue_Stillwater_Mark.Name} 静水观星台
+{Prologue.QuestMarkers.Prologue_PartTwo_Hospital.Prologue_Stillwater_Mark.Description} 我临时的避风港、应急指挥总部，也是这镇上唯一能让我喘口气的地方。

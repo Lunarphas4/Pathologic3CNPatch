@@ -1,0 +1,5 @@
+{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Warehouse_BedOne.25456} 有人被赶出了公共床铺
+{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Warehouse_BedOne.25591} 有人被赶出了公共床铺
+{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Warehouse_BedOne.19432} 作为惩罚？因为地位低？
+{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Warehouse_BedOne.45744} 还是因为生病？翻来覆去，打扰别人？
+{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Warehouse_BedOne.31629} 又或许是因为呕吐发作？

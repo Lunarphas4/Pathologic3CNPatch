@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_MM_Defence.Name} 证人庇护
+{Minds2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_MM_Defence.Description} 格奥尔基会替那个无辜的女佣挡住玛丽亚的怒火。

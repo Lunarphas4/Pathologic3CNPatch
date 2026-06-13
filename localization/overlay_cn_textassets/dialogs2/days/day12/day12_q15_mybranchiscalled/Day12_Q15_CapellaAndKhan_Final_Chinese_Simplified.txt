@@ -1,0 +1,24 @@
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.8626} 我承认你作为孩子们统治者的功绩，卡斯帕。但成人世界要承认你，需要的不只是虚张声势和童话。如果你不想被成人世界榨干，就必须改变，学会它的规则。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.60790} 你什么时候变成这样了，卡佩拉？你以前色彩鲜明又易碎，像大教堂那扇彩色玻璃窗。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.4306} 还记得那是我打碎的吗？还有，你最好叫我维多利亚。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.44878} 丹科夫斯基医生，您好！很高兴您来了——您应该是最早知道的人之一：卡佩……我是说，维多利亚和我要结婚了。凯恩家和奥尔金斯基家将成为一个家族。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.60460} 为了什么？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.29233} 为了未来。多面体，公牛企业——那些只是怪物般的乌托邦引擎。把人不断碾碎成观念的工厂。 我们要建造一个世界，在那里，人的骨头不会再为了崇高词句而被压碎。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.63628} 值得称赞。但要实现这一点，婚姻真的必要吗？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.24634} 我们两家多年来一直把城市往相反方向拉。这必须结束。凡是人们被观念、被姓氏分开，血与仇恨就会统治。要打破血的循环，我们必须成为一个家族。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.1085} 可你们还是孩子！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.39950} 涉及家族时，年龄无关紧要。重要的是行为，是牺牲。你会来参加我们的婚礼吗？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.44787} 那爱情呢？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.41641} 这不就是爱情吗？为了他人而牺牲某些东西——那就是爱。你会来参加我们的婚礼吗？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.43539} 我当然会。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.1891} 我忍不住觉得，现在并不是办婚礼的好时候。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.22001} 恐怕我不会在这里待太久。我会回去——要么回首都，要么回到土里。我还不知道是哪一个。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.26444} 可汗，你对……多面体感觉如何？你知道今天一切都会决定。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.63329} 我还能感觉如何？糟糕。很痛。我选择相信这是成长的疼痛。我不能回头——一回头就会摔倒。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.47141} 至少如果它崩塌，也不是经你的手。我很高兴你提到了第一扇彩色玻璃窗——直到最近，我才不再梦见自己打碎它。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.49562} 如果他们真的开始向塔开炮，你会带我去一个看不见它的地方吗？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.4264} 我让你们俩谈。这里不是我该待的地方。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.11024} 还有机会。我会试着做点什么，至少会试。我保证。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.35854} 可惜小弗拉德不在这里——他会为你骄傲的。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.24131} 那么……我想该祝贺你们。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_CapellaAndKhan_Final.40523} 你确定这是合适的时机？

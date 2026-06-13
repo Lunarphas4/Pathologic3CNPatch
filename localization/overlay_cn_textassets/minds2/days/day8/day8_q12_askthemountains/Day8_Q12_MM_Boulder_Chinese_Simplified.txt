@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q12_AskTheMountains.Day8_Q12_MM_Boulder.Name} 清账之时
+{Minds2.Days.Day8.Day8_Q12_AskTheMountains.Day8_Q12_MM_Boulder.Description} 见鬼，我差点忘了！机师巨石曾以某物为代价答应助我出逃。趁我还在草原村里——得去找他一趟。

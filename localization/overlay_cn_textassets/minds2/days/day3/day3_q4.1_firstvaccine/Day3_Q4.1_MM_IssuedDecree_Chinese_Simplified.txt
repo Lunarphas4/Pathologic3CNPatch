@@ -1,0 +1,2 @@
+{Minds2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MM_IssuedDecree.Name} 实验模型
+{Minds2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MM_IssuedDecree.Description} 有人告诉我，新抗瘟药已经在救人了！我们走在正确的路上

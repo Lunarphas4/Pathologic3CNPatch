@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_MM_Murky.Name} 升天
+{Minds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_MM_Murky.Description} 难道我真要把"墨儿失踪"归到超自然上去吗？我得告诉孩子们，他们的朋友找到了。

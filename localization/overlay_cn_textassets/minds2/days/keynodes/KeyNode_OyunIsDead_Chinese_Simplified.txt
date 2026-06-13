@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_OyunIsDead.Name} 伊西多尔之凶
+{Minds2.Days.KeyNodes.KeyNode_OyunIsDead.Description} 那位无能的工头奥伊温被自家族人所杀。

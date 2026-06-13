@@ -1,0 +1,3 @@
+{Npcs.HoundheadGirl.Name} 娜塔
+{Npcs.HoundheadGirl.FullName} ⁠
+{Npcs.HoundheadGirl.Description} ⁠

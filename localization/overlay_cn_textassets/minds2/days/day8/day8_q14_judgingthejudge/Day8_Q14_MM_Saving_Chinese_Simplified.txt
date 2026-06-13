@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_MM_Saving.Name} 老年之失
+{Minds2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_MM_Saving.Description} 看来格奥尔基永远不会知道方才有何险情。这样的局面，还会再次发生吗？

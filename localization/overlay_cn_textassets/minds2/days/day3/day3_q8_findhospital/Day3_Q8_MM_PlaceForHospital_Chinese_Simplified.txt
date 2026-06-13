@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_MM_PlaceForHospital.Name} 萨布罗夫的委派
+{Minds2.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_MM_PlaceForHospital.Description} 萨布罗夫委托我，为医院找一栋合适的建筑。

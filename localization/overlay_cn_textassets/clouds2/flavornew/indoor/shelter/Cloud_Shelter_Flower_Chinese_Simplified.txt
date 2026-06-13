@@ -1,0 +1,5 @@
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_Flower.44925} 我好像答应过要给某朵花浇水
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_Flower.10340} 我好像答应过要给某朵花浇水
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_Flower.56689} 什么时候，对谁——完全想不起来
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_Flower.61752} 也许那只是个比喻？
+{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_Flower.43577} 也许那会发生在明天？

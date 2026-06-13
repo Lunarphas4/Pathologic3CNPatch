@@ -1,0 +1,2 @@
+﻿{Locations.Polyhedron_Indoor_Mirror_Room.Name} 镜室
+{Locations.Polyhedron_Indoor_Mirror_Room.Description} 镜室

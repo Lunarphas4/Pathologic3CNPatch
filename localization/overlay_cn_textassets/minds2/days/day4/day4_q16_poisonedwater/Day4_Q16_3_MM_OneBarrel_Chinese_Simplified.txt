@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_3_MM_OneBarrel.Name} 第一张饼
+{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_3_MM_OneBarrel.Description} 失败！还好，我还能再化验两桶水。

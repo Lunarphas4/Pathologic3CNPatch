@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_TownIsDead.Name} 镇已注定覆灭
+{Minds2.Days.KeyNodes.KeyNode_TownIsDead.Description} 已无希望。

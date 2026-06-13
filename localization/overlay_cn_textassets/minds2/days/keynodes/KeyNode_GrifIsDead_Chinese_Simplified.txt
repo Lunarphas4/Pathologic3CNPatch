@@ -1,0 +1,2 @@
+{Minds2.Days.KeyNodes.KeyNode_GrifIsDead.Name} 恶徒格里夫之死
+{Minds2.Days.KeyNodes.KeyNode_GrifIsDead.Description} 恶徒格里夫死了。

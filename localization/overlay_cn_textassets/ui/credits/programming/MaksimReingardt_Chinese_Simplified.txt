@@ -1,0 +1,2 @@
+{UI.Credits.Programming.MaksimReingardt.Name} Maksim Reingardt
+{UI.Credits.Programming.MaksimReingardt.Description} 程序员、玩法逻辑脚本

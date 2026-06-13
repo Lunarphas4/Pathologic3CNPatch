@@ -1,0 +1,14 @@
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_Yulia_Escape.7158} 这感觉很怪。离开很怪。我在这里待了这么多年……  不管发生过什么，我都感激凯恩家和这座小镇给了我这么多。也许多到我承受不住。
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_Yulia_Escape.16989} 我想，这种现象应当有个名字……人质竟对俘虏自己的人心怀感激。
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_Yulia_Escape.18868} 别犯傻了。我刚到这里时还很年轻，才从学院毕业。而我竟被允许放手规划街道。没有监督，没有限制，也没有财政或官僚上的掣肘。那是难以置信的好运——可由此生出的坏事，我也负有责任。
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_Yulia_Escape.22945} 你是少数几个愿意完整承认自己责任的人。
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_Yulia_Escape.36830} 我只是想心怀感激。为我的年轻岁月，为我们曾有过的梦。我刚才是在回想自己同梦筑师们一同抵达这里的时候。列车缓缓减速，我们望着即将工作的地方。有人——我记不清是谁了——喊了一声：看啊，我还以为这样的镇子早就不存在了！
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_Yulia_Escape.2052} 的确如此。
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_Yulia_Escape.53468} 收起你的怀旧吧，尤利娅。
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_Yulia_Escape.13746} 我明白。但你不该独自背负这份重担。别人本可以帮你，给你建议，引导你……可他们没有。
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_Yulia_Escape.39209} 我害怕，尤利娅。害怕回家。我走过你在中庭那条断裂的街……
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_Yulia_Escape.59579} 我也替你担心。也许正因如此，我才决定同你一起走。如果你最坏的噩梦成真，至少我会在场帮一把。我知道这算不了什么，但这是我现在能给出的全部。
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_Yulia_Escape.36876} 这对我意义很大。谢谢你。
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_Yulia_Escape.52970} 我会给工程师一个信号……然后我们就永远离开。
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_Yulia_Escape.1192} 你会想念这座小镇吗？
+{Dialogs2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_Yulia_Escape.35966} 当然。我刚到这里时还很年轻，才从学院毕业。而我竟被允许放手规划街道。没有监督，没有限制，也没有财政或官僚上的掣肘。那是难以置信的好运——可由此生出的坏事，我也负有责任。

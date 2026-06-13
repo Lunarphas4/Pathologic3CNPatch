@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day8.Day8_Q10_FalseExecution.Day8_Q10_BridgeSq.Name} 桥头广场
+{QuestMarkers.Days.Day8.Day8_Q10_FalseExecution.Day8_Q10_BridgeSq.Description} 大教堂背后某处，孩子们自把"正义"接了过去。

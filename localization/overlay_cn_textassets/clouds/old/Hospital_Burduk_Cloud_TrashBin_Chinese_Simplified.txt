@@ -1,0 +1,5 @@
+{Clouds.Old.Hospital_Burduk_Cloud_TrashBin.689} 血是新鲜的。
+{Clouds.Old.Hospital_Burduk_Cloud_TrashBin.153} 血是新鲜的。
+{Clouds.Old.Hospital_Burduk_Cloud_TrashBin.23485} 对一个人来说，绷带太多了。
+{Clouds.Old.Hospital_Burduk_Cloud_TrashBin.28163} 给谁包扎过？
+{Clouds.Old.Hospital_Burduk_Cloud_TrashBin.26907} 他受伤了？

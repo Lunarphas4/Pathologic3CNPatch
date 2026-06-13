@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_Inspection.Name} 检查结果
+{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_Inspection.Description} 先把所见症状填进病例本，再向病人发问。

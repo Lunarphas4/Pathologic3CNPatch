@@ -1,0 +1,24 @@
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.60770} 走吧。向前。走。为你的理念而战——或者放弃。不管你押上什么，最后都会输。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.18804} 你知道吗，坐在教堂台阶上很适合你。有一种和谐。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.21279} 当然。真正的圣人就该待在神殿后门。里面只让化装戏子进去。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.29611} 你真的不准备试着证明，你比我更知道这座镇子的出路？
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.16555} 反正你不会听我的——这是其一。其二：我的路不是靠辩论能赢来的。要看见它，必须重新调准你的心。而你的心又小又结了硬茧。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.16209} 不过，我很好奇。如果现在由你决定炮口该对准哪里——你会怎么做？
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.13710} 如果由我决定，就根本不需要瞄准。大炮会变成孩子的画，发射出花。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.52515} 是，是——瘟疫也是你那个邪恶双胞胎姐妹传播的。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.45609} 换句话说，你没有真正的答案。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.30124} 你要怎样向纸上的一幅画解释什么是“垂直”？向婴儿解释负一的平方根？你不懂我说的词。 好吧。那么，我会改变人。让矛盾本身消解。我能做到——爬进一颗灵魂。满意了吗？
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.30580} 你说得好像自己相信能用魔法消除一个根本矛盾。幼稚。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.13143} 我说了，你不会懂。去吧。去画你的纸上凯旋。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.62392} 我怀疑那不会是胜利。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.17482} 我倒想施舍你，可我一无所有。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.38322} 没有不需要牺牲的解法。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.16125} 你的想象很可爱。无用——却可爱。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.54368} 你为什么不在里面，陪在你的将军身边？
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.6416} 他们作决定时，你为什么不在里面？为什么不……协助你的受监护人——你的将军？
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.40451} 你在开玩笑吗？现在他得靠自己了。我只是在困难时刻引导过他——到了容易的时候，他就忘了我。 我不能进入大教堂，你明白吗？现在还没轮到我。我会溜进去，会作出我的选择，会救下所有人，做得比你们这些屠夫更干净、更好……但那是以后。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.50993} 真方便。那我也以后再救镇子——等我方便的时候。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.8859} 现在轮到你了。我帮了你很多。等棋子被扫下棋盘，又重新摆好时，你以后也会帮我。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.62120} 你们都多么爱用棋的隐喻。而只有阿格拉娅知道怎么下。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.16606} 也许我会帮你。你并不想害我。
+{Dialogs2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_Changelling_NextTime.40824} 这对我有利。没人会碍事。除了几个审判官——还有一位传奇指挥官……

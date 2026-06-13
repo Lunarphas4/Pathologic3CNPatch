@@ -1,0 +1,3 @@
+{Npcs.HoundheadBoy.Name} 狗头人
+{Npcs.HoundheadBoy.FullName} ⁠
+{Npcs.HoundheadBoy.Description} ⁠

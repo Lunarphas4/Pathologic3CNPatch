@@ -1,0 +1,2 @@
+{UI.Credits.Art.EkaterinaShiriaeva.Name} Ekaterina Shiriaeva
+{UI.Credits.Art.EkaterinaShiriaeva.Description} Character 3D 美术

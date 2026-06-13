@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Common.QuestMarker_Barter.Name} 交易
+{QuestMarkers.Common.QuestMarker_Barter.Description} 就在这片危险城区的当中，有人愿意和我交易。

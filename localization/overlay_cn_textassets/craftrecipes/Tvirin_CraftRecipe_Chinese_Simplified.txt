@@ -1,0 +1,2 @@
+{CraftRecipes.Tvirin_CraftRecipe.Name} twyrine（特维酒）
+{CraftRecipes.Tvirin_CraftRecipe.Description} 增加躁狂

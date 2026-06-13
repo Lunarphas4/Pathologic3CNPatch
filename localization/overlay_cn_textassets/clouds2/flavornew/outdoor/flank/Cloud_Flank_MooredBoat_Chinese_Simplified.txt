@@ -1,0 +1,4 @@
+{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_MooredBoat.44925} 城里有船夫营生
+{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_MooredBoat.10340} 城里有船夫营生
+{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_MooredBoat.56689} 当然比不上首都的现代水运……
+{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_MooredBoat.61752} 但我等了再久，也没人载我

@@ -1,0 +1,3 @@
+{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_Boats.44925} 只有奥东，船的牧人，懂得穿过急流
+{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_Boats.10340} 只有奥东，船的牧人，懂得穿过急流
+{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_Boats.61752} 走水路和徒步进草原一样疯狂

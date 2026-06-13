@@ -1,0 +1,2 @@
+{Symptoms.SerdceZamiranie.Name} 心悸
+{Symptoms.SerdceZamiranie.Description} 患者感到心跳停顿、漏跳或突然加重。

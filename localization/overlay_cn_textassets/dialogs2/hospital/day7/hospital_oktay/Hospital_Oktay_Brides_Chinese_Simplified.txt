@@ -1,0 +1,46 @@
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.19714} Ende yamar zhehteib（这里多奇怪）！床位、治疗方法...
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.38141} Zhegtei（奇怪）。这里以前不是这样的屋子。它另有用途。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.25399} 他们曾在这里起舞。不像我们，不是为大地。是为城镇。城镇看着 haykhan khatar（美丽的舞），便飞快地长大。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.45588} 我以为他们在这里演戏，不是跳芭蕾。还是说你指的是悲剧演员的哑剧？
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.52348} 我不懂那个词。我知道我们教草如何生长；而这里，他们教城镇如何生长。Tiighaad kharaba。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.2497} 这里曾是重要之地。Nanghin ghazar。像我们的拉吉丘。是你占用了城镇的重要之地，用来医治吗？
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.14521} 是我。否则就不会有人活着去剧院了。现在这座城镇还有机会熬过瘟疫。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.34846} 你也给城镇看一支舞。一支搏斗之舞。Tuladhaan。你选对了地方。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.2000} 你会医治。你会医治我们的人吗？他以为自己没有 ybshen（疾病）——没有病。他以为自己受了惩罚。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.65422} 你们关心城镇做什么？我还以为草原人鄙弃文明。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.23361} 你以为黑夜厌恶白昼吗？Beede neghedenebdi。城镇把影子投进草原。Tolirolgho。只有蠢人才诅咒自己的影子。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.29299} 我们来不是诅咒，而是请求：你会医治；你会医治我们的人吗？他以为自己没有 ybshen（疾病）——没有病。他以为自己受了惩罚。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.41267} 你们来医院做什么？你们病了？三个都病了？
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.28141} 我们没病。谢亨的一个 khyn（人）病了。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.26529} 但他以为自己没有 ybshen（疾病）——没有病。他以为自己受了惩罚。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.47820} 什么意思？怎么会把疾病症状误认为惩罚？
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.50596} 奥克泰以为草原惩罚了他。Eryuu khyn（坏人）。草原甚至没有听见他——为什么要惩罚他？
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.4852} 他很安静，没能证明自己。也弱——后来就病了。Ekhe sula（根基薄弱）。我们知道你是医者，就把他带给你。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.39450} 要是人人都这么做就好了——包括某些“受过教育”的城里人……
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.39681} 所以你们和——等一下——那个叫奥克泰的病人在一起？
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.59093} 不是我们和奥克泰在一起。是奥克泰和我们在一起。我们带他来的。他需要 kharuuhulalgha。城里人说，现在医治在这里。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.14835} 你们把他带来了？真没想到你们这类人会信任科学。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.44265} 你知道什么叫我们这类人？Yuushie medekheghyish。城镇不能与我们同在，可我们也不能没有城镇。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.25716} 我们有自己的医者，自己的草药师。他们看得见 ybshen（疾病）。我们看得见。奥克泰看不见，也听不见。奥克泰睡着了，梦见自己会成为Odongh（金族牧人）。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.61207} 我承认这出乎意料，但谢谢你们做了正确的事。能给我更多信息吗？你们具体注意到了什么？什么时候判断他病了？
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.35571} 你自己看，自己明白，erdem（学者）。奥克泰病得很重，一眼就能看出——即使你不是门库。你看得很清楚。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.15386} 只有 zyrkhen（心）不能用眼睛看见。他的心变弱了——跳得像外来人来草原那样少。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.58939} 为避免误会：你的意思是，它跳得很少，对吗？
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.63363} 几乎不跳，erdem（学者）。听不出奥克泰还有没有 zyrkhen（心）。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.49822} 医治他，erdem（学者）。奥克泰是个善良的傻子。他不会成为好的草药师，但他会成为讲 ylgernyyd（故事）的人。虫民也需要故事，erdem（学者）。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.48652} 所以就算按你们的标准，他也是个做梦的人？这也算有天赋。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.60363} 我会尽力。你的提示有用，谢谢。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.23780} 故事里也有一部分真实。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.10282} 有意思；我会记下来。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.9903} 他认定自己正在变成Odongh（金族牧人）。听起来像草原上的夸大故事。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.13970} 确实是故事。Ukhaanghyi。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.50499} 你是说奥克泰？那个以为自己在变成Odongh（金族牧人）的人？我已经弄清他的“转化”了。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.44426} Bayarlaa（谢谢）。我们告诉过奥克泰，奥克泰不听。他以为自己受了草原惩罚。Eriyuu khyn（坏人）。草原甚至没有听见他——为什么要惩罚他？
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.62098} 谢谢你，erdem（学者）！Bayarlaa（谢谢）。奥克泰是个善良的傻子。不会成为好的草药师，但会成为讲 ylgernyyd（故事）的人。虫民也需要故事，erdem（学者）。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.20807} 谢谢你们做了正确的事。真希望人人都像你们草药新娘一样急着来医院。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.49155} 啊，你们是跟那个草原人一起的？我没时间和他说话，但根据助手的发现给他做了诊断。我已经处理好了。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.35855} Yyi！你这脑袋真厉害，erdem（学者）。没有亲眼看，没有亲耳听，却把病弄清了。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.28863} 为什么要听奥克泰的？他只知道 Ukhaanghyi。他相信自己没病；他以为自己在变成Odongh（金族牧人）。Demy！
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.35500} 谢谢你，erdem（学者）！Bayarlaa（谢谢）。奥克泰是个善良的傻子。不会成为好的草药师，但会成为讲 ylgernyyd（故事）的人。虫民也需要故事，erdem（学者）。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.21254} 呃。我倒想知道我错过的是哪位讲故事的人。
+{Dialogs2.Hospital.Day7.Hospital_Oktay.Hospital_Oktay_Brides.35424} 随时来，我们谁都能诊断。

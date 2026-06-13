@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_MM_Hiring.Name} 化学博物学家
+{Minds2.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_MM_Hiring.Description} 如今"什莫粉女孩"被编入指挥部，可在温暖、饱足、再不必每日冒着染疫之险的环境下做研究。

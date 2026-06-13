@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_BridgeSq.Name} 桥头广场
+{QuestMarkers.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_BridgeSq.Description} 正义在此处得伸。

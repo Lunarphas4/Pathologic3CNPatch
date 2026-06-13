@@ -1,0 +1,2 @@
+{UI.Credits.Art.NikitaBelotserkovsky.Name} Nikita Belotserkovsky
+{UI.Credits.Art.NikitaBelotserkovsky.Description} Prop 3D 美术

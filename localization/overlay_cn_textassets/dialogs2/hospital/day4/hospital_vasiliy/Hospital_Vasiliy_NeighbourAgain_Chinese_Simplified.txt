@@ -1,0 +1,10 @@
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_NeighbourAgain.31932} 怎么了，医生？菲拉特是不是很不妙？他把自己喝到了鬼门关，是吧？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_NeighbourAgain.15881} 我已经作出诊断了。其余与你无关。不过也请你发发善心，去检查一下自己有没有沙疫。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_NeighbourAgain.7406} 我一听说他整夜和自己说话，就立刻知道：我再也见不到从前那个老邻居了……多可怕的征兆！
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_NeighbourAgain.11742} 这正是你错了。菲拉特不是发疯。他不是和脑袋里的声音谈话——他是在和一个来自蚁巢的男孩说话。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_NeighbourAgain.12723} 来自蚁巢？你是说，他把那些小野兽中的一个带进我们家？
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_NeighbourAgain.44414} 我认为你该知道。祝你日安。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_NeighbourAgain.27650} 别说得这么难听。那孩子也有自己的难处。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_NeighbourAgain.166} 是的……你观察得很细——什么都瞒不过你。但现在你终于可以放心了。菲拉特在医院。我会尽力救他。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_NeighbourAgain.7186} 我想我已经弄明白了。谢谢你的钥匙——你帮了大忙。
+{Dialogs2.Hospital.Day4.Hospital_Vasiliy.Hospital_Vasiliy_NeighbourAgain.32149} 我先再看他一遍。并且强烈建议你也去检查一下沙疫。

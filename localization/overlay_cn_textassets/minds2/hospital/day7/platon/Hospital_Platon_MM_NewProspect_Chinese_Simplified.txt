@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_NewProspect.Name} 翻箱倒柜的住所
+{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_NewProspect.Description} 不，这些不是窃贼的痕迹。这也是病情所致。

@@ -1,0 +1,2 @@
+{Note.Day10.Day10_GriefConsequenceLetter_VigilantesAreAlive.Name} 士兵联名致谢
+{Note.Day10.Day10_GriefConsequenceLetter_VigilantesAreAlive.Description} 丹科夫斯基先生！\n\n大人！我们都是粗人，只能尽力写，您别当我们冒犯！我们向您鞠躬，真心感谢您。要不是您的建议，贼就会把所有面包都拖走，我们就会饿死——这是实情，我们写给您！镇上派来帮我们的懒汉睡了一整夜，不过别把他们吓得太厉害，他们已经受够惊吓了。平民嘛，粥里没尝过火药味。我们把贼带到墙边时，他们插手了，说不许这样，说应该关起来。这算什么？好人连皮带都快嚼完了，还要我们喂各种贼？现在不是养蟑螂的时候。我们向您鞠躬，祝您从上帝那里求什么得什么。告别！\n\n第四师士兵

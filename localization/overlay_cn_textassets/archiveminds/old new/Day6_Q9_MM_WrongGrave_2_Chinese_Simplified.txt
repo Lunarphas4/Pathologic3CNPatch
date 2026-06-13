@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.OldNew.Day6_Q9_MM_WrongGrave_2.Name} 假坟
+{ArchiveMinds.OldNew.Day6_Q9_MM_WrongGrave_2.Description} 西蒙的遗体仍未找到，而格蕾丝不允许继续亵渎坟墓。

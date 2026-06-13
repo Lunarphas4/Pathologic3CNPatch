@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_Boy.Name} 老巢出逃者
+{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_Boy.Description} 菲拉特的儿子也曾住在这里？还是个窃贼？我已分不清了。这些天我究竟和多少人说过话？

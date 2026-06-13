@@ -1,0 +1,4 @@
+{Clouds.Day4.Day4_Q_SloughDoorLock.Day4_Q_Tag_LockDoor.21569} 不知道从哪来的，但肯定不会出现在试玩版里。
+{Clouds.Day4.Day4_Q_SloughDoorLock.Day4_Q_Tag_LockDoor.9249} 门为什么锁上了？
+{Clouds.Day4.Day4_Q_SloughDoorLock.Day4_Q_Tag_LockDoor.353} 以前从来没锁过。
+{Clouds.Day4.Day4_Q_SloughDoorLock.Day4_Q_Tag_LockDoor.30119} 这是伊娃做的吗？

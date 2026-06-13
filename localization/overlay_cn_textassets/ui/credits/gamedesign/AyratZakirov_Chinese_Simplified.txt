@@ -1,0 +1,2 @@
+{UI.Credits.GameDesign.AyratZakirov.Name} Ayrat Zakirov
+{UI.Credits.GameDesign.AyratZakirov.Description} 游戏设计师

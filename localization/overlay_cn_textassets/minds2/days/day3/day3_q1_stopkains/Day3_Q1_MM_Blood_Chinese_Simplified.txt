@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q1_StopKains.Day3_Q1_MM_Blood.Name} 血迹
+{Minds2.Days.Day3.Day3_Q1_StopKains.Day3_Q1_MM_Blood.Description} 谁想杀这个镇上仅剩的一位大夫，谁就等于在自己的死亡证书上签了字。

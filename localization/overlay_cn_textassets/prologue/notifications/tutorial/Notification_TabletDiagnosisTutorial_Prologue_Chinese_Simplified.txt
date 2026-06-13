@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_TabletDiagnosisTutorial_Prologue.Name} 最终诊断
+{Prologue.Notifications.Tutorial.Notification_TabletDiagnosisTutorial_Prologue.Description} 长按<InputActions/UI/TabletDiagnosis>确认诊断，随后可关闭病历簿

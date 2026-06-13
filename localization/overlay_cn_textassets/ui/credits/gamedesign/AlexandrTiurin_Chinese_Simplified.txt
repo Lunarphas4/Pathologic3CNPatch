@@ -1,0 +1,2 @@
+{UI.Credits.GameDesign.AlexandrTiurin.Name} Alexandr Tiurin
+{UI.Credits.GameDesign.AlexandrTiurin.Description} 平衡设计师、游戏设计师

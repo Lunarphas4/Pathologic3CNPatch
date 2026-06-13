@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q0_ChangelingCult.Day6_Q0_MM_NoMoreHospital.Name} 翻脸
+{Minds2.Days.Day6.Day6_Q0_ChangelingCult.Day6_Q0_MM_NoMoreHospital.Description} 两天前起克拉拉就生我的气。她把所有病人都"治好了"。我能怎么补救？

@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day9.Poshinok.Hospital_Poshinok_MM_Diagnosed.Name} 已下诊断
+{Minds2.Hospital.Day9.Poshinok.Hospital_Poshinok_MM_Diagnosed.Description} 但这还不算完。我必须决定——是否准许"拼布"出镇。

@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_CasebookDescriptionsTutorial.Name} 参考手册
+{Notifications.Tutorial.Notification_CasebookDescriptionsTutorial.Description} 疾病名旁的按钮会显示详细说明：传染途径、易感人群等等。在拿不准时有助于下诊断。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_4_MM_Mirrors.Name} 镜中之敌
+{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_4_MM_Mirrors.Description} 卡明斯基办公的地方布满了镜子。若没有这些镜子——他还能活下来吗？

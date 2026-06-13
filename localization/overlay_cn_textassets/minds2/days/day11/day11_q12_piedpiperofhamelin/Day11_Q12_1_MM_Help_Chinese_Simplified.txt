@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_1_MM_Help.Name} 好心相助
+{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_1_MM_Help.Description} 他们提议帮我：把多面体里的孩子们撤出来。他们觉得这事于我或许要紧。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q7_BrotherForBrother.Day8_Q7_MM_OnHisOwn.Name} 知道得够多了
+{Minds2.Days.Day8.Day8_Q7_BrotherForBrother.Day8_Q7_MM_OnHisOwn.Description} 我厌倦了这种探子游戏。我相信彼得能自己照顾自己。

@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_QuickslotsTutorial_Gamepad_Prologue.Name} 四个口袋
+{Prologue.Notifications.Tutorial.Notification_QuickslotsTutorial_Gamepad_Prologue.Description} 随身携带消耗品。按<InputActions/UI/PrevItem>/<InputActions/UI/NextItem>选中物品，按<InputActions/UI/Submit>快速使用

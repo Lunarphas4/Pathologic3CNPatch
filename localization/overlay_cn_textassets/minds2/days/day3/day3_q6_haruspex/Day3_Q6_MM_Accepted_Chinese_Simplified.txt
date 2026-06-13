@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q6_Haruspex.Day3_Q6_MM_Accepted.Name} 应允
+{Minds2.Days.Day3.Day3_Q6_Haruspex.Day3_Q6_MM_Accepted.Description} 我和布拉赫达成协议：在抗击沙疫一事上互相帮衬。他那双手，我用得上。

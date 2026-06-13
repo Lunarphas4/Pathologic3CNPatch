@@ -1,0 +1,5 @@
+{Clouds2.Days.Intro.Old.Intro_Cloud_TanatLetter.31570} 塔纳提卡几乎被毁。
+{Clouds2.Days.Intro.Old.Intro_Cloud_TanatLetter.19698} 塔纳提卡几乎被毁。
+{Clouds2.Days.Intro.Old.Intro_Cloud_TanatLetter.21112} 弄个头条新闻就是我们最后的希望
+{Clouds2.Days.Intro.Old.Intro_Cloud_TanatLetter.21378} 公开曝光。重点在于震撼。
+{Clouds2.Days.Intro.Old.Intro_Cloud_TanatLetter.12589} 拿出铁证来，让大家知道我们一直都是对的

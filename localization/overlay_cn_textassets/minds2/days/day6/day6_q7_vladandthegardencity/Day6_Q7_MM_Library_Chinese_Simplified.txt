@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_MM_Library.Name} 提示
+{Minds2.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_MM_Library.Description} 他手下的仓库账房常把备用钥匙藏在某个偏僻的地方，以防忘了带主钥匙。而市政厅里最偏僻的地方，是图书室。

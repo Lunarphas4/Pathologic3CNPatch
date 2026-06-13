@@ -1,0 +1,2 @@
+{Notifications.Tablet.Tablet_PersonalFile_Survived.Name} ⁠
+{Notifications.Tablet.Tablet_PersonalFile_Survived.Description} 治疗起效了，病人逐渐康复。

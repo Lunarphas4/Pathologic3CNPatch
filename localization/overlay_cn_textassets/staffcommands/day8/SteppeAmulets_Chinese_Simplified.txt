@@ -1,0 +1,2 @@
+{StaffCommands.Day8.SteppeAmulets.Name} 安抚金族
+{StaffCommands.Day8.SteppeAmulets.Description} 在各街区布置传统护符，以对抗瘟疫并安抚人心。

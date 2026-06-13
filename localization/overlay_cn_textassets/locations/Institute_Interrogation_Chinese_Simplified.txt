@@ -1,0 +1,2 @@
+﻿{Locations.Institute_Interrogation.Name} 审讯室
+{Locations.Institute_Interrogation.Description} 审讯室

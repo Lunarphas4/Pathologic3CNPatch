@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_HideoutConclusion.Name} 假冒的继承人
+{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_HideoutConclusion.Description} 那么，鲁宾有那位老师的家的钥匙，且未犹豫便进了门。

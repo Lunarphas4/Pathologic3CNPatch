@@ -1,0 +1,3 @@
+﻿{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_WaterChine.Name} 肋区的水
+{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_WaterChine.Description} 用于分析的水样。
+{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_WaterChine.Description2} 供水系统，小弗拉德最好的事业，被暴徒毁了。如今小镇只剩疫情前储备的水。这份样本来自肋区的一只水桶。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_MM_Danger.Name} 灯
+{Minds2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_MM_Danger.Description} 成箱的爆竹。明火。一个简单却悲剧的结局……\n\n……只要我向员工下达指示，就不会发生。

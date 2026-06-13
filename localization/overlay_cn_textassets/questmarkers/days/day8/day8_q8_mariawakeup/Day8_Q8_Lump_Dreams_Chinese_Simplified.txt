@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_Lump_Dreams.Name} 块石宅
+{QuestMarkers.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_Lump_Dreams.Description} 今日卡佩拉仍是那位神秘的女主人。

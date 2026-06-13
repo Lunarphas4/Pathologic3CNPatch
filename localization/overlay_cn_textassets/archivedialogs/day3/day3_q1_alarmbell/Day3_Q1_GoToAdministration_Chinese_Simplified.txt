@@ -1,0 +1,8 @@
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_GoToAdministration.14471} 医生，您准备好了吗？
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_GoToAdministration.19619} 准备什么？
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_GoToAdministration.13185} 别担心，大家都聚在一起，是为了协助您。今天庄严，虽也阴沉——即便最睿智的人也会茫然。但您走进管理署时，别失了体面。我们全都很倚重您。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_GoToAdministration.11445} 管理署？那里有什么？
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_GoToAdministration.7699} 您真像是从月亮上掉下来的。今天管理署要召开一场大议会。您和我们尊敬的庇护人们将决定这座城接下来的历史。说简单些：我们是升高，还是永远泡在瘟疫的腹中发酸。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_GoToAdministration.11552} 那么，我的咨询确实会很合适。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_GoToAdministration.15593} 您对沙疫似乎太轻率了。没听说过它？眼看就要隔离、要对抗疫病了，您却像昨天才出生。要不要来点嗅盐？
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_GoToAdministration.9590} 不用。我什么都知道。你讥讽什么……

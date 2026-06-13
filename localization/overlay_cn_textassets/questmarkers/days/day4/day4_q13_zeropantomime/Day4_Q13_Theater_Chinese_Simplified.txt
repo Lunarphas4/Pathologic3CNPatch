@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day4.Day4_Q13_ZeroPantomime.Day4_Q13_Theater.Name} 剧院
+{QuestMarkers.Days.Day4.Day4_Q13_ZeroPantomime.Day4_Q13_Theater.Description} 在剧场里，那些面具正排练一出新的默剧。

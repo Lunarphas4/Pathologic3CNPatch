@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_EvaIsAlwaysDead.Name} 时之外
+{Minds2.Days.KeyNodes.KeyNode_EvaIsAlwaysDead.Description} 伊娃在过去已死。

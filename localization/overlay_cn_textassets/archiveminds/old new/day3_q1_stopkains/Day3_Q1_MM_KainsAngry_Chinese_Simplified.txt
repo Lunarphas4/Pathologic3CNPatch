@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.OldNew.Day3_Q1_StopKains.Day3_Q1_MM_KainsAngry.Name} 凯恩家的人
+{ArchiveMinds.OldNew.Day3_Q1_StopKains.Day3_Q1_MM_KainsAngry.Description} 凯恩家的人因西蒙遗体被夺而追捕鲁宾。

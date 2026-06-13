@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_GunBluffGamepadTutorial.Name} 战斗
+{Notifications.Tutorial.Notification_GunBluffGamepadTutorial.Description} 外面危险。我必须随时准备 <InputActions/UI/WeaponSelector> 持械自卫。

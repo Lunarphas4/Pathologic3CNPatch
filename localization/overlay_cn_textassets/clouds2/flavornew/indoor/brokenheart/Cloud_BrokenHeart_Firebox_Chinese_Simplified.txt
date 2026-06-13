@@ -1,0 +1,3 @@
+{Clouds2.FlavorNew.Indoor.BrokenHeart.Cloud_BrokenHeart_Firebox.44925} 直通地狱的大门
+{Clouds2.FlavorNew.Indoor.BrokenHeart.Cloud_BrokenHeart_Firebox.10340} 直通地狱的大门
+{Clouds2.FlavorNew.Indoor.BrokenHeart.Cloud_BrokenHeart_Firebox.56689} 或者一座旧高炉

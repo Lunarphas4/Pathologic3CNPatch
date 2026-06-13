@@ -1,0 +1,4 @@
+{Clouds2.FlavorNew.Indoor.Thanatica.Cloud_Thanatica_InsectariumEmpty.44925} 我们无论如何仍需要蝴蝶
+{Clouds2.FlavorNew.Indoor.Thanatica.Cloud_Thanatica_InsectariumEmpty.10340} 我们无论如何仍需要蝴蝶
+{Clouds2.FlavorNew.Indoor.Thanatica.Cloud_Thanatica_InsectariumEmpty.56689} 但不再要求它们提供永生
+{Clouds2.FlavorNew.Indoor.Thanatica.Cloud_Thanatica_InsectariumEmpty.61752} 只要授粉

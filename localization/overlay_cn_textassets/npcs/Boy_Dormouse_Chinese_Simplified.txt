@@ -1,0 +1,3 @@
+{Npcs.Boy_Dormouse.Name} 瞌睡虫
+{Npcs.Boy_Dormouse.FullName} ⁠
+{Npcs.Boy_Dormouse.Description} ⁠

@@ -1,0 +1,2 @@
+﻿{Notifications.Notification_Hospital_AllDiagnosisRight.Name} 诊断成功
+{Notifications.Notification_Hospital_AllDiagnosisRight.Description} 全部诊断无误。镇上至少今日将获得有效疫苗。剩下的便是签发政令。

@@ -1,0 +1,31 @@
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.46187} 在这狂海边缘，饥荒与死亡在哀号；妇人与婴孩的哭声，越过原野飞扬。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.25260} 我欣赏你的抒情心境，将军。但如果我们不结束这件事，哭声会传到远远超过这些田野的地方。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.54732} 我知道你是对的，审判官。没有什么可辩，也没有什么可讨论。 可是……我看着那座塔就想：他们会把一切都扭曲……他们会说我只是个迟钝的士兵，摧毁了一项工程奇迹。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.41402} 他们正会这么说——一点也别怀疑。拆除多面体，是送给你在首都那些敌人的礼物。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.56314} 我知道。但荣誉和人的性命之间，不存在真正的选择。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.47627} 你是在试图拯救小镇，还是拯救你的名声？
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.39633} 不是名声——是荣誉。那分量大得多。不过，荣誉和人的性命之间，不存在真正的选择。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.7127} 你不必拆除多面体。莉莉奇审判官想让你做所有脏活。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.30964} 你越界了，丹科夫斯基。你是应我邀请而来——甚至不是以顾问身份。你是观察者，而且还迟到了。我已经向将军呈交了拆除必要性的证明。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.59389} 有一个疑问一直啃咬着我：我最后一次和你的同僚卡尔明斯基交谈时，他坚持认为多面体可以被拯救。甚至必须被拯救……
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.27022} 如果我的同僚还活着，我相信他会分享自己的想法，说明如何在不牺牲小镇的前提下做到这一点。不过我要指出：正是他对不可能之物的执迷，把他送进了坟墓。 如果你不推倒多面体，多面体就会推倒我们所有人。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.45986} 没想到我会开始怀念卡尔明斯基……
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.13261} 人生充满意外。不意外的是这一点：沙疫威胁的不只是这座镇，而是整个国家。今天犹豫，明天它就会蔓延得更远。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.51825} 将军是对的：如果卡尔明斯基还活着，事情会不一样。他研究过那座塔，肯定比我们任何人都更了解它。我们应该依据他的判断。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.45177} 你熟悉“虚拟语气”这个术语吗，丹科夫斯基？卡尔明斯基没有留下决定。那不存在。存在的是这个事实：沙疫威胁的不只是这座镇，而是整个国家。今天犹豫，明天它就会蔓延得更远。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.52425} 卡尔明斯基几乎根本没有把拯救小镇当作目标。我不会认真对待他的话。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.57515} 正是如此。他感兴趣的是作为现象的这座镇，而不是作为人们居住之处的这座镇。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.64908} 我还是宁愿不用火炮——这对镇民不安全。但明确的目标能让我们把风险降到最低。谢谢你给出这个目标，莉莉奇审判官。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.43124} 用炮击多面体来换取未来，代价很高——但必须支付。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.29531} 你说得轻巧，阿格拉娅。付账的人不会是你。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.1084} 哦，相信我，丹科夫斯基，我们所有人都会付账——也包括我自己。法庭审判不可避免。但首先，我们得活到能够面对它。而只有把沙疫的毒刺——多面体——从小镇腹中拔出来，我们才活得到那一刻。 我在等，将军。下令开火吧——别再拷问灵魂了。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.5594} 我一生签过两份历史性文件。第一份是在卡尔斯托夫浅滩下令推进，现在是这份…… 这是我的签名，确认接到审判官的命令。完成了。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.62620} 命运随心塑形，也随心狂吠。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.62837} 那就这样吧。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.13029} 不。还什么都没完成。事情根本不是那样！我要把一切重写……
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.9645} 你为什么这么憎恨多面体？
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.22272} 我不是已经回答过了吗？它是假偶像。是一座美丽的海市蜃楼，遮住肮脏而痛苦的死亡。它不值得那些已经被它夺走的生命。 我在等，将军。下令开火吧——别再拷问灵魂了。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.58408} 是的。那代价必须支付。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.349} 我还担心多面体也蛊惑了你，丹科夫斯基。很高兴我的推断错了。 我在等，将军。下令开火吧——别再拷问灵魂了。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.21817} 是的。人更重要。比荣誉重要，也比塔重要。
+{Dialogs2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_Powers_TotalDestruction.3815} 虽然你的声音不具咨询效力，丹科夫斯基，但我很高兴你同意。

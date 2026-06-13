@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Hideout_Again.Name} 鲁兵的藏身处
+{QuestMarkers.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Hideout_Again.Description} 仓库那间不起眼的锅炉房没被鲁宾的敌人发现。所以他必在其中。

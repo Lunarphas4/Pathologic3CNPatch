@@ -1,0 +1,2 @@
+{UI.CharacterWindow.Default.DefaultName} ？？？
+{UI.CharacterWindow.Default.DefaultTooltip} 我还没在这份记述里提到这个人。

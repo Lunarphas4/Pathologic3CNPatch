@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q1_StopKains.Day3_Q1_MM_Servants.Name} 尽责的"公民"
+{Minds2.Days.Day3.Day3_Q1_StopKains.Day3_Q1_MM_Servants.Description} 凯恩家的仆从们打算因鲁宾亵渎西蒙遗体一事惩戒他。他们声称是自作主张。

@@ -1,0 +1,4 @@
+{UI.ProbeMinigame.Labels.TitleComplete} ⁠
+{UI.ProbeMinigame.Labels.DescriptionComplete} ⁠
+{UI.ProbeMinigame.Labels.TitleLose} ⁠
+{UI.ProbeMinigame.Labels.DescriptionLose} ⁠

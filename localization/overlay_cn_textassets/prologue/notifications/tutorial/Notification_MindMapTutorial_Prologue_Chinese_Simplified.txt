@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_MindMapTutorial_Prologue.Name} 脑图
+{Prologue.Notifications.Tutorial.Notification_MindMapTutorial_Prologue.Description} 每天都会发生重要的事情。选择一天，回忆当天发生的事情

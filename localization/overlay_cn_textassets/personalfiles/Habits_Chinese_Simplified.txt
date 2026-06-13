@@ -1,0 +1,7 @@
+{PersonalFiles.Habits.Smoking} 吸烟
+{PersonalFiles.Habits.Boozing} 酗酒
+{PersonalFiles.Habits.DrinksModerately} 适量饮酒
+{PersonalFiles.Habits.BoozingPresumably} 疑似酗酒
+{PersonalFiles.Habits.BoozingNeighbour} 据邻居说酗酒
+{PersonalFiles.Habits.BoozingNotConfirmed} 酗酒未确认
+{PersonalFiles.Habits.Invention} 爱好发明

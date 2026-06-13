@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Village.Name} 草原村
+{QuestMarkers.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Village.Description} 蠕虫之中有一位名叫巨石的机师；少了他，我出不了镇。

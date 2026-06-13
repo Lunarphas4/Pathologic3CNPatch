@@ -1,0 +1,2 @@
+{UI.Credits.Audio.ViktorOrlov.Name} Viktor Orlov
+{UI.Credits.Audio.ViktorOrlov.Description} 口簧琴、喉唱

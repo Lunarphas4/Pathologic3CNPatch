@@ -1,0 +1,2 @@
+{Notifications.Notification_MindMapTutorial.Name} 想法图
+{Notifications.Notification_MindMapTutorial.Description} 我的想法、线索与结论会聚在这里。选择节点即可查看详情。

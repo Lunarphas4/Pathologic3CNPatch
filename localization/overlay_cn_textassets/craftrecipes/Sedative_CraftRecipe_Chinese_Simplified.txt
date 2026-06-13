@@ -1,0 +1,2 @@
+﻿{CraftRecipes.Sedative_CraftRecipe.Name} 草药混合物
+{CraftRecipes.Sedative_CraftRecipe.Description} 增加冷漠

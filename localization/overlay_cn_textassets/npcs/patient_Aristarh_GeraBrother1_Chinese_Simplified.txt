@@ -1,0 +1,3 @@
+{Npcs.patient_Aristarh_GeraBrother1.Name} 失意者
+{Npcs.patient_Aristarh_GeraBrother1.FullName} ⁠
+{Npcs.patient_Aristarh_GeraBrother1.Description} ⁠

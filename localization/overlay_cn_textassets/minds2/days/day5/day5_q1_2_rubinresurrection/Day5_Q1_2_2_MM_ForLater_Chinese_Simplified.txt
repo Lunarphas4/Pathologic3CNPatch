@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q1_2_RubinResurrection.Day5_Q1_2_2_MM_ForLater.Name} 留待以后
+{Minds2.Days.Day5.Day5_Q1_2_RubinResurrection.Day5_Q1_2_2_MM_ForLater.Description} 以防我决定接种疫苗，我会把它放在床头柜上。我觉得不必着急。

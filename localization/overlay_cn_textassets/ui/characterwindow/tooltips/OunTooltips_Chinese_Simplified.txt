@@ -1,0 +1,7 @@
+﻿{UI.CharacterWindow.Tooltips.OunTooltips.Death} 在未知的日子里被布拉赫杀死
+{UI.CharacterWindow.Tooltips.OunTooltips.DeathTwo} 死于未知的日子，因为布拉赫被杀了
+{UI.CharacterWindow.Tooltips.OunTooltips.Intro} 不配其位的工头
+{UI.CharacterWindow.Tooltips.OunTooltips.Murder} 第1天，因朋友伊西多尔·布拉赫违背诸线而杀死了他
+{UI.CharacterWindow.Tooltips.OunTooltips.Steppe} 第2天，封锁伊西多尔的房子，前往草原寻找最后的大公牛
+{UI.CharacterWindow.Tooltips.OunTooltips.Lump} 第8天，回到镇上接受自己的命运
+{UI.CharacterWindow.Tooltips.OunTooltips.Survive} 第12天，被布拉赫饶过一命

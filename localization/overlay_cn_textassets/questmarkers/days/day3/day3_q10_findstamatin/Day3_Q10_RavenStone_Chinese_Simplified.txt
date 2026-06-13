@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_RavenStone.Name} 鸦石
+{QuestMarkers.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_RavenStone.Description} 彼得这场壮游还没完。有人告诉我他往西去了某处。

@@ -1,0 +1,9 @@
+{UI.Menu.Profiles.Mania} 躁狂
+{UI.Menu.Profiles.Aphaty} 冷漠
+{UI.Menu.Profiles.Profiles} 玩家档案
+{UI.Menu.Profiles.Empty} 新建档案
+{UI.Menu.Profiles.Profile} 档案
+{UI.Menu.Profiles.DeleteProfile} 删除档案
+{UI.Menu.Profiles.DeleteDescription} 确定要删除这个档案吗？
+{UI.Menu.Profiles.DeleteButton} <InputActions/UI/ConfirmDialog> 是
+{UI.Menu.Profiles.NotDeleteButton} <InputActions/UI/Cancel> 否

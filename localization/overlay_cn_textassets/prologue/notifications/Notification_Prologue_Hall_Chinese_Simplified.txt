@@ -1,0 +1,2 @@
+{Prologue.Notifications.Notification_Prologue_Hall.Name} 首都，
+{Prologue.Notifications.Notification_Prologue_Hall.Description} 草原小镇覆灭后，学者身败名裂返回之处

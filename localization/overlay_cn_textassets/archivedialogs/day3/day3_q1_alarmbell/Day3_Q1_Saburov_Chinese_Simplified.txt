@@ -1,0 +1,12 @@
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Saburov.19049} 您需要签署任命令，出任本市沙疫防治指挥部负责人。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Saburov.16939} 我明白。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Saburov.30000} 还请您签署一份保证：只要居民能够得到有效治疗，您将在城内再停留九天。另请签署一份放弃屠宰场卫生检查的声明。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Saburov.20571} 可我没有放弃屠宰场卫生检查！这又算什么？
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Saburov.13667} 只是手续。还需要核验您的签名，以便确认各项命令。请给我一份笔迹样本？
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Saburov.28612} 还有哪些命令？
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Saburov.18324} 说‘命令’太重了，抱歉。您会下达卫生指令，对吧？那就需要签名。还有：我们把一张研究桌交给您使用，这是清单。请接收。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Saburov.14272} ……还有别的吗？
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Saburov.29581} 有。这里：您接受城内事务处置人的职务。别担心——人们遇到您职责范围内的灾祸时，总得知道该找谁。这更多是为了让居民安心。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Saburov.7790} 有没有什么能让我安心的？现在这一切看起来像一周十三班。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Saburov.14793} 床位不用签收。我会尽量替您弄些柠檬片。医生……祝您好运？
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Saburov.4968} 不如替我找一支士的宁安瓿……

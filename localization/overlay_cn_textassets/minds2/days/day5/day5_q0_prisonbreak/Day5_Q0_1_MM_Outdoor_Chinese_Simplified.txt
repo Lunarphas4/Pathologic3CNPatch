@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_1_MM_Outdoor.Name} 命运在我手中
+{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_1_MM_Outdoor.Description} 我被允许外出，为那些忘恩负义的人冒生命危险。啊，真正自由的乐趣！

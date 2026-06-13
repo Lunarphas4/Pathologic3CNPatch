@@ -1,0 +1,17 @@
+{Dialogs2.Eva.Morning.Eva_Morning_10.32181} 你握住我的手时，抓得很紧。你的手像石头，像雕像的手。
+{Dialogs2.Eva.Morning.Eva_Morning_10.29534} 伊娃……你还活着。你就在这里。仍然——在我眼前。
+{Dialogs2.Eva.Morning.Eva_Morning_10.8615} 还有你的姿态——你喜欢把下巴抬起来。你大概自己没注意到。不是傲慢，是紧张。你读书时大概很矮，对吗？
+{Dialogs2.Eva.Morning.Eva_Morning_10.12121} 我现在也不是什么巨人，得体外交小姐。
+{Dialogs2.Eva.Morning.Eva_Morning_10.5059} 你傍晚来时，衬衫和领带总是被汗水、烟草味和疲惫浸透。但它们并不让我厌恶。我把它们泡进水里时，会觉得自己像是在允许你把这一天卸下来。我喜欢这样。
+{Dialogs2.Eva.Morning.Eva_Morning_10.9191} 谢谢你——谢谢你的照料。
+{Dialogs2.Eva.Morning.Eva_Morning_10.30106} 你抱住我时，我会想往后靠一点，好继续看着你的眼睛。
+{Dialogs2.Eva.Morning.Eva_Morning_10.11299} 而我喜欢把你抱近。你的头发有青草的气味。
+{Dialogs2.Eva.Morning.Eva_Morning_10.2927} 很快你就会离开，我们也不会再见了。我们安静地坐一会儿吧——趁你还在这里。
+{Dialogs2.Eva.Morning.Eva_Morning_10.63051} 不必如此。
+{Dialogs2.Eva.Morning.Eva_Morning_10.17986} 我想抱抱你。
+{Dialogs2.Eva.Morning.Eva_Morning_10.60329} 好。
+{Dialogs2.Eva.Morning.Eva_Morning_10.65482} 你到底想说什么？
+{Dialogs2.Eva.Morning.Eva_Morning_10.21626} 这些是你自己做的？我还以为你会交给仆人。
+{Dialogs2.Eva.Morning.Eva_Morning_10.21725} 我读过文科中学。
+{Dialogs2.Eva.Morning.Eva_Morning_10.50531} 这是在清点我的品质吗？
+{Dialogs2.Eva.Morning.Eva_Morning_10.51550} 你的手也很暖。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_MM_MyMicroscope.Name} 显微镜
+{Minds2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_MM_MyMicroscope.Description} 我从帝都带来的忠实机械之友！我用它做过多少次诊断？又多少次窥入微生物的世界？

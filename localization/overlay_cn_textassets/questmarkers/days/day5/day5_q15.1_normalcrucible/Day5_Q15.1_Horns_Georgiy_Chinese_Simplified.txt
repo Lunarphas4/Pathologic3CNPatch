@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day5.Day5_Q15.1_NormalCrucible.Day5_Q15.1_Horns_Georgiy.Name} 熔炉，格奥尔基的工坊
+{QuestMarkers.Days.Day5.Day5_Q15.1_NormalCrucible.Day5_Q15.1_Horns_Georgiy.Description} 格奥尔基通常在他的雕塑工坊工作

@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day5.Tolkoviy.Hospital_Tolkoviy_MM_Cough.Name} 令人警觉的症状
+{Minds2.Hospital.Day5.Tolkoviy.Hospital_Tolkoviy_MM_Cough.Description} 病人嘲鸫咳得很厉害，衣服上还有血滴。我应该重点询问。

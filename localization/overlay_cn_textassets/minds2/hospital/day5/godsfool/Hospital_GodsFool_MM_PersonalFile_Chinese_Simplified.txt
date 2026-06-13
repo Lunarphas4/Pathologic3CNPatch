@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day5.GodsFool.Hospital_GodsFool_MM_PersonalFile.Name} 圣愚
+{Minds2.Hospital.Day5.GodsFool.Hospital_GodsFool_MM_PersonalFile.Description} 波博克是个无家可归的流浪汉。过这样的日子，很难不生病。

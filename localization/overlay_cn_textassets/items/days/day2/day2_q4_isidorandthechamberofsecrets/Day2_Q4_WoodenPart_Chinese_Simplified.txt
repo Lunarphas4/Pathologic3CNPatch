@@ -1,0 +1,3 @@
+﻿{Items.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_WoodenPart.Name} 木片
+{Items.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_WoodenPart.Description} 温热，仿佛被阳光晒过。
+{Items.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_WoodenPart.Description2} 四周细雨绵绵，它却依然温热。仿佛刚刚还躺在阳光下。

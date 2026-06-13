@@ -1,0 +1,3 @@
+{Npcs.patient_Mirosya_Mirnaya.Name} 伊蕾娜
+{Npcs.patient_Mirosya_Mirnaya.FullName} ⁠
+{Npcs.patient_Mirosya_Mirnaya.Description} ⁠

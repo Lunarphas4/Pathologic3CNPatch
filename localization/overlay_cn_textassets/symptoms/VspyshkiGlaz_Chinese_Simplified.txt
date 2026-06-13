@@ -1,0 +1,2 @@
+{Symptoms.VspyshkiGlaz.Name} 眼前闪光
+{Symptoms.VspyshkiGlaz.Description} 视野中出现闪光、亮点或类似光斑的异常感受。

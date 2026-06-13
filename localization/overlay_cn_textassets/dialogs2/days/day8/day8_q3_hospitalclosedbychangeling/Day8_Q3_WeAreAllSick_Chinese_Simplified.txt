@@ -1,0 +1,10 @@
+{Dialogs2.Days.Day8.Day8_Q3_HospitalClosedByChangeling.Day8_Q3_WeAreAllSick.14204} ……我每次走进房间时，感觉正是这样：我比所有人都低，所有人都把我当成小丑；于是，“为什么不呢，干脆扮小丑吧，我不怕你们的看法，因为你们每一个人都比我低！”所以我是小丑，我因羞耻而成了小丑，因羞耻。
+{Dialogs2.Days.Day8.Day8_Q3_HospitalClosedByChangeling.Day8_Q3_WeAreAllSick.13150} “因羞愧而退，大长者”！你忘了称呼大长者。这不可接受。我们镇上不能没有长者……那是什么声音，你听见了吗？
+{Dialogs2.Days.Day8.Day8_Q3_HospitalClosedByChangeling.Day8_Q3_WeAreAllSick.14852} 外面是谁？！哦，是你。抱歉，剧院关门了——暂时的，为了排练。医院则永久关门。
+{Dialogs2.Days.Day8.Day8_Q3_HospitalClosedByChangeling.Day8_Q3_WeAreAllSick.31089} 关门？我没有下过这种命令。
+{Dialogs2.Days.Day8.Day8_Q3_HospitalClosedByChangeling.Day8_Q3_WeAreAllSick.6464} 还要什么命令？没有病人，就不需要医院。圣克拉拉把他们全救了——从你和你的实验手里救出来。治好了他们。我们为他们高兴，也同样为自己高兴——剧院回来了。只差把死亡的气味赶走。
+{Dialogs2.Days.Day8.Day8_Q3_HospitalClosedByChangeling.Day8_Q3_WeAreAllSick.62349} 你在开玩笑？没必要赶走什么。马克会高兴坏的：舞台和观众席下面都有真正的死亡气味！
+{Dialogs2.Days.Day8.Day8_Q3_HospitalClosedByChangeling.Day8_Q3_WeAreAllSick.42578} 你为什么高兴？克拉拉把我们全都推向了毁灭。没有医院，瘟疫会吞掉小镇。
+{Dialogs2.Days.Day8.Day8_Q3_HospitalClosedByChangeling.Day8_Q3_WeAreAllSick.12114} 别急着摆上你的道具。医院很快会重新开门。或者根本不会关门……
+{Dialogs2.Days.Day8.Day8_Q3_HospitalClosedByChangeling.Day8_Q3_WeAreAllSick.18881} 而你看来也不是倒影。只是个戴着戏剧面具的人。
+{Dialogs2.Days.Day8.Day8_Q3_HospitalClosedByChangeling.Day8_Q3_WeAreAllSick.21176} 倒影？倒影在你在这里的时候游荡过……圣克拉拉把他们全救了——从你和你的实验手里救出来。治好了他们。我们为他们高兴，也同样为自己高兴——剧院回来了。只差把死亡的气味赶走。

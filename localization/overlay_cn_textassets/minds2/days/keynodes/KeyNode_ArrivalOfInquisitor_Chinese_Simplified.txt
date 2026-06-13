@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_ArrivalOfInquisitor.Name} 当权者的援手
+{Minds2.Days.KeyNodes.KeyNode_ArrivalOfInquisitor.Description} 一位国家审判官——惯于解无解之题的高手——已抵达本镇。

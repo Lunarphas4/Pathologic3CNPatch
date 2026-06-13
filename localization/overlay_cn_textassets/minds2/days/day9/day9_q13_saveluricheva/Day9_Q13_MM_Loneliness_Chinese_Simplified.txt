@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q13_SaveLuricheva.Day9_Q13_MM_Loneliness.Name} 孤独
+{Minds2.Days.Day9.Day9_Q13_SaveLuricheva.Day9_Q13_MM_Loneliness.Description} 尤利娅刻意让昨日无人能阻止她探察那条诅咒之街——也无人能伸出援手。

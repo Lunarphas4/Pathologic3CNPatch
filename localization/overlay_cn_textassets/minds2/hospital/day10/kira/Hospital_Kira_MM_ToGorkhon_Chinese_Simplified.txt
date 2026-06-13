@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_ToGorkhon.Name} 往河边
+{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_ToGorkhon.Description} 线索拼起来了：父母去了河边。问题在于戈尔洪河很长。但也许有人看见过他们出门。

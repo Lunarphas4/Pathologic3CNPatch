@@ -1,0 +1,2 @@
+﻿{Locations.House_Sirie_Zastroiki_N6_WickedOldHouse.Name} 可疑的屋子
+{Locations.House_Sirie_Zastroiki_N6_WickedOldHouse.Description} 可疑的屋子

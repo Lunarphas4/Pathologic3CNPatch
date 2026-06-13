@@ -1,0 +1,2 @@
+{UI.Credits.Art.DmitriiKostromin.Name} Dmitrii Kostromin
+{UI.Credits.Art.DmitriiKostromin.Description} Prop 3D 美术

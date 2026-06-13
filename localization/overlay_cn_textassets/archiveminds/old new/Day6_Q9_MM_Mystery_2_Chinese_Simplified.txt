@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.OldNew.Day6_Q9_MM_Mystery_2.Name} 谜
+{ArchiveMinds.OldNew.Day6_Q9_MM_Mystery_2.Description} 墓里没有尸首，只有一具偶人和一张图——要么是仪式，要么是恶作剧。颇合凯恩家的口味。

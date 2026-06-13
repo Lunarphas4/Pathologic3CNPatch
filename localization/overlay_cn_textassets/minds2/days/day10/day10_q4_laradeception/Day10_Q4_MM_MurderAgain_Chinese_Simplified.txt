@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_MM_MurderAgain.Name} 背叛
+{Minds2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_MM_MurderAgain.Description} 拉拉没有信守诺言。布洛克再一次被杀。

@@ -1,0 +1,5 @@
+{Clouds2.Days.Intro.Old.Intro_Cloud_Door.24409} 对一个毁掉整座小镇的人，不应有怜悯。
+{Clouds2.Days.Intro.Old.Intro_Cloud_Door.12621} 对一个毁掉整座小镇的人，不应有怜悯。
+{Clouds2.Days.Intro.Old.Intro_Cloud_Door.16876} 可我不想要这样的结果。
+{Clouds2.Days.Intro.Old.Intro_Cloud_Door.1705} 事情本不该如此。
+{Clouds2.Days.Intro.Old.Intro_Cloud_Door.26056} 连我自己都无法原谅自己。

@@ -1,0 +1,2 @@
+{Minds2.Days.KeyNodes.KeyNode_CursedStreet.Name} 诅咒之街
+{Minds2.Days.KeyNodes.KeyNode_CursedStreet.Description} 我在中庭的一条街上，目睹了一个可怖的未来。

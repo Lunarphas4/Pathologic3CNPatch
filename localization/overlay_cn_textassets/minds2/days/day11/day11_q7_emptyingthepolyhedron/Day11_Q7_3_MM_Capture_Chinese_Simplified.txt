@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_3_MM_Capture.Name} 旗插峰巅
+{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_3_MM_Capture.Description} 士兵们像勤劳的蚂蚁，沿楼梯上下奔忙。军队不费一枪一弹便登上了高地。这是我想要的吗？

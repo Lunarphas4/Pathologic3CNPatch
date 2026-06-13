@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_3.Day9_Q12_3_MM_Note.Name} 伪造
+{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_3.Day9_Q12_3_MM_Note.Description} 我不得不开了一份完全失实的证明，写明这名士兵死于自然原因。可几克铅子下去，谁不会死？

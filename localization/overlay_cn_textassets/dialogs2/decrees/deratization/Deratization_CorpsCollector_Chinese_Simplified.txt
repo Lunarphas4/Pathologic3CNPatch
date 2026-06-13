@@ -1,0 +1,16 @@
+{Dialogs2.Decrees.Deratization.Deratization_CorpsCollector.231} 今天收成不错……哦，真不错！我这辈子从没见过这么多可爱的小尸体！
+{Dialogs2.Decrees.Deratization.Deratization_CorpsCollector.45061} 听起来你好像还真为这事高兴。
+{Dialogs2.Decrees.Deratization.Deratization_CorpsCollector.6527} 当局早该收拾它们了！这些害兽早就该除掉。它们没完没了，我告诉你！它们折腾得我整夜睡不着。我一关灯、闭上眼，它们就在那儿，抓挠，乱窜，嘀嘀咕咕……
+{Dialogs2.Decrees.Deratization.Deratization_CorpsCollector.53005} 所以你一点也不可怜它们？
+{Dialogs2.Decrees.Deratization.Deratization_CorpsCollector.49450} 我为什么要可怜？我可怜的是我的邻居——他们就是因为这些小怪物死的。几天前我看见那些混账聚在他们家附近……用后腿站着，盯着窗户。你知道的——一旦它们选中了你家，你就完了。
+{Dialogs2.Decrees.Deratization.Deratization_CorpsCollector.46744} 所以你认为这些生物不只是传播瘟疫；它们是真的会选择感染谁？
+{Dialogs2.Decrees.Deratization.Deratization_CorpsCollector.9400} 当然会。不然还能怎么解释？怎么，你以为全是运气不好？这场瘟疫不是意外——它是武器。它们用它对付我们，夺我们的土地，夺我们的家。现在我们反击，而且要狠狠反击！
+{Dialogs2.Decrees.Deratization.Deratization_CorpsCollector.15230} 关于瘟疫的理论我听过不少，但这个倒是新的。
+{Dialogs2.Decrees.Deratization.Deratization_CorpsCollector.7088} 我懂。失眠的时候，我脑子里也会冒出最荒唐的胡话。
+{Dialogs2.Decrees.Deratization.Deratization_CorpsCollector.32427} 跳鼠该死！
+{Dialogs2.Decrees.Deratization.Deratization_CorpsCollector.51638} 它们为什么偏偏选择“谋杀”你的邻居？又为什么放过你？
+{Dialogs2.Decrees.Deratization.Deratization_CorpsCollector.44598} 鬼知道！我又不会说跳鼠话。它们有自己的战术。这场瘟疫不是意外——它是武器。它们用它对付我们，夺我们的土地，夺我们的家。现在我们反击，而且要狠狠反击！
+{Dialogs2.Decrees.Deratization.Deratization_CorpsCollector.31138} 你说“嘀嘀咕咕”是什么意思？
+{Dialogs2.Decrees.Deratization.Deratization_CorpsCollector.7489} 它们用那种老鼠话叽叽喳喳。那些畜生聪明得很——所以才危险。几天前我看见它们聚在我邻居家旁边……用后腿站着，盯着窗户。你知道的——一旦它们选中了你家，你就完了。
+{Dialogs2.Decrees.Deratization.Deratization_CorpsCollector.60062} 你为什么收集它们？
+{Dialogs2.Decrees.Deratization.Deratization_CorpsCollector.34281} 公共卫生。废物处理。怎么，你以为我在搞收藏？啧啧。当局早该管管它们了！这些害兽早该除掉。它们折腾得我整夜睡不着——我一关灯、闭上眼，它们就在那儿，抓挠，乱窜，嘀嘀咕咕……

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q15_BullAnalysisSecond.Day8_Q15_MM_SecondAnalysisResult.Name} 组织受损
+{Minds2.Days.Day8.Day8_Q15_BullAnalysisSecond.Day8_Q15_MM_SecondAnalysisResult.Description} 沙疫仍在生长。它缓慢却稳定地侵蚀着公牛的肌体。但目前尚不危险。

@@ -1,0 +1,2 @@
+﻿{Locations.Railroad_Station.Name} 车站
+{Locations.Railroad_Station.Description} 车站

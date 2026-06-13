@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_MicroscopeReagentsTutorial.Name} 有用之器
+{Notifications.Tutorial.Notification_MicroscopeReagentsTutorial.Description} 做化验需要试剂。试剂的供应由大夫自己负责。

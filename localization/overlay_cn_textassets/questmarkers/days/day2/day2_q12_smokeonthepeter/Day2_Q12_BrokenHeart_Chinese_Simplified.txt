@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day2.Day2_Q12_SmokeOnThePeter.Day2_Q12_BrokenHeart.Name} 碎心人酒馆
+{QuestMarkers.Days.Day2.Day2_Q12_SmokeOnThePeter.Day2_Q12_BrokenHeart.Description} 彼得在酒馆里消磨时间。

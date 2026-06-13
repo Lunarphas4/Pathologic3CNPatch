@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_Impossible.Name} 火中之列车
+{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_Impossible.Description} 出逃从一开始就不可能。但我没踩进为我设下的圈套——还赢得了本地人几分敬意。

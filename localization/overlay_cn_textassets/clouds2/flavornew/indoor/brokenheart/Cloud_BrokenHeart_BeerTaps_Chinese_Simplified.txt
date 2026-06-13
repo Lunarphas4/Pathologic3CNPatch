@@ -1,0 +1,4 @@
+{Clouds2.FlavorNew.Indoor.BrokenHeart.Cloud_BrokenHeart_BeerTaps.44925} 只有蓷薾酒
+{Clouds2.FlavorNew.Indoor.BrokenHeart.Cloud_BrokenHeart_BeerTaps.10340} 只有蓷薾酒
+{Clouds2.FlavorNew.Indoor.BrokenHeart.Cloud_BrokenHeart_BeerTaps.56689} 谁会把烈酒接上龙头？
+{Clouds2.FlavorNew.Indoor.BrokenHeart.Cloud_BrokenHeart_BeerTaps.61752} 蓷薾酒黑，蓷薾酒恶，蓷薾酒黏稠

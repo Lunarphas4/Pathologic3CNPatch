@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_MM_Alternative.Name} 另一条路
+{Minds2.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_MM_Alternative.Description} 尤利娅和我已逼近一个解：原来不必付出任何代价，瘟疫也能止住！

@@ -1,0 +1,2 @@
+{Minds2.Days.Intro.Intro_Day1_MM_Bride.Name} 白骨魔像
+{Minds2.Days.Intro.Intro_Day1_MM_Bride.Description} 当地人相信“Shabnak（泥魔女）”的存在：披着女人外貌、来自草原的杀人魔像。我仿佛不只是远离家乡，而是走出了时间。

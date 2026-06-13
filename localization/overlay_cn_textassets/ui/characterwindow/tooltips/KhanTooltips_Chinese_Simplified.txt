@@ -1,0 +1,10 @@
+﻿{UI.CharacterWindow.Tooltips.KhanTooltips.Death} 第10天，逃离战场时背后中刀
+{UI.CharacterWindow.Tooltips.KhanTooltips.Intro} 多面体孩子们的首领
+{UI.CharacterWindow.Tooltips.KhanTooltips.LostWarrior} 第2天，他的勇士在敌对帮派的囚禁中死去
+{UI.CharacterWindow.Tooltips.KhanTooltips.Capture} 第2天，接受自愿囚禁
+{UI.CharacterWindow.Tooltips.KhanTooltips.Free} 第8天，决定离开囚笼，回到多面体
+{UI.CharacterWindow.Tooltips.KhanTooltips.StillLockedUp} 第8天，决定继续留在笼中
+{UI.CharacterWindow.Tooltips.KhanTooltips.LostAndForgotten} 第11天，失踪
+{UI.CharacterWindow.Tooltips.KhanTooltips.LeftTheTower} 第11天，带着所有孩子离开多面体
+{UI.CharacterWindow.Tooltips.KhanTooltips.GoingBeyond} 第10天，学会越出世界之外
+{UI.CharacterWindow.Tooltips.KhanTooltips.Engagement} 第12天，同意与卡佩拉缔结家族婚约

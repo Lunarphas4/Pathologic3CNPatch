@@ -1,0 +1,2 @@
+﻿{Locations.Theater.Name} 剧院
+{Locations.Theater.Description} 剧院

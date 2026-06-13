@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_BonePole_Before.Name} 骨桩场
+{QuestMarkers.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_BonePole_Before.Description} 在这里，阿尔捷米·布拉赫即将割下一颗活的心脏。我能赶上拦下他吗？

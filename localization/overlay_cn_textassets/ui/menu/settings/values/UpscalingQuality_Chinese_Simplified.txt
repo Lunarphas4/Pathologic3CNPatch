@@ -1,0 +1,5 @@
+{UI.Menu.Settings.Values.UpscalingQuality.Native} 原始
+{UI.Menu.Settings.Values.UpscalingQuality.Quality} 质量
+{UI.Menu.Settings.Values.UpscalingQuality.Performance} 性能
+{UI.Menu.Settings.Values.UpscalingQuality.UltraPerformance} 极高性能
+{UI.Menu.Settings.Values.UpscalingQuality.Balanced} 平衡

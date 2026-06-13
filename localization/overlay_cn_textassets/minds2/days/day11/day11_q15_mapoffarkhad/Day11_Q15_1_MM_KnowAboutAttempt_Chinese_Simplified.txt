@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_KnowAboutAttempt.Name} 法尔哈德的造物
+{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_KnowAboutAttempt.Description} 今日可以在大教堂见到安德烈。

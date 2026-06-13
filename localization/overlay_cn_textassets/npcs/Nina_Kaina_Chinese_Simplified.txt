@@ -1,0 +1,3 @@
+{Npcs.Nina_Kaina.Name} 妮娜·凯娜
+{Npcs.Nina_Kaina.FullName} ⁠
+{Npcs.Nina_Kaina.Description} ⁠

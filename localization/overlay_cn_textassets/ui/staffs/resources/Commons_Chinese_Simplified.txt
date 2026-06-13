@@ -1,0 +1,5 @@
+﻿{UI.Staffs.Resources.Commons.Header1} 资源 *
+{UI.Staffs.Resources.Commons.Header2} 标题
+{UI.Staffs.Resources.Commons.Header3} 北
+{UI.Staffs.Resources.Commons.Header4} 剩余
+{UI.Staffs.Resources.Commons.Header5} 支出

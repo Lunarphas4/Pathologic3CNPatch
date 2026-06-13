@@ -1,0 +1,3 @@
+{Items.Weapons.Debutant.Name} 初学者
+{Items.Weapons.Debutant.Description} 雅克·德布设计的双发手枪。小巧，看起来毫无威胁。最后一颗子弹我留作特定用途。
+{Items.Weapons.Debutant.Description2} 雅克·德布设计的双发手枪。小巧，看起来毫无威胁。最后一颗子弹我留作特定用途。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q12_RotSiege.Day7_Q12_MM_Siege.Name} 镇上的暴乱
+{Minds2.Days.Day7.Day7_Q12_RotSiege.Day7_Q12_MM_Siege.Description} 权杖宅被围攻了！我不可能把暴民全打死。是用嘴谈，还是抬腿就走？

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_Isidom_Box.Name} 伊西多尔的宅子
+{QuestMarkers.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_Isidom_Box.Description} 伊西多尔的书房里放着一个包裹。难道是给我的？

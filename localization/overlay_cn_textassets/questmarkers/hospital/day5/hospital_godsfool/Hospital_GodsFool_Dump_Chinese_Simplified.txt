@@ -1,0 +1,2 @@
+{QuestMarkers.Hospital.Day5.Hospital_GodsFool.Hospital_GodsFool_Dump.Name} 垃圾场
+{QuestMarkers.Hospital.Day5.Hospital_GodsFool.Hospital_GodsFool_Dump.Description} 本地流浪汉的庇身处。其中包括今天的病人之一——博博克。

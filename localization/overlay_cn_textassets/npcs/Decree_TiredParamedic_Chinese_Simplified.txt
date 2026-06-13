@@ -1,0 +1,3 @@
+{Npcs.Decree_TiredParamedic.Name} 疲惫的勤杂工
+{Npcs.Decree_TiredParamedic.FullName} ⁠
+{Npcs.Decree_TiredParamedic.Description} ⁠

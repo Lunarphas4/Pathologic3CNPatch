@@ -1,0 +1,3 @@
+﻿{Items.BulletGenerator.SilverBullet.Name} 弹丸
+{Items.BulletGenerator.SilverBullet.Description} 用于与死亡决斗
+{Items.BulletGenerator.SilverBullet.Description2} 一种特殊化合物，以感染源样本为基础制成。能摧毁最强浓度的瘟疫，但只能使用一次。恐怕撑不过今天结束。

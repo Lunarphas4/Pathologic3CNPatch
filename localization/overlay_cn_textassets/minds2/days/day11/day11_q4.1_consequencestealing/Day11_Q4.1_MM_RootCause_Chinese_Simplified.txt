@@ -1,0 +1,2 @@
+{Minds2.Days.Day11.Day11_Q4.1_ConsequenceStealing.Day11_Q4.1_MM_RootCause.Name} 根因
+{Minds2.Days.Day11.Day11_Q4.1_ConsequenceStealing.Day11_Q4.1_MM_RootCause.Description} 盗窃补给正是引发一切的导火索

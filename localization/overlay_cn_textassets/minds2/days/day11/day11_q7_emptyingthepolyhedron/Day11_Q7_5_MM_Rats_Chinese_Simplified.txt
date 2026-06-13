@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_5_MM_Rats.Name} 鼠
+{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_5_MM_Rats.Description} 别自欺，丹科夫斯基。

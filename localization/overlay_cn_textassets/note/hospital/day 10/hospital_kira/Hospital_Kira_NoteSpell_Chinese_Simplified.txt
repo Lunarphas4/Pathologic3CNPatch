@@ -1,0 +1,2 @@
+{Note.Hospital.Day10.Hospital_Kira.Hospital_Kira_NoteSpell.Name} 仪式咒文
+{Note.Hospital.Day10.Hospital_Kira.Hospital_Kira_NoteSpell.Description} 水给予，水取走，\n水知万事，水晓一切，\n让恐惧入心者，将卧于土中，\n虽曾黑如煤烟，也将白如新雪，\n瘟疫让死者排成一列，\n水能治愈，水能投毒，\n一滴毒可防毒，\n苦涩萨维尔会灼烧胸膛，\n衣裳一线接一线，一针连一针，\n长辫一缕接一缕，一发连一发，\n合适的杯，各有其主，\n安静的杯，沉默地立在桌上。\n棕色twyre（特维草），灰白苇穗——\n碾碎成粉，撒入杯底，\n杯入河，入水，再至唇边，\n让邻人饮下，自己也饮下，\n看雾如何降临河面，\n瘟疫惧怕旧水。

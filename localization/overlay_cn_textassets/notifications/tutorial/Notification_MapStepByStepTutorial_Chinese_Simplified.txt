@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_MapStepByStepTutorial.Name} 规划路线
+{Notifications.Tutorial.Notification_MapStepByStepTutorial.Description} 我可一步步谨慎规划路线，避开危险城区。

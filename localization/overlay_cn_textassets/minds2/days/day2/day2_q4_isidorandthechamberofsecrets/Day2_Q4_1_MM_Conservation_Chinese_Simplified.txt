@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_1_MM_Conservation.Name} 封存
+{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_1_MM_Conservation.Description} 某种我不熟悉的草原习俗迫使伊西多尔的朋友在出殡当晚封住死者之屋。我动作太慢了。

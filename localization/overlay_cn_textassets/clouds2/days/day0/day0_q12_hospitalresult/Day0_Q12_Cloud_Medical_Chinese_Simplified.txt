@@ -1,0 +1,4 @@
+{Clouds2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Cloud_Medical.1064} 病人检查结果
+{Clouds2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Cloud_Medical.4752} 病人检查结果
+{Clouds2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Cloud_Medical.25103} 如履薄冰
+{Clouds2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Cloud_Medical.63592} 材料不足——疫苗会毫无用处

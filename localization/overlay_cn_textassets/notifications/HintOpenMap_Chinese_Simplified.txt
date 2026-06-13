@@ -1,0 +1,2 @@
+﻿{Notifications.HintOpenMap.Name} 打开地图
+{Notifications.HintOpenMap.Description} <InputActions/UI/Map> ——镇上地图

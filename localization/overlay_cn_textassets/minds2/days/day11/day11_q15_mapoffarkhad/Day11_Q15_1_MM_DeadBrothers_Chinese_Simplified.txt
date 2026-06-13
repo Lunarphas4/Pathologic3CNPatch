@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_DeadBrothers.Name} 与法尔哈德的未尽之约
+{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_DeadBrothers.Description} 我再不会去找斯塔马京兄弟了。

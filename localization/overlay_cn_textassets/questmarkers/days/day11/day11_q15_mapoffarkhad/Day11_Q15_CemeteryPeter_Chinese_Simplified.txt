@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_CemeteryPeter.Name} 墓园
+{QuestMarkers.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_CemeteryPeter.Description} 斯塔马京兄弟是法尔哈德最大的对头。

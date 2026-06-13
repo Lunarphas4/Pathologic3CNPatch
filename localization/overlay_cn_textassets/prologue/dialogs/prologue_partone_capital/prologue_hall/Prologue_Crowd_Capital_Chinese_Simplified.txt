@@ -1,0 +1,17 @@
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Hall.Prologue_Crowd_Capital.14083} 学者，您怎么还没去接受审讯？您人早该到那儿了！
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Hall.Prologue_Crowd_Capital.17735} 出什么事了，你怎么跑到这儿来了？
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Hall.Prologue_Crowd_Capital.2456} 等等，老师，他们叫您过来是因为塔纳提卡的事么？那关闭实验室的命令……是撤销了，还是延期执行了？
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Hall.Prologue_Crowd_Capital.15372} 多半是为了沙疫的事。他们担心疫情说不定已经在首都这儿蔓延开了。
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Hall.Prologue_Crowd_Capital.10139} 最先发现这种致命瘟疫的医生就是您？这种……呃，叫什么来着，土疫？……真像他们说的一样，短短一周，就害死了那个草原小镇里整整两万五千人么？
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Hall.Prologue_Crowd_Capital.4995} 那都是道听途说！别缠着负责人问东问西了，他还有要紧事！老师，您该过去了，他们跟您约的是八点。
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Hall.Prologue_Crowd_Capital.18947} 等等，您是负责人，那请您先回答我这个问题：您说瘟疫已经蔓延到首都了？这是真的吗？
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Hall.Prologue_Crowd_Capital.4470} 我可没这么说。我说的是“<b>他们</b>觉得疫情说不定已经在这儿蔓延开了”，但官僚老爷通常都是错的。
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Hall.Prologue_Crowd_Capital.1162} 严格来说，没到两万，还有四百一十七人活了下来。希望虽小，但不至于完全没有。
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Hall.Prologue_Crowd_Capital.10830} 对了，你在看什么？外面出什么事了？
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Hall.Prologue_Crowd_Capital.22697} 嗯，延期执行了。希望我们还能再干点活儿。
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Hall.Prologue_Crowd_Capital.29994} 您怎么没去隔离？尤其您还是从瘟疫的爆发地回来的……
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Hall.Prologue_Crowd_Capital.655} 去了。早就隔离完了。
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Hall.Prologue_Crowd_Capital.12781} 别担心，真感染了，发热了，二十四小时之内就会丧命。不过一般来说，五个小时就够了。
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Hall.Prologue_Crowd_Capital.23534} 没撤销。塔纳提卡到此为止了。
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Hall.Prologue_Crowd_Capital.4122} 外面发生什么事了？你在看什么？
+{Prologue.Dialogs.Prologue_PartOne_Capital.Prologue_Hall.Prologue_Crowd_Capital.27888} 他们跟我说那不是审讯，就是找我聊聊。我是目击证人，不是嫌疑人，起码目前为止还不是。

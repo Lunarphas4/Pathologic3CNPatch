@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_ArcTutorial_Prologue.Name} 区域出口
+{Prologue.Notifications.Tutorial.Notification_ArcTutorial_Prologue.Description} 寻找带有时钟的拱门，离开当前区域

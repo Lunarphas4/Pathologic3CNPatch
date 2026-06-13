@@ -1,0 +1,13 @@
+{ArchiveDialogs.LevDis_Region.Zakir_LevDis_Region.8541} 您好，丹尼尔。我叫谢尔盖，是本地卫生巡逻队的人。顺便说，是志愿者。
+{ArchiveDialogs.LevDis_Region.Zakir_LevDis_Region.8259} 谢尔盖，你好。有人告诉我，你在这里看见了奇怪的东西？
+{ArchiveDialogs.LevDis_Region.Zakir_LevDis_Region.27529} 要说奇怪，也不只是奇怪，是吓人。这里有栋房子，以前住着两个大家族。现在里面的人大概都死了，我们还没进去过，还没有清理命令。不过我们还是进去过……
+{ArchiveDialogs.LevDis_Region.Zakir_LevDis_Region.18626} 不是去抢东西，只是想看看那里怎么样……
+{ArchiveDialogs.LevDis_Region.Zakir_LevDis_Region.6300} 谢尔盖，简短点。
+{ArchiveDialogs.LevDis_Region.Zakir_LevDis_Region.21145} 总之，是这么回事。那里不能闭眼。也不能一个人走。只要有人落在后面，病就马上把他……嗯，吃掉。我不知道该怎么说。
+{ArchiveDialogs.LevDis_Region.Zakir_LevDis_Region.17250} 这种事不能说是一个人生病了。是他的病在吃掉他。
+{ArchiveDialogs.LevDis_Region.Zakir_LevDis_Region.1883} 好，继续。
+{ArchiveDialogs.LevDis_Region.Zakir_LevDis_Region.1869} 可是只要你往四周看，就什么也不会发生。那病在那里像是活的。别人看着它，它会害怕。虽然我们什么也看不见。
+{ArchiveDialogs.LevDis_Region.Zakir_LevDis_Region.23839} 好，你说的那栋有怪病的房子在哪里？
+{ArchiveDialogs.LevDis_Region.Zakir_LevDis_Region.7963} 就是那一栋。我们把入口钉死了，不过可以从木栈道进去。要我跟您去吗？
+{ArchiveDialogs.LevDis_Region.Zakir_LevDis_Region.21454} 不用。只要我发信号时，你能替我把门口打开就行。谢尔盖，集中精神。你和你的同伴能给我打开通道吗？
+{ArchiveDialogs.LevDis_Region.Zakir_LevDis_Region.27886} 能，我再叫上谢苗。不过我们把木板扯下来就立刻跑。我自己还好，谢苗已经怕了，他肯定会丢下我。可这里不能一个人待着。

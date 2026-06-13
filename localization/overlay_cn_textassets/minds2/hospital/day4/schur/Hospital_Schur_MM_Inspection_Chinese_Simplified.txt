@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day4.Schur.Hospital_Schur_MM_Inspection.Name} 检查结果
+{Minds2.Hospital.Day4.Schur.Hospital_Schur_MM_Inspection.Description} 先把发现的症状录入病例本，再就此向病人详加询问。

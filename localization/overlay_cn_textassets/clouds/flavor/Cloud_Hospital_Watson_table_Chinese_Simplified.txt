@@ -1,0 +1,4 @@
+{Clouds.Flavor.Cloud_Hospital_Watson_table.17796} 本地人有什么能力？
+{Clouds.Flavor.Cloud_Hospital_Watson_table.11103} 本地人有什么能力？
+{Clouds.Flavor.Cloud_Hospital_Watson_table.11185} 小托切奇卡的设备在哪……？
+{Clouds.Flavor.Cloud_Hospital_Watson_table.62741} 这样我还怎么帮任何人？

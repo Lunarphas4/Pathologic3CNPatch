@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q12_SmokeOnThePeter.Day2_Q12_MM_Intervention.Name} 干预
+{Minds2.Days.Day2.Day2_Q12_SmokeOnThePeter.Day2_Q12_MM_Intervention.Description} 我曾试图阻止阿格拉娅，但失败了。她的智识与权柄之下，我毫无胜算。

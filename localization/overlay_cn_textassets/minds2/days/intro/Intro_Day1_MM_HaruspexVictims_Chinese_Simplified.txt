@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Intro.Intro_Day1_MM_HaruspexVictims.Name} 开膛手
+{Minds2.Days.Intro.Intro_Day1_MM_HaruspexVictims.Description} 一个杀人犯和我一同来到镇上。幸运的是，我已准备好与死亡的各种面目交战。

@@ -1,0 +1,3 @@
+{ArchiveDialogs.NewArchive.Old2.Day5_Q1_Rubin_VaccineSaved.18450} 那东西该进你的身体，不是揣在口袋里。不过接下来发生什么就是你自己的事了。你要是想死于瘟疫，请便。
+{ArchiveDialogs.NewArchive.Old2.Day5_Q1_Rubin_VaccineSaved.14927} 我不是拒绝，斯塔赫。我是在把这支安瓿留着……留到最坏的日子。
+{ArchiveDialogs.NewArchive.Old2.Day5_Q1_Rubin_VaccineSaved.969} 我要把它留下，作为你妄想成神的证据。

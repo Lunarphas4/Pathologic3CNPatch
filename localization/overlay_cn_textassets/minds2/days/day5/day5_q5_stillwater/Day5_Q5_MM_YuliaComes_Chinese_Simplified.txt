@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q5_Stillwater.Day5_Q5_MM_YuliaComes.Name} 宿命女子
+{Minds2.Days.Day5.Day5_Q5_Stillwater.Day5_Q5_MM_YuliaComes.Description} 伊娃的朋友正在静水观星台的客厅等我。

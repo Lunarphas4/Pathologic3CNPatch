@@ -1,0 +1,3 @@
+﻿{Items.CraftRecipes.Health_Pharmaceutical_RecipeItem.Name} 配方：甘汞
+{Items.CraftRecipes.Health_Pharmaceutical_RecipeItem.Description} 万能药。恢复健康。
+{Items.CraftRecipes.Health_Pharmaceutical_RecipeItem.Description2} 万能药。恢复健康。

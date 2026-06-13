@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_2_MM_Duplicity.Name} 两面
+{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_2_MM_Duplicity.Description} 一些士兵笃信克拉拉在疫情的最深处现身。另一些——则说她在草原上祈祷。

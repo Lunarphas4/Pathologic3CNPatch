@@ -1,0 +1,8 @@
+{Dialogs2.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_Courier_Signs.33686} 丹科夫斯基医生——终于！说真的，您太难找了！我从一大早就在追您的踪迹——每到一处，都像慢了一步。就像阿喀琉斯和野兔那个悖论。
+{Dialogs2.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_Courier_Signs.11329} 还是老样子，我时间很紧。说吧——你不会无缘无故追上来。
+{Dialogs2.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_Courier_Signs.35419} 我奉命通知您：玛丽亚·凯纳正在等您——桥头广场，熔炉的内院。请快些过来。
+{Dialogs2.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_Courier_Signs.1693} 又怎么了——审判官又召我去大教堂？
+{Dialogs2.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_Courier_Signs.55346} 什么？您怎么会……不，不——我只是照玛丽亚·凯纳的吩咐办事。我奉命告诉您，她在等您。桥头广场——熔炉内院。请快些来。
+{Dialogs2.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_Courier_Signs.26413} 是吗？好——我也想见见她。
+{Dialogs2.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_Courier_Signs.61012} 我有许多急事。告诉玛丽亚，我会去——但晚些。
+{Dialogs2.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_Courier_Signs.5938} 那不是兔子。算了。

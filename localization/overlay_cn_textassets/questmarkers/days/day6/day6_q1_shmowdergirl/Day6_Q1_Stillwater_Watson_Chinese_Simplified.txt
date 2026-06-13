@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_Stillwater_Watson.Name} 静水宅
+{QuestMarkers.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_Stillwater_Watson.Description} 我把那位"什莫粉发明家"安置在静水观星台，由人看管。

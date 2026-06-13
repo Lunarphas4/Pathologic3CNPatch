@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_1_MM_Root.Name} 祸根
+{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_1_MM_Root.Description} 我把那些受诅咒的图纸交给审判官，才把彼得从死神手里救下。若我未带去——这一切都不会发生！

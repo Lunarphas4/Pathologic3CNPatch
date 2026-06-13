@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q10_HaruspexAfterTheAbbatoir.Day11_Q10_1_MM_Bacterium.Name} 休眠之菌
+{Minds2.Days.Day11.Day11_Q10_HaruspexAfterTheAbbatoir.Day11_Q10_1_MM_Bacterium.Description} 瘟疫由大地而生。这不是比喻，也非迷信——看来是一项医学事实。

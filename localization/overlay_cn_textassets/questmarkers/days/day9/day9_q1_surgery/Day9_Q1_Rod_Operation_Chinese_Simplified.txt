@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Rod_Operation.Name} 脊宅
+{QuestMarkers.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Rod_Operation.Description} 亚历山大为妻子临时改设的手术室。

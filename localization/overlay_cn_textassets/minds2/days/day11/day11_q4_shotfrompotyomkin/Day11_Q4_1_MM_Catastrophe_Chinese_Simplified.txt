@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_1_MM_Catastrophe.Name} 人道灾难
+{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_1_MM_Catastrophe.Description} 本地人送来了腐烂的肉。士兵哗变、杀人、对空鸣炮。我可以带着事实回到那门炮前。

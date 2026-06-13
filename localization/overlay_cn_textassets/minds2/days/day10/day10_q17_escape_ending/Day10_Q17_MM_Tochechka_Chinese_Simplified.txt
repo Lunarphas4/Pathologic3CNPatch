@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_MM_Tochechka.Name} 身后之荣
+{Minds2.Days.Day10.Day10_Q17_Escape_Ending.Day10_Q17_MM_Tochechka.Description} 没有雅科夫·利特尔，我几乎无法读懂这场瘟疫。他是这一发现的共同署名者，也是我实验室的拯救者。世人不会忘记他。

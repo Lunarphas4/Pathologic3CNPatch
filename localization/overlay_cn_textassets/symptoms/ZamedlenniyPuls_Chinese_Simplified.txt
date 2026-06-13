@@ -1,0 +1,2 @@
+{Symptoms.ZamedlenniyPuls.Name} 脉搏减慢
+{Symptoms.ZamedlenniyPuls.Description} 正常脉搏约为每分钟 60-80 次；此处指低于正常范围。

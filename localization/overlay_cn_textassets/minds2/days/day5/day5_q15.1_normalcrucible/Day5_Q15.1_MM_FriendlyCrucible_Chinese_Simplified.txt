@@ -1,0 +1,2 @@
+{Minds2.Days.Day5.Day5_Q15.1_NormalCrucible.Day5_Q15.1_MM_FriendlyCrucible.Name} 一张白纸
+{Minds2.Days.Day5.Day5_Q15.1_NormalCrucible.Day5_Q15.1_MM_FriendlyCrucible.Description} 如果我与凯恩家不和，他们今天就会拒绝和我交谈。幸好，我们关系极好。也许我该去拜访他们

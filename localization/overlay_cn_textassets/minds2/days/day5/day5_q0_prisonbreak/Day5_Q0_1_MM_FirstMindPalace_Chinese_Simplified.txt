@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_1_MM_FirstMindPalace.Name} 黑暗
+{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_1_MM_FirstMindPalace.Description} 不该浪费时间纠结这个。一切都完了。我尝试的一切都失败了。

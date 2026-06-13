@@ -1,0 +1,3 @@
+{Npcs.Old.visitor_Kopyto.Name} ⁠
+{Npcs.Old.visitor_Kopyto.FullName} ⁠
+{Npcs.Old.visitor_Kopyto.Description} ⁠

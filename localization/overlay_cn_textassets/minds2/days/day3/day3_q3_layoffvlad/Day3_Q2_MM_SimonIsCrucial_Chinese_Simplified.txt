@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q2_MM_SimonIsCrucial.Name} 一切关乎西蒙
+{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q2_MM_SimonIsCrucial.Description} 西蒙是抗击沙疫的关键。

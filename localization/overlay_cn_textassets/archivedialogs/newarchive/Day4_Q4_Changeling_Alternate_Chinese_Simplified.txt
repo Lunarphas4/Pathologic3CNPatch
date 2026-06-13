@@ -1,0 +1,17 @@
+{ArchiveDialogs.NewArchive.Day4_Q4_Changeling_Alternate.339} 他们说剧院现在成了医院，还有个医生当院长。所以我来了，看着你的眼睛，然后——你怎么会是医生呢？
+{ArchiveDialogs.NewArchive.Day4_Q4_Changeling_Alternate.10205} 你想要什么，小姑娘？想帮忙就帮。要只是来闲扯，我自己也会。
+{ArchiveDialogs.NewArchive.Day4_Q4_Changeling_Alternate.5529} 真神奇。我一提到眼睛，你的眼睛立刻就变了。我想连颜色都变了。
+{ArchiveDialogs.NewArchive.Day4_Q4_Changeling_Alternate.17089} 你会读人的眼睛。我也会。除了普通近视，我还能在你眼睛里看见这些：你叫克拉拉，是萨布罗夫家的女儿，也是个医者；你来这里，是因为你想帮我拯救这个小镇。
+{ArchiveDialogs.NewArchive.Day4_Q4_Changeling_Alternate.17264} 这——你怎么……？
+{ArchiveDialogs.NewArchive.Day4_Q4_Changeling_Alternate.9925} 怎么？你脸色有点白。一切都还好吗？要不要来杯水？
+{ArchiveDialogs.NewArchive.Day4_Q4_Changeling_Alternate.32326} 是我低估你了。说实话，我第一眼看错了你。可现在我看见了，你在发光。我以为你只是个普通男人，结果你在发光。只有一点点，但确实在发光。
+{ArchiveDialogs.NewArchive.Day4_Q4_Changeling_Alternate.10586} 我发光是什么意思？哪种意义上的发光？
+{ArchiveDialogs.NewArchive.Day4_Q4_Changeling_Alternate.4390} 人有时候会——我以前只见过一次。西蒙·凯恩。他有时也会那样发光。好像他既在这里，又同时在别的地方。
+{ArchiveDialogs.NewArchive.Day4_Q4_Changeling_Alternate.29915} 你认识西蒙？
+{ArchiveDialogs.NewArchive.Day4_Q4_Changeling_Alternate.22327} 说认识也认识，说不认识也不认识。没人真正认识西蒙·凯恩。但他认识所有人。他能把每个人看穿。也包括我。虽说他还说自己不明白我是谁、从哪里来。那你怎么说？你肯让我进医院吗？
+{ArchiveDialogs.NewArchive.Day4_Q4_Changeling_Alternate.17439} 看来我没有选择。我可以允许你在医院工作，但有一个条件：你必须服从指挥链。病人不只是要被治疗；我们必须弄清疾病的本质，并研制疫苗。光治人还不够。你若同意，也能按这个方式工作，那就成交。
+{ArchiveDialogs.NewArchive.Day4_Q4_Changeling_Alternate.26123} 说定了。
+{ArchiveDialogs.NewArchive.Day4_Q4_Changeling_Alternate.23981} 好。
+{ArchiveDialogs.NewArchive.Day4_Q4_Changeling_Alternate.10485} 我可不只是会发光。我舞也跳得很不错。不是说这跟现在有什么关系。我只是炫耀一下。
+{ArchiveDialogs.NewArchive.Day4_Q4_Changeling_Alternate.6051} 我以前只见过一次。西蒙·凯恩。他有时也会那样发光。好像他既在这里，又同时在别的地方。
+{ArchiveDialogs.NewArchive.Day4_Q4_Changeling_Alternate.32630} 我能做的可不止这些。要我告诉你接下来会发生什么吗？如果我拒绝你，你会记恨我，开始破坏我的工作。三天后，医院会因为你陷入瘫痪。

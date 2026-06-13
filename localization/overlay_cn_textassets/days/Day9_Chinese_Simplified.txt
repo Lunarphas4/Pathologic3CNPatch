@@ -1,0 +1,3 @@
+{Days.Day9.Name} 第九天
+{Days.Day9.Description} 今日，学者履行本职
+{Days.Day9.Name_StartDay} 第九天，

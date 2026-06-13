@@ -1,0 +1,2 @@
+{UI.Credits.Art.PavelIghnatiev.Name} Pavel Ighnatiev
+{UI.Credits.Art.PavelIghnatiev.Description} 概念美术

@@ -1,0 +1,3 @@
+﻿{Items.Metabolism.Tabacco.Name} 香烟
+{Items.Metabolism.Tabacco.Description} 大家都认为抽烟能宁神静气，但尼古丁其实是兴奋剂。\n\n易成瘾。每次使用，效果递减。
+{Items.Metabolism.Tabacco.Description2} 大家都认为抽烟能宁神静气，但尼古丁其实是兴奋剂。

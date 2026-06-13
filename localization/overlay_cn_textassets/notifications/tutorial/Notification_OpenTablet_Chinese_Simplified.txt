@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_OpenTablet.Name} 按 <InputActions/UI/Tablet> 查看病例本
+{Notifications.Tutorial.Notification_OpenTablet.Description} 按 <InputActions/UI/Tablet> 查看病例本。

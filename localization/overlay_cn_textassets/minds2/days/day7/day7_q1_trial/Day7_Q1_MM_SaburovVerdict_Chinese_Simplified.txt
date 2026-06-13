@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q1_Trial.Day7_Q1_MM_SaburovVerdict.Name} 温顺者
+{Minds2.Days.Day7.Day7_Q1_Trial.Day7_Q1_MM_SaburovVerdict.Description} 亚历山大·萨布罗夫被剥夺总督头衔。

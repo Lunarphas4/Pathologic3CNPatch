@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q10_HaruspexAfterTheAbbatoir.Day11_Q10_1_MM_Agreement.Name} 要紧的会面
+{Minds2.Days.Day11.Day11_Q10_HaruspexAfterTheAbbatoir.Day11_Q10_1_MM_Agreement.Description} 我不知该期待什么，但有些事——今晚在庇护所里便会清楚。

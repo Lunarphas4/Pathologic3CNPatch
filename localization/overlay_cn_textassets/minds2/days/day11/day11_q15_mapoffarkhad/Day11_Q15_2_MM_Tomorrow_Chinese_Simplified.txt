@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_2_MM_Tomorrow.Name} 可以喘口气
+{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_2_MM_Tomorrow.Description} 法尔哈德的地图堪称杰作。尤利娅需要一整夜去做演算。明日，我们便会明白如何救镇。

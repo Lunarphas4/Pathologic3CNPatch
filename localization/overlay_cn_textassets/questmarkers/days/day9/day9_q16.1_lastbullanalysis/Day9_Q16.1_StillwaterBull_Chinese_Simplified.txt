@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day9.Day9_Q16.1_LastBullAnalysis.Day9_Q16.1_StillwaterBull.Name} 静水观星台
+{QuestMarkers.Days.Day9.Day9_Q16.1_LastBullAnalysis.Day9_Q16.1_StillwaterBull.Description} 这头牛又在弄坏我的设备

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_Nina.Name} 健康城区
+{QuestMarkers.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_Nina.Description} 这里是众人最后一次目睹那位令人生畏的妮娜·凯娜之处。

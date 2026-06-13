@@ -1,0 +1,20 @@
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.2560} 嗯——嗯——嗯——嗯——嗯——
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.14342} 是你吗——雅库布？
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.44683} 求你，够了……够了……放过我……走开……走开……走 开！！不，等等！告诉我，你有指甲吗？你 有 指 甲 吗？
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.49822} 请开门。
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.18412} 让我看看你的指甲。至少一枚指甲。
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.60993} 要给你看指甲，你得先开门。
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.57363} 切下你的手指，从门缝底下塞进来。
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.60392} 不。
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.2637} 恕我冒昧，你说什么？
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.2417} 我必须看见你的指甲。这样我才知道我可以……信 任 你。
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.53985} 里面不是只有你一个人？还是……你的声音刚才变了。怎么回事？
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.25392} 这是我的手指，表示我的信任。现在轮到……你 了……
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.8046} 好。我们不要互相残害。冷静，深呼吸。我去找人来帮忙。
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.50271} 不知道邻居有没有钥匙？
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.4000} 看来我本该相信克拉拉：最好离开。趁我的指甲还在。
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.21735} 就算这个可怜人真的以某种方式从瘟疫中康复了，其他人也绝不能重复他的方法。
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.50782} 那我要怎么做？
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.50834} 你到底要我的指甲干什么？
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.8668} 问题真奇怪。指甲和这有什么关系？
+{Dialogs2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_ShapeshifterDoor.33778} 我是丹科夫斯基医生。你的邻居告诉我，你从瘟疫中“康复”了。去过某片林子——我想是黑林——然后“康复”了。是真的吗？

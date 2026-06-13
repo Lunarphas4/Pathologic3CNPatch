@@ -1,0 +1,4 @@
+{Clouds2.Days.Day5.Day5_Q2_GrifDeath.Day5_Q2_Cloud_GriefsBody.11350} “西蒙的凶手”？
+{Clouds2.Days.Day5.Day5_Q2_GrifDeath.Day5_Q2_Cloud_GriefsBody.59624} “西蒙的凶手”？
+{Clouds2.Days.Day5.Day5_Q2_GrifDeath.Day5_Q2_Cloud_GriefsBody.60976} 如果凶手被杀……
+{Clouds2.Days.Day5.Day5_Q2_GrifDeath.Day5_Q2_Cloud_GriefsBody.23831} ……那谁来杀凶手的凶手？

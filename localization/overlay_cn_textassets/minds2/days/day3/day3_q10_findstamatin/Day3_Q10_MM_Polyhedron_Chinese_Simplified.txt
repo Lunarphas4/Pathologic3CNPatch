@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Polyhedron.Name} 玻璃塔
+{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Polyhedron.Description} 萨布罗夫认为多面体适合做医院。就算不合适，也值得近距离一看。

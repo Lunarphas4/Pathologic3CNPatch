@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_MM_BriegadierDied.Name} 工头死了。这疫苗也会杀死我吗？
+{ArchiveMinds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_MM_BriegadierDied.Description} 我该测试一种未知疫苗吗？人人都称赞它，可工头死了。

@@ -1,0 +1,2 @@
+{StaffCommands.Day4.Disinfection.Name} 消毒
+{StaffCommands.Day4.Disinfection.Description} 使用石英灯为公共区域消毒。

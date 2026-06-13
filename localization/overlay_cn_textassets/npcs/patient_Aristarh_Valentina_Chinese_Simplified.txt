@@ -1,0 +1,3 @@
+{Npcs.patient_Aristarh_Valentina.Name} 瓦伦蒂娜
+{Npcs.patient_Aristarh_Valentina.FullName} ⁠
+{Npcs.patient_Aristarh_Valentina.Description} ⁠

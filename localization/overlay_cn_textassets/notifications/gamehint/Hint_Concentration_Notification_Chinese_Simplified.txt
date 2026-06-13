@@ -1,0 +1,2 @@
+{Notifications.GameHint.Hint_Concentration_Notification.Name} ⁠
+{Notifications.GameHint.Hint_Concentration_Notification.Description} 按住 <InputActions/Weapon/Tags> 进入\n聚精模式。

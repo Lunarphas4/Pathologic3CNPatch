@@ -1,0 +1,5 @@
+{UI.Menu.Settings.DisplayName.Resolution} 分辨率
+{UI.Menu.Settings.DisplayName.WindowType} 游戏窗口
+{UI.Menu.Settings.DisplayName.VSyncCount} 垂直同步
+{UI.Menu.Settings.DisplayName.BaseDisplay} 基础渲染
+{UI.Menu.Settings.DisplayName.Gamma} 伽马值

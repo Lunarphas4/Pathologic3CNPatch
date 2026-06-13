@@ -1,0 +1,3 @@
+﻿{Npcs.TayaTychik.Name} 塔娅·特齐克
+{Npcs.TayaTychik.FullName} 至上的"母亲"
+{Npcs.TayaTychik.Description} 金族对一个五岁的小女孩抱着无从解释的敬畏？我记得人类学里把这叫作"圣童"。

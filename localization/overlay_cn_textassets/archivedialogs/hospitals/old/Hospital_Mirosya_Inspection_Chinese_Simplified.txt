@@ -1,0 +1,4 @@
+{ArchiveDialogs.Hospitals.Old.Hospital_Mirosya_Inspection.16523} 医生！
+{ArchiveDialogs.Hospitals.Old.Hospital_Mirosya_Inspection.14299} 等会儿，等会儿。
+{ArchiveDialogs.Hospitals.Old.Hospital_Mirosya_Inspection.15827} 请去做检查。
+{ArchiveDialogs.Hospitals.Old.Hospital_Mirosya_Inspection.29343} 我需要从你身上取样，忍一忍，不会疼。

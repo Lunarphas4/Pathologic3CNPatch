@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_IOnlyWantedToSay.Name} 谈判破裂
+{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_IOnlyWantedToSay.Description} 卡明斯基把我赶走了。

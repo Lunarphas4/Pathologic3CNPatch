@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_NinaIsAlive.Name} 黑色童话
+{Minds2.Days.KeyNodes.KeyNode_NinaIsAlive.Description} 妮娜·凯娜已重生。

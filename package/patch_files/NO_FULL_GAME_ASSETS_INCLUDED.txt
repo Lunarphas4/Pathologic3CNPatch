@@ -1,0 +1,8 @@
+This FINAL package intentionally does NOT include full Pathologic 3 Unity asset files.
+
+Not included:
+- Pathologic3_Data/resources.assets
+- Pathologic3_Data/sharedassets*.assets
+- Pathologic3_Data/*.resS
+
+The installer patches the user's local game files from overlay_manifest.tsv and local patch scripts.

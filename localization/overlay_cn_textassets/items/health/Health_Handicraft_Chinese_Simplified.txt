@@ -1,0 +1,3 @@
+{Items.Health.Health_Handicraft.Name} 自制药
+{Items.Health.Health_Handicraft.Description} 恢复少量精力
+{Items.Health.Health_Handicraft.Description2} ⁠

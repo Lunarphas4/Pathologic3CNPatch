@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q3_LaraKilled.Day9_Q3_MM_Murderer.Name} 歪路
+{Minds2.Days.Day9.Day9_Q3_LaraKilled.Day9_Q3_MM_Murderer.Description} 名义上是萨布罗夫家的养女，竟堕至杀人。

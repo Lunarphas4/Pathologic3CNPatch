@@ -1,0 +1,3 @@
+﻿{Items.BulletGenerator.Probe.Name} 样本
+{Items.BulletGenerator.Probe.Description} 它……在呼吸？但气息越来越弱：撑不到明天。
+{Items.BulletGenerator.Probe.Description2} 来自感染街区的神秘样本。是孢子，也可能是鳞屑。它们能用于对抗瘟疫吗？

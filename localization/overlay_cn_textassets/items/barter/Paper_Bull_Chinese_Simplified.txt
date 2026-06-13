@@ -1,0 +1,3 @@
+{Items.Barter.Paper_Bull.Name} 纸公牛
+{Items.Barter.Paper_Bull.Description} 尾巴直挺挺地翘着
+{Items.Barter.Paper_Bull.Description2} 尾巴直挺挺地翘着

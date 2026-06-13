@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_MM_Zugzwang.Name} 姑息
+{Minds2.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_MM_Zugzwang.Description} 萨布罗夫决定睁一只眼闭一只眼。在孩子们彼此动刀之前，巡查队不会插手。

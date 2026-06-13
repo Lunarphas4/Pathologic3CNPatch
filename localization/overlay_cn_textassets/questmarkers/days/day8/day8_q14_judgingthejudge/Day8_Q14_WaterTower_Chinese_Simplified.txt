@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_WaterTower.Name} 水塔
+{QuestMarkers.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_WaterTower.Description} 镇外有一场与裁判的谈话在等我。

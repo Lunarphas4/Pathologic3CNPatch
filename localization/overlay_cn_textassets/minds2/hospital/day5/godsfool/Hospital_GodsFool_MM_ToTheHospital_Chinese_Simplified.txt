@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day5.GodsFool.Hospital_GodsFool_MM_ToTheHospital.Name} 悲伤的真相
+{Minds2.Hospital.Day5.GodsFool.Hospital_GodsFool_MM_ToTheHospital.Description} 可怜又可靠的波博克从感染房屋里带出一个玩具，但那个女孩已经死了。他似乎不记得这件事。我该问他，还是直接诊断？

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_VladJrIsDead.Name} 献祭
+{Minds2.Days.KeyNodes.KeyNode_VladJrIsDead.Description} 小弗拉德因得罪金族被草原人撕碎。

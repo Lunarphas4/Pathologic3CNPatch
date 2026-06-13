@@ -1,0 +1,14 @@
+{UI.CharacterWindow.Tooltips.ChangelingTooltips.Intro} 既是圣女也是瘟疫，既是一个也是两个
+{UI.CharacterWindow.Tooltips.ChangelingTooltips.Adoption} 第1天，萨布罗夫夫妇在坟墓里发现她并收养了她
+{UI.CharacterWindow.Tooltips.ChangelingTooltips.Warning} 第2天，警告小镇瘟疫将至，或是召来了瘟疫
+{UI.CharacterWindow.Tooltips.ChangelingTooltips.HospitalReject} 第4天，我没有让她进入医院
+{UI.CharacterWindow.Tooltips.ChangelingTooltips.HospitalAccept} 第4天，请求在医院帮忙
+{UI.CharacterWindow.Tooltips.ChangelingTooltips.Stealing} 第5天，我因她偷药而把她赶出医院
+{UI.CharacterWindow.Tooltips.ChangelingTooltips.Cult} 第6天，带走了医院里的所有病人
+{UI.CharacterWindow.Tooltips.ChangelingTooltips.Renunciation} 第7天，被养父母断绝关系
+{UI.CharacterWindow.Tooltips.ChangelingTooltips.Prisoner} 第8天，在我的指示下被投入监狱
+{UI.CharacterWindow.Tooltips.ChangelingTooltips.KillingLara} 第9天，按手杀死了拉拉·拉维尔
+{UI.CharacterWindow.Tooltips.ChangelingTooltips.PreventingLara} 第9天，本该杀死拉拉，却没有下手
+{UI.CharacterWindow.Tooltips.ChangelingTooltips.Hooks} 第10天，为布洛克将军捡起了钩子
+{UI.CharacterWindow.Tooltips.ChangelingTooltips.NoFate} 第12天，没有被允许决定小镇的命运
+{UI.CharacterWindow.Tooltips.ChangelingTooltips.BraveNewTown} 第12天，随凯恩家前往另一侧的新镇

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_MM_Open.Name} 我能通过
+{Minds2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_MM_Open.Description} 大门敞开了。瞧——满是烟与镜！

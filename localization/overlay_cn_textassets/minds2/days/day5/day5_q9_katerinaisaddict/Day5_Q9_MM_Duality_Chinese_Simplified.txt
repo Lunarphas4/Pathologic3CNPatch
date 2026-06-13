@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_MM_Duality.Name} 二重性
+{Minds2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_MM_Duality.Description} 不同的人对换生灵的感知各不相同。似乎与她对话者的状态有关。

@@ -1,0 +1,2 @@
+{UI.SymptomGroupTooltips.Serdce.Name} 毛细血管血样
+{UI.SymptomGroupTooltips.Serdce.Description} 一种采集自患者指尖的毛细血管血样，通过针刺获取。该研究可用于评估细胞形态并识别各种类型的病原体。

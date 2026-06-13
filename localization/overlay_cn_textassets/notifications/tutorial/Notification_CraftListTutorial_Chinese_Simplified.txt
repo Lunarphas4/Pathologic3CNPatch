@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_CraftListTutorial.Name} 药物合成
+{Notifications.Tutorial.Notification_CraftListTutorial.Description} 关键是别莽撞行事。一旦弄错——手头所有材料都会损失。最好先查一下配方册 <InputActions/UI/CraftRecipes>。

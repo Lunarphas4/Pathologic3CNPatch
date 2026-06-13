@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_PolyhedronInside.Name} 多面体
+{QuestMarkers.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_PolyhedronInside.Description} 我可以进去。他们在等我。

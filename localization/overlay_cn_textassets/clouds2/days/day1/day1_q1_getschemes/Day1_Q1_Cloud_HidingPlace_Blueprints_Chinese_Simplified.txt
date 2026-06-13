@@ -1,0 +1,4 @@
+{Clouds2.Days.Day1.Day1_Q1_GetSchemes.Day1_Q1_Cloud_HidingPlace_Blueprints.10975} 我需要一把铲子才能挖
+{Clouds2.Days.Day1.Day1_Q1_GetSchemes.Day1_Q1_Cloud_HidingPlace_Blueprints.2819} 我需要一把铲子才能挖
+{Clouds2.Days.Day1.Day1_Q1_GetSchemes.Day1_Q1_Cloud_HidingPlace_Blueprints.31169} 彼得在这里挖出过……第三天会在这里挖出一个箱子
+{Clouds2.Days.Day1.Day1_Q1_GetSchemes.Day1_Q1_Cloud_HidingPlace_Blueprints.7753} 多面体蓝图有九成可能在这里

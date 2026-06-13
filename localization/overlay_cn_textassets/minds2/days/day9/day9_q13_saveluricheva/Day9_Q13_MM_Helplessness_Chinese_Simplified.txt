@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q13_SaveLuricheva.Day9_Q13_MM_Helplessness.Name} 无能为力
+{Minds2.Days.Day9.Day9_Q13_SaveLuricheva.Day9_Q13_MM_Helplessness.Description} 唉，我帮不了尤利娅。

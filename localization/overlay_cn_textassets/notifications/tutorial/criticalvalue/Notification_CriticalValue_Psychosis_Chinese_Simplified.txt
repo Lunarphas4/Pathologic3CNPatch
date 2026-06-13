@@ -1,0 +1,2 @@
+{Notifications.Tutorial.CriticalValue.Notification_CriticalValue_Psychosis.Name} ⁠
+{Notifications.Tutorial.CriticalValue.Notification_CriticalValue_Psychosis.Description} 狂躁已经达到最大值。丹科夫斯基，振作点！快用镇静剂。

@@ -1,0 +1,3 @@
+{Clouds2.FlavorNew.Outdoor.Chine.Cloud_Chine_SmallWaterTower.44925} 水塔通常建在屋顶上
+{Clouds2.FlavorNew.Outdoor.Chine.Cloud_Chine_SmallWaterTower.10340} 水塔通常建在屋顶上
+{Clouds2.FlavorNew.Outdoor.Chine.Cloud_Chine_SmallWaterTower.56689} 我完全想不出他们打算怎么把它升起来

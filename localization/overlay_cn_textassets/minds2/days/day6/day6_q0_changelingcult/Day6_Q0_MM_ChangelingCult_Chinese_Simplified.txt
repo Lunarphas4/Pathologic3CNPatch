@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q0_ChangelingCult.Day6_Q0_MM_ChangelingCult.Name} 无人之台
+{Minds2.Days.Day6.Day6_Q0_ChangelingCult.Day6_Q0_MM_ChangelingCult.Description} 医院里空空荡荡，病人全跑到大街上去了。

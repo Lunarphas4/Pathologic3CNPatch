@@ -1,0 +1,11 @@
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_EvaAboutGrave.13594} 亲爱的，你知道死人自己从坟墓里走出去的故事吗？
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_EvaAboutGrave.9743} 有时人会陷入假死，被误判为死亡。
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_EvaAboutGrave.10853} 谁误判？
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_EvaAboutGrave.28651} 医生。
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_EvaAboutGrave.24255} 也许没被关进棺材的人更好——他们只是离开了。我们的草原人相信这个。我也喜欢。
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_EvaAboutGrave.22487} 我不喜欢。开放式葬埋会促进疾病传播。
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_EvaAboutGrave.26410} 难怪他们总跟你们保持距离。这简直是青铜时代。
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_EvaAboutGrave.12523} 你说的是死灵术？还是吸血鬼？你们那个小看墓人也带着点……奇幻的气味。
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_EvaAboutGrave.30701} 不许嘲笑她！
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_EvaAboutGrave.32718} 绝不会。
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_EvaAboutGrave.3331} 所以你刚才说坟墓什么？

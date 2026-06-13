@@ -1,0 +1,4 @@
+{Clouds.Flavor.Cloud_Slough_Globe.17796} 昂贵的纪念品。
+{Clouds.Flavor.Cloud_Slough_Globe.24462} 昂贵的纪念品。
+{Clouds.Flavor.Cloud_Slough_Globe.30576} 里面大概藏着一瓶塔鲁尼亚白兰地。
+{Clouds.Flavor.Cloud_Slough_Globe.28543} 这样的礼物象征着深深的敬意。

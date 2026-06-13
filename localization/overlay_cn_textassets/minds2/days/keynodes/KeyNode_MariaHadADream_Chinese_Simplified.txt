@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_MariaHadADream.Name} 预言
+{Minds2.Days.KeyNodes.KeyNode_MariaHadADream.Description} 玛丽亚的预兆梦预示了审判官之死。

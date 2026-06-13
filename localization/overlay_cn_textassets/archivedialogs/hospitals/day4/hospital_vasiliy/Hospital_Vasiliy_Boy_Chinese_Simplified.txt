@@ -1,0 +1,59 @@
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.7946} Sayn bayna, erdem.（你好，学者。）Bi kharanab, ty serdit. Shi yuunde ereebshi?（我看得出来，你在生气。你来做什么？）
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.1645} 我不懂这种野蛮语言。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.17165} Zdravstvuy, govoryu, erdem（学者）. Zachem prishyol?（我是在跟你打招呼，学者。你来做什么？）
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.7729} A, verno... Erdem（学者） - eto vy tak uchyonykh nazyvaete?（啊，对……“erdem（学者）”是你们对学者的称呼？）
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.7533} Mne nekuda devatsya. Baigaldai, ne goni menya, erdem（学者）!（我无处可去。Baigaldai，别赶我走，学者！）
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.11337} 你该不会是小偷吧？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.9314} 我不回箱子去。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.22380} 箱子？又是什么箱子？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.12836} 阿依达哈姆尼胡伦，你身上闻着危险。博利什，布阿利什，走你自己的路去。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.9591} 我的路本来就通向那里。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.1132} Tam lyudi. Khatanghe（金族）. Chego tebe eshchyo? My tam zhivyom.（里面有人。Khatanghe（金族）。你还想要什么？我们就住在那里。）
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.11737} 那你是怎么穿过哨卡的？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.22877} ……阿海瓦西里看守箱子。两夜前，是他帮我从那里逃出来的。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.20391} 你为什么不在那里待着？让我猜猜。突如其来的爱情？还是违反了刑法？你们有那东西吗？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.12765} Medene ugye, kharaa ugyib.（我不知道，也没看见。）
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.17401} 什么？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.13887} Khara bukse! Ostav, ty vidish - ya zdorov! Ene shi yun khun（人） geeshebshee!（Khara bukse！走开，你没看见我好好的吗！你这算什么人！）
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.14971} 不，年轻人，你没什么用处。早发性痴呆。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.7023} 不过，这不重要。我已经抓住大意了。像你这样偷偷跑出来的人很多吗？看来很多。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.29451} 那里显然有问题。蚁巢……如果有人能从那里出来，也就意味着有人可能渗进去……
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.13858} 你懂这门语言。别装傻。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.13087} 阿海瓦西里看来也不是省油的灯。他收了你多少？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.24586} 里面到底怎么样。拜托，详细说出来。我的耐心和时间都快耗尽了。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.14894} 我觉得你没说实话。你最好别跟我开玩笑。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.11438} 快说，那里出了什么事。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.9475} 人的发声器官怎么能发出这种声音？你是在直接用声带嗡鸣吗？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.13201} Ene shi yun khun（人） geeshebshee! Ostav menya v pokoe!（你这算什么人！别来烦我！）
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.24117} 你从那里出来多久了，热血少年？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.128} 你是从蚁巢来的！我正需要你。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.19134} 你是瓦西里的儿子？看着不太像。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.23074} 我自己也是这里的客人。要是有人能把我从这儿赶回家就好了。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.7518} 不，是你为什么来这里？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.2917} 生气。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.5375} 在这里，我就是蛮人，因为无人理解我。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.20004} 什么？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.30173} 对，这样好多了。你是谁？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.2604} 你在这里做什么？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.10921} 别靠近，不然我咬你！
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.29943} 你是谁？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.13175} 你是瓦西里的幻觉吗？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.28935} 别害怕，还没轮到你。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.25906} 我很吓人，也很危险！我有刀！如果你想把我带回蚁巢，就跟你的耳朵告别吧！
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.27861} 诉诸暴力，就会招来暴力。你威胁我的时候，记住这一点。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.29510} 我才不怕你吓唬！你是大人又怎样，我已经割过一个跟你一样大的。你不信就去问瓦西里。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.12201} 说到瓦西里，你在他的公寓里做什么？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.3050} 放松，我不是蚁巢的人。我关心的是瓦西里，不是你。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.16108} 瓦西里从那些被他们叫作守卫的狗手里救了我，还收留我。他是博尔阿登，意思是“最好的人”！
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.25961} 瓦西里怎么会从守卫手里救下你？你做了什么惹怒他们？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.16212} 狗咬人不只是因为在看守东西，狗疯了也会咬人！蚁巢的狗最坏。他们打我们，抢我们，只为了取乐。那些狗咬伤了我母亲和兄弟。我只好割掉他们的尾巴。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.8721} 可你接下来怎么办？你打算怎么活下去？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.12542} 我猜猜——你和某个守卫打了一架，现在回不了蚁巢？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.1530} 我会待在这里，直到我和瓦西里想出一场塔拉尔森——复仇之行。我和他会合成一股大力量，我们会碾碎守卫，救出我的家人！
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.2629} 你的“最好的人”病了，我正在查他出了什么问题。他最近抱怨过身体不适吗？或者有没有表现得不一样？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.20780} 他总吃某种药，说不吃就难受。但他说错了，只有土地能治好人。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.5104} 谢谢提醒。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.26555} 你把治疗活人和埋葬死人弄混了。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.15243} 你不会告发我吧？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.4597} 不会。待在这里，保全自己。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_Boy.8013} 我得把你送回隔离区——你可能已经感染了。

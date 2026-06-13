@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_1_MM_Serenity.Name} 宁谧
+{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_1_MM_Serenity.Description} 萤火虫。静水观星台里出现了萤火虫。即便如我，也知道沼地之光引人陷淖……可我仍想知道它们通向何处。

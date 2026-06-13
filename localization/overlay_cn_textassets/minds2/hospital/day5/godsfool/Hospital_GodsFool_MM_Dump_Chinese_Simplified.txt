@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day5.GodsFool.Hospital_GodsFool_MM_Dump.Name} 学者丹科夫斯基就该待在垃圾箱里。
+{Minds2.Hospital.Day5.GodsFool.Hospital_GodsFool_MM_Dump.Description} 我还能怎样理解这个流浪汉的症状？只能去看看波博克是怎么生活的。

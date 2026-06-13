@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_WrongSymptomsTutorial_Prologue.Name} 重新问诊
+{Prologue.Notifications.Tutorial.Notification_WrongSymptomsTutorial_Prologue.Description} 所选症状有误，影响诊断结果。请按<InputActions/UI/Tablet>打开病历簿重新诊断一次

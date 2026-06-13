@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_TagsMetabolismTutorial.Name} 扰乱心神的念头
+{Notifications.Tutorial.Notification_TagsMetabolismTutorial.Description} 有些念头会影响你的精神状态。

@@ -1,0 +1,42 @@
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.49473} Muu……mash muu……Muu shinzh……（牛……很多牛……牛的迹象……）
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.57745} 喂！怎么了？需要帮忙吗？
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.43568} 帮忙？Tuslaach（帮助）……不。人人自助。你也会自助。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.56350} 如果我能自己帮自己，就不会站在这里了。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.12176} 这小镇是用……khuuramch chuluun（假石头）……假石头做的。石头会烧。小镇会烧。坏。草原好。Tal kheer 会保护你。你跑到那里，就能自救。等火过去。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.34932} 小镇起火？哪里？
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.10518} 这是某种关于末日的草原预言吗？
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.5712} 怎么帮自己？你是什么意思？
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.22744} 你在躲藏？躲谁？
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.33224} Tengeriin muu temdeg（邪恶征兆）……你看见了吗？那里。上面。坏征兆。邪恶征兆。坏。很坏。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.20925} 那是烟火。没有害处。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.21183} Fire…ks? Ene yuu ve（那是什么）? 那是什么？
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.11169} 烟火。就是你说的那些邪恶征兆。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.11415} 我不是这么叫它们，我知道邪恶征兆。大灾的征兆。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.47214} 我本想让你安心，但我什么也做不了。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.29325} 看来语言在这里派不上用场。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.23928} 这很有意思，不过我还有事要办。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.56396} 烟火。就是天上发光、发出声响的东西。人们想庆祝时就会放它们。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.45543} 你弄错了。这些不是坏征兆。正相反，是喜庆的征兆。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.29028} 喜庆？Tengeriin gal（天火）. 天火从来不喜庆。邪火。邪兆。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.3473} 这些不是征兆。是人造出来的。就像……拍手。只是更亮，更响。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.16548} 人？人造出 tengeriin muu shinzh temdeg（邪恶征兆）？那这些人必须被杀，邪兆就会消失。你知道是谁造出邪兆的吗？
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.36439} 等等！你说得对——错的是我。当然这是预兆。不必杀任何人。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.15132} 现在你明白了。Sain baina. Sain baina 到草原去。它会帮你。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.50437} 我会听你的建议。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.52492} 我在镇上还有事。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.51558} 那就去草原。我也去。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.9818} 我说的每句话都会被拿来对付我，是不是？
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.57291} 愚舌多招祸……
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.29781} Todorhoyguuy. 换别的话说。Urda tee 很清楚。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.39173} 我的意思是，我该走了。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.36824} 我的意思是，这场谈话已经到头了。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.36885} 我的意思是，趁还来得及，我们该去草原。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.7312} 你是在模仿公牛吗？
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.51229} 公牛？Bukh（公牛）……为什么是公牛？
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.51129} 只是联想。别在意。告诉我——出什么事了？
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.56} Bi oylgokhguy baina（我不懂）. 我不懂。你在笑吗？你解释。我不想让你发笑。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.35432} 真的无关紧要。我已经后悔说出口了。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.35443} 你四肢着地，还在哞哞叫。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.51714} Teneg bodol（蠢念头）. 蠢念头。很 teneg（蠢）。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.6112} 你说得对。蠢，而且无礼。我只是想问一切是否安好。
+{Dialogs2.Decrees.Fireworks.Fireworks_LurkingOdongh.56544} 你想哞叫就叫吧。爱叫多久都行。

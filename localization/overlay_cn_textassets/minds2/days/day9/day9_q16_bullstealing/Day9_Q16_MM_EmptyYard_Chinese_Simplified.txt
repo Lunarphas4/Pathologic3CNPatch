@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_EmptyYard.Name} 魔鬼居所
+{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_EmptyYard.Description} 附近不见公牛踪影。它可能朝任何方向走去……我得问伊娃"散步"的详情。

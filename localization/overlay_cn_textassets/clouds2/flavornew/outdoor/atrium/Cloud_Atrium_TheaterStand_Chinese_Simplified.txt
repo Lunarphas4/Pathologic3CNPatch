@@ -1,0 +1,5 @@
+{Clouds2.FlavorNew.Outdoor.Atrium.Cloud_Atrium_TheaterStand.44925} 不朽者并不独一无二
+{Clouds2.FlavorNew.Outdoor.Atrium.Cloud_Atrium_TheaterStand.10340} 不朽者并不独一无二
+{Clouds2.FlavorNew.Outdoor.Atrium.Cloud_Atrium_TheaterStand.56689} 许多先锋派都曾到外省寻找灵感
+{Clouds2.FlavorNew.Outdoor.Atrium.Cloud_Atrium_TheaterStand.6619} 像他一样，改编原住民的神话
+{Clouds2.FlavorNew.Outdoor.Atrium.Cloud_Atrium_TheaterStand.61752} 奇怪的是，他们都没有回来

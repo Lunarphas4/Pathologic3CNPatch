@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day4.Chernyak.Hospital_Chernyak_MM_Diagnosed.Name} 确认诊断
+{Minds2.Hospital.Day4.Chernyak.Hospital_Chernyak_MM_Diagnosed.Description} 无论是否有人因他的货而染病，小黑的血都将助我们制出疫苗。

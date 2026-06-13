@@ -1,0 +1,12 @@
+{ArchiveDialogs.Day6.Day6_Visitors.Tamara.Day6_Visitors_Infected.29059} 别靠近！我们病了！它看起来像沙鼠，就像五年前一样。
+{ArchiveDialogs.Day6.Day6_Visitors.Tamara.Day6_Visitors_Infected.27115} 那么为什么门是敞开的呢？
+{ArchiveDialogs.Day6.Day6_Visitors.Tamara.Day6_Visitors_Infected.14014} 是的，我们确实在半小时前打开了它。当我们死后，我们将无法解锁它。否则，也许他们至少会给我们一个人葬；我们不必在这里躺几个星期。
+{ArchiveDialogs.Day6.Day6_Visitors.Tamara.Day6_Visitors_Infected.1987} 别编造事情。你要做的就是去医院...
+{ArchiveDialogs.Day6.Day6_Visitors.Tamara.Day6_Visitors_Infected.8810} 你确定吗？
+{ArchiveDialogs.Day6.Day6_Visitors.Tamara.Day6_Visitors_Infected.22230} 为什么我们没有看到沙鼠？我们剩下的时间不多了...
+{ArchiveDialogs.Day6.Day6_Visitors.Tamara.Day6_Visitors_Infected.10216} 如果是的话就得去医院了...
+{ArchiveDialogs.Day6.Day6_Visitors.Tamara.Day6_Visitors_Infected.31058} 不，我们宁愿放弃床上的鬼魂。
+{ArchiveDialogs.Day6.Day6_Visitors.Tamara.Day6_Visitors_Infected.2413} …或者只是等待勤务兵。
+{ArchiveDialogs.Day6.Day6_Visitors.Tamara.Day6_Visitors_Infected.25507} 请让我们平静地死去。
+{ArchiveDialogs.Day6.Day6_Visitors.Tamara.Day6_Visitors_Infected.22651} 我不能。我是医生。救死扶伤是我的职责。或者至少尝试拯救它。
+{ArchiveDialogs.Day6.Day6_Visitors.Tamara.Day6_Visitors_Infected.15825} 你至少应该被适当地隔离。

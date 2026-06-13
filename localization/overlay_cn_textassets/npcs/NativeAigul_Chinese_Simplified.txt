@@ -1,0 +1,3 @@
+{Npcs.NativeAigul.Name} 部落妇女
+{Npcs.NativeAigul.FullName} ⁠
+{Npcs.NativeAigul.Description} ⁠

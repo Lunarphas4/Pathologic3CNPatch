@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q2_ChangelingArrest.Day8_Q2_MM_Support.Name} 当权者
+{Minds2.Days.Day8.Day8_Q2_ChangelingArrest.Day8_Q2_MM_Support.Description} 审判官答应对换生灵采取行动。

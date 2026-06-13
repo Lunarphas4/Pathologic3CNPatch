@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_MM_Chimera.Name} 幻形
+{Minds2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_MM_Chimera.Description} 这镇是一只熔炉，把彼此抵触的思想以不可能的方式糅在了一起。只有西蒙知道如何把它们熔铸为一。

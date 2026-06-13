@@ -1,0 +1,2 @@
+{Prologue.QuestMarkers.Prologue_PartTwo_Hospital.Prologue_PatientVasil_Mark.Name} 菲拉特的房间
+{Prologue.QuestMarkers.Prologue_PartTwo_Hospital.Prologue_PatientVasil_Mark.Description} 要诊断菲拉特的病症，必须先了解他的生活。

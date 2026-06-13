@@ -1,0 +1,9 @@
+﻿{UI.CharacterWindow.Tooltips.GriefTooltips.Death} 第4天，作为西蒙的凶手被钉死
+{UI.CharacterWindow.Tooltips.GriefTooltips.DeathTwo} 第9天，试图偷取军粮，但被杀
+{UI.CharacterWindow.Tooltips.GriefTooltips.Intro} 仓库的管货人，犯罪地下世界的头领
+{UI.CharacterWindow.Tooltips.GriefTooltips.Salvation} 第4天，他险些作为所谓杀害西蒙的凶手被暴民钉死
+{UI.CharacterWindow.Tooltips.GriefTooltips.Hiding} 第7天，躲开审判官的眼睛
+{UI.CharacterWindow.Tooltips.GriefTooltips.HelpingToEscape} 第7天，同意帮助我逃离
+{UI.CharacterWindow.Tooltips.GriefTooltips.StoleRations} 第9天，偷走了军粮
+{UI.CharacterWindow.Tooltips.GriefTooltips.Imprisonment} 第9天，试图偷取军粮，但被抓获
+{UI.CharacterWindow.Tooltips.GriefTooltips.Hope} 第12天，很可能会从监狱逃脱

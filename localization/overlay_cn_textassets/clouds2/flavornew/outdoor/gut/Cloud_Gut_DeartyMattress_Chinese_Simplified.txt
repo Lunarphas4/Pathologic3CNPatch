@@ -1,0 +1,4 @@
+{Clouds2.FlavorNew.Outdoor.Gut.Cloud_Gut_DeartyMattress.44925} 在首都，流浪汉会被驱逐出城
+{Clouds2.FlavorNew.Outdoor.Gut.Cloud_Gut_DeartyMattress.10340} 在首都，流浪汉会被驱逐出城
+{Clouds2.FlavorNew.Outdoor.Gut.Cloud_Gut_DeartyMattress.56689} 给他们安排头顶的屋檐和装着铁栏的窗
+{Clouds2.FlavorNew.Outdoor.Gut.Cloud_Gut_DeartyMattress.61752} 他们若知道这里多么宽松就好了

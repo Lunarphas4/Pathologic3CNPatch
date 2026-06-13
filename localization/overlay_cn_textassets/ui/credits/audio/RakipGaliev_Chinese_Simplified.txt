@@ -1,0 +1,2 @@
+{UI.Credits.Audio.RakipGaliev.Name} Rakip Galiev
+{UI.Credits.Audio.RakipGaliev.Description} 附加声音设计

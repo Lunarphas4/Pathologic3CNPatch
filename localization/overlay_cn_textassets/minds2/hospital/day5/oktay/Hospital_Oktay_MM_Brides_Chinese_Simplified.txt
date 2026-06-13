@@ -1,0 +1,2 @@
+{Minds2.Hospital.Day5.Oktay.Hospital_Oktay_MM_Brides.Name} 草药新娘的线索
+{Minds2.Hospital.Day5.Oktay.Hospital_Oktay_MM_Brides.Description} 带奥克泰来的草原女人提到过心脏问题。值得问问他。

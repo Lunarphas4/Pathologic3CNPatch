@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_PlagueDevouring.Name} 我非汝敌
+{Minds2.Days.KeyNodes.KeyNode_PlagueDevouring.Description} 沙疫吞噬体内一切其他感染。它既是毒，也是解药。

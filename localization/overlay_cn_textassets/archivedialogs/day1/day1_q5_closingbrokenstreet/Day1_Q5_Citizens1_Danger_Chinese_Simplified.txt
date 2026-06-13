@@ -1,0 +1,2 @@
+﻿{ArchiveDialogs.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Citizens1_Danger.6524} 唉，水手小哥！别管我，我正悲伤呢。
+{ArchiveDialogs.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Citizens1_Danger.10503} 我会不管你的，只要你离开这条街。

@@ -1,0 +1,2 @@
+{Minds2.Days.KeyNodes.KeyNode_AndreyIsDead3.Name} 萎垂的twyre（特维草）
+{Minds2.Days.KeyNodes.KeyNode_AndreyIsDead3.Description} 安德烈·斯塔马京被杀。

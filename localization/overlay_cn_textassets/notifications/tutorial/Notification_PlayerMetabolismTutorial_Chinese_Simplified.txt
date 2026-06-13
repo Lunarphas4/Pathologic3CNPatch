@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_PlayerMetabolismTutorial.Name} 狂躁与冷漠
+{Notifications.Tutorial.Notification_PlayerMetabolismTutorial.Description} 冷漠与无动于衷一直在累积。要走得更快，便须以亢奋抵抗冷漠。

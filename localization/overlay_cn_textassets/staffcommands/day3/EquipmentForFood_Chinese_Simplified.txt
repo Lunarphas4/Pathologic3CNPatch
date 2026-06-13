@@ -1,0 +1,2 @@
+{StaffCommands.Day3.EquipmentForFood.Name} 以器材换取食物
+{StaffCommands.Day3.EquipmentForFood.Description} 与本地商贩交易，用器材换取食品储备。

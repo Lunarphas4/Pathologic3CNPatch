@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_Warehouse.Name} 互相反复传染？
+{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_Warehouse.Description} 牛蒡的同伙都在咳嗽。也许他们的诊断是同一种。

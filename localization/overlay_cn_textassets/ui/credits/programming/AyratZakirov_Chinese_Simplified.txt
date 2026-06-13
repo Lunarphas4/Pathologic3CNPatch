@@ -1,0 +1,2 @@
+{UI.Credits.Programming.AyratZakirov.Name} Ayrat Zakirov
+{UI.Credits.Programming.AyratZakirov.Description} 程序员

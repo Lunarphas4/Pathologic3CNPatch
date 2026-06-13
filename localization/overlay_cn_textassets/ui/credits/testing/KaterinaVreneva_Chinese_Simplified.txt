@@ -1,0 +1,2 @@
+{UI.Credits.Testing.KaterinaVreneva.Name} Katerina Vreneva
+{UI.Credits.Testing.KaterinaVreneva.Description} QA 测试

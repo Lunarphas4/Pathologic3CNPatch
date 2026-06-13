@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Intro.Intro_Day1_MM_Odong.Name} 疙瘩人
+{Minds2.Days.Intro.Intro_Day1_MM_Odong.Description} 我听说过象人。那这就是蠕虫人吗？这样可怜又畸形的生物，我只在解剖剧场见过。

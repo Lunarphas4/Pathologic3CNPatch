@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day7.Voronok.Hospital_Voronok_MM_TimeForDiagnose.Name} 妻死后的日子
+{Minds2.Hospital.Day7.Voronok.Hospital_Voronok_MM_TimeForDiagnose.Description} 马丁用河水洗衣做饭。要对照疾病单，看哪些感染会因此而染。

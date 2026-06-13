@@ -1,0 +1,2 @@
+{Notifications.AddItems.Name} 新物品：<item>
+{Notifications.AddItems.Description} ⁠

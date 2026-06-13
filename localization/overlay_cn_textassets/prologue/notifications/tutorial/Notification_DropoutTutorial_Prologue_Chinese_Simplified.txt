@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_DropoutTutorial_Prologue.Name} 危险区域
+{Prologue.Notifications.Tutorial.Notification_DropoutTutorial_Prologue.Description} 危险区域无法用地图导航，穿越需谨慎。必须找到未被封锁的挂有时钟的拱门才能离开

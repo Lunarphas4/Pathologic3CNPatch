@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_MM_BlackMarket.Name} 黑市
+{Minds2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_MM_BlackMarket.Description} 镇上存在危险药物和武器的无管制流通。

@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_MicroscopeZoomTutorial.Name} 微观世界
+{Notifications.Tutorial.Notification_MicroscopeZoomTutorial.Description} 通过调节放大率 <InputActions/Microscope/Layers>，我得 <InputActions/Microscope/TutorialMicroscopeCamera> 在样本中找到红色细菌。

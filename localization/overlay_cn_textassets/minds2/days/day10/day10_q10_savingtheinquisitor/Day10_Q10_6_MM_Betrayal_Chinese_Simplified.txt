@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_6_MM_Betrayal.Name} 刺杀已破
+{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_6_MM_Betrayal.Description} 现在卡明斯基已知晓安德烈的计划。我能指望他宽容吗？

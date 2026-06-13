@@ -1,0 +1,2 @@
+{Minds2.Days.Day7.Day7_Q1.2_TrialHaruspex.Day7_Q1.2_MM_PatientFromAbattoir.Name} 屠宰场来的病人
+{Minds2.Days.Day7.Day7_Q1.2_TrialHaruspex.Day7_Q1.2_MM_PatientFromAbattoir.Description} 我要求布拉赫潜入封锁区，带出一名病人

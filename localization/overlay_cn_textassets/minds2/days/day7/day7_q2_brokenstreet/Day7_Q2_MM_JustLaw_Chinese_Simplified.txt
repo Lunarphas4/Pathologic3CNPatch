@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_JustLaw.Name} 违法
+{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_JustLaw.Description} 卡明斯基不过是以一名忠勇的国家利益守护者之身份行事。

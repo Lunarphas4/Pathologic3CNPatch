@@ -1,0 +1,13 @@
+﻿{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesFirst.1180} 日安，丹科夫斯基医生！
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesFirst.6530} 你在这里做什么，小家伙？医院有什么急事？
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesFirst.23478} 嗯？没有，一切照常运转——除了您已经知道的那些困难！\n\n今天我替我们平时的信使跑一趟——送病人报告。护工三十三号去参加葬礼了。您知道，处决那些事……
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesFirst.33267} 我们的护工也受到了……卡尔明斯基那些行动的影响？
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesFirst.27060} 显然是。我觉得这个卡尔明斯基是故意算好的：就算有人没有直接受害，也会被吓住。\n\n我跟您直说吧：护工们并不抢着替三十三号跑这趟。您的紧急指挥部现在就在审判官总部旁边。他们害怕在这里露脸。
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesFirst.43019} 但你不怕，我猜？
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesFirst.21248} 我是这么想的：审判官想处决谁就会处决谁——不管你从他面前经过，还是不经过——命里有就有，没有就没有。而我眼下惦记的牌，是我们病人的病历卡。难道因为害怕，我们就不工作了吗？
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesFirst.49132} 绝不能停下。
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesFirst.12033} 医院人员没什么可怕的。我们做的一切都是对的。把这话告诉护工们。
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesFirst.20130} 谢谢你，小家伙，谢你的勇气。照顾好自己。
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesFirst.53312} 我也不喜欢离得这么近。但别老想着它。快把病人报告给我——至少我可以用它们分散注意力。
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesFirst.53128} 我想请你别在瘟疫肆虐的镇上到处乱跑。你有独一无二的职责。你只有一个，而我们还有三十三个三十三号。至少穿上防护服！
+{Dialogs2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Watson_DiagnosesFirst.51753} 我一直在等这份报告。谢谢。

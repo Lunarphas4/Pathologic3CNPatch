@@ -1,0 +1,16 @@
+{UI.Menu.Settings.OtherName.Group} 通用
+{UI.Menu.Settings.OtherName.Language} 语言
+{UI.Menu.Settings.OtherName.Replicas} 声音
+{UI.Menu.Settings.OtherName.StreamerMode} 直播模式
+{UI.Menu.Settings.OtherName.MouseSensitivity} 鼠标灵敏度
+{UI.Menu.Settings.OtherName.InvertMouse} 鼠标翻转
+{UI.Menu.Settings.OtherName.GamepadSensitivity} 手柄灵敏度
+{UI.Menu.Settings.OtherName.CameraSensitivity} 镜头灵敏度
+{UI.Menu.Settings.OtherName.InvertGamepad} 手柄翻转
+{UI.Menu.Settings.OtherName.InvertCamera} 镜头翻转
+{UI.Menu.Settings.OtherName.HUDVariant} 界面布局
+{UI.Menu.Settings.OtherName.Fov} 视野
+{UI.Menu.Settings.OtherName.ThoughtButtonsEnabled} 想法提示
+{UI.Menu.Settings.OtherName.LargeUI} 大号文本
+{UI.Menu.Settings.OtherName.HeadBobbingIntensity} 头部晃动强度
+{UI.Menu.Settings.OtherName.WeaponSlotsHUD} 显示武器槽

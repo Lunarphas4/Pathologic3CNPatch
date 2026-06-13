@@ -1,0 +1,2 @@
+{Minds2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19.1_MM_Limits.Name} 极限
+{Minds2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19.1_MM_Limits.Description} 利特尔直到最后仍试图理解瘟疫。再多一点研究，再毁掉几个病灶——他就会迈出最后一步

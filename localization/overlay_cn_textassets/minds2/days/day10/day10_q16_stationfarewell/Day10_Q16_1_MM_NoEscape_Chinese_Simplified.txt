@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_1_MM_NoEscape.Name} 未尽周详
+{Minds2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_1_MM_NoEscape.Description} 我准备得不够。如今追悔已晚——时机已逝。

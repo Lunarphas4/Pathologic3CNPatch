@@ -1,0 +1,3 @@
+{Npcs.SickVasiliy.Name} 病人菲拉特
+{Npcs.SickVasiliy.FullName} ⁠
+{Npcs.SickVasiliy.Description} ⁠

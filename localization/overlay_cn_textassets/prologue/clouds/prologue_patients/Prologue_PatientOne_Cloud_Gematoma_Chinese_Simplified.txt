@@ -1,0 +1,5 @@
+{Prologue.Clouds.Prologue_Patients.Prologue_PatientOne_Cloud_Gematoma.23809} ⁠
+{Prologue.Clouds.Prologue_Patients.Prologue_PatientOne_Cloud_Gematoma.39509} 淤青
+{Prologue.Clouds.Prologue_Patients.Prologue_PatientOne_Cloud_Gematoma.6531} 或许是碰撞所致，也可能是某种症状
+{Prologue.Clouds.Prologue_Patients.Prologue_PatientOne_Cloud_Gematoma.18506} 该问问这淤伤从何而来
+{Prologue.Clouds.Prologue_Patients.Prologue_PatientOne_Cloud_Gematoma.59387} 她却完全不记得受过伤！

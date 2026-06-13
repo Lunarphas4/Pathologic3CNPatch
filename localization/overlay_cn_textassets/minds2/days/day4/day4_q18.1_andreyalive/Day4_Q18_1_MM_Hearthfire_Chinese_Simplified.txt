@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q18.1_AndreyAlive.Day4_Q18_1_MM_Hearthfire.Name} 可能的疫源
+{Minds2.Days.Day4.Day4_Q18.1_AndreyAlive.Day4_Q18_1_MM_Hearthfire.Description} 昨天，瘟疫几乎已经摸到酒馆门口。我决定亲自去看看，确认现在一切无恙。

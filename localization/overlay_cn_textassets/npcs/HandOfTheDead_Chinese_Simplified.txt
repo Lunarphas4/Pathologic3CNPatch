@@ -1,0 +1,3 @@
+{Npcs.HandOfTheDead.Name} 工头的手
+{Npcs.HandOfTheDead.FullName} ⁠
+{Npcs.HandOfTheDead.Description} ⁠

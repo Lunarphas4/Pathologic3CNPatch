@@ -1,0 +1,25 @@
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.37871} 快点，孩子！你摆弄半天，那门还是一动不动。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.62483} 我琢磨着……大麦有把弹簧刀——真漂亮，握柄上有个牛头。我想借来看看，他却骂了我一顿。我想要那把刀。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.39849} 喂——你天生小气鬼吗？人这么小，已经是个守财奴！我都答应给你半个王国了——你还要大麦的刀做什么？我给你弄另一把弹簧刀。开门！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.37967} 我打扰了吗？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.37638} 咳。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.39437} 见鬼……医生，你怎么这么悄没声儿地过来？我差点死了……
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.28171} 是你吗，丹科夫斯基？管管这个小崽子！ 他说会放我出去——我们像大人一样做了交易。我还以为他讲信用，结果他为了让我能自由呼吸，敲了我半小时礼物……
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.61677} 格里夫说得对，小钉。交易就是交易，临时改条件是不体面的。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.65501} 得了吧——一把刀而已，你真这么舍不得？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.17505} 这不是刀的问题——是原则。布拉赫看来没把你教好。放格里夫出来。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.36484} 好——吧。交易就交易。我开。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.31902} 然后赶快走——你们两个都走。我不会告诉别人我见过你们。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.58191} 那我有什么好处？我现在也是同谋了。我要我的一份。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.30968} 你知道这是犯罪吧？他们会把你关起来。为一把刀值得吗？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.26097} 嘿——丹科夫斯基！你站哪边？别听他的，小子！开门！你会拿到你的刀！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.41901} 哦，格里夫——别这样。他只是要一把弹簧刀。你的自由还不值这个价？
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.40966} 呸——我说得明明白白，他们偏要绕着答。那不是我的刀！要是我的，它早就在你兜里了。你要我去偷大麦的？他会冲我竖中指，再把我赶走。 我给你任何别的刀，我发誓。开门！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.42015} 我不要随便哪把刀。我要那一把——握柄上有牛头的弹簧刀。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.27712} 看来他是认真的，格里夫。你想出来——就接受条件。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.26693} 你也这样？！你现在也站到这孩子那边？这简直是拦路抢劫…… 好——你会拿到你的刀，小子。我说话算话。开门，我们赶在全被扔进牢房前离开这里！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.53263} 去吧。我不会告诉任何人。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.2289} 那我也有刀吗？我现在也是同谋了。我要我的一份。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.25385} 没问题！我把最后一条裤子都给你。内裤也拿去！劫匪！整座镇子都变成劫匪了！
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.51598} 我开玩笑的，开玩笑。留着你的内裤吧。放他出来，小钉——然后快走。
+{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_StickyAndGrif_Final.36931} 这简直像寓言里写的。“他把手伸进去——掏出来的却是生肠，亮晶晶的。”

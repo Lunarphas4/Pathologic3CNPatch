@@ -1,0 +1,2 @@
+{StaffCommands.Day10.Fireworks.Name} 焰火表演
+{StaffCommands.Day10.Fireworks.Description} 安排烟火表演，维持市民士气。

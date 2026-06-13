@@ -1,0 +1,12 @@
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Child_HotWater.11350} 你是谁？新来的锅炉人？
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Child_HotWater.60976} 不，我是医生。你们要锅炉人做什么？
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Child_HotWater.26687} 上一个锅炉人不知去哪儿了，我们已经两天没见过他……\n\n看见那根烟囱冒出的黑烟了吗？昨天还正常……也许出了什么坏事。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Child_HotWater.54328} 我去看看。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Child_HotWater.14635} 那什么才叫“正常”的烟？
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Child_HotWater.41904} 就是，正常的那种。你没见过烟吗？黑烟说明炉子又病了……
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Child_HotWater.16619} 不，我在找一个叫鲁宾的医生。有人说他藏在仓库区某处。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Child_HotWater.54781} 我们这儿没有医生，只有一个锅炉人。而且他不知道去哪儿了，我们已经两天没见过他……\n\n看见那根烟囱冒出的黑烟了吗？昨天还正常……也许出了什么坏事。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Child_HotWater.55018} 你的朋友说供热厂——<i>锅炉房</i>就在附近。我方向对吗？
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Child_HotWater.29208} 当然！看见烟囱冒烟了吗？那就是锅炉房。不过锅炉人已经两天没人见过了……希望他没把自己煮在炉子里。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Child_HotWater.313} 谢谢你，男孩。
+{Dialogs2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Child_HotWater.60957} 我也希望他没事。

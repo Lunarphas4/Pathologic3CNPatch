@@ -1,0 +1,8 @@
+{ArchiveDialogs.NewArchive.Old2.Day5_Q1_Rubin_VaccineUsed.9403} 完成了。
+{ArchiveDialogs.NewArchive.Old2.Day5_Q1_Rubin_VaccineUsed.26056} 斯塔赫，我总得给凯恩家族一个交代。
+{ArchiveDialogs.NewArchive.Old2.Day5_Q1_Rubin_VaccineUsed.25942} 我是个杀人犯，不是吗？这一点不会改变。就算你把我的名字交给凯恩家族，他们决定把我绑上木桩烧死，剩下的也只会是一个亵渎者的灰烬，不是什么殉道者。我恨你，因为我已经看见你跑去找镇法官，用手指着我告发的样子。
+{ArchiveDialogs.NewArchive.Old2.Day5_Q1_Rubin_VaccineUsed.23739} 你自己也别急着审判。
+{ArchiveDialogs.NewArchive.Old2.Day5_Q1_Rubin_VaccineUsed.6638} 哪怕你罪有应得？……
+{ArchiveDialogs.NewArchive.Old2.Day5_Q1_Rubin_VaccineUsed.17992} 你给自己接种了吗？
+{ArchiveDialogs.NewArchive.Old2.Day5_Q1_Rubin_VaccineUsed.3853} 没有。
+{ArchiveDialogs.NewArchive.Old2.Day5_Q1_Rubin_VaccineUsed.1972} 害怕了？

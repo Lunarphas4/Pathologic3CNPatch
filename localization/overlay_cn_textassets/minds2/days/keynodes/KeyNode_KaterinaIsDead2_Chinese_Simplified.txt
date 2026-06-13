@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_KaterinaIsDead2.Name} 尘归尘
+{Minds2.Days.KeyNodes.KeyNode_KaterinaIsDead2.Description} 卡捷琳娜·萨布罗娃因病而亡。

@@ -1,0 +1,4 @@
+{Clouds.Flavor.Cloud_RegionMost_Bell.17796} “属于我，否则你会燃烧！”
+{Clouds.Flavor.Cloud_RegionMost_Bell.11185} “属于我，否则你会燃烧！”
+{Clouds.Flavor.Cloud_RegionMost_Bell.12104} 能用的钟必须有绳。
+{Clouds.Flavor.Cloud_RegionMost_Bell.10223} 没有绳，他们要怎么敲响它？

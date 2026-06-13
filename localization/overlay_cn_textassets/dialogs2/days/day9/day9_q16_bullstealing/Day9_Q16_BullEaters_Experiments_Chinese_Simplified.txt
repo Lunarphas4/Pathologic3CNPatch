@@ -1,0 +1,13 @@
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_Experiments.39100} 到底放不放我们出去？我受不了了：挤在这里，没空气，一股硫磺味——你闻不到吗？我的手又被针扎得到处是洞。这算什么，拷打吗？
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_Experiments.13752} 是啊，但他们给我们吃得不错。也该这样了！终于像个人一样吃了一顿。医院饭菜不坏，针？随便扎。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_Experiments.16283} 那些针是为了取血样。我上次解释过：你们吃的公牛被感染了。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_Experiments.8136} 你说是说过……就是听着不对劲。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_Experiments.22499} 你感觉如何？
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_Experiments.22257} 挤得慌，没气，还到处扎针——你觉得呢，医生？
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_Experiments.40664} 这是你们自找的。要是没碰那头公牛，你们现在全都在家里。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_Experiments.3901} 那公牛看来一定有魔力。你一直说它染了瘟疫，可我现在浑身是劲——嚯！我能把整个镇子掀个底朝天！
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_Experiments.39433} 那头公牛真的可能就是我一直在寻找的答案吗？
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_Experiments.8309} 也许是因为热处理？你们毕竟把肉煎熟了……
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_Experiments.3500} 有意思。勤务员会继续观察你们。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_Experiments.22751} 请不要把任何东西掀个底朝天。你们已经惹了够多麻烦。
+{Dialogs2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_BullEaters_Experiments.61594} 我不关心那些。我在寻找症状。

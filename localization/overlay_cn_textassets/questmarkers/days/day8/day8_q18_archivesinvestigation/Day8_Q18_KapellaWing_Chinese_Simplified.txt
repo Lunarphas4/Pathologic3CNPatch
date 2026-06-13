@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_KapellaWing.Name} 卡佩拉的偏厅
+{QuestMarkers.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_KapellaWing.Description} 据说那里有值得一看之物。

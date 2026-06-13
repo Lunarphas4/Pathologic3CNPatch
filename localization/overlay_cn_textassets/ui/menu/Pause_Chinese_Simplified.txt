@@ -1,0 +1,5 @@
+{UI.Menu.Pause.Back} 返回游戏
+{UI.Menu.Pause.Load} 载入游戏
+{UI.Menu.Pause.Save} 保存游戏
+{UI.Menu.Pause.MainMenu} 主菜单
+{UI.Menu.Pause.Exit} 退出游戏

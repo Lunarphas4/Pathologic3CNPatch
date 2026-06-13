@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_3.Day6_Q10_3_MM_Mask.Name} 近卫之贡
+{Minds2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_3.Day6_Q10_3_MM_Mask.Description} 一魂半族慷慨地分给我一只狗面具。剩下的，就是孩子们之间的"帮派外交"了。

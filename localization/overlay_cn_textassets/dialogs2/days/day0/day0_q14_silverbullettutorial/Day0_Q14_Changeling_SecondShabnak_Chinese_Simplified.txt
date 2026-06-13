@@ -1,0 +1,26 @@
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.6161} 原来她还有个姐妹。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.42581} Shabnak（泥魔女）？
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.30494} Shabnak（泥魔女）。这其实不奇怪。Shabnak（泥魔女）本来就有很多，就像白化者和老鼠也有很多。不过很容易看出她是从谁那里得来的主意。\n \n要紧的是，现在会有两个她们围着你转。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.37544} 她是从谁那里得来的主意？
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.45293} 唔，惹麻烦的又不是<i>你的</i>双胞胎，对吧？\n\n你可以想想这个。你那小器具里只有一枚投射物，对吗？你能让它变成两枚吗？
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.12322} 不能。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.60762} 所以现在，当你拿着充好能的器具出现时，Shabnak（泥魔女）会分成两个。\n\n到那时，你唯一的办法就是学会分辨真与假。可以说，分辨圣徒与携带者。她们有两个，但其中一个只是另一个的倒影。你得杀掉真的那个。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.35599} 一个Shabnak（泥魔女）是另一个的倒影？又是镜子？
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.48838} 不能靠外表或行为分辨她们。一个会攻击，另一个会逃跑——但攻击你的不一定是真的。她们会互换位置，这些小坏东西。\n\n唯一能分辨她们的办法是火。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.45054} 让我猜猜：一个是火，另一个是烟？
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.8861} 火会变绿。真的那个不会改变火焰的颜色——你已经见过了——但双生的那个会烧成绿色，像鬼火一样。你刚才是什么意思？
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.19364} 只是个说法——“无风不起浪”。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.13068} 你当然也可以随便开一枪。但我建议你先点火观察，再确定行动。她们在戏弄你，可怜人……
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.63548} 行动前做测试是明智的，这点毫无疑问。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.19019} 还有，小心——如果你弄错了，射中了错的那个，就得从头再来。采样，给器具重新充能……最好先确认清楚。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.55773} 你真谨慎。我没想到。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.50427} 谢谢你，刺眼睛的姑娘。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.58158} 我总能应付。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.24830} 为什么？
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.8814} 我跟你说过鬼火了。你没见过草原边的沼泽吗？小妹妹大概就是从那里来的——所以她才这么阴晴不定。\n\n你当然也可以随便开一枪。但我建议你先点火观察，再确定行动。她们在戏弄你，可怜人……
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.37862} 确实，这很像一种带有多种症状的疾病表现——但测试会揭示真相。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.55734} 我想是吧……那么测试就是这样：真的那个不会改变火——你已经见过了——但双生的那个会烧成绿色，像鬼火一样。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.16357} 不错的测试。像石蕊试纸。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.30197} 你声音里的痛……我听得出，这事很私人。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.56342} 知道吗，你的催眠好像对我起作用了。我现在连解释“Shabnak（泥魔女）不存在”的力气都没有。
+{Dialogs2.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_Changeling_SecondShabnak.36274} 因为和真相斗这么久很累，也很蠢。连<i>你</i>都没那么固执。\n\n你可以想想这个。你那小器具里只有一枚投射物，对吗？你能让它变成两枚吗？

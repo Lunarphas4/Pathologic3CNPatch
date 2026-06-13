@@ -1,0 +1,3 @@
+﻿{Items.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_FarkhadMap.Name} 地下地图
+{Items.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_FarkhadMap.Description} 一张未完成的地下通道地图。
+{Items.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_FarkhadMap.Description2} 一张粗略地图，画着蜿蜒交错、彼此穿插的通道。隧道似乎延伸数公里，仿佛虫子在地下啃出来的。图还没画完。

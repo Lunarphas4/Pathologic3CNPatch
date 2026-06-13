@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day5.SakhMen.Hospital_SakhMen_MM_PersonalFile.Name} 萨克·曼
+{Minds2.Hospital.Day5.SakhMen.Hospital_SakhMen_MM_PersonalFile.Description} 萨克·曼被锁在一间满是尸体的房子里很久。看起来她有谵妄。

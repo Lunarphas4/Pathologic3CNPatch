@@ -1,0 +1,69 @@
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.24865} 这些士兵是极好的工具。可他们一旦开始思考——容许自己享用思考这种奢侈——就没完没了了。换作别人坐在我的位置，大概会梦见一支听话的泥塑士兵大军。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.7543} 即便是泥偶，有时也会违逆造主的意志。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.63599} 你是顺路来谈哲学的吗，丹科夫斯基？还是有事找我？
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.47233} 我来请求你，明天不要审讯彼得·斯塔马京。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.21847} 你的请愿被驳回。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.35719} 至少推迟审讯。只要再等几天……
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.57335} 我已经把与多面体缔造者的谈话推迟得太久了。我需要论据，丹科夫斯基——不是惊慌失措的哀求。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.62882} 现在你无法从斯塔马京嘴里问出什么。若再等一等，也许他的意志会松动。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.1291} 我很确定，我曾给过你几条建议，但从未教过你该如何在医院里诊治病人。所以也不要教我做我的工作。  丹科夫斯基，嫌犯的意志我会自己处理，不必你帮忙。至于你若真对加入审判庭动了念头——先从基础学起。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.62214} 你说得对。是我失言了。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.52568} 你自己选了这条命运，卡尔明斯基。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.64915} 你拘押的是安德烈·斯塔马京，不是彼得。他会在审讯时设法杀你。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.35020} 你来告诉我这个？很好。看来扮演审判官这件事并没有白费在你身上。  谢谢你的情报，丹科夫斯基。我会把它纳入考量。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.18167} 具体怎么做？
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.3907} 你还不是我的正式助手，丹科夫斯基。即便是正式助手，也没有理由把这种信息全盘相告。  再次感谢。我不会忘记你帮的这个忙。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.19154} 这一切不是为了你。是为了比我们所有人都更大的事。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.62846} 我寄望于你的……公正。或者至少，寄望于你的常识。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.26} 明天见，卡尔明斯基。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.2404} 求你——饶安德烈一命。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.63423} 你还不是我的正式助手，丹科夫斯基。即便是正式助手，也没有必要讨论这样微妙的事。  再次感谢。我不会忘记你帮的这个忙。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.16572} 这场审讯会带来骇人的后果。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.56076} 论据，丹科夫斯基。到现在为止，你只是在用含糊的警告浪费我的时间。这类谜语并不让我感兴趣。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.55076} 我拿不出你会视为严肃论据的东西。告辞，卡尔明斯基。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.61127} 相信我，若不是至关重要，我不会开这个口。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.42843} 有人正在筹备刺杀你，审判官。提醒你是我的职责。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.21524} 是吗？我承认，丹科夫斯基——你确实让我吃惊了。我的工作是读懂人，而我原本确信，你对我来到这座城，委婉地说，并不高兴。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.28586} 我有时也会让自己吃惊。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.55165} 我们意见不合，并不等于我想让你死。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.51929} 那么是谁决定试探命运？计划是什么——目的又是什么？名字。我在听。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.41172} 你知道安德烈·斯塔马京这个名字吗？
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.34352} 名誉扫地的建筑师，逃离首都——躲开批评，也躲开那些尚未进到法庭的指控。你的大学旧友。当然。  正是他待在阁楼上，扮作自己的兄弟彼得，等着见我，对吗？
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.9664} 所以你知道？你知道安德烈和彼得互换了身份？
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.12463} 我的人已经报告过：彼得一开始顺服而安静，如今却变得健谈——而且勇敢得出奇。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.21340} 这就是你准许我去见他的原因。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.64903} 就当作一场实验吧。这座城喜爱实验——我借用它的方法。  谢谢你，丹科夫斯基，这情报毫无疑问很有用。我不会忘记这份效劳。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.25251} 我也永远不会忘记自己刚才做了什么。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.11910} 他。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.7967} 安德烈把你视为“不可能之物”的首要敌人。也就是说，你是他毕生事业的敌人。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.59070} 创造性的头脑往往容易夸大其词。安德烈是个有趣的人物。我本来很愿意同他谈谈最新建筑学说中的某些原则……可惜他偏偏选了这种幼稚蠢事——刺杀审判官。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.12009} 所以你不靠我也知道，安德烈顶替了彼得？
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.18890} 他顶替了彼得。他打算在审讯中袭击你。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.59896} 名誉扫地的建筑师，逃离首都——躲开批评，也躲开那些尚未进到法庭的指控。你的大学旧友。当然。  他的兄弟彼得，此刻正由我的人看守着。正在为审讯做准备。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.7978} 彼得的位置已经被安德烈顶替了。他打算在审讯中袭击你。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.12503} 安德烈是个有趣的人物。我本来很愿意同他谈谈最新建筑学说中的某些原则……可惜他偏偏选了这种幼稚蠢事——刺杀审判官。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.29483} 只要记住：安德烈是少数不只是幻想的人之一——他确实做得出这种鲁莽至极的事。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.17991} 你让我吃惊了，丹科夫斯基——这可不常发生。我原以为我们会成为敌人。看来我错了，倒也欣慰。  谢谢你的情报。我不会忘记这份效劳。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.1896} 首先，我想谈谈条件。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.43537} 你让我失望。我以为你是来尽公民义务的，不是来市场上讨价还价的。我以为我是在同一位有荣誉感的人说话——不是同一个乞丐。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.51938} 我不是为自己打算——我是为这座城打算。任何事业都需要资源：应急指挥部、医院……哪一样都需要。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.25438} 直说。说出密谋者。若不止一人，就把名字都说出来。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.24826} 任何有价值的情报，都应当有奖赏，不是吗？
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.15656} 答应我，你不会吊死那个密谋者。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.4433} 荒唐的要求。刺杀审判官当处绞刑，你心里再清楚不过，丹科夫斯基。  不过，惩罚这等狂妄还有更有趣的方式……我答应考虑你的请求。说出他的名字。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.58325} 斯塔马京……安德烈·斯塔马京。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.7217} 实业家弗拉德·奥尔金斯基。老的那个。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.13049} 看来你被自己的大胆吓住了，丹科夫斯基，现在想不说出密谋者的名字就从中脱身。太迟了。  弗拉德·奥尔金斯基直白又矮钝，像块鹅卵石；他怕我胜过怕死。给我真正的名字。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.58590} 正是那种畜生般的恐惧，驱使他密谋对付你，审判官。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.46178} 我很失望。是你主动开了这个话头——没人扯你的舌头。现在你却在我面前如此可怜地撒谎。说出他的名字。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.42256} 萨布罗夫。前总督。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.35280} 这是玩笑吗？萨布罗夫是个有荣誉感的人——他不会流血杀人。  看来你被自己的大胆吓住了，丹科夫斯基，现在想不说出密谋者的名字就从中脱身。太迟了。给我真正的名字。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.47703} 你剥夺了萨布罗夫的权力，也夺走了他的自尊。他有充分理由想让你死。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.52562} 医学学者丹尼尔·丹科夫斯基。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.52714} 如果这是玩笑，那也平庸得很。看来你被自己的大胆吓住了，丹科夫斯基，现在想不说出密谋者的名字就从中脱身。太迟了。给我真正的名字。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.23754} 我不知道名字。我只捕捉到模糊传闻的一角。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.49986} 你就为了传闻，皱着这副受折磨的眉头来浪费我的时间？  看来你被自己的大胆吓住了，丹科夫斯基，现在想不说出密谋者的名字就从中脱身。太迟了。给我真正的名字。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.30321} 是的，我觉得你的手段……过度了。可我仍然确信，你的死只会给这座城带来灾难和混乱。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.7980} 我真不敢相信自己会说这句话，不过：你有危险。有人想杀你。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.811} 不，转念一想——没什么……不再打扰你了。
+{Dialogs2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Karminskiy_Atempt.62486} 同意。思考有害。因为智慧越多，愤懑越多；增添知识，也增添劳苦。

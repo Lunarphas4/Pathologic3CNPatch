@@ -1,0 +1,2 @@
+﻿{UI.CharacterWindow.Tooltips.TellmannTooltips.Intro} 学术委员会教授，死亡学院的死敌
+{UI.CharacterWindow.Tooltips.TellmannTooltips.Help} 我从戈尔贡回来后，教授帮助我应对创伤

@@ -1,0 +1,2 @@
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_Vasil.Prologue_Vasil_MM_Inspection.Name} 体检结束
+{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_Vasil.Prologue_Vasil_MM_Inspection.Description} 再次重复：记录症状，与患者核对。但愿速战速决。

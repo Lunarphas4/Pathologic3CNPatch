@@ -1,0 +1,4 @@
+{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_PlagueQuarter.Prologue_PlagueQuarter_Cloud_MedicalBox.1150} ⁠
+{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_PlagueQuarter.Prologue_PlagueQuarter_Cloud_MedicalBox.10257} 医院正缺板条箱
+{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_PlagueQuarter.Prologue_PlagueQuarter_Cloud_MedicalBox.8132} 今天还能帮得上忙
+{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_PlagueQuarter.Prologue_PlagueQuarter_Cloud_MedicalBox.31665} 明天我就来不及帮那些本该用上它们的人了

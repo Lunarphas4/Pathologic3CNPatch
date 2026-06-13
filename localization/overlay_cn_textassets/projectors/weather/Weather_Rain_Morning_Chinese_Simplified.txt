@@ -1,0 +1,4 @@
+{Projectors.Weather.Weather_Rain_Morning.15544} ⁠
+{Projectors.Weather.Weather_Rain_Morning.11146} 一早就下起来了
+{Projectors.Weather.Weather_Rain_Morning.31755} 这雨要下一整天吗？
+{Projectors.Weather.Weather_Rain_Morning.12014} 真想见见太阳

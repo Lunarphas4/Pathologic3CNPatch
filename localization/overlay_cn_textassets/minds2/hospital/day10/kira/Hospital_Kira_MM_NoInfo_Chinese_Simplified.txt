@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_NoInfo.Name} 缺了点什么
+{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_NoInfo.Description} 我在河岸上和父母谈过……但他们提供的情况恐怕不够。再问下去也未必有更多。

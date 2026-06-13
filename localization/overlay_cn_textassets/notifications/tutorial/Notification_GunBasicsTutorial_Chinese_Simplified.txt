@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_GunBasicsTutorial.Name} 凶险却怯懦
+{Notifications.Tutorial.Notification_GunBasicsTutorial.Description} 最好 <InputActions/Weapon/Reload> 给枪上膛。但本地人不知道枪里是否有子弹。他们只看见一支 <InputActions/Weapon/Aim> 瞄准他们的左轮。

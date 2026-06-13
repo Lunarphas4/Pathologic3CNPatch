@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Genius.Name} 天才曾在此处工作
+{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Genius.Description} 如今我对那间书房有了不同的看法。没有香烟。一具木制装置。比从前更显空旷。

@@ -1,0 +1,3 @@
+﻿{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_BloodSamplesNotTested.Name} 数瓶血液
+{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_BloodSamplesNotTested.Description} 潜在供血者越多，找到相容者的机会越高。
+{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_BloodSamplesNotTested.Description2} 几瓶血液。全都是潜在供血者，而受血者只有一个：卡捷琳娜·萨布罗娃。我必须检测样本相容性。

@@ -1,0 +1,5 @@
+﻿{UI.CharacterWindow.Tooltips.KuronTooltips.Aglaya} 从一开始就按审判官阿格拉娅·莉莉奇的命令，为她的利益行事
+{UI.CharacterWindow.Tooltips.KuronTooltips.Intro} 奥尔金斯基家派到指挥部任秘书的刻板人
+{UI.CharacterWindow.Tooltips.KuronTooltips.Servant} 第8天，离开指挥部，转而侍奉审判官
+{UI.CharacterWindow.Tooltips.KuronTooltips.Archives} 第9天，试图用第一次爆发的档案陷害我
+{UI.CharacterWindow.Tooltips.KuronTooltips.Street} 第9天，奉审判官之命调查受诅咒的街道，并化身为自己最可怕的噩梦

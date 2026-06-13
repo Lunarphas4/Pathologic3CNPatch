@@ -1,0 +1,3 @@
+{Npcs.Isidor.Name} 伊西多尔·布拉赫
+{Npcs.Isidor.FullName} ⁠
+{Npcs.Isidor.Description} ⁠

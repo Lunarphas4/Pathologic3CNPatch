@@ -1,0 +1,3 @@
+{Npcs.Old.visitor_Vyp.Name} ⁠
+{Npcs.Old.visitor_Vyp.FullName} ⁠
+{Npcs.Old.visitor_Vyp.Description} ⁠

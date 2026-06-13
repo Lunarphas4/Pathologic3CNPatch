@@ -1,0 +1,2 @@
+﻿{Locations.Notkin.Name} 一魂半族要塞
+{Locations.Notkin.Description} 一魂半族要塞

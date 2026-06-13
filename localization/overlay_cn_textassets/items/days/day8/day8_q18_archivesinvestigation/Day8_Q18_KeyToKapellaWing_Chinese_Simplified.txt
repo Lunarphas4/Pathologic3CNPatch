@@ -1,0 +1,3 @@
+﻿{Items.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_KeyToKapellaWing.Name} 卡佩拉侧翼钥匙
+{Items.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_KeyToKapellaWing.Description} 简单。厚重。奥利吉姆斯基。
+{Items.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_KeyToKapellaWing.Description2} 她的女仆把它给了我。希望这条线索还没断。

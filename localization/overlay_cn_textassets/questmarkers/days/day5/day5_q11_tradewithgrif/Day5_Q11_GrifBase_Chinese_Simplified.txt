@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day5.Day5_Q11_TradeWithGrif.Day5_Q11_GrifBase.Name} 格里夫的老巢
+{QuestMarkers.Days.Day5.Day5_Q11_TradeWithGrif.Day5_Q11_GrifBase.Description} 格里夫一直在向萨布罗娃供应吗啡。他的货于我或许也有用。我得抓个现行。

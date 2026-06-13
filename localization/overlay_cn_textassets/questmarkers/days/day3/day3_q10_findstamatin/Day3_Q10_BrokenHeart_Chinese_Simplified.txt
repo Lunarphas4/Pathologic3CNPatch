@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_BrokenHeart.Name} 碎心人酒馆
+{QuestMarkers.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_BrokenHeart.Description} 在自家的酒馆里，安德烈用twyrine（特维酒）空瓶搭建不可能之构。

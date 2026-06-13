@@ -1,0 +1,3 @@
+{Npcs.Old.visitor_Popolzen.Name} ⁠
+{Npcs.Old.visitor_Popolzen.FullName} ⁠
+{Npcs.Old.visitor_Popolzen.Description} ⁠

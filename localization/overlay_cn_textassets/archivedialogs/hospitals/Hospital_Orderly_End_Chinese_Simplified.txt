@@ -1,0 +1,3 @@
+{ArchiveDialogs.Hospitals.Hospital_Orderly_End.4048} 您已经尽了所能。
+{ArchiveDialogs.Hospitals.Hospital_Orderly_End.10329} 患者报告会送到您办公室的桌上。
+{ArchiveDialogs.Hospitals.Hospital_Orderly_End.25822} 剩下的时间最好拿去睡觉。

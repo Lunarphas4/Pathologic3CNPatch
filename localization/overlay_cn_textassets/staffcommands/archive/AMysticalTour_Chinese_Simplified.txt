@@ -1,0 +1,2 @@
+{StaffCommands.Archive.AMysticalTour.Name} 神秘之旅
+{StaffCommands.Archive.AMysticalTour.Description} 组织一次带有安抚意味的巡游活动。

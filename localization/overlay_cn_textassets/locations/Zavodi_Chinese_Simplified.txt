@@ -1,0 +1,2 @@
+{Locations.Zavodi.Name} 工厂
+{Locations.Zavodi.Description} 工厂

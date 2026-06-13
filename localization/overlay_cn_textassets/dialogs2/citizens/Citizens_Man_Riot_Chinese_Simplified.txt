@@ -1,0 +1,9 @@
+{Dialogs2.Citizens.Citizens_Man_Riot.13348} 嘿，是你。该死，朋友，要我是你，就不会一个人在城里乱逛。
+{Dialogs2.Citizens.Citizens_Man_Riot.6068} 没问你意见。
+{Dialogs2.Citizens.Citizens_Man_Riot.11789} 看来你已经和现实脱节了。镇上在传要暴动，你没听说？有人在散发传单，上面有你的画像和特征。你是头号公敌。你的法令惹怒了很多人。大家是真想把你吊在路灯杆上，这可不是玩笑。
+{Dialogs2.Citizens.Citizens_Man_Riot.28608} 让他们试试。我有武器，也不好惹。
+{Dialogs2.Citizens.Citizens_Man_Riot.14955} 哦。多谢提醒。
+{Dialogs2.Citizens.Citizens_Man_Riot.12346} 我在尽我所能救这座镇子。只有蠢货才会对我的努力不满。
+{Dialogs2.Citizens.Citizens_Man_Riot.22672} 该死。看来我做过头了。我得去重新审阅那些法令。一定还有办法补救。
+{Dialogs2.Citizens.Citizens_Man_Riot.29752} 我的脸怎么了？
+{Dialogs2.Citizens.Citizens_Man_Riot.5058} 你认错人了。

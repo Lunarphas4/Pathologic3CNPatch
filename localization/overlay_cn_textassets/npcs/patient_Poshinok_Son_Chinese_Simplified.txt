@@ -1,0 +1,3 @@
+{Npcs.patient_Poshinok_Son.Name} 拼布之子
+{Npcs.patient_Poshinok_Son.FullName} ⁠
+{Npcs.patient_Poshinok_Son.Description} ⁠

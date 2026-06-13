@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day4.Zhitochnik.Hospital_Zhitochnik_MM_TimeForDiagnose.Name} 到处是胚牛
+{Minds2.Hospital.Day4.Zhitochnik.Hospital_Zhitochnik_MM_TimeForDiagnose.Description} 病人沉浸在自己的幻象中，拒绝开口。诊断只能在不问询的情况下下。

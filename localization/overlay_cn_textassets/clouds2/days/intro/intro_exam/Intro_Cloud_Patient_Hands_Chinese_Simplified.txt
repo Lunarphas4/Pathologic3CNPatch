@@ -1,0 +1,5 @@
+{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Hands.11695} 反复注射留下的瘀伤。
+{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Hands.54601} 反复注射留下的瘀伤。
+{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Hands.55090} 尝试复活的后果？
+{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Hands.29687} 还是试图治疗白血病的结果？
+{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Hands.60106} 吗啡？她身上确实带着一些……

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_5.Day9_Q12_5_MM_DeadEnd.Name} 又一死路
+{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_5.Day9_Q12_5_MM_DeadEnd.Description} 只有布拉赫既懂草原仪轨又懂血的化学性质。再无他人能助我破此谜。

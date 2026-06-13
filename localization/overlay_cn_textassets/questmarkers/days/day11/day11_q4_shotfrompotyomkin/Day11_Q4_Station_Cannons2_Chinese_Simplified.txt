@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Station_Cannons2.Name} 车站
+{QuestMarkers.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Station_Cannons2.Description} 也许现在炮组的士兵会更配合。

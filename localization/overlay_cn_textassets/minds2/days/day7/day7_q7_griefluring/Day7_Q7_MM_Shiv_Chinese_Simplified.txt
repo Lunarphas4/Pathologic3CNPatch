@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_Shiv.Name} 捉迷藏
+{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_Shiv.Description} 格里夫如我所料地现身了。他在医院阳台走廊那边等我。但愿他没带刀子。

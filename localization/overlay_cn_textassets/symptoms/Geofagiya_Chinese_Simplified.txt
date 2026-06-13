@@ -1,0 +1,2 @@
+{Symptoms.Geofagiya.Name} 异食癖
+{Symptoms.Geofagiya.Description} 源自希腊语，意为食土；也包括矿物、黏土等未经处理的无机物，常提示身体试图排毒。

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Cathedral.Name} 大教堂
+{QuestMarkers.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Cathedral.Description} 卡明斯基在大教堂里坐镇……尽管他常常出现在镇上各处。

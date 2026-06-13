@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_1_MM_Edges.Name} 大晶体
+{Minds2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_1_MM_Edges.Description} 多面体本不是为了游戏而造。只要孩子们仍在它的棱面间嬉戏——奇迹便会枯萎。

@@ -1,0 +1,2 @@
+{UI.Credits.PR.VitalyAleksashin.Name} Vitaly Aleksashin
+{UI.Credits.PR.VitalyAleksashin.Description} 首席公关专员

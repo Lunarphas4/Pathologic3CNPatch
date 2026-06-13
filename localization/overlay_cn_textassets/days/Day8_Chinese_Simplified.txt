@@ -1,0 +1,3 @@
+{Days.Day8.Name} 第八天
+{Days.Day8.Description} 这天，学者误以为一切尚好
+{Days.Day8.Name_StartDay} 第八天，

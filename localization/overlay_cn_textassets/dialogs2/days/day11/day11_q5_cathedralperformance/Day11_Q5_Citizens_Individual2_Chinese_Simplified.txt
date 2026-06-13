@@ -1,0 +1,6 @@
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Individual2.38109} 嗯，结束了吗？
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Individual2.32055} 什么？
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Individual2.23081} 瘟疫！该死的沙疫！他们是在召集大家，说疫病结束了，对吧？
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Individual2.25800} 瘟疫正盛。而你们全挤在这里。想保住身体，就回家去。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Individual2.32412} 确实有什么结束了。但不是瘟疫。
+{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Individual2.12833} 嗯。每个人都按自己的意思解读这钟声。就像特尔曼那些抽象图案的牌：“你在墨迹里看见了什么？”

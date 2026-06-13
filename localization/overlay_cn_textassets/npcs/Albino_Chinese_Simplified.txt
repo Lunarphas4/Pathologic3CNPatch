@@ -1,0 +1,3 @@
+{Npcs.Albino.Name} 白化少年
+{Npcs.Albino.FullName} 草原之物
+{Npcs.Albino.Description} ⁠

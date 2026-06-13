@@ -1,0 +1,3 @@
+{Days.Day7.Name} 第七天
+{Days.Day7.Description} 学者于今天忆起亲近之人
+{Days.Day7.Name_StartDay} 第七天，

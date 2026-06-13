@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_1_MM_Collector.Name} 收藏家
+{Minds2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_1_MM_Collector.Description} 审判官卡明斯基大获全胜。他打算把多面体加入自己那份"违反律法的奇迹"藏品名录。

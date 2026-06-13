@@ -1,0 +1,2 @@
+{CraftRecipes.KhatangherHeart_CraftRecipe.Name} 哈坦格尔之心
+{CraftRecipes.KhatangherHeart_CraftRecipe.Description} 增加躁狂

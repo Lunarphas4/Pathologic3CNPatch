@@ -1,0 +1,2 @@
+{UI.Credits.Audio.ArsenyPospelov.Name} Arseny “Suricata” Pospelov
+{UI.Credits.Audio.ArsenyPospelov.Description} 金贝鼓

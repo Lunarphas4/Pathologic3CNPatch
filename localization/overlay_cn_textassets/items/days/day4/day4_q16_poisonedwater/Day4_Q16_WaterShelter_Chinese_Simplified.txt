@@ -1,0 +1,3 @@
+{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_WaterShelter.Name} “活人之家”的水
+{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_WaterShelter.Description} 用于分析的水样。
+{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_WaterShelter.Description2} 一份拉拉·拉维尔收容所分发给人们的水样。我不知道布拉赫从哪里弄来的，但它的颜色很可疑。

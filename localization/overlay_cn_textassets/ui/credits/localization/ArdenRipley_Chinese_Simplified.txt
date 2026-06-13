@@ -1,0 +1,2 @@
+{UI.Credits.Localization.ArdenRipley.Name} Arden Ripley
+{UI.Credits.Localization.ArdenRipley.Description} 翻译编辑（英语）

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_SimonStudyNine.Name} 悖论
+{Minds2.Days.KeyNodes.KeyNode_SimonStudyNine.Description} 我在第九日才首次踏入西蒙·凯恩的书房。

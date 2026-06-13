@@ -1,0 +1,3 @@
+{Items.Ammos.MicroscopeAmmo.Name} 试剂
+{Items.Ammos.MicroscopeAmmo.Description} 植物性染料。用于显微镜。
+{Items.Ammos.MicroscopeAmmo.Description2} 植物性染料。用于显微镜。

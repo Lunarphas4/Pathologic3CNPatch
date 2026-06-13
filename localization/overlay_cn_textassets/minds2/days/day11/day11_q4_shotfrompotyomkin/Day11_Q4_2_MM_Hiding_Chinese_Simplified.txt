@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_2_MM_Hiding.Name} 别无他选
+{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_2_MM_Hiding.Description} 老奥尔金斯基拿出腐肉，是因为镇上再无好肉。但他在隐瞒什么。

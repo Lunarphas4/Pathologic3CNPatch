@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_MM_Transfer.Name} 性状传递
+{Minds2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_MM_Transfer.Description} ……这不是草原上的奇术——这是科学。也许别的细菌也能交换信息。这是真正的突破！

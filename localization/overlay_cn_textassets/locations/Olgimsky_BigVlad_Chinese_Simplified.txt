@@ -1,0 +1,2 @@
+﻿{Locations.Olgimsky_BigVlad.Name} 块石宅
+{Locations.Olgimsky_BigVlad.Description} 块石宅

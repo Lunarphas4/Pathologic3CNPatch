@@ -1,0 +1,2 @@
+﻿{CraftRecipes.Health_Pharmaceutical_CraftRecipe.Name} 甘汞
+{CraftRecipes.Health_Pharmaceutical_CraftRecipe.Description} 恢复一定健康

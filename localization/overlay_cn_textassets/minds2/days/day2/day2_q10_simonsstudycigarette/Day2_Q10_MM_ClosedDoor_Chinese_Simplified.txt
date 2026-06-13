@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_MM_ClosedDoor.Name} 不得而入
+{Minds2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_MM_ClosedDoor.Description} 书房锁着。我得抓住它的"实质"才能进去——但愿我能弄明白这究竟是什么意思！

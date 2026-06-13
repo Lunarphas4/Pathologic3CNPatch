@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_Lump.Name} 块石宅
+{QuestMarkers.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_Lump.Description} 弗拉德是屠宰场的主人，对自己的地盘了如指掌。

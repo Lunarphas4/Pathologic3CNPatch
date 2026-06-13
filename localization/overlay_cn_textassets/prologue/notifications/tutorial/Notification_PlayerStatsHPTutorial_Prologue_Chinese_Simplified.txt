@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_PlayerStatsHPTutorial_Prologue.Name} 生命值
+{Prologue.Notifications.Tutorial.Notification_PlayerStatsHPTutorial_Prologue.Description} 受伤时减少，可用“疗伤药膏”恢复

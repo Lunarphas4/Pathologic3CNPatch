@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_3.Day9_Q12_3_MM_Ladder.Name} 疑点
+{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_3.Day9_Q12_3_MM_Ladder.Description} 那士兵本应爬上去找孩子们。他们对此能知道些什么？

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q1_Trial.Day7_Q1_MM_TrialInTheCathedral.Name} 设身处地
+{Minds2.Days.Day7.Day7_Q1_Trial.Day7_Q1_MM_TrialInTheCathedral.Description} 审判官在大教堂里审案。而今天的审判官，是我。眼前共四桩案。

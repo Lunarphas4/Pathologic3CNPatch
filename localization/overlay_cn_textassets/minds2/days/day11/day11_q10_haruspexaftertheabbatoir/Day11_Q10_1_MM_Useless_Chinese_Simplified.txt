@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q10_HaruspexAfterTheAbbatoir.Day11_Q10_1_MM_Useless.Name} 无用的发现
+{Minds2.Days.Day11.Day11_Q10_HaruspexAfterTheAbbatoir.Day11_Q10_1_MM_Useless.Description} ……可这种菌为何苏醒、那血为何涌出地面——我们一无所知。太迟了。我们在过去漏掉了什么。

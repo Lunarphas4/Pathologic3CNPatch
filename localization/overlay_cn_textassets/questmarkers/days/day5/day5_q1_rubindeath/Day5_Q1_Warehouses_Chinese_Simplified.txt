@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Warehouses.Name} 仓库
+{QuestMarkers.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_Warehouses.Description} 那位知晓西蒙遗体下落的人就藏在仓库。但具体哪里？

@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.Day3.Day3_Q4_MorningExhumation.Day3_Q4_MM_DiggersNote.Name} 劳工们送来了挖坟的便条。
+{ArchiveMinds.Day3.Day3_Q4_MorningExhumation.Day3_Q4_MM_DiggersNote.Description} 工人们送来一张便条，说明他们夜里做了什么。

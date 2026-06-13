@@ -1,0 +1,2 @@
+{UI.Credits.Audio.VladaMironova.Name} Vlada Mironova
+{UI.Credits.Audio.VladaMironova.Description} 草原之声

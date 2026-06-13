@@ -1,0 +1,7 @@
+{UI.CharacterWindow.Tooltips.SaburovaTooltips.Death} 第7天，死于吗啡过量
+{UI.CharacterWindow.Tooltips.SaburovaTooltips.DeathTwo} 第9天，死于积年旧病
+{UI.CharacterWindow.Tooltips.SaburovaTooltips.Intro} 镇上最后一位完整意义上的女主人
+{UI.CharacterWindow.Tooltips.SaburovaTooltips.Adopting} 第1天，收养了一名可能继承她天赋的人
+{UI.CharacterWindow.Tooltips.SaburovaTooltips.OperationBad} 第9天，手术后幸存，但仍陷入昏迷
+{UI.CharacterWindow.Tooltips.SaburovaTooltips.OperationMiddle} 第9天，手术后幸存，但健康受损
+{UI.CharacterWindow.Tooltips.SaburovaTooltips.OperationGood} 第9天，手术后幸存并完全康复

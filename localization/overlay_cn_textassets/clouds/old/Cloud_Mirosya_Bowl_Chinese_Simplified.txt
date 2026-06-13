@@ -1,0 +1,5 @@
+{Clouds.Old.Cloud_Mirosya_Bowl.12695} 动物的血？
+{Clouds.Old.Cloud_Mirosya_Bowl.22551} 动物的血？
+{Clouds.Old.Cloud_Mirosya_Bowl.30682} 草原人的仪式？
+{Clouds.Old.Cloud_Mirosya_Bowl.17584} 这是拿来吃的？
+{Clouds.Old.Cloud_Mirosya_Bowl.13067} 红色，又黏稠。

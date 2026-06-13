@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_MM_IsidorsHouse.Name} 本地医生
+{Minds2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_MM_IsidorsHouse.Description} 西蒙最亲近的朋友和盟友是本地医师伊西多·布拉赫。也许他知道西蒙命运的线索。

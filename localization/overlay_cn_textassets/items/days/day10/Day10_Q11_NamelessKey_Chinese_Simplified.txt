@@ -1,0 +1,3 @@
+﻿{Items.Days.Day10.Day10_Q11_NamelessKey.Name} 无名钥匙
+{Items.Days.Day10.Day10_Q11_NamelessKey.Description} 一把没有锁的钥匙。
+{Items.Days.Day10.Day10_Q11_NamelessKey.Description2} 大教堂看守者的钥匙之一。看起来已经多年未用。

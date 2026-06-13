@@ -1,0 +1,12 @@
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Olgimskiy.11643} 您对自己的能力很有把握。您的同僚阿尔捷米·布拉赫，正从他已故的父亲那里接过城中医者的职责。人们会信任他——就像信任老伊西多一样。这也关系到您。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Olgimskiy.14259} 我认识阿尔捷米。尊敬归尊敬，可他的药剂学只拿过‘及格’。拉丁文也不怎么样。所以别把判断强塞给我。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Olgimskiy.16792} 阿尔捷米懂自己的事。会懂的。很快。至于通行的药剂学，在这里不管用，您很快就会确信这一点。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Olgimskiy.27744} 科学对所有人都是一样的。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Olgimskiy.13547} 年轻人，年轻人……指挥部负责人不该弄脏自己的手，对吗？我听说为了帮您，半座城都被调动起来了。屠宰场空了，人人都去为您效力。真了不起……
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Olgimskiy.9602} 紧急状态。而且屠宰场是什么？
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Olgimskiy.30021} 没人告诉您？我的姓氏曾管理这片土地上最早的工场。我们喂养并养大了这座城。如今屠宰场是公牛计划的心脏。您就当是把我们的血拿去用了。请您好好看着您的人，也看着我的人。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Olgimskiy.23296} 别教我怎么管人。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Olgimskiy.26013} 也许您不太方便当众同我谈话。您这么忙着维持脸面——小心别因此漏掉重要的东西。我理解，场合要求嘛。之后我们私下谈。请到凝块来——我那座古老、好客的宅邸。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Olgimskiy.27740} 也就是说，您藏了什么？这就更有意思了。当然，我们会谈。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Olgimskiy.28410} 您现在可真有热情。我相信您会把事做对。愿上帝让命运妥善使用您。我和我的同伴一样，请您用自己最好的知识来对抗这场疫病。
+{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Olgimskiy.13044} 我听完了。

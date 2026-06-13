@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Hospital.Day10.Hospital_Kira.Hospital_Kira_Bank.Name} 戈尔洪河岸
+{QuestMarkers.Hospital.Day10.Hospital_Kira.Hospital_Kira_Bank.Description} 基拉的东家斯塔霍亚克在河边干着可疑的事。

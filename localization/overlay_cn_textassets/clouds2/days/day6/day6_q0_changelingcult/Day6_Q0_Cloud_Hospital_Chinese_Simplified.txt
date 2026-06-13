@@ -1,0 +1,4 @@
+{Clouds2.Days.Day6.Day6_Q0_ChangelingCult.Day6_Q0_Cloud_Hospital.17537} 没有病人，就没有医院。
+{Clouds2.Days.Day6.Day6_Q0_ChangelingCult.Day6_Q0_Cloud_Hospital.19690} 没有病人，就没有医院。
+{Clouds2.Days.Day6.Day6_Q0_ChangelingCult.Day6_Q0_Cloud_Hospital.12573} 对他们来说，奇迹比科学更重要……
+{Clouds2.Days.Day6.Day6_Q0_ChangelingCult.Day6_Q0_Cloud_Hospital.888} 但愿他们之后别跑回来。

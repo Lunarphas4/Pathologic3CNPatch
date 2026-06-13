@@ -1,0 +1,3 @@
+{Npcs.Maid.Name} 卡佩拉的女仆
+{Npcs.Maid.FullName} ⁠
+{Npcs.Maid.Description} ⁠

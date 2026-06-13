@@ -1,0 +1,2 @@
+{Prologue.Notifications.Notification_Prologue_Day1.Name} 第一天，
+{Prologue.Notifications.Notification_Prologue_Day1.Description} 西蒙·凯恩神秘地避开了与学者的会面

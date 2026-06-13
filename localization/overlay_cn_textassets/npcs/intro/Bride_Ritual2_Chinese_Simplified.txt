@@ -1,0 +1,3 @@
+{Npcs.Intro.Bride_Ritual2.Name} 艾娜
+{Npcs.Intro.Bride_Ritual2.FullName} ⁠
+{Npcs.Intro.Bride_Ritual2.Description} ⁠

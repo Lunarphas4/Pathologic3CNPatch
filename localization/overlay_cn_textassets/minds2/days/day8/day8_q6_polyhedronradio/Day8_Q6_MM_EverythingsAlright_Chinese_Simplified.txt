@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_EverythingsAlright.Name} 与我无关
+{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_EverythingsAlright.Description} 算不上什么大事。今日整个镇都在发疯，这只是其中最小的一件怪事。

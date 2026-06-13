@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Atrium.Name} 柳里切娃街
+{QuestMarkers.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Atrium.Description} 有意思。我亲自去看看这条街是怎么"运作"的。

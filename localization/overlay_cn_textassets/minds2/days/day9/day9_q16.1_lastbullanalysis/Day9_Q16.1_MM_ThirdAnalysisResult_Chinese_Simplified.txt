@@ -1,0 +1,2 @@
+{Minds2.Days.Day9.Day9_Q16.1_LastBullAnalysis.Day9_Q16.1_MM_ThirdAnalysisResult.Name} 洁净
+{Minds2.Days.Day9.Day9_Q16.1_LastBullAnalysis.Day9_Q16.1_MM_ThirdAnalysisResult.Description} 检测显示沙疫颗粒急剧减少。仿佛它战胜了疾病？如果这头公牛完全恢复……那就有话可说了

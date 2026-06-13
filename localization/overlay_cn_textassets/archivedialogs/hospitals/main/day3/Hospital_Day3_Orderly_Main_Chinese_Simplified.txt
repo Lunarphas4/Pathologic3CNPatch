@@ -1,0 +1,14 @@
+{ArchiveDialogs.Hospitals.Main.Day3.Hospital_Day3_Orderly_Main.3711} 日安，医生！我赶着通知您，您今天在医院的逗留会很平静，但很悲伤。
+{ArchiveDialogs.Hospitals.Main.Day3.Hospital_Day3_Orderly_Main.17505} 悲伤——对医生来说是个陌生词。
+{ArchiveDialogs.Hospitals.Main.Day3.Hospital_Day3_Orderly_Main.26533} 以我的经验，这种说法通常要反着理解。
+{ArchiveDialogs.Hospitals.Main.Day3.Hospital_Day3_Orderly_Main.25637} 真难相信今天我能休息。
+{ArchiveDialogs.Hospitals.Main.Day3.Hospital_Day3_Orderly_Main.17153} 由您决定，医生。我的任务只是通知您患者的事。今天来的会是嘲鸫。
+{ArchiveDialogs.Hospitals.Main.Day3.Hospital_Day3_Orderly_Main.14717} 你们城里人的名字真怪。
+{ArchiveDialogs.Hospitals.Main.Day3.Hospital_Day3_Orderly_Main.19486} 好吧，他的档案在哪儿？
+{ArchiveDialogs.Hospitals.Main.Day3.Hospital_Day3_Orderly_Main.3955} 哦，恐怕您没明白。来见您的会是那个嘲鸫。死亡列车唯一的幸存者。
+{ArchiveDialogs.Hospitals.Main.Day3.Hospital_Day3_Orderly_Main.21755} “死亡列车”——真俗气。我们这是在三流连载小说里吗？
+{ArchiveDialogs.Hospitals.Main.Day3.Hospital_Day3_Orderly_Main.30371} 详细说说，他出了什么事？
+{ArchiveDialogs.Hospitals.Main.Day3.Hospital_Day3_Orderly_Main.28052} 这故事比任何虚构都可怕。城里宣布隔离的时候，足有三分之一的人冲出去想逃。有人传言，说只要付钱，就能搭货运列车离开。乘客挤得黑压压一片。可事实上根本没人打算把他们运走，于是那些人在车厢里待了整整一天。说是待了一天，可乘客里还有感染沙疫的人……总之，嘲鸫是唯一一个靠自己的腿从里面走出来的人，而不是被坟场小车推出来。
+{ArchiveDialogs.Hospitals.Main.Day3.Hospital_Day3_Orderly_Main.17905} 这确实是个可怕的故事。希望我能帮到这个人。
+{ArchiveDialogs.Hospitals.Main.Day3.Hospital_Day3_Orderly_Main.28937} 这种故事在我的工作里只是日常。你这篇长篇叙述只是浪费了我的时间。把患者档案给我。
+{ArchiveDialogs.Hospitals.Main.Day3.Hospital_Day3_Orderly_Main.5637} 没必要讲细节，带我去见他。

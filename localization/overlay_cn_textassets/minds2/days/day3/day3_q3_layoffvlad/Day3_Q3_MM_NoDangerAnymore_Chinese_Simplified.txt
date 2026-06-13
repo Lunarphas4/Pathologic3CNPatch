@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q3_MM_NoDangerAnymore.Name} 我即律法
+{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q3_MM_NoDangerAnymore.Description} 我已经接掌大权。从今以后，全镇如何抗疫将由我决断。指挥部就设在静水观星台。

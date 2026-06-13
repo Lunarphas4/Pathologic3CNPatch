@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_Polyhedron.Name} 玻璃塔
+{QuestMarkers.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_Polyhedron.Description} 多面体战胜了大地之重。士兵则没有。

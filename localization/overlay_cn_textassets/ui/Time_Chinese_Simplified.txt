@@ -1,0 +1,2 @@
+{UI.Time.TimeName} 剩余时间：
+{UI.Time.Day} 天

@@ -1,0 +1,2 @@
+{Symptoms.KojaPesok.Name} 沙色皮肤
+{Symptoms.KojaPesok.Description} 皮肤呈异常的沙土色，可能提示特殊感染或代谢异常。

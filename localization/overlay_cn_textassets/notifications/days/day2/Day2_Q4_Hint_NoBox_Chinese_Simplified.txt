@@ -1,0 +1,2 @@
+{Notifications.Days.Day2.Day2_Q4_Hint_NoBox.Name} ⁠
+{Notifications.Days.Day2.Day2_Q4_Hint_NoBox.Description} 我把伊西多尔的包裹留在了他的书房。一种奇异的失落感涌上心头。

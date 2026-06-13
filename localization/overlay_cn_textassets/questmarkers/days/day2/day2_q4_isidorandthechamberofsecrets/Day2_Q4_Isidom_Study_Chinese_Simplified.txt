@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_Isidom_Study.Name} 伊西多尔的宅子
+{QuestMarkers.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_Isidom_Study.Description} 今日我可以勘查伊西多尔的书房。

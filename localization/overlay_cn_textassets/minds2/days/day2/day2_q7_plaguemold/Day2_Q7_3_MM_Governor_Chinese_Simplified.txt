@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_3_MM_Governor.Name} 噩耗使者
+{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_3_MM_Governor.Description} 除了我，还有谁会去警告萨布罗夫总督？

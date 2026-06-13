@@ -1,0 +1,16 @@
+{UI.LootBox.LootBoxHeaders.ChestOfDrawers} 斗柜抽屉
+{UI.LootBox.LootBoxHeaders.DeskDrawer} 书桌抽屉
+{UI.LootBox.LootBoxHeaders.Cabinet} 柜子
+{UI.LootBox.LootBoxHeaders.Box} 盒子
+{UI.LootBox.LootBoxHeaders.Marauder} 掠夺者
+{UI.LootBox.LootBoxHeaders.Cart} 手推车
+{UI.LootBox.LootBoxHeaders.Watch} 时钟
+{UI.LootBox.LootBoxHeaders.Container} 容器
+{UI.LootBox.LootBoxHeaders.Wardrobe} 衣柜
+{UI.LootBox.LootBoxHeaders.Commode} 斗柜
+{UI.LootBox.LootBoxHeaders.Corpse} 尸体
+{UI.LootBox.LootBoxHeaders.BoilerDoor} 炉门
+{UI.LootBox.LootBoxHeaders.Chest} 箱子
+{UI.LootBox.LootBoxHeaders.Backpack} 背包
+{UI.LootBox.LootBoxHeaders.Suitcase} 行李箱
+{UI.LootBox.LootBoxHeaders.Bell} 铃铛

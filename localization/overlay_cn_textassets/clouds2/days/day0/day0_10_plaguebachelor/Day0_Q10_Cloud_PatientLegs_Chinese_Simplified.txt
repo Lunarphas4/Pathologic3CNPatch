@@ -1,0 +1,4 @@
+{Clouds2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Cloud_PatientLegs.7723} 疼痛
+{Clouds2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Cloud_PatientLegs.53733} 疼痛
+{Clouds2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Cloud_PatientLegs.928} 疼痛无法缓解
+{Clouds2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Cloud_PatientLegs.5291} 持续疼痛

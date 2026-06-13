@@ -1,0 +1,18 @@
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.34490} 小钉，你这个小流氓！立刻离开医院！去！你会感染，会死，我到底说过多少遍！
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.32721} 走开，tenegh。我在准备手术。我要把手伸进这个 Boddho（大地母亲）之子的腹腔，而他的身体被你们囚禁着。我必须调好正确的混合物，让 medhrel（感知） 听见我。告诉我，albatan：那个叫多尼德的病人怎么样？
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.28331} 他死了。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.30782} 很好。这样我的手术刀在他的纹路中寻找道路时，他会安静躺着。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.38554} 先生们，你们在做什么？
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.6945} 医生，请别生气！这孩子幻想自己现在是伊西多尔，不过我们马上把他赶走……
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.45739} 我倒宁愿说，他是在扮演小布拉赫。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.63804} 这不是游戏，emshen（医者）。我不再是孩子。我是另一个人。熊追随 Boddho（大地母亲）的道路走到了尽头。他的身体吊在绳子上，tere sülöötei。现在我是他的身体，也是他的灵魂。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.29872} 好极了。请提醒我：你最近闯进过伊西多尔的房子，对吧？
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.31176} 我凭权利进入我父亲的房子，emshen（医者）。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.48589} 二十四号？请回到你的职责上去。我会和这位年轻先生谈谈。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.20703} 如您所愿，医生。还有你，小不点，记住我盯着医院的库存！要是少了什么，我就来找你。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.15054} 你也可以盯着尸体，确保孩子们别在这里做解剖！
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.4971} 你的热忱值得称赞，二十四号。但这里是特殊情况。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.52253} 这不是游戏，emshen（医者）。我不再是孩子。我是另一个人。熊在外面同草原说话时，我就是熊。他让我负责，emshen（医者）。我是他的声音。
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.16776} 护理员二十四号，请报告：为什么一个十岁的孩子在我们医院做手术？
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.18526} 喂，我其实十四岁！我是说，二十六岁……
+{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StickyAndMortus_Uninvited.12669} 在这镇上，剖开尸体是被禁止的。但孩子做什么都被允许。那么孩子能不能解剖尸体？看来这里有一个矛与盾的悖论。

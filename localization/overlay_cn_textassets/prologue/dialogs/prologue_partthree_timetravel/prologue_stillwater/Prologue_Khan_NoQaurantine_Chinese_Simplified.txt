@@ -1,0 +1,16 @@
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_Stillwater.Prologue_Khan_NoQaurantine.32122} 还记得我们的请求吗？现在有五百个孩子待在多面体塔里，确切地说是五百二十二个！还不包括我。\n\n这座塔完全承受得住我们的重量。别下令疏散，绝对不行！
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_Stillwater.Prologue_Khan_NoQaurantine.31497} 你在这儿做什么，小鬼？你应该待在多面体里！
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_Stillwater.Prologue_Khan_NoQaurantine.12982} 你们已经解除隔离了。而且我们不是说好了吗，不准再叫我小鬼！
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_Stillwater.Prologue_Khan_NoQaurantine.10816} 那是我<b>刚刚</b>才签署的！墨迹都还没干透！
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_Stillwater.Prologue_Khan_NoQaurantine.17814} 您活在自己特殊的时间线里呢，丹科夫斯基医生。要我说，您签署法令怕是花了相当长的时间吧？\n\n这会儿功夫，天气转晴，隔离令早成了过眼云烟。干脆出去看看你亲手造就的局面吧，怎么样？
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_Stillwater.Prologue_Khan_NoQaurantine.29964} 我会去亲眼看看。在你们这镇上，我的法令通常可没这么受欢迎。
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_Stillwater.Prologue_Khan_NoQaurantine.23032} 古话说得好，<b>举手之劳</b>。
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_Stillwater.Prologue_Khan_NoQaurantine.2046} 是我失礼了，年轻人。我总是忘记凯恩家孩子比同龄人早熟。
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_Stillwater.Prologue_Khan_NoQaurantine.11214} 出去看看那座多面体吧。它屹立不倒，而且会永远屹立下去，因为它是永恒的。这种杰作怎么可能会坍塌？那有违常理。\n\n你会亲眼看到，颁布法令之后，这座小镇发生了什么样的变化。
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_Stillwater.Prologue_Khan_NoQaurantine.13206} 墨迹都还没干。那个阴郁的男孩小钉去哪了？他得把文件紧急送往指挥部。
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_Stillwater.Prologue_Khan_NoQaurantine.11869} 我们昨天说好了，在彻底研究清楚那座奇迹之塔的屹立原理前，我不作任何承诺。
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_Stillwater.Prologue_Khan_NoQaurantine.2064} 它是最理想的隔离病房，位于地面之上，又是玻璃构造，还在河对岸。我们根本不会感染沙疫。
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_Stillwater.Prologue_Khan_NoQaurantine.28467} 你们面临的是塔楼坍塌的危险，感染沙疫不一定会死，但多面体倒了，你们的死亡率是百分之百。
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_Stillwater.Prologue_Khan_NoQaurantine.2593} 你这么说的话，我是不是可以这么理解：你已经不把沙疫视作威胁了？
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_Stillwater.Prologue_Khan_NoQaurantine.18573} 怎么？
+{Prologue.Dialogs.Prologue_PartThree_TimeTravel.Prologue_Stillwater.Prologue_Khan_NoQaurantine.7362} 纯属夸大其词。你有没有听说过<b>矛盾修饰法</b>这个术语？

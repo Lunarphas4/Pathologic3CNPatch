@@ -1,0 +1,2 @@
+{Notifications.Tutorial.ShabnakTutorial.Notification_ShabnakTutorial_2.Name} ⁠
+{Notifications.Tutorial.ShabnakTutorial.Notification_ShabnakTutorial_2.Description} 篝火能减缓她。

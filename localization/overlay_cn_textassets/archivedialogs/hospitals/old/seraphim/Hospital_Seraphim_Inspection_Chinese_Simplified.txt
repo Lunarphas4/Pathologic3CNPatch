@@ -1,0 +1,4 @@
+{ArchiveDialogs.Hospitals.Old.Seraphim.Hospital_Seraphim_Inspection.1705} 做点什么！求您了！实在受不了了！
+{ArchiveDialogs.Hospitals.Old.Seraphim.Hospital_Seraphim_Inspection.6398} 我在考虑你的情况。在考虑。
+{ArchiveDialogs.Hospitals.Old.Seraphim.Hospital_Seraphim_Inspection.20796} 让我看看你。
+{ArchiveDialogs.Hospitals.Old.Seraphim.Hospital_Seraphim_Inspection.796} 安静，现在我要取你的样本。

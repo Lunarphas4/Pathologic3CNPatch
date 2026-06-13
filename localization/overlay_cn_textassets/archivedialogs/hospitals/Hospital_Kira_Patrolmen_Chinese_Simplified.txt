@@ -1,0 +1,7 @@
+{ArchiveDialogs.Hospitals.Hospital_Kira_Patrolmen.23178} 晚上好，丹科夫斯基先生。您知道那种把水运走、不是运来的运水人该叫什么吗？
+{ArchiveDialogs.Hospitals.Hospital_Kira_Patrolmen.23989} 我没心情听双关笑话。你们为什么把水运走？
+{ArchiveDialogs.Hospitals.Hospital_Kira_Patrolmen.28334} 嗐，军队的命令。说是士兵们从桶里怎么着就……
+{ArchiveDialogs.Hospitals.Hospital_Kira_Patrolmen.17589} 运水车……城里还嫌不够紧张吗。水现在比金子还贵。
+{ArchiveDialogs.Hospitals.Hospital_Kira_Patrolmen.25515} 没水的话，离民乱也不远了。人要把谁叉起来的！
+{ArchiveDialogs.Hospitals.Hospital_Kira_Patrolmen.19390} 你们去市政厅问。这样的命令绝不是我下的。别打着我的名义执行什么苛令。
+{ArchiveDialogs.Hospitals.Hospital_Kira_Patrolmen.27133} 一会儿叫我们去这儿，一会儿叫我们去那儿……你们自己连文书都弄不明白，却要我们跑腿。你们坐在办公室里，人们没水受罪。

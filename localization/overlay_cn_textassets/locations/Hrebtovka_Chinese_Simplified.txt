@@ -1,0 +1,2 @@
+﻿{Locations.Hrebtovka.Name} 脊梁区
+{Locations.Hrebtovka.Description} 脊梁区

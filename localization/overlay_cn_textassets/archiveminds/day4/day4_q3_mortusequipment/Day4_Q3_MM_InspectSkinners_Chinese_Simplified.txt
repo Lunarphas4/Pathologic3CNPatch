@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_MM_InspectSkinners.Name} 瘟疫正在剥皮场肆虐。怎么会这样？
+{ArchiveMinds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_MM_InspectSkinners.Description} 剥皮场出现了新病例。我们的措施还不够吗？我得去那里调查。

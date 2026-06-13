@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_1_MM_IAmADoctor.Name} 二诊
+{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_1_MM_IAmADoctor.Description} 萨布罗夫要我以医生的眼光去"诊断"那栋屋子。我还从未接过这般庞大的病人。

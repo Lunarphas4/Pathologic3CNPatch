@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_MapAddPointTutorial.Name} 规划路线
+{Notifications.Tutorial.Notification_MapAddPointTutorial.Description} 这镇不过是一串城区。而 <InputActions/Map/AddOrRemovePointHint> 选定这串顺序的人——是我。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_2_MM_BloodLines.Name} 骨肉相连
+{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_2_MM_BloodLines.Description} 弗拉德试图保护他的女儿与继承人。可卡佩拉把罪责揽到了自己身上。

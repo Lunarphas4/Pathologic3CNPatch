@@ -1,0 +1,17 @@
+﻿{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Rubin_Introduction.8604} 我听说过你，丹科夫斯基。你会惊讶的，我听说过很多关于你的事。\n\n现在不谈。泥土正落在我导师的遗体上。但总有一天，我们会谈的。也许明天。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Rubin_Introduction.11665} 恕我直言，我从没听说过你。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Rubin_Introduction.44277} 少在我面前装得文绉绉的。你是为西蒙而来，因为他选了你做继承人。对吗？
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Rubin_Introduction.14178} 什么？不。我甚至从没同他说过话！我是来研究他的。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Rubin_Introduction.56936} 你真蠢，丹科夫斯基。首都那么多医生，他偏偏选了你，而你竟然还不明白。\n\n我会解释给你听。但不是在我导师的墓前，也不是背着我的宿敌。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Rubin_Introduction.14888} 我在调查西蒙这一现象。关于他的死，你知道些什么？
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Rubin_Introduction.23629} 闭嘴。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Rubin_Introduction.41186} 说话小心点。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Rubin_Introduction.57855} 好吧。我们晚些再谈。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Rubin_Introduction.2218} “宿敌”……多么悲壮啊！
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Rubin_Introduction.30098} 为西蒙而来，是的。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Rubin_Introduction.14864} 你是伊西多尔的弟子？
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Rubin_Introduction.15763} 你是西蒙的弟子？
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Rubin_Introduction.43175} 你偷走了西蒙的遗体。别装傻。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Rubin_Introduction.32311} ……你是为西蒙而来，因为他选了你做继承人。对吗？
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Rubin_Introduction.60100} 不好意思，我说过了，别装傻。
+{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Rubin_Introduction.58541} 我不会逃，也不会躲。我们会谈的。但不是在我导师的墓前，也不是背着我的宿敌。还有，少在我面前装得文绉绉的。

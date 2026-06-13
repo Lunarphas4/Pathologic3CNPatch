@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_3_MM_SecondOpinion.Name} 二诊
+{Minds2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_3_MM_SecondOpinion.Description} 利特尔请我用显微镜看看那位病人的组织。

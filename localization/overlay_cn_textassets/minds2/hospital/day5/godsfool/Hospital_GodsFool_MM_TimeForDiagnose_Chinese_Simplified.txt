@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day5.GodsFool.Hospital_GodsFool_MM_TimeForDiagnose.Name} 沉重负担
+{Minds2.Hospital.Day5.GodsFool.Hospital_GodsFool_MM_TimeForDiagnose.Description} 波博克有记忆问题。不过他不记得自己一半的不幸，也许反而是好事？

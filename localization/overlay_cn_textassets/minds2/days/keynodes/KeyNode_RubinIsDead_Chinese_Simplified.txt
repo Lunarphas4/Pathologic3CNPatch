@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_RubinIsDead.Name} 鲁宾之死
+{Minds2.Days.KeyNodes.KeyNode_RubinIsDead.Description} 斯坦尼斯拉夫·鲁宾死了。

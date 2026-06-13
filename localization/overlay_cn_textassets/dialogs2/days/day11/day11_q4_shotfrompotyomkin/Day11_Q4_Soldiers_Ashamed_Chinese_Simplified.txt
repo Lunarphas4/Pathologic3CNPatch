@@ -1,0 +1,14 @@
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Ashamed.8573} 我参军是为了真理……结果就是这样？先把我们派到世界尽头，现在又要把人拉去墙边枪决……我该怎么跟母亲说？她会问我服役怎样——我该怎么回答？
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Ashamed.33763} 别哼唧了行不行！我已经够难受了……是真的难受——我快吐了……
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Ashamed.37475} 为了真理参军？你知道“矛盾修饰”是什么意思吗？
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Ashamed.63859} 别在这儿跟我来这套！你才是蠢货！你又懂什么？我们的布洛克将军是最公正的将军——他绝不会给我们下那种命令！……可结果我们……现在还有什么脸见他？
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Ashamed.28691} 你是医生，对吧？有什么止吐药吗？或者——见鬼——反过来也行……我得把胃清空……
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Ashamed.55393} 出汗、震颤……食物中毒？
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Ashamed.29845} 中毒……还是被面包和马戏毒的——呸。
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Ashamed.5070} 你也看见了——他们全都……你知道吧？某种意义上像打仗，可又完全不一样！这不是往敌人的壕沟里扔手榴弹……
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Ashamed.21263} 你在说什么？
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Ashamed.46701} 先告诉我这里发生了什么。士兵为什么这么紧张？刚才有炮声。
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Ashamed.23124} 怎么回事？你听见了吗——镇上响炮了？
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Ashamed.43712} 你自己去野战厨房看看就明白。我不想描述——会把我说吐。
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Ashamed.24195} 看来我该稳住神经。也稳住胃。
+{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Ashamed.55552} 炮击和野战厨房该怎么扯上关系？嗯。

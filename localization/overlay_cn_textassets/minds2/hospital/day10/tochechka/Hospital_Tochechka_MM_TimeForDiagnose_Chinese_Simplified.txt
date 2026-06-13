@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day10.Tochechka.Hospital_Tochechka_MM_TimeForDiagnose.Name} 不能再拖
+{Minds2.Hospital.Day10.Tochechka.Hospital_Tochechka_MM_TimeForDiagnose.Description} 利特尔忆起了一名症状与他相同的病人。那人嘴唇也受了累。值得记下。

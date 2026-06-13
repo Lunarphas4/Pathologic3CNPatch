@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q9_MariaJudith.Day10_Q9_1_MM_Enemies.Name} 仇敌
+{Minds2.Days.Day10.Day10_Q9_MariaJudith.Day10_Q9_1_MM_Enemies.Description} 瞧瞧我看见了谁！玛丽亚·凯娜——和审判官在一起！这两个人凑在一处，我可没想到。

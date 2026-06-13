@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Skinners_Approximate.Name} 剥皮匠区
+{QuestMarkers.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Skinners_Approximate.Description} 我的工人大概就在这一带偷懒——筑路障的人、贴告示的高手。我说不出更精确的位置

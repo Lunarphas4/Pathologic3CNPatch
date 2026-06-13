@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_4_MM_InnerPeace.Name} 最后一焦
+{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_4_MM_InnerPeace.Description} 自始至终，西蒙都只是暂时把高塔的统治权交给孩子。如今时辰已到。

@@ -1,0 +1,3 @@
+{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Diagnoses.Name} 正确诊断
+{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Diagnoses.Description} 我很有信心，因为我在医院做出了正确诊断。我的手感还在。
+{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Diagnoses.Description2} 我很有信心，因为我在医院做出了正确诊断。我的手感还在。

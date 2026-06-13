@@ -1,0 +1,2 @@
+{Notifications.Old.Notification_OpenInventory.Name} 按 <InputActions/UI/Inventory> 打开旅行包
+{Notifications.Old.Notification_OpenInventory.Description} 按 <InputActions/UI/Inventory> 打开旅行包

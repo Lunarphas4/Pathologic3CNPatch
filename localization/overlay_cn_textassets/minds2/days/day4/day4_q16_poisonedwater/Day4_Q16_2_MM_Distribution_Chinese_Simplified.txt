@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_2_MM_Distribution.Name} 人人有水，分文不取
+{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_2_MM_Distribution.Description} 全镇正因渴而病时，那间庇护所却向任何讨水的人施水。简直天堂！但那水我可得查一查。

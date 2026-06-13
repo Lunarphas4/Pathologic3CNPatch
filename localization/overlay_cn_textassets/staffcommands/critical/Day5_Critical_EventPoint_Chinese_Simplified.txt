@@ -1,0 +1,3 @@
+{StaffCommands.Critical.Day5_Critical_EventPoint.Title} 发病激增
+{StaffCommands.Critical.Day5_Critical_EventPoint.Description} 当局把实验疗法用在了镇民身上，而这场试验失败了。
+{StaffCommands.Critical.Day5_Critical_EventPoint.Summary} 导致传染扩散

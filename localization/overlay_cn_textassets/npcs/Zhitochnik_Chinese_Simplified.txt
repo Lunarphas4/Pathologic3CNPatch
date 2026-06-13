@@ -1,0 +1,3 @@
+{Npcs.Zhitochnik.Name} 病人硬汉
+{Npcs.Zhitochnik.FullName} ⁠
+{Npcs.Zhitochnik.Description} ⁠

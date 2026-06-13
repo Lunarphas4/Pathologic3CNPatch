@@ -1,0 +1,3 @@
+﻿{Items.Days.Day1.Day1_Q1_GetSchemes.Day1_Q1_Blueprint.Name} 多面体蓝图
+{Items.Days.Day1.Day1_Q1_GetSchemes.Day1_Q1_Blueprint.Description} 能让人仿佛从天上俯瞰的作品。
+{Items.Days.Day1.Day1_Q1_GetSchemes.Day1_Q1_Blueprint.Description2} 由彼得·斯塔马京绘制。再晚一点，他就会把它们烧掉——他已经设法将它们托付给了大地。彼得与自己的造物关系复杂。

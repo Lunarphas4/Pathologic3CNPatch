@@ -1,0 +1,26 @@
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.5891} 啊！这次算你赢！
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.23802} 我跟你说过可汗不在里面！
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.21422} 你们这些孩子到底在这里做什么？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.37561} 找可汗。他应该在地上某个地方，可地这么大。是不是你绑架了他？招了吧！
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.19889} 你们在这里很久了吗？顺便问一句，你们见过什么可疑的人吗？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.39584} 当然见过。事实上，一个可疑人物刚从锁着的书房里出来。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.50646} 他去哪儿了？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.13610} 哪也没去！他就站在这里，问蠢问题。非常可疑。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.16224} 很可疑。极其可疑。把口袋翻出来，可疑先生！最好别让我们在里面找到可汗。他绑架了可汗，我从他眼睛里看得出来！
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.15229} 可汗被绑架了？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.10605} 他不知道消失到哪儿去了，我们来找他。我们查了每张床底、每个抽屉，可哪里都找不到。 你刚才在书房里。你有没有碰巧在那里见过他？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.1219} 我怀疑他在里面找不到什么地方可藏。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.38594} 可汗在仓库，正在为你们的人谈赎金。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.42350} 可汗在仓库，被关在狗笼里，啃着一根骨头。奇怪的是，没人通知你们。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.57380} 哈哈！可汗真有两下子，对吧？你在书房里看到的就是这个？他到底在哪里？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.24822} 我没见到那种事。事实上，我在书房里几乎什么也没看见。但他和一又二分之一灵魂帮在他们“堡垒”里的谈判，我倒是在场。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.12430} 然后呢？谈判怎么样？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.33680} ……我想你们能猜到。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.50097} 我为什么要向你们两个汇报？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.50230} 等被救的俘虏跑回来吧。他会告诉你们所有细节。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.4321} 你们非要玩闹不可，是吗？我问的是严肃问题。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.52168} 没玩闹，头儿！我们是真的在找可汗。床底和抽屉全查过了，哪儿都没有。你刚从书房出来，碰巧看见他了吗？
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.43275} 我没有绑架任何人。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.13616} 每个绑架犯都这么说。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.9751} 很好笑。
+{Dialogs2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Dogheads_WheresKhan.52907} 我们现在没空好笑，头儿！我们在找可汗！每张床底、每个抽屉都查过了，可哪里都没有。你刚从书房出来，碰巧看见他了吗？

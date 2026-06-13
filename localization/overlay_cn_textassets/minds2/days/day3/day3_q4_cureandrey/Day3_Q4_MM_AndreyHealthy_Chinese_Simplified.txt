@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_MM_AndreyHealthy.Name} 壮如一头马
+{Minds2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_MM_AndreyHealthy.Description} 安德烈的健康起初似乎并无大碍。

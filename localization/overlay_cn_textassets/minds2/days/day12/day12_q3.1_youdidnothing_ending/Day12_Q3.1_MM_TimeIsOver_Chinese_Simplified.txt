@@ -1,0 +1,2 @@
+{Minds2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_MM_TimeIsOver.Name} 夜幕降临
+{Minds2.Days.Day12.Day12_Q3.1_YouDidNothing_Ending.Day12_Q3.1_MM_TimeIsOver.Description} 时间耗尽了。再没有人等我了

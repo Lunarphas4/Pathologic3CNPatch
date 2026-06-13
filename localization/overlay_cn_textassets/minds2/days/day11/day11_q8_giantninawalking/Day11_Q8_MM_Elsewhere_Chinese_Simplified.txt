@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_MM_Elsewhere.Name} 无处不在，亦无处可寻
+{Minds2.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_MM_Elsewhere.Description} 妮娜去了哪里？四面八方。证人之言相互龃龉，各指一方。

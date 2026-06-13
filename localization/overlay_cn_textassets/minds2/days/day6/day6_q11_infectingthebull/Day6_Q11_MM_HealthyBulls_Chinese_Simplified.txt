@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_HealthyBulls.Name} 奇迹之牛
+{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_HealthyBulls.Description} 据报，公牛是沙疫的无症状携带者。它们的免疫系统能击退感染。该研究一头牛了！可上哪儿弄来呢？

@@ -1,0 +1,3 @@
+{Npcs.Serafima.Name} 谢拉菲玛
+{Npcs.Serafima.FullName} 我的助手
+{Npcs.Serafima.Description} 她是自己找到死亡学院来的——那时我们尚未发表过任何成果。她也是第一个禁止我投稿、命令我修改文章的人。\n谢拉菲玛信奉的是死亡学院，而非"丹科夫斯基学者"这个人。这便是她对我格外珍贵的原因。

@@ -1,0 +1,21 @@
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.37100} 这是什么？你带来了什么，tanikhagui khun（陌生人）？你手里拿着什么？
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.12721} 瘟疫霉斑的样本。
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.63496} 我见过它。五个冬天以前。正因如此，伊西多尔封锁了粗建地，把人锁在屋里。Khunuud khashkharaldaba，他们叫得多惨！它为什么又回来了？怎么会这样？我以为我已经阻止了它……
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.49077} 我是奉萨布罗夫总督之命而来。我在寻找证据，证明新的疫病暴发正在威胁这座镇子。
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.9769} 萨布罗夫是 khen’she；他什么也决定不了。只有 boös（兄长） 能决定。
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.20026} “boös（兄长）”？如果你指的是老奥尔金斯基，那么，他也牵涉其中。是他指引我来这里的。
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.60881} 我是奉奥尔金斯基之命而来。他让我检查这所房子，看是否有瘟疫迹象。而我找到了。
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.5494} Ene unen gu？所以是 boös（兄长） 本人命令你寻找瘟疫？
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.30528} 我已经找到了，这还重要吗？我有样本。欧云，如果你不想被感染，就离开这里。
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.58723} 没错。而且……他还在找某个“工头”。我看见他问手下工头在哪里。那就是你，对吗？你就是这么向我介绍自己的。
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.25532} 若 boös（兄长） 召我，我必须去。Bi khekhe yokhotoib。我们一起走——你要把瘟疫的事告诉他。
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.24388} 你为什么不替我告诉他？我应该留下来……采集更多样本。为了研究。这是奥尔金斯基命令我做的。
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.38471} 弗拉德 boös（兄长） 不可违抗。若你如今也是他的仆人，那就侍奉他。留下，做你该做的事。但不要侮辱伊西多尔洒下的血。
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.57267} 我不会。而且你不在的时候，我也会确保别人不这么做。
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.7587} 我最关心的首先是瘟疫霉斑的样本——仅此而已。
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.32934} 瘟疫已经在这里了。我们必须立刻行动。霉斑样本既是证据，也是研究材料。也许还有机会……
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.36685} 给我！你只会把事情弄得更糟，tanigdaagui khun（陌生人）。够了，shi khangaltatai yuume khee geeshesh！出去！
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.3557} 我向你保证，我心里装着的是镇子和草原的利益。我需要这个样本来……
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.34222} 喂！把手拿开！你没有这个权利！
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.29639} “我以为我已经阻止了它？”这是什么意思？看来你知道瘟疫的事？
+{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_ScaryMold.526} 你很清楚这是什么，欧云。所以你才突然这么不安。

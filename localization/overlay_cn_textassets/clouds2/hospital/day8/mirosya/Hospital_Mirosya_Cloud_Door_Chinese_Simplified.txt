@@ -1,0 +1,5 @@
+{Clouds2.Hospital.Day8.Mirosya.Hospital_Mirosya_Cloud_Door.59034} 锁上了
+{Clouds2.Hospital.Day8.Mirosya.Hospital_Mirosya_Cloud_Door.12913} 锁上了
+{Clouds2.Hospital.Day8.Mirosya.Hospital_Mirosya_Cloud_Door.593} 等有人进去？
+{Clouds2.Hospital.Day8.Mirosya.Hospital_Mirosya_Cloud_Door.52487} 没有母亲，不能进塔皮住的屋子
+{Clouds2.Hospital.Day8.Mirosya.Hospital_Mirosya_Cloud_Door.47232} 但她姐姐提示了还能去哪里找答案

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q5_Cemetery.Name} 最后一程
+{QuestMarkers.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q5_Cemetery.Description} 瘟疫之中，能入土而非付之一炬的人不多。

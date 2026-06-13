@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Intro.Intro_Day1_MM_Utopia.Name} 乌托邦
+{Minds2.Days.Intro.Intro_Day1_MM_Utopia.Description} 多么宁静的地方。如果这片国土上还存在不朽，那一定就在这里。

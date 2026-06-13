@@ -1,0 +1,5 @@
+{Clouds2.Days.Intro.Old.Intro_Cloud_SteppeExecutor.10168} 勤务员和收尸人就是那样打扮的。
+{Clouds2.Days.Intro.Old.Intro_Cloud_SteppeExecutor.2732} 勤务员和收尸人就是那样打扮的。
+{Clouds2.Days.Intro.Old.Intro_Cloud_SteppeExecutor.23754} 有人以为这些长袍能保护他们免受沙疫侵袭。
+{Clouds2.Days.Intro.Old.Intro_Cloud_SteppeExecutor.28778} 我们给他们穿上了本地剧院的破布衣。
+{Clouds2.Days.Intro.Old.Intro_Cloud_SteppeExecutor.6264} 那不是喙，是爪。

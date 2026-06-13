@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q9_RubinAttempt.Day11_Q9_MM_Saint.Name} 圣者
+{Minds2.Days.Day11.Day11_Q9_RubinAttempt.Day11_Q9_MM_Saint.Description} 不管他们怎么说，克拉拉似乎真有显神迹之能。鲁宾伤不了她。

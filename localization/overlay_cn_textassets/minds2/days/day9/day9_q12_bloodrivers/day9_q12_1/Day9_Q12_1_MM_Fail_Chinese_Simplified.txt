@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_1.Day9_Q12_1_MM_Fail.Name} 不接此案
+{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_1.Day9_Q12_1_MM_Fail.Description} 不。我没准备好为这镇上的每件事担责。我是大夫，不是督察、不是探员、不是审判官。让他们自己过日子去吧。

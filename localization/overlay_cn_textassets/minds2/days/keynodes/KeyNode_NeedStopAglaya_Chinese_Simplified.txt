@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_NeedStopAglaya.Name} 侦察
+{Minds2.Days.KeyNodes.KeyNode_NeedStopAglaya.Description} 阿格拉娅自抵镇第一日起便在搜罗多面体危险性的证据。我该插手吗？

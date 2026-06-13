@@ -1,0 +1,9 @@
+{Dialogs2.Citizens.Citizens_Man_NoHospital.21725} 哦，我认识你。你是从首都来的医生，对吧？
+{Dialogs2.Citizens.Citizens_Man_NoHospital.12004} 我们认识吗？
+{Dialogs2.Citizens.Citizens_Man_NoHospital.19840} 你在这儿一定觉得古怪吧。什么镇子会没有学校、没有医院？我一直想不明白。现在闹了瘟疫，我们却连医院都没有。没有医院，你要怎么治人？
+{Dialogs2.Citizens.Citizens_Man_NoHospital.15030} 没你的帮忙我也能应付。
+{Dialogs2.Citizens.Citizens_Man_NoHospital.30378} 确实古怪。他们建了多面体，却没建一座像样的医院。蠢货掌权，事情就会变成这样。
+{Dialogs2.Citizens.Citizens_Man_NoHospital.24364} 医院很快会开，别担心。没有医院可没法对抗瘟疫。
+{Dialogs2.Citizens.Citizens_Man_NoHospital.11338} 不，你弄错了。
+{Dialogs2.Citizens.Citizens_Man_NoHospital.2383} 我不明白，你怎么会认识我？难道镇上到处挂着我的画像？
+{Dialogs2.Citizens.Citizens_Man_NoHospital.26970} 唉，小镇就这么大。这里人人都知道别人的事。你一定觉得古怪吧。什么镇子会没有学校、没有医院？我一直觉得奇怪。眼下正闹疫病，我们却没有医院。没有医院，你要怎么治人？

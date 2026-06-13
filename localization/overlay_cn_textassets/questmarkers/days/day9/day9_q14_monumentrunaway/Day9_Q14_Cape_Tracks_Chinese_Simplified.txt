@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Cape_Tracks.Name} 岬角
+{QuestMarkers.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Cape_Tracks.Description} 野性的妮娜塑像之处——只剩一截残基与一条石屑之痕。

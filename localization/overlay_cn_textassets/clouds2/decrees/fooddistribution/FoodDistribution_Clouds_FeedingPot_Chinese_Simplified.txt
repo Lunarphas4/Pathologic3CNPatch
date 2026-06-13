@@ -1,0 +1,4 @@
+{Clouds2.Decrees.FoodDistribution.FoodDistribution_Clouds_FeedingPot.6758} 好臭！
+{Clouds2.Decrees.FoodDistribution.FoodDistribution_Clouds_FeedingPot.23591} 好臭！
+{Clouds2.Decrees.FoodDistribution.FoodDistribution_Clouds_FeedingPot.1886} 饥饿的人闻不到臭味
+{Clouds2.Decrees.FoodDistribution.FoodDistribution_Clouds_FeedingPot.34124} 糟糕的食物也比饥饿好

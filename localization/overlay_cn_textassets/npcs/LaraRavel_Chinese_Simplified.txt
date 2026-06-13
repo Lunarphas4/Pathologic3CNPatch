@@ -1,0 +1,3 @@
+{Npcs.LaraRavel.Name} 拉拉·拉维尔
+{Npcs.LaraRavel.FullName} 慈悲者
+{Npcs.LaraRavel.Description} 我注意到，这镇上有一些年轻人似乎找不到自己的位置。他们既不追随凯恩家的思想，也不信奉金族的信仰。他们各自寻找道路，却依旧像迷了路一样。拉拉·拉维尔认为，人生的意义就在于开办一所庇护所。

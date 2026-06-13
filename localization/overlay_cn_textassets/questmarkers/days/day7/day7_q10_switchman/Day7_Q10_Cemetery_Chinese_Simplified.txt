@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day7.Day7_Q10_Switchman.Day7_Q10_Cemetery.Name} 墓园
+{QuestMarkers.Days.Day7.Day7_Q10_Switchman.Day7_Q10_Cemetery.Description} 格蕾丝能听见亡者。她能听见扳道工的儿子吗？

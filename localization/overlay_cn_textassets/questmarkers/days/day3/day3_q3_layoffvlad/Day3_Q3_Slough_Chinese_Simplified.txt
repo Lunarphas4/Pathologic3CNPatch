@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q3_Slough.Name} 静水宅
+{QuestMarkers.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q3_Slough.Description} 抗疫所需的一切都会送到这里。

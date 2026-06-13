@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Canary.Name} 矿坑金丝雀
+{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Canary.Description} 昨日起便有一个流浪汉住在屋里。他若仍健康——别人便无虞。

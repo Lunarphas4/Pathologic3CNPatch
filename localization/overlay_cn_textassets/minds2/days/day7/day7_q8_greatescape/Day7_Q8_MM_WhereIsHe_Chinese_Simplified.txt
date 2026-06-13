@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_WhereIsHe.Name} 第一要务
+{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_WhereIsHe.Description} ……这镇里居然有机师？格里夫不是在跟我开玩笑吧？

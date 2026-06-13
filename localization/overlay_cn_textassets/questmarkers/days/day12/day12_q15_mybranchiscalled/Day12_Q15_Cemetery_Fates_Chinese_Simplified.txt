@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Cemetery_Fates.Name} 墓园
+{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Cemetery_Fates.Description} 墓园里还有一些我尚未得知的命运。

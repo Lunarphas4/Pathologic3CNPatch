@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_MM_Georgiy.Name} 谁想做这位裁判？
+{Minds2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_MM_Georgiy.Description} 我告诉了格奥尔基。他认为人比石头要紧，对劫像之人毫无恨意。可他家中其他人，多半不会这么想。

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Hospital.Name} 医院
+{QuestMarkers.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Hospital.Description} 医院某处藏着一批爆竹。

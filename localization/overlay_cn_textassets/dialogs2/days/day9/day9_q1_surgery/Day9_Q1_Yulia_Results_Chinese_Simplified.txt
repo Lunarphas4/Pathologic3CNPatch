@@ -1,0 +1,12 @@
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Yulia_Results.270} 你知道吗，血从我身体里流出去的时候，我似乎感觉到有一根线缠上了我的手。也许是命运之线。谁说得准呢。从那以后，我比自己以为的更担心卡捷琳娜。  所以别拖，丹科夫斯基。我不喜欢医生绕着真相打转。直说吧。手术怎么样？
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Yulia_Results.49515} 谢谢你献血，尤利娅。很遗憾，还是不够。卡捷琳娜没能从手术中活下来。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Yulia_Results.13929} 这样啊。几天前，我们在街上碰过一次面。完全是偶然。她问了句无害的话——问我怎么样，或者类似的话。而我没过脑子，回答得太尖刻。看来，那就是我对她说的最后一句话了。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Yulia_Results.52026} 你把自己的血给了她。我相信这足以抵过任何尖刻。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Yulia_Results.36649} 别开始责怪自己。手术的结果由我承担。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Yulia_Results.57424} 谢谢你献血，尤利娅。卡捷琳娜暂时昏迷。我还不知道她是否会醒来。但我知道一件事：没有你，情况会更糟。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Yulia_Results.10328} 几天前，我们在街上碰过一次面。完全是偶然。她问了句无害的话——问我怎么样，或者类似的话。而我没过脑子，回答得太尖刻。我希望那不是我对她说的最后一句话。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Yulia_Results.25167} 我也希望如此。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Yulia_Results.64659} 卡捷琳娜活下来了。她需要安静和时间，但应该会恢复。之后你可以去看她。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Yulia_Results.1726} 这是个好消息。宽慰总是在意想不到的时候到来，真奇怪。我想我告诉过你——我们不是朋友。地图上的邻居，思想里的陌生人。有时人们比邻而居，却从未真正相遇。我不确定我的探望是否合宜。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Yulia_Results.45264} 现在你们共享过血了。依我看，这种联系值得探究。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Yulia_Results.29105} 探望一个人并不需要友谊。有时那只是基本的礼数。

@@ -1,0 +1,5 @@
+﻿{UI.CharacterWindow.Tooltips.MarkTooltips.Intro} 爱好震撼与先锋艺术的剧院导演
+{UI.CharacterWindow.Tooltips.MarkTooltips.Stillwater} 第2天起，在静水观星台院内排演他的哑剧
+{UI.CharacterWindow.Tooltips.MarkTooltips.Hospital} 第3天，失去了他珍贵的剧院
+{UI.CharacterWindow.Tooltips.MarkTooltips.Pantomime} 第4天，上演了一出关于西蒙的古怪哑剧
+{UI.CharacterWindow.Tooltips.MarkTooltips.Finals} 第12天，声称自己比普通人知道得更多，一如往常

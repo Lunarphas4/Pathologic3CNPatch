@@ -1,0 +1,5 @@
+{UI.Metabolism.MetabolismHints.ApathyCritical} 我已对一切失去兴趣，连活下去都不想
+{UI.Metabolism.MetabolismHints.Apathy} 这座城压得我喘不过气，连时间也被它夺走
+{UI.Metabolism.MetabolismHints.Normal} 我暂时还能维持平衡
+{UI.Metabolism.MetabolismHints.Psyhcosis} 神经紧绷，让我反应更快
+{UI.Metabolism.MetabolismHints.PsychosisCritical} 神经已经绷到极限，心脏也快撑不住了

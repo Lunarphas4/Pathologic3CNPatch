@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_MariaRestless.Name} 宿命论
+{Minds2.Days.KeyNodes.KeyNode_MariaRestless.Description} 玛丽亚未得到关于审判官之死的预兆。

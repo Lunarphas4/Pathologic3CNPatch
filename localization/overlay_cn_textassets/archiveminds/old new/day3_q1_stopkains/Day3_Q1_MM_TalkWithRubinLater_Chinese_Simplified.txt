@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.OldNew.Day3_Q1_StopKains.Day3_Q1_MM_TalkWithRubinLater.Name} 鲁宾在隐瞒什么
+{ArchiveMinds.OldNew.Day3_Q1_StopKains.Day3_Q1_MM_TalkWithRubinLater.Description} 鲁宾很忙，不肯开门。我改天再和他谈。

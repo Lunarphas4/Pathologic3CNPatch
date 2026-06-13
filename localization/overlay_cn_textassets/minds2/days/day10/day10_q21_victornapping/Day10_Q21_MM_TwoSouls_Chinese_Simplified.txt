@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_MM_TwoSouls.Name} 内争
+{Minds2.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_MM_TwoSouls.Description} 一名一魂半族似乎了然地告诉我：维克多身上如今住着两个灵魂。这种说法竟与我的观察出奇地吻合。

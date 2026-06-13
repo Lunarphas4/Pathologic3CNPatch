@@ -1,0 +1,4 @@
+{Clouds2.Decrees.Protocol.Protocol_Cloud_SleepingNurse.22274} 我不会打扰她
+{Clouds2.Decrees.Protocol.Protocol_Cloud_SleepingNurse.14337} 我不会打扰她
+{Clouds2.Decrees.Protocol.Protocol_Cloud_SleepingNurse.10170} 为什么没人给她盖条毯子？
+{Clouds2.Decrees.Protocol.Protocol_Cloud_SleepingNurse.22594} 拯救了数百条生命后精疲力竭

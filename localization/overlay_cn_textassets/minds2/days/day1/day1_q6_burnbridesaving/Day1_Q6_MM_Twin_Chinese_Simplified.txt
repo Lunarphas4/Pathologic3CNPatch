@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Twin.Name} 不同的双胞胎
+{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Twin.Description} 显而易见，第一天与我见面的确实是格奥尔基·凯恩。\n我只会在最后见到他的双胞胎兄弟。

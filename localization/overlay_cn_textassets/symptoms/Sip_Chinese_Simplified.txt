@@ -1,0 +1,2 @@
+{Symptoms.Sip.Name} 皮疹
+{Symptoms.Sip.Description} 皮肤上出现多个类似斑点的小肿块，可为红色、黑色或绿色，不同类型提示不同疾病。

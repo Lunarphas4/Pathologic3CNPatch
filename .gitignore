@@ -1,0 +1,56 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# .NET / BepInEx plugin builds
+bin/
+obj/
+*.pdb
+
+# Game installs, extracted assets, release outputs
+Pathologic 3/
+03_game_copy/
+08_assetripper_export/
+10_release/
+10_release_packages/
+output/
+release/
+dist/
+build/
+
+# Unity/game binary assets and archives
+*.assets
+*.resource
+*.bundle
+*.resS
+*.sharedAssets
+*.dll
+*.exe
+*.zip
+*.7z
+*.rar
+
+# Local work/backup folders
+*_backup*/
+backups/
+game_file_backups/
+_archive/
+_backup/
+.codex_tmp/
+.claude/
+.vendor/
+
+# Logs
+*.log
+*.tmp
+*.bak
+*.broken.*

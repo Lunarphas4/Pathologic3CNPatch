@@ -1,0 +1,2 @@
+﻿{CraftRecipes.Tonic_CraftRecipe.Name} 补剂
+{CraftRecipes.Tonic_CraftRecipe.Description} 增加躁狂

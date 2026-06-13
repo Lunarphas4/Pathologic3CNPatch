@@ -1,0 +1,3 @@
+{Days.Day4.Name} 第四天
+{Days.Day4.Description} 新剧季的开幕
+{Days.Day4.Name_StartDay} 第四天，

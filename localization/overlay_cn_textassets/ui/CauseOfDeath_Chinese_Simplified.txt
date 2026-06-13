@@ -1,0 +1,10 @@
+{UI.CauseOfDeath.None} 无人死亡
+{UI.CauseOfDeath.Psychosis} 无法忍受
+{UI.CauseOfDeath.Apathy} 无法坚持
+{UI.CauseOfDeath.Shabnak} Shabnak（泥魔女）不存在
+{UI.CauseOfDeath.Other} 无人死亡
+{UI.CauseOfDeath.Army} 士兵把你锁在一节废弃车厢里，没有食物也没有水。剩下的日子里，你缓慢地死去。
+{UI.CauseOfDeath.Bandit} 人们已经变得野蛮
+{UI.CauseOfDeath.Trap} 被死亡孢子窒息
+{UI.CauseOfDeath.Creeper} 注定之人的拥抱
+{UI.CauseOfDeath.Ghost} 暗影之触

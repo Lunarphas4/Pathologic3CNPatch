@@ -1,0 +1,6 @@
+{ArchiveDialogs.Day6.Q1_ProbeIsCollected.1} 叔叔，该怎么办？我真的病了吗？还是他们污蔑我？
+{ArchiveDialogs.Day6.Q1_ProbeIsCollected.2} 是的。立刻去隔离。
+{ArchiveDialogs.Day6.Q1_ProbeIsCollected.5} 那你从墙上刮下来的这坨会动的东西是什么？
+{ArchiveDialogs.Day6.Q1_ProbeIsCollected.6} 关于这坨会动的东西，年轻人，我必须带回观测室，在放大镜下观察。
+{ArchiveDialogs.Day6.Q1_ProbeIsCollected.7} 这是一次通往过去的考察。看来三天前，我们这种感染的菌株就是这样。
+{ArchiveDialogs.Day6.Q1_ProbeIsCollected.4} 好。我急需一台显微镜。

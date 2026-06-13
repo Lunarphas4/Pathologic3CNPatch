@@ -1,0 +1,4 @@
+{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Flyer_Mask.31736} “口罩能降低感染风险！”
+{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Flyer_Mask.5835} “口罩能降低感染风险！”
+{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Flyer_Mask.28827} “每天更换口罩！”
+{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Flyer_Mask.30740} “交出多余食物——换取口罩！”

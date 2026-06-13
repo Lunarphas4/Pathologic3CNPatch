@@ -1,0 +1,4 @@
+{Clouds2.Characters.Haruspex.3105} 阿尔忒弥·布拉赫
+{Clouds2.Characters.Haruspex.16528} 阿尔忒弥·布拉赫
+{Clouds2.Characters.Haruspex.20597} 医学院辍学生，本地药师之子
+{Clouds2.Characters.Haruspex.5331} 但他的手很温柔

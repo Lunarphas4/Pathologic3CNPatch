@@ -1,0 +1,2 @@
+{UI.Tablet.Seal.Interactable} 确认诊断
+{UI.Tablet.Seal.UnInteractable} 已确认诊断

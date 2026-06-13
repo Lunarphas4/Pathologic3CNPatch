@@ -1,0 +1,3 @@
+﻿{Npcs.Investigator.Name} 调查警督
+{Npcs.Investigator.FullName} 特别委员会成员
+{Npcs.Investigator.Description} 他奉命前来调查我"渎职"一案。据说，本国东部一座爆发瘟疫的小镇我没救——甚至没试着去救。\n他把我引向陷阱。他那卷宗里满是有意捏造的假数据。他在意的不是真相，而是丹科夫斯基学者的垮台。\n他是我的敌人。

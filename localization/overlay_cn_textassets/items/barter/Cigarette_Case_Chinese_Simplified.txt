@@ -1,0 +1,3 @@
+{Items.Barter.Cigarette_Case.Name} 烟盒
+{Items.Barter.Cigarette_Case.Description} 贴身放在心口倒不错。能挡一颗子弹。
+{Items.Barter.Cigarette_Case.Description2} 贴身放在心口倒不错。能挡一颗子弹。

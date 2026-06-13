@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Playground.Name} 游乐场
+{QuestMarkers.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Playground.Description} 阿尔捷米·布拉赫去白蚁巢期间，托我照看孩子。

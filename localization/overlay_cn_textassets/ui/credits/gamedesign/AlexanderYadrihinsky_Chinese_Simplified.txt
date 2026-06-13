@@ -1,0 +1,2 @@
+{UI.Credits.GameDesign.AlexanderYadrihinsky.Name} Alexander Yadrihinsky
+{UI.Credits.GameDesign.AlexanderYadrihinsky.Description} 游戏设计师

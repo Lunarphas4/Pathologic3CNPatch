@@ -1,0 +1,3 @@
+{Npcs.Child_SoulAndAHalf.Name} 一魂半族
+{Npcs.Child_SoulAndAHalf.FullName} ⁠
+{Npcs.Child_SoulAndAHalf.Description} ⁠

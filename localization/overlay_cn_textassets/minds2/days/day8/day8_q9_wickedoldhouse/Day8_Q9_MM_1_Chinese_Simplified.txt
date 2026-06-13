@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_MM_1.Name} 染疫之屋
+{Minds2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_MM_1.Description} 去看看那栋连勤杂工都避之不及的染疫之屋。

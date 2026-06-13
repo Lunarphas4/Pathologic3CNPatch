@@ -1,0 +1,4 @@
+{Clouds2.FlavorNew.Indoor.Castle.Cloud_Castle_PictureOfBachelor.44925} 某种愚蠢的形状
+{Clouds2.FlavorNew.Indoor.Castle.Cloud_Castle_PictureOfBachelor.10340} 某种愚蠢的形状
+{Clouds2.FlavorNew.Indoor.Castle.Cloud_Castle_PictureOfBachelor.56689} 这是什么？球？炸弹？
+{Clouds2.FlavorNew.Indoor.Castle.Cloud_Castle_PictureOfBachelor.61752} 等等……

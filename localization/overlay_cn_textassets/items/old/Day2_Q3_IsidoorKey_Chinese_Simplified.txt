@@ -1,0 +1,3 @@
+{Items.OLD.Day2_Q3_IsidoorKey.Name} 伊西多家的钥匙
+{Items.OLD.Day2_Q3_IsidoorKey.Description} 鲁宾可能在那里。显然还有一种奇怪的霉菌。
+{Items.OLD.Day2_Q3_IsidoorKey.Description2} 鲁宾可能在那里。显然还有一种奇怪的霉菌。

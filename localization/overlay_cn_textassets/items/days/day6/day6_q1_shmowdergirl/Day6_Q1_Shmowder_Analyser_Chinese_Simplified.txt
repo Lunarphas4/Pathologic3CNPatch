@@ -1,0 +1,3 @@
+﻿{Items.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_Shmowder_Analyser.Name} “什莫粉”（已检查）
+{Items.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_Shmowder_Analyser.Description} 导致肾衰竭和肝衰竭的可靠办法。
+{Items.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_Shmowder_Analyser.Description2} 由过期、有害且致醉的物质混成。对沙疫无效，却会严重损伤肾脏和肝脏。

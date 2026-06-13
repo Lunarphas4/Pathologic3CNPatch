@@ -1,0 +1,10 @@
+{ArchiveDialogs.Hospitals.Day3.Hospital_Tolkoviy.Hospital_Tolkoviy_Interview.11986} 这医院里全是人。他们真的都逃出来了吗？医生，回答我！我好像在这里见到了小佩申卡。他甚至还长着眼睛。医生，告诉我，那些全都只是噩梦吗？火车也只是玩具，车厢里的人都活下来了……
+{ArchiveDialogs.Hospitals.Day3.Hospital_Tolkoviy.Hospital_Tolkoviy_Interview.17074} 纵容你的妄想不是我的职责。我是医生，治疗的是身体疾病，不是精神幻觉。因此，我希望你详细列出身体上的不适。
+{ArchiveDialogs.Hospitals.Day3.Hospital_Tolkoviy.Hospital_Tolkoviy_Interview.17702} 一切都好，所有人都活着出来了。你感觉如何？
+{ArchiveDialogs.Hospitals.Day3.Hospital_Tolkoviy.Hospital_Tolkoviy_Interview.18454} 我很虚弱。太虚弱了。连抬手的力气都没有。还有这烧……我整个人都在发烫。我已经死了吗？那大家在哪儿，为什么我看不见他们？
+{ArchiveDialogs.Hospitals.Day3.Hospital_Tolkoviy.Hospital_Tolkoviy_Interview.1279} 你发烧多久了？
+{ArchiveDialogs.Hospitals.Day3.Hospital_Tolkoviy.Hospital_Tolkoviy_Interview.10527} 所以你感到虚弱。再具体说说。
+{ArchiveDialogs.Hospitals.Day3.Hospital_Tolkoviy.Hospital_Tolkoviy_Interview.28832} 还有其他不适吗？
+{ArchiveDialogs.Hospitals.Day3.Hospital_Tolkoviy.Hospital_Tolkoviy_Interview.29783} 马车是空的。我们已经到了吗？为什么还没到？为什么连动都没动？门打不开！门打不开！门打不开！他们来了！他们根本没走！不！放我们出去！
+{ArchiveDialogs.Hospitals.Day3.Hospital_Tolkoviy.Hospital_Tolkoviy_Interview.13906} 尽量冷静。我很快回来。
+{ArchiveDialogs.Hospitals.Day3.Hospital_Tolkoviy.Hospital_Tolkoviy_Interview.3864} 护士，给他镇静剂。病人正在发作。

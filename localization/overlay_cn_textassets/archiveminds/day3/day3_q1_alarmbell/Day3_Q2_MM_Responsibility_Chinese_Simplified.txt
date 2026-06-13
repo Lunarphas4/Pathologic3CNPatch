@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.Day3.Day3_Q1_AlarmBell.Day3_Q2_MM_Responsibility.Name} 现在由我负责遏制瘟疫扩散。
+{ArchiveMinds.Day3.Day3_Q1_AlarmBell.Day3_Q2_MM_Responsibility.Description} 现在负责遏制瘟疫扩散的人是我。一个三天前才刚到这里的人！

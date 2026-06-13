@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_NeedOperation.Name} 下刀
+{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_NeedOperation.Description} 病灶在卡捷琳娜的子宫里。须立刻手术。把她送到医院来得及吗？

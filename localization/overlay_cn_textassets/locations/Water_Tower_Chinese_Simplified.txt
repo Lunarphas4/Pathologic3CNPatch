@@ -1,0 +1,2 @@
+{Locations.Water_Tower.Name} 水塔
+{Locations.Water_Tower.Description} 水塔

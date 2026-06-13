@@ -1,0 +1,11 @@
+{Dialogs2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_Khan_Polyhedron.55864} 这是我的王国。你从没为它做过什么，现在却想夺走它。你真丢人。我居然还信任过你。
+{Dialogs2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_Khan_Polyhedron.19320} 我没有夺走任何东西。
+{Dialogs2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_Khan_Polyhedron.38544} 您为什么觉得玫瑰是您的？或者是西蒙的？不管是谁建造了它，孩子们都能把它用得更好。对我们来说，它打开了成百上千个世界。你们从中得到了什么？一个老人的永恒木乃伊，一场老人统治的幻梦？
+{Dialogs2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_Khan_Polyhedron.55367} “老人统治”……这词对一个孩子来说可不小。
+{Dialogs2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_Khan_Polyhedron.34569} 也许你是对的。可你们仍然占着一个并非为你们建造的地方。
+{Dialogs2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_Khan_Polyhedron.46496} 您觉得狗头孩子们还能回到这里？
+{Dialogs2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_Khan_Polyhedron.37738} 能。
+{Dialogs2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_Khan_Polyhedron.33211} 我觉得你只是我的疑虑投下的一道影子。
+{Dialogs2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_Khan_Polyhedron.87} 前提是多面体还能留存下来……
+{Dialogs2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_Khan_Polyhedron.53901} 你不是真的。
+{Dialogs2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_Khan_Polyhedron.26705} 外面很危险。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q10_HaruspexAfterTheAbbatoir.Day11_Q10_1_MM_Abbatoir.Name} 屠宰场之下
+{Minds2.Days.Day11.Day11_Q10_HaruspexAfterTheAbbatoir.Day11_Q10_1_MM_Abbatoir.Description} 那一夜，布拉赫在地下经历了一场原始的入会仪式。他见到了这镇的地下迷阵——浩大、错综，盈盈尽是腐败的远古之血。

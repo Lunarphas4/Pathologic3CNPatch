@@ -1,0 +1,3 @@
+﻿{Items.CraftRecipes.Meradorm_RecipeItem.Name} 配方：梅拉多姆
+{Items.CraftRecipes.Meradorm_RecipeItem.Description} 镇静剂。增加冷漠。
+{Items.CraftRecipes.Meradorm_RecipeItem.Description2} 镇静剂。增加冷漠。

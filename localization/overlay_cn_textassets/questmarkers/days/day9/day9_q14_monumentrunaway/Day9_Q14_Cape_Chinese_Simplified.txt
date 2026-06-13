@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Cape.Name} 岬角
+{QuestMarkers.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Cape.Description} 就在昨日，"烈焰的妮娜·凯娜"塑像还立在这里。如今——已不见。

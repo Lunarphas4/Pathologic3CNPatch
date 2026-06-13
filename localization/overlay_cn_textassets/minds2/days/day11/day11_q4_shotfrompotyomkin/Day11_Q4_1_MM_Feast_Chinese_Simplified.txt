@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_1_MM_Feast.Name} 伯沙撒之宴
+{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_1_MM_Feast.Description} 士兵食堂里出了大事。我去现场勘查。

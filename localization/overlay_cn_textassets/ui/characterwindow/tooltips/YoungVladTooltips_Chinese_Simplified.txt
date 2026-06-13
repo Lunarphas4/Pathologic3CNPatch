@@ -1,0 +1,11 @@
+﻿{UI.CharacterWindow.Tooltips.YoungVladTooltips.Death} 第8天，自愿向部族投降，随后被部族撕碎
+{UI.CharacterWindow.Tooltips.YoungVladTooltips.Intro} 民粹主义者、自由派、改革者
+{UI.CharacterWindow.Tooltips.YoungVladTooltips.Termitary} 第1天，封锁白蚁巢
+{UI.CharacterWindow.Tooltips.YoungVladTooltips.AcceptPower} 第3天，接受紧急权力与镇上管辖权
+{UI.CharacterWindow.Tooltips.YoungVladTooltips.Vaccine} 第3天，分发源自草原的疫苗，对镇民致命
+{UI.CharacterWindow.Tooltips.YoungVladTooltips.LostPower} 第3天，被我推翻，由我夺取了权力
+{UI.CharacterWindow.Tooltips.YoungVladTooltips.LostControl} 第5天，失去对小镇的控制
+{UI.CharacterWindow.Tooltips.YoungVladTooltips.Servant} 第6天，成为玛丽亚·凯娜的仆人
+{UI.CharacterWindow.Tooltips.YoungVladTooltips.Crimes} 第7天，他的罪行真相在审判官的审判上被揭露
+{UI.CharacterWindow.Tooltips.YoungVladTooltips.NewTown} 第12天，与玛丽亚一同前往新镇
+{UI.CharacterWindow.Tooltips.YoungVladTooltips.HelpMaria} 第12天，帮助玛丽亚应对力量丧失

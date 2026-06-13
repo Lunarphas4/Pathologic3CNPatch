@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_Wicked_Invite.Name} 粗建地里的屋子
+{QuestMarkers.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_Wicked_Invite.Description} 诺特金在这片城区等我。

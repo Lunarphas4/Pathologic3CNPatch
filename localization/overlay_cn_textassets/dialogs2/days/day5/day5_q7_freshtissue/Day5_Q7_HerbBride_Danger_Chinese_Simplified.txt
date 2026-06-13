@@ -1,0 +1,41 @@
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.11026} 你来了。巴雅尔拉，emshen（医者）。愿Boddho（大地母亲）轻抚你的脚步。我还怕这一切都白费了。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.26515} 你是谁？
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.15281} 我是 Alalg-Nayaa（草原新娘）。但这不重要。我来不是为自己，而是为我的姐妹求助。她是我的 abgai（姐姐），她爱上了布拉克。这事必须阻止。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.19363} 恋爱有什么不好？那可是很美妙的感觉。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.10835} 那不是那种爱。她的爱是 bohir-love（污浊之爱），是 muu-love（恶爱），是 ubshe-love（病态之爱）。那是一根必须挣断的套索。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.19446} 可你为什么来找我？
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.5102} 我可不擅长解开套索，或者别的什么圈套。说来也巧，我自己现在就困在一个圈里。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.29604} 听着，我是医生。感情纠纷不归我管。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.23344} 纳拉有生命危险。我看得出来。她把自己和布拉克拴得太紧了；这份依附像暑热中的 urmaan（元气）一样勒着她。ubshe-love（病态之爱）要么被打断，要么被治愈，否则就会变成 untarna（熄灭）。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.18982} 所以他会伤她的心，又怎样？她哭一阵子，再爱上别人。年轻的时候不都是这样吗。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.20149} 据我所知，科学家还没发现治疗爱情的方法。我没法给她开方子。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.9830} 那你建议怎么办？
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.12614} 问题不在纳拉，而在布拉克。他里面是空的。我看得见。回声总在他的身体里震荡。正是那些回声，那片空洞，把纳拉召了过去。\n\n那片空洞会要了她的命。空洞不会爱，它只会把别人的爱诱进去，再杀死它。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.27390} 我在你纸条里看到“掏空”这个词时，还以为你是把“神圣”拼错了。可看起来，你真觉得他身体里是空的。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.30906} 下次见到布拉克，我会拿勺子轻轻敲敲他的脑袋。就当验证一下你的说法。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.10342} 好了，先别把你们草原的诗意搬到这里来。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.18423} 你把我叫来，就是为了<i>这个</i>？我还以为你有什么证据能证明布拉克真的危险。结果你只有些关于空心人的童话。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.465} 布拉克懂“线”。他能把手伸进身体里，活人的身体，死人的身体。这是他的天赋，也是他的诅咒。他懂线，却不懂界限。他无法对自己说不。\n\n纳拉同样也无法对他说不。你还不明白吗？
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.22873} 该死。布拉克答应过要给我弄来一些活体组织，我们说好了不会有人受苦，一切都要在对方同意的前提下进行。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.7813} 我想我明白一点了。可我还是不懂，这些跟我到底有什么关系。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.21004} 我做了个梦。贝哈拉啊，纳拉倒在地上，死了，空了，在布拉克怀里被掏得只剩一具空壳。你也在他们身边。你也出现在那个梦里，所以你必须去见他。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.23869} 布拉克……他会去哪里？
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.21590} 我不知道他在哪，但我知道去哪里能找到她。去骨桩场。去和她谈。你会看出布拉克就是她的病。别让他把手伸进她身体里。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.9096} 好吧。希望还来得及……
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.8397} 见鬼，你怎么不早点来找我？！
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.1718} 太好了。现在我也被卷进来了。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.11845} 昨晚我梦见姜饼鱼在天上游。别把梦看得太认真，有时梦就只是梦。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.9365} 你怎么想都行，emshen（医者）。我只求你一件事：等到那个懂“线”的人把手伸进纳拉身体里的时候，别只是站在一旁。\n\n别让他把手伸进她的身体里。去骨桩场。去和她谈。你会看出布拉克就是她的病。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.12131} 好吧。行。我试试。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.10762} 你知道吗，我上大学时差点选了心脏科。没想到到头来，我还是在管这些“心”的事。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.14968} 老实说，我还是不懂。你的意思是，他会活活把她解剖了？荒唐。他为什么要那么做？
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.16438} 纳拉会允许他把手伸进自己的身体里。她会求他这么做。她太想和他在一起，太想与他融为一体，最后他会因此杀了她。\n\n贝哈拉啊，这也和你有关。我看见纳拉倒在地上，死了，空了，在布拉克怀里被掏成空壳。你就在他们身边。你也在那个梦里，所以你必须去见他。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.1269} 我以前也这样。朋友因为谈恋爱，花在我身上的时间少了，我就会冒出些蠢念头。别人的爱情总会搅动我们的嫉妒。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.12673} 纸条里的内容倒是挺耐人寻味。布拉克是个怪人没错，可你说他是杀人犯……我真希望你有证据。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.27036} 我还真不知道草药新娘会写字。那张纸条写得很好，是你自己写的吗？
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.27290} 我找了个会写字的人。他把我的话写到了纸上。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.32588} 一切都没有白费。你可以放心了，我已经和布拉克谈过。他不会碰你妹妹一根手指。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.17825} 那她能活下来！亚马尔·阿兹·扎尔加勒！巴雅尔拉，谢谢你。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.2370} 她会活。只是活不了多久，但她会活。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.471} 恐怕消息还是算不上好。纳拉得了沙疫，她剩下的时间不多了。抱歉。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_HerbBride_Danger.24148} 多谢你及时提醒。布拉克有时确实会忘了自己是谁，也会忘了脑袋长在肩上是干什么用的。

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_Theatre.Name} 剧院
+{QuestMarkers.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_Theatre.Description} 可备选作医院的地点之一。

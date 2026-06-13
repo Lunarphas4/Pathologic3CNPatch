@@ -1,0 +1,12 @@
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Second.5287} 萨瓦·克列缅茨，编号七十二，隔离区护理员。您有什么指示？
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Second.28570} 萨瓦·克列缅茨，七十二号，隔离区……有点耳熟。你<b>昨天</b>在做什么？
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Second.21935} 我们按您的命令清空了这儿。还记得昨天来的那群人吗？您说医院是给医生用的，不是给病人服务的……
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Second.17674} 你在胡说什么？我从没说过这种话！
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Second.22350} ……总之，得了沙疫基本上没救了，都该去车站的普通病房等死。\n\n您让我们给他们用吗啡、鸦片酊、铅弹，以及其他能缓解痛苦的东西。而您要我们带到<b>这儿</b>来的，是那些五小时内还没死，甚至还能走动的罕见病例。
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Second.24274} 没错。这些人正是我们要研究的对象。
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Second.24701} 恐怕历史上记下的，只会是我下了这样的命令，尽管我本意根本就不是这样……
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Second.18792} 听着。从现在起，必须<b>一字不差</b>记下我的每句话！明白吗？我会检查。
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Second.30824} 不对，我得纠正你一下。我原话是说，我们需要工作空间，病房改设在<b>车站</b>，而<b>这儿</b>拿来搞研究。
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Second.18617} 没错。学校的钟声是为教师而鸣，不是为学生……议会不是搞辩论的地方……医学不为民众服务！<b>治人先治己</b>。
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Second.23286} 好了，萨瓦·克列缅茨。我给你个新命令，听好了：带上十几个可靠的人到墓园去。我要你负责埋葬、火化等工作。好了，退下吧。
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Second.17853} 你有家人对吧，萨瓦？我给你个新命令，听好了：脱掉这身可笑的制服，带上你的家人……躲到草原的某个角落去！

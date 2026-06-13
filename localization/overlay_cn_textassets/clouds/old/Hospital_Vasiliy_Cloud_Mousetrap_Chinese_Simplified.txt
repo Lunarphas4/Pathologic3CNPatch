@@ -1,0 +1,5 @@
+{Clouds.Old.Hospital_Vasiliy_Cloud_Mousetrap.26431} 这里有老鼠？
+{Clouds.Old.Hospital_Vasiliy_Cloud_Mousetrap.7781} 这里有老鼠？
+{Clouds.Old.Hospital_Vasiliy_Cloud_Mousetrap.3026} 这里显然住着啮齿动物。
+{Clouds.Old.Hospital_Vasiliy_Cloud_Mousetrap.30689} 一个捕鼠夹不够。
+{Clouds.Old.Hospital_Vasiliy_Cloud_Mousetrap.16848} 里面的诱饵是新鲜的。

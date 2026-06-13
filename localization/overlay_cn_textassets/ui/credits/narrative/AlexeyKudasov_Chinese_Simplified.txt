@@ -1,0 +1,2 @@
+{UI.Credits.Narrative.AlexeyKudasov.Name} Alexey Kudasov
+{UI.Credits.Narrative.AlexeyKudasov.Description} 编剧

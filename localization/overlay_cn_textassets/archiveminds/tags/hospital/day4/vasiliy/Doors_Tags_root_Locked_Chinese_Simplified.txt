@@ -1,0 +1,2 @@
+{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.Doors_Tags_root_Locked.Name} ⁠
+{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.Doors_Tags_root_Locked.Description} 哪一间是瓦西里的房间？

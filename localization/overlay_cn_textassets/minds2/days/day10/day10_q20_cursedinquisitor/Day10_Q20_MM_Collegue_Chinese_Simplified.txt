@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_MM_Collegue.Name} 同僚
+{Minds2.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_MM_Collegue.Description} 他出乎意料地关心我对审判官阿格拉娅·莉莉奇的可能忠诚。我可没记得给他们这个"兄弟会"效过力！

@@ -1,0 +1,3 @@
+{Npcs.Intro.Child_StationGirl.Name} 耶奇卡
+{Npcs.Intro.Child_StationGirl.FullName} ⁠
+{Npcs.Intro.Child_StationGirl.Description} ⁠

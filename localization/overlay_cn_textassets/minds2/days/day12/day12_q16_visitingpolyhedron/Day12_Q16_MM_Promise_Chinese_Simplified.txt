@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_MM_Promise.Name} 承诺
+{Minds2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_MM_Promise.Description} 那位裁判说过，那些棱面只会在最末时为我开启。

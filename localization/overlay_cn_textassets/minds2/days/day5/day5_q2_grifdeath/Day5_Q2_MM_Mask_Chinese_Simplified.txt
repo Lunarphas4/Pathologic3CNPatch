@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q2_GrifDeath.Day5_Q2_MM_Mask.Name} 暗影面具
+{Minds2.Days.Day5.Day5_Q2_GrifDeath.Day5_Q2_MM_Mask.Description} 回想这场残酷处刑，我似乎看见格里夫死后恐惧的化身就在身旁。当然，这是不可能的。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Innocent.Name} 无辜者
+{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Innocent.Description} 她们中的一个今天注定要死。\n她们所有人一直都注定要死。

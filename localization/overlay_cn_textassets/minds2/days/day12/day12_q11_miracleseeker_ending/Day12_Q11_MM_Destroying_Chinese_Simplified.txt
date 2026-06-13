@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q11_MiracleSeeker_Ending.Day12_Q11_MM_Destroying.Name} 夺其安宁
+{Minds2.Days.Day12.Day12_Q11_MiracleSeeker_Ending.Day12_Q11_MM_Destroying.Description} 多面体——凯恩家思想、构思与记忆的容器——被摧毁了。从其根基喷涌而出的血，将拯救全镇。

@@ -1,0 +1,2 @@
+﻿{Locations.Institute_Hall.Name} 研究所大厅
+{Locations.Institute_Hall.Description} 研究所大厅

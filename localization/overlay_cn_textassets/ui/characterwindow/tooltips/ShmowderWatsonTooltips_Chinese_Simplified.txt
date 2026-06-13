@@ -1,0 +1,3 @@
+﻿{UI.CharacterWindow.Tooltips.ShmowderWatsonTooltips.Intro} 年轻化学家，危险抗疫化合物的发明者之一
+{UI.CharacterWindow.Tooltips.ShmowderWatsonTooltips.Shmowders} 第3天，她的神粉失效了
+{UI.CharacterWindow.Tooltips.ShmowderWatsonTooltips.Hiring} 第6天起，被指挥部雇用，并出售化学配方

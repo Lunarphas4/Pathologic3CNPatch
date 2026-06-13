@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_MM_WaterTower.Name} 野外课
+{Minds2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_MM_WaterTower.Description} 裁判提议在镇外的水塔旁上一堂实地课。

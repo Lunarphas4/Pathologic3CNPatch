@@ -1,0 +1,10 @@
+﻿{UI.CharacterWindow.Tooltips.LaraTooltips.Death} 第9天，经克拉拉之手被更高的力量杀死
+{UI.CharacterWindow.Tooltips.LaraTooltips.Intro} 本地的慈善家
+{UI.CharacterWindow.Tooltips.LaraTooltips.Shelter} 第4天，在自己的宅邸里为所有瘟疫患者开设“活人之家”
+{UI.CharacterWindow.Tooltips.LaraTooltips.Forgetting} 第8天，忘记了自己对父亲的爱
+{UI.CharacterWindow.Tooltips.LaraTooltips.Survived} 第9天，本可能被克拉拉的力量杀死，却避开了这一命运
+{UI.CharacterWindow.Tooltips.LaraTooltips.ClosedShelter} 第10天，她的收容所关闭
+{UI.CharacterWindow.Tooltips.LaraTooltips.Assassination} 第10天，为父亲复仇，杀死布洛克将军
+{UI.CharacterWindow.Tooltips.LaraTooltips.AssassinationAnyway} 第10天，尽管承诺不动手，仍杀死了布洛克将军
+{UI.CharacterWindow.Tooltips.LaraTooltips.AssassinationForever} 第10天，必然会杀死布洛克将军
+{UI.CharacterWindow.Tooltips.LaraTooltips.DoctorsWife} 第12天，幸存并搬进斯塔赫·鲁宾的家

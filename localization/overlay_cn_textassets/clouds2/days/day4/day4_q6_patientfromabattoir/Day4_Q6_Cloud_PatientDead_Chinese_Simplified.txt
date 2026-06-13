@@ -1,0 +1,4 @@
+{Clouds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Cloud_PatientDead.28604} 医生应该救命，而不是夺命
+{Clouds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Cloud_PatientDead.19246} 医生应该救命，而不是夺命
+{Clouds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Cloud_PatientDead.25942} 没能救下一条命是一回事，有意识地终结一条命又是另一回事……
+{Clouds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Cloud_PatientDead.6116} 而且还是在这种不卫生的条件下

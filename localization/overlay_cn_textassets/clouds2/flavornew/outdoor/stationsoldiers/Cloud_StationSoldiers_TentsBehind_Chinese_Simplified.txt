@@ -1,0 +1,3 @@
+{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_TentsBehind.44925} 来了七百名士兵
+{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_TentsBehind.10340} 来了七百名士兵
+{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_TentsBehind.61752} 又给瘟疫添了七百名受害者

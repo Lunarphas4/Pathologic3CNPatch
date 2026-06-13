@@ -1,0 +1,15 @@
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_SeraphimaAndGB_Rot.57087} 我希望你知道，我从个人层面鄙视你们这种人。你们自以为有远见，实际上只是从更需要钱的人那里吸走补贴，用来满足你们的自我沉迷。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_SeraphimaAndGB_Rot.1831} “更需要它们的人”——比如你？用来制造新的致命气体，然后我们又不得不用各种原型装置去驱散？
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_SeraphimaAndGB_Rot.51978} 我只是想让你知道。这次逮捕是我自愿的。我喜欢清理东西，也喜欢消灭寄生虫。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_SeraphimaAndGB_Rot.2846} 所以我才想揍你？因为我是寄生虫？
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_SeraphimaAndGB_Rot.13671} 发生了什么？
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_SeraphimaAndGB_Rot.44467} 头儿……！今天委员会驳回了上诉，并作出最终裁定：塔纳提卡不复存在了。普拉东和我尽可能拖延，一直等你……你成功了，对吧？你找到不朽者了？我们有救了？
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_SeraphimaAndGB_Rot.37455} 恐怕所有关于不朽的传闻，最后都只是夸大的故事。镇子对出生和死亡的记录很糟。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_SeraphimaAndGB_Rot.65250} 我试过。我只是没能完成一切。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_SeraphimaAndGB_Rot.9212} 你说过会带回证明。带回能帮助委员会相信我们研究有前景的东西。你……没有？所以我们完了？
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_SeraphimaAndGB_Rot.49080} 我收集了知识，但没能付诸行动。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_SeraphimaAndGB_Rot.18473} 我说过。你们在冥想那些无人能查证的问题时，全都高高在上。可一旦给你们一个简单的实际任务：治好一种病——它很快就变得无法解决。 那现在呢？你毫无意义地离开，又空手回来……谁知道你这场瘟疫接下来会做什么。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_SeraphimaAndGB_Rot.57591} 连国家审判官都解决不了这个“简单的实际任务”。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_SeraphimaAndGB_Rot.3129} 我把瘟疫留在身后了。我一定是这样！
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_SeraphimaAndGB_Rot.44786} 我们会重建塔纳提卡。我若留在那座镇子里就会死！
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_SeraphimaAndGB_Rot.60278} 对于一个爱洁癖的人，你的靴子脏得出奇。

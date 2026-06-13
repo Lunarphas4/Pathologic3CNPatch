@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q15_FirstCrucible.Day5_Q15_MM_Crucible.Name} 死路
+{Minds2.Days.Day5.Day5_Q15_FirstCrucible.Day5_Q15_MM_Crucible.Description} 西蒙的线索已经冷却。也许他的家人知道些什么。

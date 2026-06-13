@@ -1,0 +1,14 @@
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Courier_DrawingOfTheThird.11586} 医生，医生！医院需要您。很急！
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Courier_DrawingOfTheThird.18732} 谁派你来的？
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Courier_DrawingOfTheThird.43397} 我哥哥，雅沙。我是说雅科夫，一个很重要的人。差不多和您一样重要，不过是本地的。
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Courier_DrawingOfTheThird.9702} 你是利特尔的弟弟？
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Courier_DrawingOfTheThird.52433} 我自己就是利特尔！这姓不是最好听的吗？别人还要费劲想绰号，我和哥哥生来就有。
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Courier_DrawingOfTheThird.58312} 我同意，这是个很好的姓。比我的好。你哥哥也是个好人。
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Courier_DrawingOfTheThird.27342} 他很担心。天晚了，您却不在医——院。他说，万一您出了什么事呢。没有您，工作都停住了。
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Courier_DrawingOfTheThird.871} 他让我告诉您，他找到了第二个病人。为什么他说“第二个”？您不是每天都治很多人吗？这是什么算法？不过，雅科夫叫我原话带到：第二个病人。
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Courier_DrawingOfTheThird.57832} 你今天见过雅科夫？好。去陪他待一会儿。我准许你探访医院。今天活不多——你们可以说说话。谁知道下次机会什么时候来。
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Courier_DrawingOfTheThird.33526} 急什么？
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Courier_DrawingOfTheThird.50214} 他找到了第二个病人。为什么他说“第二个”？您不是每天都治很多人吗？这是什么算法？不过，雅科夫叫我原话带到：第二个病人。
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Courier_DrawingOfTheThird.42170} 第二个病人？谢谢你带来的好消息——就算它最多也只能算这种程度的好。
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Courier_DrawingOfTheThird.49995} 只是现在天晚了，您又不在医——院。雅科夫担心您出了事。没有您，工作都停住了。
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Courier_DrawingOfTheThird.25835} 我知道，我知道。我这就来。

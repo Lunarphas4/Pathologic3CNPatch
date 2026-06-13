@@ -1,0 +1,2 @@
+{ArchiveMinds.Day4.Day4_Q1_HospitalIntro.Day4_Q1_MM_WatsonWaiting.Name} ⁠
+{ArchiveMinds.Day4.Day4_Q1_HospitalIntro.Day4_Q1_MM_WatsonWaiting.Description} 我的助手正在医院等我。

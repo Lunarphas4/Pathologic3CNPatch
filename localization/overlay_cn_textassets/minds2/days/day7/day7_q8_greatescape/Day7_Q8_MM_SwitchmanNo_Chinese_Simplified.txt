@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_SwitchmanNo.Name} 无终之途
+{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_SwitchmanNo.Description} 没有和那位扳道工谈拢。冒着脱轨的风险出发？算不上好主意。

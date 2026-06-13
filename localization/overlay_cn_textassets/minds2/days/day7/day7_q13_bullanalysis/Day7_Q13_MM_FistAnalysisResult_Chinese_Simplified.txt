@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q13_BullAnalysis.Day7_Q13_MM_FistAnalysisResult.Name} 疫
+{Minds2.Days.Day7.Day7_Q13_BullAnalysis.Day7_Q13_MM_FistAnalysisResult.Description} 研究显示：是的，这头公牛确实染了病。所以不能说它根本不发病。观察继续。

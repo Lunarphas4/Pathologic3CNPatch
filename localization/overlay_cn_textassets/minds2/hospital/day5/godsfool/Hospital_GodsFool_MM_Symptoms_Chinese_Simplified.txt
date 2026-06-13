@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day5.GodsFool.Hospital_GodsFool_MM_Symptoms.Name} 检查结果
+{Minds2.Hospital.Day5.GodsFool.Hospital_GodsFool_MM_Symptoms.Description} 第一步是在病例簿中选择已发现的症状。然后——向病人详细询问这些症状。

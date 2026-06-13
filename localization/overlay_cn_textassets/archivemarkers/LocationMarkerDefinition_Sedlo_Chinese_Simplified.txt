@@ -1,0 +1,2 @@
+{ArchiveMarkers.LocationMarkerDefinition_Sedlo.Name} ⁠
+{ArchiveMarkers.LocationMarkerDefinition_Sedlo.Description} ⁠

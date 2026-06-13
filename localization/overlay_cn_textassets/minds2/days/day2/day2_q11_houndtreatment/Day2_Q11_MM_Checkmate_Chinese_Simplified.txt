@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_MM_Checkmate.Name} 学童式将军
+{Minds2.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_MM_Checkmate.Description} 一魂半族放了俘虏，卡斯帕代他进了笼子。他不再需要我的帮助。

@@ -1,0 +1,3 @@
+﻿{Items.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_StrangeBullBlood.Name} 草原节日的血
+{Items.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_StrangeBullBlood.Description} 仍是温的。
+{Items.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_StrangeBullBlood.Description2} 一份公牛血样。草原人在节日里饮用，还会给孩子喝。必须检查它是否会危害人类。

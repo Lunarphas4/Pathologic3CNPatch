@@ -1,0 +1,5 @@
+{Clouds.Old.Cloud_Mirosya_Basin.9954} 食物残渣？
+{Clouds.Old.Cloud_Mirosya_Basin.5347} 食物残渣？
+{Clouds.Old.Cloud_Mirosya_Basin.31515} 呕吐物残留？
+{Clouds.Old.Cloud_Mirosya_Basin.4620} 奇怪的白色碎块。
+{Clouds.Old.Cloud_Mirosya_Basin.24745} 匆忙洗过。

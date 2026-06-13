@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_1.Day6_Q10_1_MM_Albino.Name} 白化族
+{Minds2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_1.Day6_Q10_1_MM_Albino.Description} 草原的灵物现在开始袭人了？还是说，到了它们的发情期？

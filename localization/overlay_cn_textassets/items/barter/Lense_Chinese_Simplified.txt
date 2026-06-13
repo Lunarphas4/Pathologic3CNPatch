@@ -1,0 +1,3 @@
+{Items.Barter.Lense.Name} 透镜
+{Items.Barter.Lense.Description} 无需神秘主义，也能透过另一种镜片看世界。正如谢拉菲玛所说，“奇迹住在你的指甲上”。
+{Items.Barter.Lense.Description2} 无需神秘主义，也能透过另一种镜片看世界。正如谢拉菲玛所说，“奇迹住在你的指甲上”。

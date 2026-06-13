@@ -1,0 +1,2 @@
+{Prologue.Notifications.Hints.Notification_Prologue_Craft.Name} ⁠
+{Prologue.Notifications.Hints.Notification_Prologue_Craft.Description} 演示版\n不可用

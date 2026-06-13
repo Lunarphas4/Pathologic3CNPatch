@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_Curse.Name} 诅咒！
+{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_Curse.Description} 有人在静水观星台的门上涂了原始的草原符号。用血。这是要诅咒我吗？

@@ -1,0 +1,2 @@
+{Minds2.Days.Day8.Day8_Q17.1_SecretaryReplacementFar.Day8_Q17.1_MM_Barter.Name} 人员交换
+{Minds2.Days.Day8.Day8_Q17.1_SecretaryReplacementFar.Day8_Q17.1_MM_Barter.Description} 我想这算是审判官安排的一种古怪交换——书记换看守者

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_SaburovIsDead.Name} 亚历山大·萨布罗夫之死
+{Minds2.Days.KeyNodes.KeyNode_SaburovIsDead.Description} 亚历山大·萨布罗夫死了。

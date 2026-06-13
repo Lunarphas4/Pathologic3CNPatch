@@ -1,0 +1,5 @@
+{Clouds.Old.Hospital_GodsFool_Cloud_Mattress.9140} 极不卫生。
+{Clouds.Old.Hospital_GodsFool_Cloud_Mattress.21452} 极不卫生。
+{Clouds.Old.Hospital_GodsFool_Cloud_Mattress.18286} 臭味难以忍受。
+{Clouds.Old.Hospital_GodsFool_Cloud_Mattress.26510} 连触碰都很危险。
+{Clouds.Old.Hospital_GodsFool_Cloud_Mattress.24816} 微生物的温床。

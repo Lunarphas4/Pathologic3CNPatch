@@ -1,0 +1,4 @@
+﻿{ArchiveDialogs.Hospitals.Old.Hospital_Zhitochnik_Inspection.13662} ...
+{ArchiveDialogs.Hospitals.Old.Hospital_Zhitochnik_Inspection.2473} 等你能开口时告诉我。
+{ArchiveDialogs.Hospitals.Old.Hospital_Zhitochnik_Inspection.1462} 既然你要玩沉默游戏，我至少能检查你吗？
+{ArchiveDialogs.Hospitals.Old.Hospital_Zhitochnik_Inspection.17972} 好吧，看来我只能在沉默里取你的样本了。

@@ -1,0 +1,2 @@
+{Minds2.Days.Day7.Day7_Q1.2_TrialHaruspex.Day7_Q1.2_MM_FirstCharge.Name} 第一项指控
+{Minds2.Days.Day7.Day7_Q1.2_TrialHaruspex.Day7_Q1.2_MM_FirstCharge.Description} 布拉赫被控在第四天违反隔离

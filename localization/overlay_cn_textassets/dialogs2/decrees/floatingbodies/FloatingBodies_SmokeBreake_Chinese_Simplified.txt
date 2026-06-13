@@ -1,0 +1,27 @@
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.30226} 你在干什么，白白浪费那支烟？得把烟吸满胸口，再憋住，让它一直钻到肚子里！来，憋住！
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.48449} 我憋着呢，我发誓……天啊……我撑不住了……我要吐了……
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.62098} 我跟你说，烟得憋在肺里，不然就没用。你想生病吗？不把烟憋住，它可护不住你。
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.5982} 抱歉，但你这是在做什么？烟到底能防什么？
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.16586} 随便找个医生问问，他都会告诉你——瘟疫怕烟。不然你以为镇上为什么到处点火？我家里人人抽烟，没一个病倒。胸口灌满了烟，瘟疫就进不来——没地方了。
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.44596} 很遗憾要让你失望了，但把烟吸进肺里并不能阻止瘟疫。
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.55766} 你现在也要来教训我，是吧？我跟你说，我家里不抽烟的都进土了，抽烟的还活着，还在吞云吐雾。你觉得这只是巧合？
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.45357} 你知道什么叫安慰剂吗？
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.29377} 我不懂你那些文绉绉的词，可我知道自己这双眼睛看见了什么。我家里不抽烟的都进土了，抽烟的还活着，还在吞云吐雾。你觉得这只是巧合？
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.22143} 是。
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.44564} 你看……你有治瘟疫的药吗？没有？那等你有了再来。到时候你想怎么发牢骚都行。可在有药之前，我们只能凑合用手头这些。要我说，你那套科学就是给鸟听的。对付瘟疫只有两样东西有用：烟和镜子。
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.606} 有道理。
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.13550} 等等……镜子又是怎么回事？
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.5168} 在门前放一面镜子，瘟疫就进不了你家。Shabnak（泥魔女） 怕倒影，明白吗。
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.5209} 好吧……我记住了。
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.27900} Crassa ignorantia（真是愚昧。）
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.42455} 这是笑话吗？求你告诉我是笑话。
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.56857} 笑话？得了吧，朋友。你看看四周。到处都是成山的棺材和尸体。你觉得这种地方适合讲笑话吗？
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.63162} 烟那部分我姑且能理解。可镜子呢？
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.17604} 我觉得你的样本量还得再大一点。
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.61589} 我没在想什么。我只是庆幸你和你的家人都还平安。
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.49949} 能让我抽一口吗？
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.16069} 抱歉，朋友。这是最后一根了。镇上的烟草快没了。大家肯定都发现烟能防瘟疫，于是一个个都拼命抽，跟没有明天似的。
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.26582} 能防瘟疫？这倒是新鲜说法。
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.40845} 恐怕恰恰相反。烟草会削弱身体，反而会提高感染的可能性。
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.63477} 现在抽烟休息，是不是有点太早了？
+{Dialogs2.Decrees.FloatingBodies.FloatingBodies_SmokeBreake.21090} 这是工作的一部分。这活儿危险，当然得抽烟休息！随便问个医生，他都会告诉你——瘟疫怕烟。不然你以为镇上为什么到处点火？胸口灌满了烟，瘟疫就进不来。没地方了。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_MM_Power.Name} 失谐
+{Minds2.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_MM_Power.Description} 这镇由我主政，何须靠一片坚果壳。

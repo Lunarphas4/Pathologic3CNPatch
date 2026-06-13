@@ -1,0 +1,2 @@
+﻿{Locations.Polyhedron_Indoor_Baker_Room.Name} 多面体房间
+{Locations.Polyhedron_Indoor_Baker_Room.Description} 多面体房间

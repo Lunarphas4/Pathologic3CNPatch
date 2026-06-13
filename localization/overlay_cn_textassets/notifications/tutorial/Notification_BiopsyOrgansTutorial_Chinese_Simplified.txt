@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_BiopsyOrgansTutorial.Name} 显微镜
+{Notifications.Tutorial.Notification_BiopsyOrgansTutorial.Description} 疾病会侵犯多种身体系统。显微镜可帮我辨明哪一脏器受了感染。

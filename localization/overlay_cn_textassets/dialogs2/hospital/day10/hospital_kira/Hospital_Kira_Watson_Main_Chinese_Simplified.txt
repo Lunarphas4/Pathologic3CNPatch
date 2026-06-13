@@ -1,0 +1,8 @@
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Watson_Main.11866} 您回来了，医生！那我们还能做到！我想我们可以……我找到了第二名病人。这说明我们有了制作疫苗所需的最低条件。
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Watson_Main.17001} 雅科夫，你在两头烧蜡烛。我看得出，在我明令建议休息后，你又在工作。
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Watson_Main.10650} 我们终于有机会了，我怎么休息！病人是基拉，一位有学问的女人。她是自己来的——不过不是作为病人，而是作为请愿者。说有事找你。我注意到她发热，就姑且取了血样……是的，她有瘟疫！
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Watson_Main.25229} 她还能靠两条腿到处走，必定还有第二个诊懂。
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Watson_Main.23133} 你为一个病人有瘟疫而高兴。你的诊懂是：医学犬儒。你才一周就染上了我的坏影响。
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Watson_Main.5854} 休息一下，雅科夫，为你自己好。这里交给我。
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Watson_Main.55961} 好极了！把细节告诉我。
+{Dialogs2.Hospital.Day10.Hospital_Kira.Hospital_Kira_Watson_Main.36354} 病人是基拉，一位有学问的女人。她是自己来的——不过不是作为病人，而是作为请愿者。说有事找你。我注意到她发热，就姑且取了血样……是的，她有瘟疫！

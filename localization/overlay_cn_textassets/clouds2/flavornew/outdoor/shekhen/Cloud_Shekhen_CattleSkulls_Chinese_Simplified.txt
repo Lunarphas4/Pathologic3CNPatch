@@ -1,0 +1,5 @@
+{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_CattleSkulls.44925} 研究所里也有一样的，离“塔纳蒂卡”不远
+{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_CattleSkulls.10340} 研究所里也有一样的，离“塔纳蒂卡”不远
+{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_CattleSkulls.56689} 不记得为什么摆出来，又是给谁看的警示
+{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_CattleSkulls.7078} 公牛死后留在村落里
+{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_CattleSkulls.61752} 学者毕业后留在母校

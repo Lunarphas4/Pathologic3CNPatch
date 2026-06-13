@@ -1,0 +1,4 @@
+{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_CannonsWide.44925} 在前线，这种榴弹炮几乎没用
+{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_CannonsWide.10340} 在前线，这种榴弹炮几乎没用
+{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_CannonsWide.56689} 更别说在今天的战争中
+{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_CannonsWide.61752} 倒是很适合轰击奇迹

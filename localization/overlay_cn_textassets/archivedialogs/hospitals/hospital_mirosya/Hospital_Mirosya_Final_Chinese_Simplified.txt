@@ -1,0 +1,3 @@
+{ArchiveDialogs.Hospitals.Hospital_Mirosya.Hospital_Mirosya_Final.32568} 医生，您怎么说？
+{ArchiveDialogs.Hospitals.Hospital_Mirosya.Hospital_Mirosya_Final.22838} 我能活下去吗？
+{ArchiveDialogs.Hospitals.Hospital_Mirosya.Hospital_Mirosya_Final.159} 我看穿您了！

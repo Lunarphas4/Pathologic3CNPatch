@@ -1,0 +1,3 @@
+﻿{Items.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_HoundMask.Name} 狗头帮面具
+{Items.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_HoundMask.Description} 用粗麻布缝成，里面塞着干草，闻起来像狗。
+{Items.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_HoundMask.Description2} 兽性的面具束缚着兽性的本质。

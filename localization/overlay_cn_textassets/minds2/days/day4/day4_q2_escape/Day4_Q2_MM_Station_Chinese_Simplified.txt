@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_Station.Name} 我的王国换一匹马
+{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_Station.Description} 出逃的最后准备已就绪。到车站后，我能赶上跳进最后一节车厢。

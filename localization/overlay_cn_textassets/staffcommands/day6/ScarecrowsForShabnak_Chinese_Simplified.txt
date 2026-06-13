@@ -1,0 +1,2 @@
+{StaffCommands.Day6.ScarecrowsForShabnak.Name} 防范Shabnak（泥魔女）
+{StaffCommands.Day6.ScarecrowsForShabnak.Description} 在未感染街区竖立辟邪稻草人。

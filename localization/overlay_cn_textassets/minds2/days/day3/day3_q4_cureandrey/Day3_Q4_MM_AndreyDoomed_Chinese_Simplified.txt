@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_MM_AndreyDoomed.Name} 试验品
+{Minds2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_MM_AndreyDoomed.Description} 那种实验性的"救镇"手段不顶用。安德烈，也死了。

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_CathedralBeforeHospital.Name} 教堂
+{QuestMarkers.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_CathedralBeforeHospital.Description} 一座奇构。我得勘察一番。

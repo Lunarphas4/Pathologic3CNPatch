@@ -1,0 +1,2 @@
+﻿{CraftRecipes.BachelorBrew_CraftRecipe.Name} 丹科夫斯基特调
+{CraftRecipes.BachelorBrew_CraftRecipe.Description} 大幅增加躁狂

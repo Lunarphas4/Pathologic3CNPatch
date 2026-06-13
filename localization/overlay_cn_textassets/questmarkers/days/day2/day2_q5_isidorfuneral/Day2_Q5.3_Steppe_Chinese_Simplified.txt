@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.3_Steppe.Name} 剥皮匠区，戈尔洪河岸
+{QuestMarkers.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.3_Steppe.Description} 葬礼后，阿尔捷米·布拉赫会在戈尔洪河岸采草药。若我要找他说话，知道这一点很好

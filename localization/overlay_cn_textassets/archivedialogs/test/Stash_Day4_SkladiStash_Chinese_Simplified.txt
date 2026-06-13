@@ -1,0 +1,6 @@
+{ArchiveDialogs.Test.Stash_Day4_SkladiStash.12167} 哦……您是镇上的医生？丹尼斯·丹科夫斯基？
+{ArchiveDialogs.Test.Stash_Day4_SkladiStash.18198} 丹尼尔。现在连每个小混账都知道我了？
+{ArchiveDialogs.Test.Stash_Day4_SkladiStash.18541} 全镇都知道你。我们给你凑了点有用的东西，放进一个袋子里。诺特金说我们该帮医生。
+{ArchiveDialogs.Test.Stash_Day4_SkladiStash.7708} 你身上可没有袋子。它在哪儿？
+{ArchiveDialogs.Test.Stash_Day4_SkladiStash.13985} 在仓库，挂小旗子的那个后面。那个又在二十六号后面。
+{ArchiveDialogs.Test.Stash_Day4_SkladiStash.18521} 我去看看。现在，滚吧。

@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_EuthanasiaDoseTutorial_Prologue.Name} 必须注射正确的剂量
+{Prologue.Notifications.Tutorial.Notification_EuthanasiaDoseTutorial_Prologue.Description} 注射药物会移动计量表指针。必须在患者心跳骤升前将剂量控制在高亮区域。药物过量会加剧痛苦，而我应当缓解痛苦

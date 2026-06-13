@@ -1,0 +1,2 @@
+{UI.Credits.Art.ArthurNizamutdinov.Name} Arthur Nizamutdinov
+{UI.Credits.Art.ArthurNizamutdinov.Description} Environment 3D 美术

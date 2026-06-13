@@ -1,0 +1,3 @@
+{Npcs.Old.visitor_Zuyok.Name} ⁠
+{Npcs.Old.visitor_Zuyok.FullName} ⁠
+{Npcs.Old.visitor_Zuyok.Description} ⁠

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_MM_Kindergarten.Name} 孩童的牧人
+{Minds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_MM_Kindergarten.Description} 布拉赫答应从白蚁巢带个病人给我。他要求我以一件小事为酬：替他看管被托付给他的几个孩子。

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q10_Switchman.Day7_Q10_MM_YourChoice.Name} 未定之局
+{Minds2.Days.Day7.Day7_Q10_Switchman.Day7_Q10_MM_YourChoice.Description} 格蕾丝说他们儿子的生死全在我一念之间：我说什么，便会发生什么——一切尚未注定。

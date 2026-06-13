@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.OldNew.Day4_Q2_Escape.Day4_Q2_MM_Arrested.Name} 被捕
+{ArchiveMinds.OldNew.Day4_Q2_Escape.Day4_Q2_MM_Arrested.Description} 我的逃离尝试失败了。

@@ -1,0 +1,14 @@
+{Dialogs2.Days.Day7.Day7_Q0_FlashbackOfTheInstitute.Day7_Q0_Studiosus_Love.20774} 我听了四年讲座，从没见过这种场面。座无虚席，却一点声音都没有，连衣料摩擦都没有。莉莉奇确实有抓住注意力的天赋。
+{Dialogs2.Days.Day7.Day7_Q0_FlashbackOfTheInstitute.Day7_Q0_Studiosus_Love.11561} 那你还记得讲座讲了什么吗？还是只记得座无虚席和全场寂静？
+{Dialogs2.Days.Day7.Day7_Q0_FlashbackOfTheInstitute.Day7_Q0_Studiosus_Love.5365} 丹科夫斯基学者……抱歉，我刚才那么说绝无不敬。您去听莉莉奇的讲座了吗？您怎么看？
+{Dialogs2.Days.Day7.Day7_Q0_FlashbackOfTheInstitute.Day7_Q0_Studiosus_Love.4172} 没有，我没去听。但照你这么说，那至少该是一场桌灵会，还附带招魂。
+{Dialogs2.Days.Day7.Day7_Q0_FlashbackOfTheInstitute.Day7_Q0_Studiosus_Love.13087} 哦，不，那是一场极其高明的讲座。我觉得我们的教授都该向她学学……
+{Dialogs2.Days.Day7.Day7_Q0_FlashbackOfTheInstitute.Day7_Q0_Studiosus_Love.29758} 那讲座讲了什么？你能记住什么？
+{Dialogs2.Days.Day7.Day7_Q0_FlashbackOfTheInstitute.Day7_Q0_Studiosus_Love.21386} 我重复我的问题：讲座讲了什么？你能记住什么？
+{Dialogs2.Days.Day7.Day7_Q0_FlashbackOfTheInstitute.Day7_Q0_Studiosus_Love.1835} 她……嗯……呃……莉莉奇谈了医学中的法与伦理。谈了判例，还有这些……悖论……
+{Dialogs2.Days.Day7.Day7_Q0_FlashbackOfTheInstitute.Day7_Q0_Studiosus_Love.4422} 所以，你从讲座里唯一记住的就是题目？
+{Dialogs2.Days.Day7.Day7_Q0_FlashbackOfTheInstitute.Day7_Q0_Studiosus_Love.31371} 她举了什么样的悖论作为例子？
+{Dialogs2.Days.Day7.Day7_Q0_FlashbackOfTheInstitute.Day7_Q0_Studiosus_Love.29428} ...
+{Dialogs2.Days.Day7.Day7_Q0_FlashbackOfTheInstitute.Day7_Q0_Studiosus_Love.22764} 这些年我们教你们这些学生，结果一名审判官来了，所有人立刻都看得出，权力比任何科学都更诱人。
+{Dialogs2.Days.Day7.Day7_Q0_FlashbackOfTheInstitute.Day7_Q0_Studiosus_Love.11507} 我记得你，学生，你总是逃拉丁课。如果你去上课，就该知道：敌人的馈赠并非馈赠。
+{Dialogs2.Days.Day7.Day7_Q0_FlashbackOfTheInstitute.Day7_Q0_Studiosus_Love.6354} 吸引注意是艺人的差事。讲师应当教导，而不是取悦。

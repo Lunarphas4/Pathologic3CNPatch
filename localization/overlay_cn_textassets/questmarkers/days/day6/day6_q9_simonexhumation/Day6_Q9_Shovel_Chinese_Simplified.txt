@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day6.Day6_Q9_SimonExhumation.Day6_Q9_Shovel.Name} 铲子
+{QuestMarkers.Days.Day6.Day6_Q9_SimonExhumation.Day6_Q9_Shovel.Description} 若墓园里连一把铁锹都找不到，倒奇怪了。

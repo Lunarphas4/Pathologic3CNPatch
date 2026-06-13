@@ -1,0 +1,2 @@
+{Prologue.Notifications.Hints.Notification_Prologue_EndScreen.Name} ⁠
+{Prologue.Notifications.Hints.Notification_Prologue_EndScreen.Description} 谢谢你与学者一路同行。\n不过这只是个开始。

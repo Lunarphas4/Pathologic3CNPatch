@@ -1,0 +1,3 @@
+{Items.Metabolism.OdongMixture.Name} Odongh（金族牧人）混合物
+{Items.Metabolism.OdongMixture.Description} Odongh（金族牧人）混合物
+{Items.Metabolism.OdongMixture.Description2} Odongh（金族牧人）混合物

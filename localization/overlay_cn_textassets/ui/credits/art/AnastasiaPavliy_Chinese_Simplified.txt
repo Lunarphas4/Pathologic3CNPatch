@@ -1,0 +1,2 @@
+{UI.Credits.Art.AnastasiaPavliy.Name} Anastasiya Pavliy
+{UI.Credits.Art.AnastasiaPavliy.Description} 美术总监

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_MM_2.Name} 告发
+{Minds2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_MM_2.Description} 我收到了一封奇怪的信，像是告发书。也许伊娃知道这位"安琪尔"是谁？

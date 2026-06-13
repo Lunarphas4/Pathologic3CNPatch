@@ -1,0 +1,2 @@
+{Symptoms.SluhZatrudneniya.Name} 听力受损
+{Symptoms.SluhZatrudneniya.Description} 声音感知下降，可能与耳道黏膜炎症、肿胀或分泌物阻塞有关。

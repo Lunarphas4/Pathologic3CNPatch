@@ -1,0 +1,3 @@
+{Npcs.BullProject_Butcher.Name} 屠夫
+{Npcs.BullProject_Butcher.FullName} ⁠
+{Npcs.BullProject_Butcher.Description} ⁠

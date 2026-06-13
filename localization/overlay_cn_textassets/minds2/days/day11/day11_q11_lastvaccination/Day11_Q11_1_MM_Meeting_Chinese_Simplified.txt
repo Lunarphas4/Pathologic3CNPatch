@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Meeting.Name} 最后一次会面
+{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Meeting.Description} 雅科夫·利特尔还在这里，且尚有意识——这本身便是奇迹！我从他口中问问其他病人的情况。

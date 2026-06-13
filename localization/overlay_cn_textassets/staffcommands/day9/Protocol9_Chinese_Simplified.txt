@@ -1,0 +1,2 @@
+{StaffCommands.Day9.Protocol9.Name} 第 9 号方案
+{StaffCommands.Day9.Protocol9.Description} 让民众接种应急指挥部的实验药剂。

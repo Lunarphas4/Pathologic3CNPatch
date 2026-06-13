@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_InventoryQuickSlotTutorial.Name} 四个口袋
+{Notifications.Tutorial.Notification_InventoryQuickSlotTutorial.Description} 像火柴、小瓶这样的小件，放口袋里比放进我那只地毯包要方便。

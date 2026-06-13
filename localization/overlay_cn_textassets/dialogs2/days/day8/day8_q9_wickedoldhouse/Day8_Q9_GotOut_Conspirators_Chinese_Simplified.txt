@@ -1,0 +1,16 @@
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_GotOut_Conspirators.13985} 你笑什么，你这癞蛤蟆……以为自己赢了？
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_GotOut_Conspirators.54258} 嘴巴放干净。谁派你来的？
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_GotOut_Conspirators.22908} 萨布罗夫向你问好。热辣辣的问候！
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_GotOut_Conspirators.45721} 不用逼我，我自己招——是大弗拉德。告诉他，我说他的嘴比他那该死的屁股还宽。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_GotOut_Conspirators.39527} 全是格里夫安排的。他烦透你了，连看你一眼都受不了。一直求我们烧焦你的羽毛，折断你的翅膀。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_GotOut_Conspirators.3663} 荒唐。他们当中谁会想要我的命？
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_GotOut_Conspirators.4827} 你在嗅什么真相？你真以为这镇上只有一个人想让你死？哈！这镇上的每个活人都想把你埋进土里。一个不剩。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_GotOut_Conspirators.61424} 你和你那些命令，你这混账——把镇子变成一座监牢，连喘气的地方都没有……这个不许，那个禁止！比审判官还糟！从现在起你最好小心身后，听见没有？
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_GotOut_Conspirators.19535} 我已经尽力客气了，可你似乎并不领情。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_GotOut_Conspirators.7071} 比审判官还糟？那真要谢谢你夸奖。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_GotOut_Conspirators.6704} 你以为我喜欢掌握你们的生杀大权？要是能走，我现在就离开。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_GotOut_Conspirators.32260} 醒醒：你面对的是绞架。就在昨天，还有人因为更轻的罪名被处决。若你供认，也许还有宽恕。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_GotOut_Conspirators.38402} 你倒挺快活。还开起玩笑来了。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_GotOut_Conspirators.51368} 你们试图活活烧死我，而我还站在这里。依我看，的确是我赢了。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_GotOut_Conspirators.58764} 赢不了多久。人生就是这样，懂吗：今天你站在高处，明天你就脸朝下趴在沟里，肠子流一地。
+{Dialogs2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_GotOut_Conspirators.63683} 真有人这么执意要我死？谁派你来的？

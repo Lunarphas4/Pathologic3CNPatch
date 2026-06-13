@@ -1,0 +1,2 @@
+{CraftRecipes.AllergenicTobacco_CraftRecipe.Name} 致敏烟草
+{CraftRecipes.AllergenicTobacco_CraftRecipe.Description} 首都最新的时髦玩意

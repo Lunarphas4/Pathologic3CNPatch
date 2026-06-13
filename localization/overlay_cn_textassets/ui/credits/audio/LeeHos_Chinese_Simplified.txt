@@ -1,0 +1,2 @@
+{UI.Credits.Audio.LeeHos.Name} Lee Hos
+{UI.Credits.Audio.LeeHos.Description} 附加声音设计

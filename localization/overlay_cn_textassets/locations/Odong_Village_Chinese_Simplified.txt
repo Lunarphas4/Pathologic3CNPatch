@@ -1,0 +1,2 @@
+{Locations.Odong_Village.Name} 奥东
+{Locations.Odong_Village.Description} 奥东

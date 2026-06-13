@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_Lump.Name} 块石宅
+{QuestMarkers.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_Lump.Description} 全镇的公牛都归老奥尔金斯基管。指挥部需要一头牛。

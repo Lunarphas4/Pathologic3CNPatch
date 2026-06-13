@@ -1,0 +1,2 @@
+﻿{ArchiveMinds.Day2.Day2_Q1_Powder.Day2_Q1_MM_ExaminePowder.Name} 看不出这种粉末的成分。需要分析。
+{ArchiveMinds.Day2.Day2_Q1_Powder.Day2_Q1_MM_ExaminePowder.Description} 我在粗建地发现了一种用于治疗瘟疫的粉末。它看上去普通，却有强烈的氨味。我得弄清它由什么制成。

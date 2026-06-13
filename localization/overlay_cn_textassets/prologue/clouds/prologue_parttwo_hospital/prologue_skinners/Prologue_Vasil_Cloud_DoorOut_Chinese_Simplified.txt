@@ -1,0 +1,5 @@
+{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_Skinners.Prologue_Vasil_Cloud_DoorOut.1150} ⁠
+{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_Skinners.Prologue_Vasil_Cloud_DoorOut.10257} 我还不想回医院
+{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_Skinners.Prologue_Vasil_Cloud_DoorOut.8132} 得先检查菲拉特的房间
+{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_Skinners.Prologue_Vasil_Cloud_DoorOut.31665} 找到确诊的关键
+{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_Skinners.Prologue_Vasil_Cloud_DoorOut.29987} 该回去了

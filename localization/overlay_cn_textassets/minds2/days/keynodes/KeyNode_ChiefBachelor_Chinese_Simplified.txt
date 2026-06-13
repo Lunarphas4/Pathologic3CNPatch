@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_ChiefBachelor.Name} 权
+{Minds2.Days.KeyNodes.KeyNode_ChiefBachelor.Description} 我已接掌抗疫之责。这镇与镇上的当局都甘愿听从我的意志。

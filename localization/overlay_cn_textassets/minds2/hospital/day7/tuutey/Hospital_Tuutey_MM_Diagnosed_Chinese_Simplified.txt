@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day7.Tuutey.Hospital_Tuutey_MM_Diagnosed.Name} 已下诊断
+{Minds2.Hospital.Day7.Tuutey.Hospital_Tuutey_MM_Diagnosed.Description} 但愿图泰还能跳舞。哪怕再跳上几日也好……更好的是——跳到瘟疫之药问世。

@@ -1,0 +1,2 @@
+{UI.Credits.GameDesign.IvanGontar.Name} Ivan Gontar
+{UI.Credits.GameDesign.IvanGontar.Description} 游戏设计师

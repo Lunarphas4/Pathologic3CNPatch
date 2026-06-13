@@ -1,0 +1,2 @@
+{Minds2.Hospital.Day5.Oktay.Hospital_Oktay_MM_Diagnosed.Name} 确认诊断
+{Minds2.Hospital.Day5.Oktay.Hospital_Oktay_MM_Diagnosed.Description} 奥克泰不太可能变成Odongh（金族牧人）。可惜。

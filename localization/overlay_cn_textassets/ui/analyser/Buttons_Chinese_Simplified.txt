@@ -1,0 +1,1 @@
+{UI.Analyser.Buttons.Explore} <InputActions/UI/Analyser> 检查

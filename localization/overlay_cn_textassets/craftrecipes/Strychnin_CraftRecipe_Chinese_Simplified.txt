@@ -1,0 +1,2 @@
+﻿{CraftRecipes.Strychnin_CraftRecipe.Name} 士的宁
+{CraftRecipes.Strychnin_CraftRecipe.Description} 中度增加躁狂

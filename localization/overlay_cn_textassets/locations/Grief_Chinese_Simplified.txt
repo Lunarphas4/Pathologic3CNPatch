@@ -1,0 +1,2 @@
+﻿{Locations.Grief.Name} 格里夫的老巢
+{Locations.Grief.Description} 格里夫的老巢

@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_StaffTableTutorial_Prologue.Name} 法令规则
+{Prologue.Notifications.Tutorial.Notification_StaffTableTutorial_Prologue.Description} 每天最多颁布三项法令，可应用于任意可用的日期

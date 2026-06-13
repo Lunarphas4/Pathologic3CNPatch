@@ -1,0 +1,42 @@
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.7111} 感谢你配合审判所的工作，丹科夫斯基。那么？这份职责合你的胃口吗？
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.29072} 不。我不想再做一次了。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.10437} 你不必重复。你手头的事已经够多了。  当然，教你如何做自己的工作并不是我的分内事。不过我还是想问：你有没有对民众做宣传？提高他们的认识？这些外省民众对卫生领域的最新发现了解不多，这不是他们的错。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.37541} 至少还有一类人你不认为有罪——普通人！我真是震撼得五体投地。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.52054} 还有一件事。我看过你们应急指挥部的文件：城里药品短缺，隔离期间也不能指望新的补给。  但办法显而易见：没收镇民为不时之需囤下的东西。你要更大胆些，丹科夫斯基。权力在你手里。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.43689} 我不会那么做！这卑劣透顶。而且还会让整座城更加敌视我们。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.4660} 我只是给你一点提示，仅此而已。用不用在你。把鼻子探进别人的事务里，本就是我的工作。  不过我承认，相比凯恩家族垂青的那些事，你的事务对我没那么有趣。来到这样一座城倒是稀奇，这里竟聚集着这么多对现实的侵袭。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.54553} 你到底是什么意思？什么叫“对现实的侵袭”？
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.62549} 我没有时间长篇大论。我们尽量简短。世上有诸多法律，也有那一条法则——它规定现实的形状，规定现实由哪些事实构成，也规定现实发展的潜在可能。你还跟得上吗？
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.28814} 大致能。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.10821} 人因拥有自由意志，有时会试图打破法则。多数时候徒劳无功。但在极少数场合，他们会取得……某种程度的成功。在接缝处，在历史织物的裂口里。  这种成功并不稳定。现实总是在试图把那东西从自身中排斥出去。你可以说，现实有免疫反应。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.12232} 你在自相矛盾。如果法则规定现实，那它又怎么可能被打破？
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.1393} 你问到了正处，丹科夫斯基。法则不可能被打破。所以，对它的违犯才被称为“不可能之举”。如果这些东西取得了物质形态，就被称为“不可能之物”。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.62782} 听起来仍然是胡话。或者是在嘲弄我。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.61661} 为了避免泄露审判庭的秘密——毕竟你并不是其中一员——我只举几个最出名的例子。你也许听说过。  “不可能之举”的一个例子，是双星人的免费马戏演出。不借助任何器械的飞行。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.31271} 没听说过。那一定是某种戏法。人不可能飞。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.61986} 正是。他不能。  而最著名的不可能之物，是在一栋住宅楼梯下发现的。一个无穷小的点，里面却容纳了整个世界。那房子的愚蠢主人朝里面看了一眼，随后写出了一部品味极坏的诗体传奇。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.50865} 我不读诗。尤其不读当代诗。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.58030} 你的困惑可以理解。即便在审判庭，也没有多少人能够处理不可能之物。理智拒绝容纳它们。尽管我个人认为，它们是最有趣的工作。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.5939} 你说“工作”是什么意思？摧毁它们？
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.17194} 摧毁？不。研究它们。解除它们的危险。你应当明白，不可能之物永远是现实的威胁。而现实也威胁着它们。这一矛盾要求得到解决。  我希望你的好奇心至少今天已经得到满足。我得回去工作了。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.54361} 我不确定自己完全明白了，不过……一次解释通常不够。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.44192} 你给了我一些可供思考的东西。谢谢。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.24044} 我也有自己的工作。反正你已经选择不处决我了。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.5604} 追求不可能难道是坏事吗？突破，开创性的发现，不就是这样来的。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.42619} 你应当明白，不可能之物永远是现实的威胁。而现实也威胁着它们。这一矛盾要求得到解决。所以它们需要被研究。也需要被解除危险。  我希望你的好奇心至少今天已经得到满足。我得回去工作了。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.50585} 我以为那只是个故事。一个隐喻。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.44204} 他的名字叫德鲁德，而且他被扔进了监狱。肯定是你们的人干的。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.29850} 别这么激动。  而最著名的不可能之物，是在一栋住宅楼梯下发现的。一个无穷小的点，里面却容纳了整个世界。那房子的愚蠢主人朝里面看了一眼，随后写出了一部品味极坏的诗体传奇。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.36986} 如果你能举些例子，会容易理解得多。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.30811} 我大学里的哲学课都拿来补觉了。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.63678} 也许是时候了。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.33858} 恐怕“不时之需”的日子早就到了，镇民也没有什么囤货了。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.5147} 你还想继续玩交换角色？现在决定要取代我了？
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.10768} 宣传？倒不是坏主意。我会记下来。这应该成为一道法令。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.6863} 我们已经尽了一切可能。若还有哪些措施没有采取，那就说明有原因。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.13211} 我不知道你怎么能天天做这种事。希望你能拿到危险津贴。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.26092} 不必为我操心。你眼下有不少别的理由该操心。  当然，教你如何做自己的工作并不是我的分内事。不过我还是想问：你有没有对民众做宣传？提高他们的认识？这些外省民众对卫生领域的最新发现了解不多，这不是他们的错。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.4707} 我挺喜欢的。一下子有这么多权力。感觉不错。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.14997} 别习惯它。权力是会上瘾的药。起初是你占有它，后来便是它占有你。  这并不是说我打算夺取你的权力。不过我还是想问：你有没有对民众做宣传？提高他们的认识？这些外省民众对卫生领域的最新发现了解不多，这不是他们的错。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.14138} 你是故意这么做的。好让全城都知道我在“配合审判庭”。
+{Dialogs2.Days.Day7.Day7_Q1_Trial.Day7_Q1_Karminskiy_Results.44588} 你说得像是什么重大发现，可我并没有隐瞒什么。当然，我是故意的。但我给了你机会，让你影响嫌犯们的命运。难道不值得吗？别回答。这类争辩很无聊。  倒不如告诉我：你有没有对民众做宣传？提高他们的认识？这些外省民众对卫生领域的最新发现了解不多，这不是他们的错。

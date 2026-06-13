@@ -1,0 +1,3 @@
+{Items.Barter.Artistic_Clocks.Name} 怀表
+{Items.Barter.Artistic_Clocks.Description} 镇上的钟表出现故障或停摆时，怀表也会跟着出问题。莫非这些钟表本是同源机械？
+{Items.Barter.Artistic_Clocks.Description2} 镇上的钟表出现故障或停摆时，怀表也会跟着出问题。莫非这些钟表本是同源机械？

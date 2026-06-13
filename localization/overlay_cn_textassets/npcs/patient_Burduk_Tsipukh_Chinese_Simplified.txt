@@ -1,0 +1,3 @@
+{Npcs.patient_Burduk_Tsipukh.Name} 麻脸
+{Npcs.patient_Burduk_Tsipukh.FullName} ⁠
+{Npcs.patient_Burduk_Tsipukh.Description} ⁠

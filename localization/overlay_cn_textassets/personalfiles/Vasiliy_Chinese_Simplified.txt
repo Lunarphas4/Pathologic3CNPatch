@@ -1,0 +1,2 @@
+{PersonalFiles.Vasiliy.Name} 菲拉特
+{PersonalFiles.Vasiliy.Description} 似乎爱喝酒。

@@ -1,0 +1,28 @@
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.33053} 不，审判官莉莉奇。即便有您的指令。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.41255} 你明白吧，将军，我的指令对你构成命令？拒绝它——你就是给自己签下死刑判决。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.36042} 而执行它，我就是给至少五百个藏在多面体里的孩子签下死刑判决。 炮兵不会向他们开火。如果这要付出我的生命——那就如此。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.36662} 我没有命令你向多面体里的孩子开火。只向多面体本身。 将军，我不相信你不知道这种事该如何处理。你有士兵。他们完全有能力把孩子们带出来。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.2896} 他们不会出来。他们为围城准备了很久。他们会反抗。结局会是流血。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.47559} 这座镇子害怕孩子甚于害怕瘟疫。 我带来了解法，带来了证据。而你因为处理不了几百个未成年人就在拖延？
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.54017} 容我提醒你，审判官，我被派到这座镇子，正是因为我没有盲目执行他人指令的习惯。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.804} 好。是你自己提起这件事的，将军——不是我。你被流放，将军，是因为一场在权力厅堂里只能被称作未遂政变的叛乱。 而如果还有任何机会为自己辩护，证明你的忠诚——就是现在，就在你面前。拆毁多面体，拯救镇子。证明你配得上自己的军衔和命运。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.36920} 他们把你流放到这里，是为了羞辱你，将军。如果你下令向有孩子在里面的高塔开火，你在首都的敌人会喜不自胜。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.7518} 我们共同的敌人只有一个——瘟疫。还是有人连这点也要争？ 将军，我给你一个结束它的机会，而你却在顾及体面？如果你真的在乎孩子们的命运，早就该把他们疏散了——不仅从多面体里，还要从镇子里。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.26521} 莉莉奇审判官，你还是一贯如此。总在牺牲卒子。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.40388} 如果今天不“牺牲卒子”，明天瘟疫就会带走他们——也带走其他所有人。 将军，我给你一个结束它的机会，而你却在顾及体面？如果你真的在乎孩子们的命运，早就该把他们疏散了——不仅从多面体里，还要从镇子里。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.53434} 你想不惜任何代价拆毁多面体？哪怕那意味着大规模屠杀孩子？好。但别想借我的手去做。就连你的同事卡尔明斯基操弄人时，都比你细致些。 况且，我上次同他说话时，他坚持认为多面体可以被救下。甚至必须被救下……
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.60618} 如果我的同事还活着，我相信他会分享自己关于如何不牺牲镇子而做到这一点的想法。不过我要指出：正是他对不可能物的执迷，把他送进了坟墓。 如果你不摧毁多面体，多面体就会摧毁我们所有人。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.3226} 没想到我竟会想念卡尔明斯基……
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.43896} 人生总有意外。不意外的是这一点：沙疫威胁的不只是这座镇子，而是整个国家。今天迟疑，明天它就会扩散得更远。 将军，我知道过去四天里你有多少逃兵。那些逃兵迟早会抵达另一座小镇——把瘟疫带到那里。执行命令。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.22359} 将军是对的：如果卡尔明斯基还活着，情况会不同。他研究过高塔，必定比我们任何人都更了解它。我们应当依靠他的判断。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.18743} 丹科夫斯基，你熟悉“虚拟语气”这个词吗？卡尔明斯基没有作出判断。那不存在。存在的是这个事实：沙疫威胁的不只是这座镇子，而是整个国家。今天迟疑，明天它就会扩散得更远。 我知道过去四天里你有多少逃兵。那些逃兵迟早会抵达另一座小镇——把瘟疫带到那里。执行命令。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.56704} 孩子是镇子的未来。如果你杀了他们，拯救镇子还有什么意义？
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.19438} 丹科夫斯基，别拿别人的代价来对我说教。沙疫威胁的不只是这座镇子，而是整个国家。今天迟疑，明天它就会扩散得更远。 我知道过去四天里你有多少逃兵。那些逃兵迟早会抵达另一座小镇——把瘟疫带到那里。执行命令。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.2061} 不。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.25208} 谢谢你，将军。我还担心她会压垮你。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.28111} 如果你确信，审判官，这是拯救镇子的唯一办法——我不会阻止你。你说得对：这不在我的权力范围内。 但我也不会帮忙。我不会给你武器，也不会给你士兵。我宣誓效忠时，不是为了向手无寸铁的孩子开炮。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.20588} 多么讽刺：毁掉我们的不会是瘟疫。而是一个穿着将军外套的犹疑懦夫。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.40169} 我已言尽，也救了自己的灵魂。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.22967} 不？所以你就站在旁边，看着镇子死？
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.7279} 她说得对，将军。没时间内斗了。下令吧。
+{Dialogs2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_Powers_RefusalAndDeath.33602} 连你也这样，丹科夫斯基？没想到你会这么说。你要我诅咒自己的良心，下达杀死五百个孩子的命令。

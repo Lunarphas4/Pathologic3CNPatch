@@ -1,0 +1,4 @@
+{Clouds2.FlavorNew.Indoor.Lump.Cloud_Lump_VictoriaPortrait.44925} 老维多利亚纺出了城镇的安宁
+{Clouds2.FlavorNew.Indoor.Lump.Cloud_Lump_VictoriaPortrait.10340} 老维多利亚纺出了城镇的安宁
+{Clouds2.FlavorNew.Indoor.Lump.Cloud_Lump_VictoriaPortrait.56689} 有人相信她死后仍保护着城镇
+{Clouds2.FlavorNew.Indoor.Lump.Cloud_Lump_VictoriaPortrait.61752} 她没能保护

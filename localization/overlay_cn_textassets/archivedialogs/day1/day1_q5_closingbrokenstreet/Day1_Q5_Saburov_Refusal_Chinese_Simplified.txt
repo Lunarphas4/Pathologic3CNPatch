@@ -1,0 +1,4 @@
+{ArchiveDialogs.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Saburov_Refusal.26181} 你又有什么事，丹科夫斯基？
+{ArchiveDialogs.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Saburov_Refusal.12684} 必须封闭柳里切娃街，它很危险。
+{ArchiveDialogs.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Saburov_Refusal.19772} 你是为西蒙来的？那就去管西蒙。
+{ArchiveDialogs.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Saburov_Refusal.16120} 我才不。

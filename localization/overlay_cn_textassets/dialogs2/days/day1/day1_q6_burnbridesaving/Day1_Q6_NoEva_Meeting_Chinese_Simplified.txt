@@ -1,0 +1,9 @@
+﻿{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_NoEva_Meeting.50090} 请问你们的统治者，西蒙·凯恩，住在哪里？
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_NoEva_Meeting.5450} 回应他的只有沉默。
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_NoEva_Meeting.6920} 我甚至无法想象这里会如此好客……可是谁在等我？我并没有通知老布拉赫我要来。我甚至不确定是什么让我动身来到这里。
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_NoEva_Meeting.48008} 听我说，丹尼尔。把目光从空无处移开——这里甚至没有幽灵，连记忆都没有。
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_NoEva_Meeting.52329} ……
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_NoEva_Meeting.10557} 如果伊娃在这里，我会明白某件事……但静水宅的小宇宙已经破碎了。
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_NoEva_Meeting.33236} 我看不下这场不存在的对话。它让现实裂开缝隙。
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_NoEva_Meeting.37658} 这个空洞之所以在这里，是因为你把伊娃从她的过去中释放了。所以你永远不会知道她此刻本可以告诉你什么。
+{Dialogs2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_NoEva_Meeting.9612} 请原谅我，丹科夫斯基学士。这不是你的错。

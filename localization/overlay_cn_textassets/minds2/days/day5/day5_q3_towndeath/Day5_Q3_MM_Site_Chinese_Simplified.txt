@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_MM_Site.Name} 注定之人的凝视
+{Minds2.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_MM_Site.Description} 玛丽亚声称小镇明天会灭亡。而我认为她是对的。

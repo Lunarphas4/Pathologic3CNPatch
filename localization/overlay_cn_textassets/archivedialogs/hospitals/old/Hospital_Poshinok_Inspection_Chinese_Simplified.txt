@@ -1,0 +1,4 @@
+{ArchiveDialogs.Hospitals.Old.Hospital_Poshinok_Inspection.27843} 医生，能给我检查一下吗？
+{ArchiveDialogs.Hospitals.Old.Hospital_Poshinok_Inspection.23345} 我只是路过。
+{ArchiveDialogs.Hospitals.Old.Hospital_Poshinok_Inspection.11018} 也许会检查。脱衣服！
+{ArchiveDialogs.Hospitals.Old.Hospital_Poshinok_Inspection.10166} 现在需要从你身上取样，忍一忍。

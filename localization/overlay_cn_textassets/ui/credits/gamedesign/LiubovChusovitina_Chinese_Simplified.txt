@@ -1,0 +1,2 @@
+{UI.Credits.GameDesign.LiubovChusovitina.Name} Liubov Babak
+{UI.Credits.GameDesign.LiubovChusovitina.Description} 游戏设计师

@@ -1,0 +1,2 @@
+{StaffCommands.Day2.FuelForMedicines.Name} 以燃料换取药品
+{StaffCommands.Day2.FuelForMedicines.Description} 用应急指挥部多余的燃料换取无人认领的药品。

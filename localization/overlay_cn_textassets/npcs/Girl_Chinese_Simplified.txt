@@ -1,0 +1,3 @@
+{Npcs.Girl.Name} 女孩
+{Npcs.Girl.FullName} ⁠
+{Npcs.Girl.Description} ⁠

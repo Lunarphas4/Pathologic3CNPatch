@@ -1,0 +1,2 @@
+{UI.Credits.Audio.KseniaMyshko.Name} Ksenia Myshko
+{UI.Credits.Audio.KseniaMyshko.Description} 人声、小提琴、母带，曲目“现实之影”

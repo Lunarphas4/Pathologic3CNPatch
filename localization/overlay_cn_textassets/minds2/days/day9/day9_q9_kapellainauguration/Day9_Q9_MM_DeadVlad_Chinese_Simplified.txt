@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_MM_DeadVlad.Name} 正义
+{Minds2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_MM_DeadVlad.Description} 就职礼上，我撞见了小弗拉德的"影"。昨日他向金族自首——金族以他的罪行将他撕作碎片。

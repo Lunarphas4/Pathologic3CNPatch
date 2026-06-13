@@ -1,0 +1,2 @@
+{UI.Credits.HypeTrain.Localization.KakiharaMasO.KakiharaMasO} Kakihara MasO
+{UI.Credits.HypeTrain.Localization.KakiharaMasO.CrawlerInCortex} The Crawler in the Cortex Hell

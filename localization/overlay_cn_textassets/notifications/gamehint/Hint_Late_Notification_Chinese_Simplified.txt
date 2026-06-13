@@ -1,0 +1,2 @@
+{Notifications.GameHint.Hint_Late_Notification.Name} ⁠
+{Notifications.GameHint.Hint_Late_Notification.Description} 回到起始的住处（静水观星台），使用二楼那座时钟。

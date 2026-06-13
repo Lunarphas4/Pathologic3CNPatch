@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q12_RotSiege.Day7_Q12_MM_LiftedSiege.Name} 谈判老手
+{Minds2.Days.Day7.Day7_Q12_RotSiege.Day7_Q12_MM_LiftedSiege.Description} 围攻解了！看来我那点外交手腕派上了用场。

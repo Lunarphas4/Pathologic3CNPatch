@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_MM_Needs.Name} 独一之礼
+{Minds2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_MM_Needs.Description} 囚中的可汗提了一个不大的请求：要我给他带一台显微镜来。

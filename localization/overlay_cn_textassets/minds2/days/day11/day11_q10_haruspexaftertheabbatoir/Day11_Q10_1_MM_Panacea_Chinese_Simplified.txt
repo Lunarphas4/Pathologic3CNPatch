@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day11.Day11_Q10_HaruspexAfterTheAbbatoir.Day11_Q10_1_MM_Panacea.Name} 灵丹妙药
+{Minds2.Days.Day11.Day11_Q10_HaruspexAfterTheAbbatoir.Day11_Q10_1_MM_Panacea.Description} ……布拉赫发誓，那时常涌出地表的剧毒之血所制的汤剂——能治瘟疫。

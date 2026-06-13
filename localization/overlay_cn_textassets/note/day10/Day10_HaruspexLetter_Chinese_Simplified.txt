@@ -1,0 +1,2 @@
+{Note.Day10.Day10_HaruspexLetter.Name} 肠卜师匆匆写下的便条
+{Note.Day10.Day10_HaruspexLetter.Description} 谢了，血我收到了，oynon。今天别叫我去任何地方——我在到处查。明天告诉你。\n先提醒一句，我可能回不来。要是我没回来——那就没法告诉你了。\n\n布拉赫

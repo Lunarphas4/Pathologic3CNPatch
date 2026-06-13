@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day4.Day4_Q18_AndreyDeath.Day4_Q18_MM_Column.Name} 栋柱倒下
+{Minds2.Days.Day4.Day4_Q18_AndreyDeath.Day4_Q18_MM_Column.Description} 危险的才子、伟大的建筑师、酒馆老板，也是我帝都老友的安德烈·斯塔马京——昨日平庸地死于沙疫。

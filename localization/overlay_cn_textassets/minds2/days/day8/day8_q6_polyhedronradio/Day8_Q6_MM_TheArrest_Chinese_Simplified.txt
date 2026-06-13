@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_TheArrest.Name} 因不可能而获罪
+{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_TheArrest.Description} 审判之后，彼得被软禁在家。看守他的人对访客并不待见。

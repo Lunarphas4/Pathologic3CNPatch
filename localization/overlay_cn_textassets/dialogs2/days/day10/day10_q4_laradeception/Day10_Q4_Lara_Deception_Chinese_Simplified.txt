@@ -1,0 +1,15 @@
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Lara_Deception.2823} 谁在那里？我听见你站在门后，正在呼吸。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Lara_Deception.23757} 是丹科夫斯基。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Lara_Deception.645} 你知道是谁，拉拉。除了我，还会有谁来看你？
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Lara_Deception.18134} 看来你许下的话对你毫无分量，是吗，拉拉？
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Lara_Deception.16045} 哦，是你。我料到你会来。我想了很多，真的，很多。我原以为自己能压下怒火，可怒火比我更强。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Lara_Deception.30197} 那桩谋杀本来有没有可能避免？我现在只想着这个。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Lara_Deception.21106} 我本想好好解决，可看来好话对你不管用。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Lara_Deception.26377} 别怪自己，丹科夫斯基。你已经尽力了。你昨天来过之后，我整夜没睡，一遍遍权衡，一遍遍下决心。我原以为自己能原谅布洛克。可当我见到他时，就像……我从没想过，一个人身上竟能有这么多怒火。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Lara_Deception.13387} 我现在该拿你怎么办？该怎样保护你，不让你毁了自己？
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Lara_Deception.25045} 你能做什么？都结束了。这话听起来也许荒唐，可我现在确实好受些了。许久以来，第一次，我胸口那块可怕的重物不见了。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Lara_Deception.9177} 我本该告诉布洛克你在城里。他会采取措施，你也就杀不了他。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Lara_Deception.26894} 也许。也许那样会有用。可现在太迟了。事情已经做下，时间不会回头。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Lara_Deception.25791} 那可未必。
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Lara_Deception.655} 你毁了你一直为之努力的一切，毁了你珍视的一切。‘活人之家’，你对父亲的纪念，一切。你明白吗？
+{Dialogs2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_Lara_Deception.17261} 我不在乎。我不后悔自己做过的事。我什么都不后悔。

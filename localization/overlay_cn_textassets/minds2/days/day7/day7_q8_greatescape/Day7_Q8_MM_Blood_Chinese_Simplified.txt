@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_Blood.Name} 血
+{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_Blood.Description} 机车可以弄到。我还需要一名机师。

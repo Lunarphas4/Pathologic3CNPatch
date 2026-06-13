@@ -1,0 +1,3 @@
+{Npcs.Julia.Name} 尤利娅·柳里切娃
+{Npcs.Julia.FullName} 宿命论者
+{Npcs.Julia.Description} 她随"梦境营造师"——那个建造了本镇西半部的组织——一同从帝都而来。这镇上许多怪事都能归到他们头上。\n尤利娅一开口便给我留下"聪敏、理性、且不快乐"的印象。

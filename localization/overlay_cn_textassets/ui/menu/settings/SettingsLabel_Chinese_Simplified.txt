@@ -1,0 +1,5 @@
+﻿{UI.Menu.Settings.SettingsLabel.Gamma} 伽玛调节
+{UI.Menu.Settings.SettingsLabel.GammaHint} 调整伽马值，调到看不见最左边的面具
+{UI.Menu.Settings.SettingsLabel.AutosaveHint} 保存图标显示时，请勿退出游戏或关闭设备
+{UI.Menu.Settings.SettingsLabel.StreamerModeTitle} 开启主播模式？
+{UI.Menu.Settings.SettingsLabel.StreamerModeDescription} 本游戏包含裸露内容。你可以开启主播模式将其隐藏。

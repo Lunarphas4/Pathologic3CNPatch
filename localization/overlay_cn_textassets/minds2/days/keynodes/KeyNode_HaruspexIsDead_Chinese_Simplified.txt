@@ -1,0 +1,2 @@
+﻿{Minds2.Days.KeyNodes.KeyNode_HaruspexIsDead.Name} 断线
+{Minds2.Days.KeyNodes.KeyNode_HaruspexIsDead.Description} 阿尔捷米·布拉赫以凶手与"开膛手"之名被吊死。

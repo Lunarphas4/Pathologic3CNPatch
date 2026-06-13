@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day5.Day5_Q8_ShabnakTutorial.Day5_Q8_MM_SinisterStreets.Name} 致命街道
+{Minds2.Days.Day5.Day5_Q8_ShabnakTutorial.Day5_Q8_MM_SinisterStreets.Description} 小镇快把我逼疯了。这些本就危险的感染街区已经向我宣战。

@@ -1,0 +1,6 @@
+{ArchiveDialogs.Teaser.Teaser_ManDisapproves.15093} 伊西多尔·布拉赫，我们当年的医生，五年前就把这沙疫连根拔了！你现在在哪儿看见沙疫了，学者医生？
+{ArchiveDialogs.Teaser.Teaser_ManDisapproves.4711} 我作为受权人，正在采取预防措施。
+{ArchiveDialogs.Teaser.Teaser_ManDisapproves.5500} 闭上你的嘴！要叫就去首都叫。这儿没有沙疫，也不会有！赶紧滚出去，不然我们把你赶走。
+{ArchiveDialogs.Teaser.Teaser_ManDisapproves.20302} 无知之徒。死了以后可别抱怨。
+{ArchiveDialogs.Teaser.Teaser_ManDisapproves.15923} 我身后有民兵，没人会听你们的。卫生措施会照常执行。
+{ArchiveDialogs.Teaser.Teaser_ManDisapproves.21444} 邻区已经出现最初的死亡。因此，我要将你们封锁隔离。

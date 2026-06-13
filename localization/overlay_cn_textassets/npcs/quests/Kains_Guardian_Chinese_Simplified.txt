@@ -1,0 +1,3 @@
+{Npcs.Quests.Kains_Guardian.Name} 凯恩家护卫
+{Npcs.Quests.Kains_Guardian.FullName} ⁠
+{Npcs.Quests.Kains_Guardian.Description} ⁠

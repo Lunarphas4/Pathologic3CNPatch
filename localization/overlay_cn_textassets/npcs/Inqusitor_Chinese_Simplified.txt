@@ -1,0 +1,3 @@
+﻿{Npcs.Inqusitor.Name} 马克·卡明斯基
+{Npcs.Inqusitor.FullName} 审判官
+{Npcs.Inqusitor.Description} 审判庭是当权者派出去解无解之题的特派智者之组织。每人各有手段。\n少有人知晓审判官们的本名，便以诨号相称。卡明斯基的诨号是"绞刑官"。

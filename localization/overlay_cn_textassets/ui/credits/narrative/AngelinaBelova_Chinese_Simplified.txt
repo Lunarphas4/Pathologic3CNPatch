@@ -1,0 +1,2 @@
+{UI.Credits.Narrative.AngelinaBelova.Name} Angelina Belova
+{UI.Credits.Narrative.AngelinaBelova.Description} 编剧

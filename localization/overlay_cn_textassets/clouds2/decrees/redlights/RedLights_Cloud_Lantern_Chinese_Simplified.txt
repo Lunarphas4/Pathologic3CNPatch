@@ -1,0 +1,4 @@
+{Clouds2.Decrees.RedLights.RedLights_Cloud_Lantern.16227} 孩子们为什么选这些颜色？
+{Clouds2.Decrees.RedLights.RedLights_Cloud_Lantern.2270} 孩子们为什么选这些颜色？
+{Clouds2.Decrees.RedLights.RedLights_Cloud_Lantern.25623} 瘟疫中的宴会
+{Clouds2.Decrees.RedLights.RedLights_Cloud_Lantern.10231} 市民们高兴吗？

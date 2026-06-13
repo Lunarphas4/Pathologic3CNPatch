@@ -1,0 +1,2 @@
+{PersonalFiles.Day10.Poshinok.Name} 拼布
+{PersonalFiles.Day10.Poshinok.Description} 试图把孩子们送出小镇，前来领取所需许可。

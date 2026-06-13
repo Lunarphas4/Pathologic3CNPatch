@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Castle.Name} 一魂半族要塞
+{QuestMarkers.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Castle.Description} 可汗在此处的狗笼里已蹲了好几日。

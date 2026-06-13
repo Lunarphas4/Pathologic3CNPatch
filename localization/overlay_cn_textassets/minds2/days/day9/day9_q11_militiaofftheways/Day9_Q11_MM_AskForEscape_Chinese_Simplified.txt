@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day9.Day9_Q11_MilitiaOffTheWays.Day9_Q11_MM_AskForEscape.Name} 时机
+{Minds2.Days.Day9.Day9_Q11_MilitiaOffTheWays.Day9_Q11_MM_AskForEscape.Description} 卡捷琳娜已脱离生命危险。萨布罗夫对我感激涕零。若想趁势开口——必须现在。

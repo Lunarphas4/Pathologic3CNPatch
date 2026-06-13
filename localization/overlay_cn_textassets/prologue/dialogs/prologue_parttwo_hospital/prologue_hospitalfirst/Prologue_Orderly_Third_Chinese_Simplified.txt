@@ -1,0 +1,8 @@
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Third.31479} 我是来提集体意见的。医生，这破罩袍……穿着太遭罪了。袖子碍手碍脚，面罩糊得啥也瞅不见。\n\n\n更绝的是每晚还得<b>烧掉</b>——但凡去过疫区就得……
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Third.18194} 先报上名号。
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Third.29698} 犹大·马加比。没编号。我不是能随便使唤的物件。
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Third.10110} 倒是读过点书。或许有用。要是改改这臭脾气，可以派你去干统计。
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Third.12395} “名字算什么”是吧……看得出你想当英雄啊，犹大·马加比。
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Third.29546} 名字重要么？玫瑰不叫玫瑰，它就不香了么？
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Third.5951} 我们能怎么办？又没别的可用！好在剧院仓库堆满这种戏服。照现在能活的日子算，够穿到下辈子的。
+{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_HospitalFirst.Prologue_Orderly_Third.8677} 往好处想，这身够扎眼，旁人一看就知道是护理员，而且体面又威严，能提升志愿护理员的威望。

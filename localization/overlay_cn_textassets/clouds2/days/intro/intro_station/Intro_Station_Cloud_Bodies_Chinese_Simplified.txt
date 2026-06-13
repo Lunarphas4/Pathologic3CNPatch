@@ -1,0 +1,5 @@
+{Clouds2.Days.Intro.Intro_Station.Intro_Station_Cloud_Bodies.45967} 腹部被刺，被开膛，就像我的书一样。
+{Clouds2.Days.Intro.Intro_Station.Intro_Station_Cloud_Bodies.26416} 腹部被刺，被开膛，就像我的书一样。
+{Clouds2.Days.Intro.Intro_Station.Intro_Station_Cloud_Bodies.29681} 精准的切口，与其说是谋杀，更像手术。
+{Clouds2.Days.Intro.Intro_Station.Intro_Station_Cloud_Bodies.3297} 尸体仍是温的。
+{Clouds2.Days.Intro.Intro_Station.Intro_Station_Cloud_Bodies.21002} 出人意料的是，像他这样的人竟然是清醒的。

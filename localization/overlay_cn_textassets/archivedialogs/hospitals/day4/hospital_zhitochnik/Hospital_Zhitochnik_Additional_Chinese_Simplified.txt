@@ -1,0 +1,6 @@
+﻿{ArchiveDialogs.Hospitals.Day4.Hospital_Zhitochnik.Hospital_Zhitochnik_Additional.23} ...
+{ArchiveDialogs.Hospitals.Day4.Hospital_Zhitochnik.Hospital_Zhitochnik_Additional.7142} 你准备好继续谈了吗？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Zhitochnik.Hospital_Zhitochnik_Additional.22087} 还不说话？
+{ArchiveDialogs.Hospitals.Day4.Hospital_Zhitochnik.Hospital_Zhitochnik_Additional.18244} ...
+{ArchiveDialogs.Hospitals.Day4.Hospital_Zhitochnik.Hospital_Zhitochnik_Additional.4937} 看来跟你谈没有意义。
+{ArchiveDialogs.Hospitals.Day4.Hospital_Zhitochnik.Hospital_Zhitochnik_Additional.11393} 等你能开口时告诉我。

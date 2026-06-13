@@ -1,0 +1,17 @@
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_HaruspexAboutGrave.8002} 警备队人手不够看住隔离……一个街区还好。全城的话，人根本不够。
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_HaruspexAboutGrave.30380} 你们有仪式性葬埋吗？
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_HaruspexAboutGrave.24589} 啊，所以你刚才在墓地找神圣符号？原来如此。
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_HaruspexAboutGrave.19025} 你怎么知道？
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_HaruspexAboutGrave.14229} 别逗我笑，行吗？那是城市墓地，你觉得那里该有什么仪式？城里人下葬很朴素，没有萨满，也没有舞蹈。
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_HaruspexAboutGrave.15854} 那有没有可能埋的不是人？
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_HaruspexAboutGrave.21798} 嗯，也可能埋了宝藏——这是你想听的吗？这是墓地，不是猪圈。再说，土地也不是随便为什么都能挖开。我甚至可以多告诉你一句：土地不是什么死人都收。
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_HaruspexAboutGrave.11321} 为什么？
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_HaruspexAboutGrave.24535} 你愿意在自己身上背多余的重物吗？所以土地也未必愿意。
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_HaruspexAboutGrave.8322} 我还以为你会说：“湿时耕黏土，会陷；干时翻硬土，会结。”
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_HaruspexAboutGrave.15825} 你打算在这儿踩到脊柱长疝吗？
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_HaruspexAboutGrave.8205} 不会。
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_HaruspexAboutGrave.10255} 要是这对事情有帮助，也不是不行。
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_HaruspexAboutGrave.19052} 我还以为你们自己也不喜欢幻景怪谈。
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_HaruspexAboutGrave.20074} 我问的不是跳舞，是埋进地里的东西。
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_HaruspexAboutGrave.21910} 我们会重新组织工人。找志愿者。你们为什么这么早就慌？
+{ArchiveDialogs.Day3.Day3_Q4_MorningExhumation.Day3_Q4_HaruspexAboutGrave.31828} 你不是来安慰我的。要什么？

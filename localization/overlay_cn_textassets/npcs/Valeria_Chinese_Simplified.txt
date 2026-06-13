@@ -1,0 +1,3 @@
+{Npcs.Valeria.Name} 瓦莱里娅
+{Npcs.Valeria.FullName} ⁠
+{Npcs.Valeria.Description} ⁠

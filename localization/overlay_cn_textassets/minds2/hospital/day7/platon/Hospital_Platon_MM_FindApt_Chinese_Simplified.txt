@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_FindApt.Name} 该四下看看
+{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_FindApt.Description} 夜莺的住处就在这一带。这里也有几位邻居或许能告诉我些情况。

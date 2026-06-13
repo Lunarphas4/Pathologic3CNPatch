@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_PersonalFile.Name} 总算碰到一位有学识的病人
+{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_PersonalFile.Description} 夜莺来时主诉幻觉，化验却显示是瘟疫。

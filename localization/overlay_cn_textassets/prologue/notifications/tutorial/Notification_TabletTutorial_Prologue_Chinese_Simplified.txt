@@ -1,0 +1,2 @@
+{Prologue.Notifications.Tutorial.Notification_TabletTutorial_Prologue.Name} 病历簿
+{Prologue.Notifications.Tutorial.Notification_TabletTutorial_Prologue.Description} 先勾选患者的疑似症状，再确定最终诊断——注意，有的症状可能是错的！

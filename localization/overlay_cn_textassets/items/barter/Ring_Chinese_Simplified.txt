@@ -1,0 +1,3 @@
+{Items.Barter.Ring.Name} 戒指
+{Items.Barter.Ring.Description} 它绕回自身，就像钟面、年轮，或一个人的疑虑。
+{Items.Barter.Ring.Description2} 它绕回自身，就像钟面、年轮，或一个人的疑虑。

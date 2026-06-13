@@ -1,0 +1,3 @@
+{Items.Herbs.SuspiciousBrownTwyre.Name} 褐色 twyre（特维草）
+{Items.Herbs.SuspiciousBrownTwyre.Description} 并非人人都同样懂草药；买什么都要自担风险。
+{Items.Herbs.SuspiciousBrownTwyre.Description2} 并非人人都同样懂草药；买什么都要自担风险。

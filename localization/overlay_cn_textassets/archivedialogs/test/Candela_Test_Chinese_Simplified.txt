@@ -1,0 +1,5 @@
+{ArchiveDialogs.Test.Candela_Test.27800} 我是蜡烛。
+{ArchiveDialogs.Test.Candela_Test.14680} 我是丹科夫斯基。
+{ArchiveDialogs.Test.Candela_Test.32981} 我是丹科夫斯基。
+{ArchiveDialogs.Test.Candela_Test.15096} 这就算谈过了。
+{ArchiveDialogs.Test.Candela_Test.49968} 这就算谈完了，测试！

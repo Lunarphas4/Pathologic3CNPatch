@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_Diagnosed.Name} 菲拉特已诊
+{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_Diagnosed.Description} 入院时菲拉特说自己"基本健康"。可惜，并非如此。

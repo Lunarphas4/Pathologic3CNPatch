@@ -1,0 +1,2 @@
+{Symptoms.SerdceRitm.Name} 脉搏加快
+{Symptoms.SerdceRitm.Description} 正常脉搏约为每分钟 60-80 次；此处指高于正常范围。

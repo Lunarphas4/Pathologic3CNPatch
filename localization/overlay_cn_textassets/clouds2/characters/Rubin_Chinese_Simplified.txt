@@ -1,0 +1,4 @@
+{Clouds2.Characters.Rubin.13183} 本地医师
+{Clouds2.Characters.Rubin.13004} 本地医师
+{Clouds2.Characters.Rubin.14248} 已故药师伊西多尔·布拉赫的学生
+{Clouds2.Characters.Rubin.12461} 阿尔忒弥·布拉赫的童年朋友，也是他的竞争者

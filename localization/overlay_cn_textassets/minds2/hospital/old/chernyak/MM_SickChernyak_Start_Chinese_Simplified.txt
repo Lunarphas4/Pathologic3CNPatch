@@ -1,0 +1,2 @@
+{Minds2.Hospital.Old.Chernyak.MM_SickChernyak_Start.Name} 病人小黑
+{Minds2.Hospital.Old.Chernyak.MM_SickChernyak_Start.Description} 先检查病人小黑的情况。

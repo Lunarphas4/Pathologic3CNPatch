@@ -1,0 +1,17 @@
+{ArchiveDialogs.Day4.Day4_Q3_MortusEquipment.Day4_Q3_HaruspexAboutVaccine.7417} 快点，我忙着。
+{ArchiveDialogs.Day4.Day4_Q3_MortusEquipment.Day4_Q3_HaruspexAboutVaccine.26949} 这种自制疫苗是你弄出来的？
+{ArchiveDialogs.Day4.Day4_Q3_MortusEquipment.Day4_Q3_HaruspexAboutVaccine.11098} 什么疫苗？你听听自己在说什么。
+{ArchiveDialogs.Day4.Day4_Q3_MortusEquipment.Day4_Q3_HaruspexAboutVaccine.3795} 我听着。今天皮革区里有安瓿在流通。有人向我报告，那是防沙疫的疫苗。这是什么？
+{ArchiveDialogs.Day4.Day4_Q3_MortusEquipment.Day4_Q3_HaruspexAboutVaccine.16401} 关于今天在我的观察员中间散发的沙疫疫苗，你知道什么？
+{ArchiveDialogs.Day4.Day4_Q3_MortusEquipment.Day4_Q3_HaruspexAboutVaccine.30478} 什么样的超凡头脑能在一天之内捣鼓出疫苗？
+{ArchiveDialogs.Day4.Day4_Q3_MortusEquipment.Day4_Q3_HaruspexAboutVaccine.18093} 不知道。我在问你。半座城都是天才。你也许知道些什么。
+{ArchiveDialogs.Day4.Day4_Q3_MortusEquipment.Day4_Q3_HaruspexAboutVaccine.15471} 那，把疫苗拿来给我看看？
+{ArchiveDialogs.Day4.Day4_Q3_MortusEquipment.Day4_Q3_HaruspexAboutVaccine.25921} 我没有。
+{ArchiveDialogs.Day4.Day4_Q3_MortusEquipment.Day4_Q3_HaruspexAboutVaccine.22128} 那等有了再来。
+{ArchiveDialogs.Day4.Day4_Q3_MortusEquipment.Day4_Q3_HaruspexAboutVaccine.20648} 好吧。
+{ArchiveDialogs.Day4.Day4_Q3_MortusEquipment.Day4_Q3_HaruspexAboutVaccine.27078} 就相信我。我若觉得那是空东西，就不会来找同行。
+{ArchiveDialogs.Day4.Day4_Q3_MortusEquipment.Day4_Q3_HaruspexAboutVaccine.2631} 别告诉我，你把街上弄来的什么浆液试在自己身上了。
+{ArchiveDialogs.Day4.Day4_Q3_MortusEquipment.Day4_Q3_HaruspexAboutVaccine.98} 那你就直说你什么都不知道。
+{ArchiveDialogs.Day4.Day4_Q3_MortusEquipment.Day4_Q3_HaruspexAboutVaccine.4820} 我不是傻子。
+{ArchiveDialogs.Day4.Day4_Q3_MortusEquipment.Day4_Q3_HaruspexAboutVaccine.17164} 医生？某个人，或者一群人，显然具备所需的知识……
+{ArchiveDialogs.Day4.Day4_Q3_MortusEquipment.Day4_Q3_HaruspexAboutVaccine.19553} 你们五年前已经有过一次。所有人都在说。那个人可能已经做了五年。

@@ -1,0 +1,2 @@
+{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.Compress.Compress_Tags_Temperature.Name} ⁠
+{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.Compress.Compress_Tags_Temperature.Description} 他是在试图退烧吗？

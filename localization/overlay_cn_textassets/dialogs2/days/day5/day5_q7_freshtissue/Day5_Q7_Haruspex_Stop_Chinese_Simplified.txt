@@ -1,0 +1,22 @@
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.9414} 你在这里干什么，emshen（医者）？
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.5715} 我正想问你同样的话，你打算做什么？
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.9648} 这是纳拉。她得了沙疫。她想帮我……
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.30059} 她具体要怎么帮你？
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.12004} 她会让我研究她的……器官。你和我都知道，沙疫只会在活体组织里存活。研究死组织毫无意义。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.14474} 所以你是决定趁纳拉还活着时把她剖开。告诉我，纳拉，你知道那会有多痛吗？
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.27722} 阿尔捷米把一切都告诉我了。我同意。只要能帮到我的族人，我同意。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.20330} 她已经答应了，emshen（医者）。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.18386} 我不准你剖开她，布拉克。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.5636} 我还以为你想找到疫苗，emshen（医者）。我还以为你想研究瘟疫。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.9534} 是想，但不是以这种代价。没人该被活活剥开，哪怕是为了科学也不行。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.1253} 那好吧，emshen（医者）。就照你的意思来。可这样一来，我们又该怎么研究沙疫在活体组织里的行为？
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.24734} 我已经在研究了。我手头有足够的活体组织数据。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.30336} 是吗？从哪来的？你从哪里弄到活体组织的？
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.30926} 别问了。把纳拉送去医院吧，布拉克。要是她真的病了，再让她多受苦也没有意义。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.5051} 总有一天我会告诉你的，到时候你不会信。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.270} 现在我总算明白那些关于你的传闻是怎么来的了，布拉克。你对界限毫无概念。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.13358} 你上过医学院，布拉克。<i>Primum non nocere</i>，这话你耳熟吗？
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.7682} 如果她病了，那需要帮助的就是<i>她</i>，把她送去医院。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.1719} 从什么时候起，把活人剖开也算帮忙了？
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.16396} 我是来阻止一场谋杀的。
+{Dialogs2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Haruspex_Stop.20022} 我听不懂你在说什么。这是纳拉。她得了沙疫。我是在想办法帮她。

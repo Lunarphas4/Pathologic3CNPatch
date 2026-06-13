@@ -1,0 +1,2 @@
+{PersonalFiles.Day5.Sakhmen.Name} 萨赫·曼
+{PersonalFiles.Day5.Sakhmen.Description} 隔离瘟疫屋里唯一的幸存者。

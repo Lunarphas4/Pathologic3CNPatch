@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_Neighbours.Name} 植物收藏
+{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_Neighbours.Description} 直觉告诉我，夜莺的病必与她对植物学的热衷有关。

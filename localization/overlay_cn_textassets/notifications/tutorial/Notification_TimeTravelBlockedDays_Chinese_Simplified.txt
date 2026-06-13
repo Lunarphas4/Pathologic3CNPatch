@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_TimeTravelBlockedDays.Name} 这镇必须活着
+{Notifications.Tutorial.Notification_TimeTravelBlockedDays.Description} 瘟疫与骚乱一旦在图表上越过红线，便会摧毁未来。我必须每日救镇方能前行——靠签发有效政令，或扑灭感染源。

@@ -1,0 +1,2 @@
+{Prologue.PersonalFiles.PatientTwo.Name} 芬奇
+{Prologue.PersonalFiles.PatientTwo.Description} 染匠。自己来的医院。

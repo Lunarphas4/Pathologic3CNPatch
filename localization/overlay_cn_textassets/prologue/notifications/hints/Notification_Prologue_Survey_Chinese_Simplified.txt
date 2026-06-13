@@ -1,0 +1,2 @@
+{Prologue.Notifications.Hints.Notification_Prologue_Survey.Name} ⁠
+{Prologue.Notifications.Hints.Notification_Prologue_Survey.Description} 参与问卷调查，\n帮助开发，让游戏变得更好！

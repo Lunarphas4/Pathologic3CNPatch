@@ -1,0 +1,3 @@
+{Npcs.Orderly.Name} 护理员
+{Npcs.Orderly.FullName} ⁠
+{Npcs.Orderly.Description} ⁠

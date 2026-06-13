@@ -1,0 +1,2 @@
+﻿{CraftRecipes.Health_HealingCream_CraftRecipe.Name} 汞补剂
+{CraftRecipes.Health_HealingCream_CraftRecipe.Description} 恢复大量健康

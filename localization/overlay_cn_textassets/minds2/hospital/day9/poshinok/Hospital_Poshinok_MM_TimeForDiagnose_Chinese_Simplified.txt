@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day9.Poshinok.Hospital_Poshinok_MM_TimeForDiagnose.Name} 全家共一病
+{Minds2.Hospital.Day9.Poshinok.Hospital_Poshinok_MM_TimeForDiagnose.Description} 病人确认是从孩子那里被传染。看来孩子撑得反倒轻松些。

@@ -1,0 +1,2 @@
+﻿{QuestMarkers.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_IsidoorInvestigation.Name} 伊西多尔的宅子
+{QuestMarkers.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_IsidoorInvestigation.Description} 被杀的伊西多尔·布拉赫的宅子。鲁宾莫不是把格里夫藏在了此处？

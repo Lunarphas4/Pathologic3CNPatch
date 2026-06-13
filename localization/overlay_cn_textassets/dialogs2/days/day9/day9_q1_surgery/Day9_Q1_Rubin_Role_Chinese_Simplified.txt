@@ -1,0 +1,8 @@
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Rubin_Role.31642} 你为什么还不开始手术，丹科夫斯基？现在是按小时算，也许按分钟算。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Rubin_Role.48339} 我查过了。你是唯一与卡捷琳娜相容的供血者。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Rubin_Role.6904} 整座小镇里，她所需要的医生，到头来只是一袋血？我明白了。丹科夫斯基，你自己选，要我扮演什么角色。毕竟他们把主事的位置交给了你。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Rubin_Role.62560} 我需要你的知识和技术。我希望输血不会变得必要……
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Rubin_Role.15264} ……另一方面，这场手术很危险。卡捷琳娜可能会失血至死，到那时一切都完了。你会是供血者。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Rubin_Role.14206} 真急躁。先告诉我——你找到适合卡捷琳娜的供血者了吗？
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Rubin_Role.15178} 该死，丹科夫斯基，你一整天都在做什么？别告诉我我们没有供血者。
+{Dialogs2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Rubin_Role.35328} 有。问题在于，那个人是你。恐怕只有你相容。

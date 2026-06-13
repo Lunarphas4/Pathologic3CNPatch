@@ -1,0 +1,2 @@
+{UI.Credits.Narrative.AlexeyPolyarinov.Name} Alexey Polyarinov
+{UI.Credits.Narrative.AlexeyPolyarinov.Description} 首席编剧

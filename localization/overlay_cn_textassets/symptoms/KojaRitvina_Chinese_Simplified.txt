@@ -1,0 +1,2 @@
+{Symptoms.KojaRitvina.Name} 沟壑状皮肤
+{Symptoms.KojaRitvina.Description} 皮肤表面出现沟槽或凹陷，质地明显异常。

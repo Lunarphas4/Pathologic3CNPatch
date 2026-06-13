@@ -1,0 +1,4 @@
+﻿{UI.CharacterWindow.Tooltips.WaterWatsonTooltips.Intro} 挑水人
+{UI.CharacterWindow.Tooltips.WaterWatsonTooltips.Water} 第4天，帮助为收容所供应净水
+{UI.CharacterWindow.Tooltips.WaterWatsonTooltips.Hiring} 第5天起，推着我的分析仪在镇上奔走
+{UI.CharacterWindow.Tooltips.WaterWatsonTooltips.Decrees} 第9天起，推着命令板在镇上奔走

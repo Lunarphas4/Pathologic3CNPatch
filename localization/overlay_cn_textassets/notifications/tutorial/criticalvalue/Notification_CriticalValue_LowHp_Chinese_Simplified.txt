@@ -1,0 +1,2 @@
+{Notifications.Tutorial.CriticalValue.Notification_CriticalValue_LowHp.Name} ⁠
+{Notifications.Tutorial.CriticalValue.Notification_CriticalValue_LowHp.Description} 我是半只脚快踏入鬼门关的人，没有药，必死无疑。

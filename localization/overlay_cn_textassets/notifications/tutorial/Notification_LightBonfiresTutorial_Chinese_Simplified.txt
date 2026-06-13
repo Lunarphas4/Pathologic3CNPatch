@@ -1,0 +1,2 @@
+﻿{Notifications.Tutorial.Notification_LightBonfiresTutorial.Name} 信号烽火
+{Notifications.Tutorial.Notification_LightBonfiresTutorial.Description} 这片城区已染疫并被封锁。我只有点燃几堆篝火才能离开。

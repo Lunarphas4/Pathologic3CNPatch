@@ -1,0 +1,3 @@
+{Npcs.Quests.Diseased.Name} 染病者
+{Npcs.Quests.Diseased.FullName} ⁠
+{Npcs.Quests.Diseased.Description} ⁠

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_MM_Resoursful.Name} 头等紧要的资源
+{Minds2.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_MM_Resoursful.Description} 我找到了那片坚果壳。我差点要派一队卫兵去搜了！只要把它放到玛丽亚身边——她便不会再做"魔法之梦"。

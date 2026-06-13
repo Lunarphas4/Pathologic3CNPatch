@@ -1,0 +1,2 @@
+{Minds2.Days.Day3.Day3_Q3.1_ArchivesRequest.Day3_Q3.1_MM_WaitingForDelivery.Name} 等待文件
+{Minds2.Days.Day3.Day3_Q3.1_ArchivesRequest.Day3_Q3.1_MM_WaitingForDelivery.Description} 现在我确实提出了索要

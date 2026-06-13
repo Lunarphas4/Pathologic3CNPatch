@@ -1,0 +1,2 @@
+﻿{Locations.Horns_Georgy.Name} 熔炉，格奥尔基的工坊
+{Locations.Horns_Georgy.Description} 熔炉，格奥尔基的工坊

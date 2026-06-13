@@ -1,0 +1,2 @@
+﻿{Locations.Polyhedron.Name} 多面体
+{Locations.Polyhedron.Description} 多面体

@@ -1,0 +1,3 @@
+{Npcs.Pochinka.Name} 波钦卡
+{Npcs.Pochinka.FullName} ⁠
+{Npcs.Pochinka.Description} ⁠

@@ -1,0 +1,2 @@
+﻿{Minds2.Days.Day12.Day12_Q18_RatWatson.Day12_Q18_MM_DeleteThis.Name} 这个念头作罢吧
+{Minds2.Days.Day12.Day12_Q18_RatWatson.Day12_Q18_MM_DeleteThis.Description} 那魔鬼并未离开墓园。我随时可以让他进来。

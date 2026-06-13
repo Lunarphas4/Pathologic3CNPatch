@@ -1,0 +1,3 @@
+{Projectors.Weather.Weather_Clear_Night.12291} ⁠
+{Projectors.Weather.Weather_Clear_Night.25310} 晴朗的夜晚
+{Projectors.Weather.Weather_Clear_Night.22771} 天晴

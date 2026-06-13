@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_Inspection.Name} 新疑问
+{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_Inspection.Description} 检查证实了她的主诉。但我还有事要问她。

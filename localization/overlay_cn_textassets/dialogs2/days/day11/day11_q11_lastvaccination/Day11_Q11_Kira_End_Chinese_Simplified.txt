@@ -1,0 +1,15 @@
+{Dialogs2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Kira_End.13030} 告诉我真话，医生。别管我们这些人——我的孩子们还健康吗？我的学生们。我没在这里看见他们，所以至少可以希望他们幸免了吗……
+{Dialogs2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Kira_End.30049} 昨天他们没有沙疫迹象。
+{Dialogs2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Kira_End.47487} 唯一重要的是孩子们安全。不只是我教过的那些——镇上所有孩子都要安全。我甚至不是在说无辜，也不是说他们还没来得及生活。不。
+{Dialogs2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Kira_End.42825} 那你说的是什么？
+{Dialogs2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Kira_End.59549} 孩子是我们的记忆。如果他们也没了，谁把这里发生过的可怕事情记下去？谁来保证它永远不再发生？
+{Dialogs2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Kira_End.5593} 这座镇的悲剧决不能再发生——任何地方，任何时候。
+{Dialogs2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Kira_End.24672} 这座镇的悲剧不会再发生——它太独一无二了。
+{Dialogs2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Kira_End.1524} 军队也准备强攻多面体，那里也有孩子。他们必须被疏散……
+{Dialogs2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Kira_End.11214} 至少，多面体里的孩子们不再有被埋在废墟下的危险。他们会活下去——也会记住我们所有人。
+{Dialogs2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Kira_End.45575} 我找到了疏散多面体孩子们的办法。但我仍担心他们之后会怎样……
+{Dialogs2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Kira_End.53807} 你教过的孩子，基拉，几乎一定会长成好人。
+{Dialogs2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Kira_End.17407} 基拉，我亏欠得太多了……亏欠你，亏欠你们所有人。
+{Dialogs2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Kira_End.6621} 别这样，医生。我一夜之间已经和死亡和解了。怎么死还重要吗？更重要的是：孩子是我们的记忆。如果他们也没了，谁把这里发生过的可怕事情记下去？谁来保证它永远不再发生？
+{Dialogs2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Kira_End.32944} 孩子感染的频率仍然比成人低得多。
+{Dialogs2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Kira_End.56157} 我仍希望军队不至于走到把孩子活活烧死那一步。

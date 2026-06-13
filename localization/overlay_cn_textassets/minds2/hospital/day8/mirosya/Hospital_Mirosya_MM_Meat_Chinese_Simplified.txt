@@ -1,0 +1,2 @@
+﻿{Minds2.Hospital.Day8.Mirosya.Hospital_Mirosya_MM_Meat.Name} 血与生肉
+{Minds2.Hospital.Day8.Mirosya.Hospital_Mirosya_MM_Meat.Description} 若托派吃过这些，那她染病多半就是因此。

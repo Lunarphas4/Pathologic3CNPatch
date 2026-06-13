@@ -1,0 +1,2 @@
+﻿{Note.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_Permission.Name} 居住许可
+{Note.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_Permission.Description} 许可\n\n签发给首领诺特金及镇上一切愿意前来的孩子，准许其未经授权占用粗建地17号房屋。经全面检查，该房屋未发现沙疫。在此屋内，允许玩耍、奔跑、跳跃、取乐，并饲养动物半身；禁止刻薄待人、告密、伤害动物半身，或阻止任何孩子到访本屋，无论他们是魂与半身、狗头帮、白蚁、草原幼童，还是尚未决定归属的孩子。\n自即日起，本屋命名为新坚果壳。\n\n签署人：医学学士丹尼尔·丹科夫斯基。

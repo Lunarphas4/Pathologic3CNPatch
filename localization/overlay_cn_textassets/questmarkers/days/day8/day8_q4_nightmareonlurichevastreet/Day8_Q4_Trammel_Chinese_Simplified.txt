@@ -1,0 +1,2 @@
+{QuestMarkers.Days.Day8.Day8_Q4_NightmareOnLurichevaStreet.Day8_Q4_Trammel.Name} 束网
+{QuestMarkers.Days.Day8.Day8_Q4_NightmareOnLurichevaStreet.Day8_Q4_Trammel.Description} 尤利娅·柳里切娃身处险境。也许还来得及救她？

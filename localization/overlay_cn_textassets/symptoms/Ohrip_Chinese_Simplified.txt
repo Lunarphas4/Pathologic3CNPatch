@@ -1,0 +1,2 @@
+{Symptoms.Ohrip.Name} 声音嘶哑
+{Symptoms.Ohrip.Description} 声音变得粗哑或微弱，常与咽喉或声带受刺激有关。

@@ -1,0 +1,3 @@
+{Npcs.Old.visitor_Cheglok.Name} ⁠
+{Npcs.Old.visitor_Cheglok.FullName} ⁠
+{Npcs.Old.visitor_Cheglok.Description} ⁠
