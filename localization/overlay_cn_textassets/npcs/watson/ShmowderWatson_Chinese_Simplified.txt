@@ -1,3 +1,0 @@
-{Npcs.Watson.ShmowderWatson.Name} 捕蝇花
-{Npcs.Watson.ShmowderWatson.FullName} ⁠
-{Npcs.Watson.ShmowderWatson.Description} ⁠

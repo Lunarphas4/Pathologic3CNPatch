@@ -1,7 +1,0 @@
-﻿{UI.CharacterWindow.Tooltips.NotkinTooltips.Death} 第10天，从背后刺伤可汗，随后死于沙疫
-{UI.CharacterWindow.Tooltips.NotkinTooltips.Intro} 一魂半族的首领
-{UI.CharacterWindow.Tooltips.NotkinTooltips.DeadPrisoner} 第2天，他抓来的孩子死了，孩子们的战争由此开始
-{UI.CharacterWindow.Tooltips.NotkinTooltips.CaptureTheFlag} 第2天，把头号敌人可汗关进笼子
-{UI.CharacterWindow.Tooltips.NotkinTooltips.ReleasePrisoner} 第8天，释放了可汗
-{UI.CharacterWindow.Tooltips.NotkinTooltips.ChildShelter} 第10天，创立“果壳屋”，收容离开多面体的狗头帮
-{UI.CharacterWindow.Tooltips.NotkinTooltips.VictoryOverGrief} 第12天，凭借与卡佩拉的友谊，加强了自己在仓库的影响力

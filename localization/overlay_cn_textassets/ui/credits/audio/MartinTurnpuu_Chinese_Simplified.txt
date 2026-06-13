@@ -1,2 +1,0 @@
-{UI.Credits.Audio.MartinTurnpuu.Name} Martin Turnpuu
-{UI.Credits.Audio.MartinTurnpuu.Description} 附加声音设计

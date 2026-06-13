@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_MM_Funeral.Name} 仪
-{Minds2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_MM_Funeral.Description} 瘟疫之中，葬礼一概从快。今日埋的是拉拉。我有勇气去墓园吗？

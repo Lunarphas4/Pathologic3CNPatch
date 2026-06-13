@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_StamatinHouseEvening.Name} 斯特马汀的公寓
-{QuestMarkers.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_StamatinHouseEvening.Description} 到头来——彼得还是回了家。

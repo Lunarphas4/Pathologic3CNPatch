@@ -1,4 +1,0 @@
-{Clouds2.Days.Intro.Extra.Intro_Station_Cloud_FestiveBanners.57075} 等我回来，那里也会有庆典
-{Clouds2.Days.Intro.Extra.Intro_Station_Cloud_FestiveBanners.27818} 等我回来，那里也会有庆典
-{Clouds2.Days.Intro.Extra.Intro_Station_Cloud_FestiveBanners.5374} 朋友们会赞颂我的胜利……
-{Clouds2.Days.Intro.Extra.Intro_Station_Cloud_FestiveBanners.19757} ……或者敌人会为我的事业崩塌而欢欣

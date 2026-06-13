@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_MM_IntercurrentDisease.Name} 并发症
-{Minds2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_MM_IntercurrentDisease.Description} 那位舞者身上的沙疫，或许是被另一种疾病抑制住了。我得再找几个类似的病例。

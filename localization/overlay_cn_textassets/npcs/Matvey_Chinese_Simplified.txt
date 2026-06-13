@@ -1,3 +1,0 @@
-{Npcs.Matvey.Name} 马拉特
-{Npcs.Matvey.FullName} ⁠
-{Npcs.Matvey.Description} ⁠

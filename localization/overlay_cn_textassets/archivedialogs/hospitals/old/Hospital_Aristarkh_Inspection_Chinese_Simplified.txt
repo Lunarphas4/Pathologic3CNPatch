@@ -1,4 +1,0 @@
-{ArchiveDialogs.Hospitals.Old.Hospital_Aristarkh_Inspection.21994} 怎么样了？什么时候才放我走？
-{ArchiveDialogs.Hospitals.Old.Hospital_Aristarkh_Inspection.32195} 等我确定你没有传染性的时候。别急。
-{ArchiveDialogs.Hospitals.Old.Hospital_Aristarkh_Inspection.26757} 需要给你做检查。
-{ArchiveDialogs.Hospitals.Old.Hospital_Aristarkh_Inspection.8316} 别动，也别说话，我要取样做分析。

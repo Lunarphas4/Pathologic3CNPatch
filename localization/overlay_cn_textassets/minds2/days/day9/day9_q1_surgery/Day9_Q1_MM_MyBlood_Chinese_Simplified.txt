@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_MyBlood.Name} 两瓶
-{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_MyBlood.Description} 我手里有自己和亚历山大的血样。

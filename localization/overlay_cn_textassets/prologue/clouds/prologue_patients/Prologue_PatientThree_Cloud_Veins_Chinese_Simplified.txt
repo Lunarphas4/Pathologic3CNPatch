@@ -1,4 +1,0 @@
-{Prologue.Clouds.Prologue_Patients.Prologue_PatientThree_Cloud_Veins.23809} ⁠
-{Prologue.Clouds.Prologue_Patients.Prologue_PatientThree_Cloud_Veins.39509} 血管明显受损
-{Prologue.Clouds.Prologue_Patients.Prologue_PatientThree_Cloud_Veins.6531} 问题在于，这损伤存在多久了……
-{Prologue.Clouds.Prologue_Patients.Prologue_PatientThree_Cloud_Veins.18506} 病人认为是因为工作时久站

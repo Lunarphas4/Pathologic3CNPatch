@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_ChangeMyWaterIntoWine.Name} 执行者
-{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_ChangeMyWaterIntoWine.Description} 得问问建筑师：他们当初是否预料到会有这等"功能"？

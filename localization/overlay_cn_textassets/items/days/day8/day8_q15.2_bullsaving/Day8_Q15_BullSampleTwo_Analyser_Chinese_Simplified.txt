@@ -1,3 +1,0 @@
-﻿{Items.Days.Day8.Day8_Q15.2_BullSaving.Day8_Q15_BullSampleTwo_Analyser.Name} 第二次公牛分析（已检查）
-{Items.Days.Day8.Day8_Q15.2_BullSaving.Day8_Q15_BullSampleTwo_Analyser.Description} 外观没有变化。
-{Items.Days.Day8.Day8_Q15.2_BullSaving.Day8_Q15_BullSampleTwo_Analyser.Description2} 与在人类体内的进展相比，沙疫正缓慢损伤公牛的免疫系统。看来第一批外部症状明天会出现。

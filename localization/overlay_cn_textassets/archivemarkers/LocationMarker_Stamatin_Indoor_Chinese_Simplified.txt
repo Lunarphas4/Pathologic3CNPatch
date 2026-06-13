@@ -1,2 +1,0 @@
-{ArchiveMarkers.LocationMarker_Stamatin_Indoor.Name} ⁠
-{ArchiveMarkers.LocationMarker_Stamatin_Indoor.Description} ⁠

@@ -1,3 +1,0 @@
-{Items.Metabolism.Tonic.Name} 补剂
-{Items.Metabolism.Tonic.Description} 当你无论如何都必须及时赶到时使用，心脏病风险见鬼去吧。
-{Items.Metabolism.Tonic.Description2} ⁠

@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_TakeThings.Name} 从钟械下方的柜里取走自己的物品
-{Notifications.Tutorial.Notification_TakeThings.Description} 从那座钟械装置下方的柜里取走自己的物品。

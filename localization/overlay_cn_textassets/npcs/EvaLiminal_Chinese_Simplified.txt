@@ -1,3 +1,0 @@
-{Npcs.EvaLiminal.Name} 伊娃·扬？
-{Npcs.EvaLiminal.FullName} ⁠
-{Npcs.EvaLiminal.Description} ⁠

@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_TrainsCemetery.Name} 火车坟场
-{QuestMarkers.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_TrainsCemetery.Description} 据说多面体里的孩子们在那些死铁机中找到了栖身处。

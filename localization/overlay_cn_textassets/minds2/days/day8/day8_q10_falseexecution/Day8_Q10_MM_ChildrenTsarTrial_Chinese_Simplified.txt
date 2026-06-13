@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q10_FalseExecution.Day8_Q10_MM_ChildrenTsarTrial.Name} 看戏
-{Minds2.Days.Day8.Day8_Q10_FalseExecution.Day8_Q10_MM_ChildrenTsarTrial.Description} 大教堂背后，孩子们搞起了私刑。还邀请我去给他们的"审判"加盖印章。

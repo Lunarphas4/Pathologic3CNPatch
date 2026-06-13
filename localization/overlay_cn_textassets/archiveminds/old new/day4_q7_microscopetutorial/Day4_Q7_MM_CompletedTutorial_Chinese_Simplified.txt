@@ -1,2 +1,0 @@
-﻿{ArchiveMinds.OldNew.Day4_Q7_MicroscopeTutorial.Day4_Q7_MM_CompletedTutorial.Name} 新工具
-{ArchiveMinds.OldNew.Day4_Q7_MicroscopeTutorial.Day4_Q7_MM_CompletedTutorial.Description} 我现在可以从病人身上取样，并在显微镜下检查。这能让我判断特定身体系统是否受到感染。

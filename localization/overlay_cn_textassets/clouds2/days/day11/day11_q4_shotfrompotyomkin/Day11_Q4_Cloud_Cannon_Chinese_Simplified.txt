@@ -1,3 +1,0 @@
-{Clouds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Cloud_Cannon.65462} 人可以建造这样的炮
-{Clouds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Cloud_Cannon.24486} 人可以建造这样的炮
-{Clouds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Cloud_Cannon.39962} 但不该建造这样的塔！

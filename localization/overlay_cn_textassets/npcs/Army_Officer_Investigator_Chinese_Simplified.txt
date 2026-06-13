@@ -1,3 +1,0 @@
-{Npcs.Army_Officer_Investigator.Name} 侦讯军官
-{Npcs.Army_Officer_Investigator.FullName} ⁠
-{Npcs.Army_Officer_Investigator.Description} ⁠

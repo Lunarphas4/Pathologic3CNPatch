@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_QuestResetTutorial_Special.Name} 另一版本
-{Notifications.Tutorial.Notification_QuestResetTutorial_Special.Description} 我可以撤销过去的事件。<i>按 <InputActions/Hints/MindQuestResetHint> 点击齿轮形节点。它会变红——意味着抵达此节点的事件链将在新一日启动时被撤销。他人会忘掉所说之言，本故事中获得的遗物也将从我身上消失。</i> 务必撤销第四天那次失败的出逃——不然明日我又会在牢里醒来。

@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_Feast.44925} 在首都，人人都待在自家的门厅里
-{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_Feast.10340} 在首都，人人都待在自家的门厅里
-{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_Feast.56689} 在外省，人们习惯和邻居聚在一起
-{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_Feast.59173} 庆祝纪念日，或办追悼会
-{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_Feast.61752} 传播瘟疫的理想方式

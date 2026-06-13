@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_2_MM_Tombstone.Name} 是谁杀了你？
-{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_2_MM_Tombstone.Description} 我已全无线索，再寻不到法尔哈德。我从尽头入手——从他的坟墓开始。

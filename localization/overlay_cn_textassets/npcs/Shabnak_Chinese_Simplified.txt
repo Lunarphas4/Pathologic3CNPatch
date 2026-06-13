@@ -1,3 +1,0 @@
-{Npcs.Shabnak.Name} Shabnak（泥魔女）
-{Npcs.Shabnak.FullName} ⁠
-{Npcs.Shabnak.Description} ⁠

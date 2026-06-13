@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q13_BullAnalysis.Day7_Q13_MM_FistAnalysisNeed.Name} 接种
-{Minds2.Days.Day7.Day7_Q13_BullAnalysis.Day7_Q13_MM_FistAnalysisNeed.Description} 公牛在静水观星台落脚已有一日。我必须化验它的血——看它的肌体如何接受了沙疫。

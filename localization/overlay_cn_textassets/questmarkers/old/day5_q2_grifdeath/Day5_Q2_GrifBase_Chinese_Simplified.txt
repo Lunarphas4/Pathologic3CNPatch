@@ -1,2 +1,0 @@
-{QuestMarkers.Old.Day5_Q2_GrifDeath.Day5_Q2_GrifBase.Name} 恶徒格里夫的老巢
-{QuestMarkers.Old.Day5_Q2_GrifDeath.Day5_Q2_GrifBase.Description} 有人告诉我，恶徒格里夫知道鲁宾是怎么死的。

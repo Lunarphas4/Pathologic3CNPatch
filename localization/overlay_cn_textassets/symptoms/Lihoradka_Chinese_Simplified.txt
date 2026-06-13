@@ -1,2 +1,0 @@
-{Symptoms.Lihoradka.Name} 发热
-{Symptoms.Lihoradka.Description} 患者感到发热和寒战，这是身体对抗感染、血液循环加快的迹象。

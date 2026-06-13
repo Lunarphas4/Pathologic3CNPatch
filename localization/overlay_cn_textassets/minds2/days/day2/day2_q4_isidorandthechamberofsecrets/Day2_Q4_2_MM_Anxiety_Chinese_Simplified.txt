@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_2_MM_Anxiety.Name} 它让我不安
-{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_2_MM_Anxiety.Description} 已无人看守那个包裹了。

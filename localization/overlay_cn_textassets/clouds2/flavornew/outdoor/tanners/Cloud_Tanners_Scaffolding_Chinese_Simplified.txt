@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.Tanners.Cloud_Tanners_Scaffolding.44925} 完全可能存在的东西，稳稳立在地上
-{Clouds2.FlavorNew.Outdoor.Tanners.Cloud_Tanners_Scaffolding.10340} 完全可能存在的东西，稳稳立在地上
-{Clouds2.FlavorNew.Outdoor.Tanners.Cloud_Tanners_Scaffolding.56689} 不是斯塔马金兄弟建的
-{Clouds2.FlavorNew.Outdoor.Tanners.Cloud_Tanners_Scaffolding.61752} 所以可能会倒

@@ -1,2 +1,0 @@
-{UI.Credits.Audio.StanislavChernyshev.Name} Stanislav Chernyshev
-{UI.Credits.Audio.StanislavChernyshev.Description} 草原之声

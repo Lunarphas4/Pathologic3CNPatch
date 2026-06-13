@@ -1,4 +1,0 @@
-{Clouds2.Characters.Laska.20700} 孤女
-{Clouds2.Characters.Laska.27160} 孤女
-{Clouds2.Characters.Laska.692} 墓园的看守，和她父亲一样
-{Clouds2.Characters.Laska.25070} 据说能与死者交谈

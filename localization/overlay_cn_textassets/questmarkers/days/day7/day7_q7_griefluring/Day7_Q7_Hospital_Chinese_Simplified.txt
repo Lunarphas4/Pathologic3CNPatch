@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_Hospital.Name} 医院
-{QuestMarkers.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_Hospital.Description} 我把格里夫引到了自家的地盘。这场谈话太急。

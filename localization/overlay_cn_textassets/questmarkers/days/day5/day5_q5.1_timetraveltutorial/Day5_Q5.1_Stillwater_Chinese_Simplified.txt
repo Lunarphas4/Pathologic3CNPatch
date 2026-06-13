@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day5.Day5_Q5.1_TimeTravelTutorial.Day5_Q5.1_Stillwater.Name} 静水观星台
-{QuestMarkers.Days.Day5.Day5_Q5.1_TimeTravelTutorial.Day5_Q5.1_Stillwater.Description} 我的临时避难所。这里的钟以前就让我觉得古怪

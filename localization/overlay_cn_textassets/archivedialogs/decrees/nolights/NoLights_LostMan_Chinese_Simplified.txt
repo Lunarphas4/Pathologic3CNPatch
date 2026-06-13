@@ -1,2 +1,0 @@
-{ArchiveDialogs.Decrees.NoLights.NoLights_LostMan.24968} 可恶，我到底到哪里去了…哎！嘿亲爱的！你能告诉我我在哪里吗？我一生都住在这里，现在就是这样：一旦灯被切断，我就迷路了！
-{ArchiveDialogs.Decrees.NoLights.NoLights_LostMan.16459} 这些是日利尼基。您到底想去哪里？

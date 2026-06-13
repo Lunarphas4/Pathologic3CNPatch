@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Pub.Name} 碎心人
-{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Pub.Description} 彼得多半在他兄弟开的酒馆里挥霍着自己的人生。

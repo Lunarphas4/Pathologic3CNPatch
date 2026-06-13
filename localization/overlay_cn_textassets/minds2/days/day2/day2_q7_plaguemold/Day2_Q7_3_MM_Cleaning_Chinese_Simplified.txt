@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_3_MM_Cleaning.Name} 医学清查
-{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_3_MM_Cleaning.Description} 凡有霉斑之处皆需刮除。哪怕仅凭此一举不足以救活全镇。

@@ -1,3 +1,0 @@
-{Npcs.Quests.Doppelganger_BlackForest.Name} 所谓的雅库布
-{Npcs.Quests.Doppelganger_BlackForest.FullName} ⁠
-{Npcs.Quests.Doppelganger_BlackForest.Description} ⁠

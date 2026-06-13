@@ -1,5 +1,0 @@
-{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Poster_Bonfires.26772} “篝火需要燃料！”
-{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Poster_Bonfires.4131} “篝火需要燃料！”
-{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Poster_Bonfires.6768} 这是大白话
-{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Poster_Bonfires.32329} 医院也需要供暖
-{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Poster_Bonfires.13254} 柴火不够所有地方用

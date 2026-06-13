@@ -1,8 +1,0 @@
-﻿{UI.CharacterWindow.Tooltips.StickyTooltips.Death} 第12天，因布拉赫没能保护他而死于沙疫
-{UI.CharacterWindow.Tooltips.StickyTooltips.Intro} 年轻的小潜行者
-{UI.CharacterWindow.Tooltips.StickyTooltips.AlbinoHunt} 第2天，追猎最后的吸血鬼
-{UI.CharacterWindow.Tooltips.StickyTooltips.Breaking} 第5天，为玛丽亚闯入伊西多尔的房子，但没有闯进他的书房
-{UI.CharacterWindow.Tooltips.StickyTooltips.NameOfAbsent} 第8天，在布拉赫缺席时自称用了他的名字
-{UI.CharacterWindow.Tooltips.StickyTooltips.NameOfDead} 第8天，自称拥有被杀的阿尔捷米·布拉赫之名，也是他的继承人
-{UI.CharacterWindow.Tooltips.StickyTooltips.Releasing} 第12天，帮助军队囚犯离开监狱
-{UI.CharacterWindow.Tooltips.StickyTooltips.Journeyman} 第12天，成为阿尔捷米·布拉赫的助手

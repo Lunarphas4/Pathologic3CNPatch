@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_MM_Hospital.Name} 传统医道
-{Minds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_MM_Hospital.Description} 昨日，年轻的布拉赫和我达成了协议。我在医院等他来助我一臂之力。

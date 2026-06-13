@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_MM_WatsonWaiting.Name} 我的助手
-{Minds2.Days.Day4.Day4_Q0_HospitalIntro.Day4_Q0_MM_WatsonWaiting.Description} 我的助手在医院等我。

@@ -1,3 +1,0 @@
-﻿{Items.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_StrangeBullBlood_Analyser.Name} 草原节日的血（已检查）
-{Items.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_StrangeBullBlood_Analyser.Description} 草原居民饮用的人血。
-{Items.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_StrangeBullBlood_Analyser.Description2} 血没有感染。但有九成概率，它并不属于公牛：这是人血。一个人的血。失血到这种程度，他不可能还活着。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_MM_Refusal.Name} 死胡同
-{Minds2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_MM_Refusal.Description} 已被判死刑的布拉赫现在没空理我。也不奇怪。

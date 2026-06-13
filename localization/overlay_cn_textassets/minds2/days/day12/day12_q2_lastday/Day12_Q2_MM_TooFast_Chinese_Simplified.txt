@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q2_LastDay.Day12_Q2_MM_TooFast.Name} 仓促
-{Minds2.Days.Day12.Day12_Q2_LastDay.Day12_Q2_MM_TooFast.Description} 我不知该如何是好。剩下的，唯有在镇里游荡，盼着撞见答案。又或者——回到过去，更主动一些？

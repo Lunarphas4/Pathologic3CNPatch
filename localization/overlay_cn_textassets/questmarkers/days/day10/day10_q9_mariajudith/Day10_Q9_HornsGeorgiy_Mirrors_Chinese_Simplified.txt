@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day10.Day10_Q9_MariaJudith.Day10_Q9_HornsGeorgiy_Mirrors.Name} 熔炉，格奥尔基的工坊
-{QuestMarkers.Days.Day10.Day10_Q9_MariaJudith.Day10_Q9_HornsGeorgiy_Mirrors.Description} 裁判能让他的侄女听话吗？说实话——我怀疑。

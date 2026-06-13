@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_AmalgamMeter.Name} 汞合金
-{Notifications.Tutorial.Notification_AmalgamMeter.Description} 回溯过去需要汞合金。

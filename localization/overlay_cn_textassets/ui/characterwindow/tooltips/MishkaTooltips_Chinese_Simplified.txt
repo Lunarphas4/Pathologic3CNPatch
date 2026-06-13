@@ -1,4 +1,0 @@
-﻿{UI.CharacterWindow.Tooltips.MishkaTooltips.Death} 第12天，瘟疫夺走了她，没人能保护她
-{UI.CharacterWindow.Tooltips.MishkaTooltips.Intro} 一个阴郁的小人儿
-{UI.CharacterWindow.Tooltips.MishkaTooltips.Disappearance} 第4天，她失踪，据说见到了西蒙
-{UI.CharacterWindow.Tooltips.MishkaTooltips.Village} 第12天，迎接养父布拉赫成为部族的新领袖

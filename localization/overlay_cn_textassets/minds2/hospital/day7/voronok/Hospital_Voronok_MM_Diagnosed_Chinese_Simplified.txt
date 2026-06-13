@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day7.Voronok.Hospital_Voronok_MM_Diagnosed.Name} 已下诊断
-{Minds2.Hospital.Day7.Voronok.Hospital_Voronok_MM_Diagnosed.Description} 也不是说马丁奢望痊愈，但第二种病的疗程仍会按章开下。

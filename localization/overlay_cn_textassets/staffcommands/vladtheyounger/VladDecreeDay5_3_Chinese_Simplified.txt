@@ -1,2 +1,0 @@
-{StaffCommands.VladTheYounger.VladDecreeDay5_3.Name} 草原护符
-{StaffCommands.VladTheYounger.VladDecreeDay5_3.Description} 在镇上布置草原护符，以安抚民众。

@@ -1,3 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Lump.Cloud_Lump_Throne.44925} 谁坐上这张王座，谁就拥有城镇
-{Clouds2.FlavorNew.Indoor.Lump.Cloud_Lump_Throne.10340} 谁坐上这张王座，谁就拥有城镇
-{Clouds2.FlavorNew.Indoor.Lump.Cloud_Lump_Throne.56689} 如此纯粹的封建制，在首都无法想象

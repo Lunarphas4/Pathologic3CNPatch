@@ -1,3 +1,0 @@
-﻿{Items.Metabolism.BachelorBrew.Name} “丹科夫斯基特调”
-{Items.Metabolism.BachelorBrew.Description} “丹科夫斯基特调”
-{Items.Metabolism.BachelorBrew.Description2} “丹科夫斯基特调”

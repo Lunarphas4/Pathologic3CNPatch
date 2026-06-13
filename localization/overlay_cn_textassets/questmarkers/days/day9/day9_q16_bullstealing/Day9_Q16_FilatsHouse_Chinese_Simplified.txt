@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_FilatsHouse.Name} 剥皮场里的宅子
-{QuestMarkers.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_FilatsHouse.Description} 伊娃的相识——那位"放牛者"——住在这里。

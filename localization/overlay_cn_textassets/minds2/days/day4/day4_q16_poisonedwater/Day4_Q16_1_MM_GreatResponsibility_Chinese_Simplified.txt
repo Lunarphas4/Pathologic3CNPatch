@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_1_MM_GreatResponsibility.Name} 重责
-{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_1_MM_GreatResponsibility.Description} 瘟疫将这镇上的诸多痼疾照得一清二楚。一群迷信的野蛮人毁了供水系统。水匮乏。然后他们指望我拿出对策。

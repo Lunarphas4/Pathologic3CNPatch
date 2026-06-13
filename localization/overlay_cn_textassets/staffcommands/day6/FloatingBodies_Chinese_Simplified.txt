@@ -1,2 +1,0 @@
-{StaffCommands.Day6.FloatingBodies.Name} 河葬
-{StaffCommands.Day6.FloatingBodies.Description} 将无感染风险的尸体顺河漂送处理。

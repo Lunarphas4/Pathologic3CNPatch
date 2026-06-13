@@ -1,3 +1,0 @@
-{Npcs.Girl_Teen_Nata.Name} 田凫
-{Npcs.Girl_Teen_Nata.FullName} ⁠
-{Npcs.Girl_Teen_Nata.Description} ⁠

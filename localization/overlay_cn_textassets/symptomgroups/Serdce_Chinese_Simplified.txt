@@ -1,2 +1,0 @@
-{SymptomGroups.Serdce.Name} 循环系统
-{SymptomGroups.Serdce.Description} 包括心脏、血管和血液。血管脆弱会导致出血，循环不良会削弱生命力，血流过盛会让特定部位发热。

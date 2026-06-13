@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_Delegation.Name} 破坏无菌
-{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_Delegation.Description} 一整队代表团在医院等我。要么是来感谢我的工作，要么——是来闹事的。

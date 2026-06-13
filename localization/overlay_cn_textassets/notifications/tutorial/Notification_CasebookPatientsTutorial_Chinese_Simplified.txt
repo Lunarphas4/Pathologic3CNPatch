@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_CasebookPatientsTutorial.Name} 病历簿
-{Notifications.Tutorial.Notification_CasebookPatientsTutorial.Description} 记录病人信息、生活习性与主诉。所有主诉都应标为症状——即便病人常会对自己的状况判断有误。

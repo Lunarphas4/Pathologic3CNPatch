@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q18_WaterCarrierHiring.Day5_Q18_MM_Field.Name} 实地工作
-{Minds2.Days.Day5.Day5_Q18_WaterCarrierHiring.Day5_Q18_MM_Field.Description} 带着分析仪的助手会紧跟着我；我能在任何大型街区找到他。但他会避开瘟疫和骚乱。

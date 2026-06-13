@@ -1,3 +1,0 @@
-{Npcs.patient_Mirosya_Mirka.Name} 米尔卡
-{Npcs.patient_Mirosya_Mirka.FullName} ⁠
-{Npcs.patient_Mirosya_Mirka.Description} ⁠

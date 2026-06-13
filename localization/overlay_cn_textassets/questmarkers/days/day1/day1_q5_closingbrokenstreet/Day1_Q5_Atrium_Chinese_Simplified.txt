@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Atrium.Name} 柳里切娃街
-{QuestMarkers.Days.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Atrium.Description} 快去救人，既然当局什么都不做！

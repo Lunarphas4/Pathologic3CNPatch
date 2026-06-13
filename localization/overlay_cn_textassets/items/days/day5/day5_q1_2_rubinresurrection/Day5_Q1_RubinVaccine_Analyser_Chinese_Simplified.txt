@@ -1,3 +1,0 @@
-﻿{Items.Days.Day5.Day5_Q1_2_RubinResurrection.Day5_Q1_RubinVaccine_Analyser.Name} 鲁宾的疫苗（已检查）
-{Items.Days.Day5.Day5_Q1_2_RubinResurrection.Day5_Q1_RubinVaccine_Analyser.Description} 滤出的时间：不朽者身体的提取物。
-{Items.Days.Day5.Day5_Q1_2_RubinResurrection.Day5_Q1_RubinVaccine_Analyser.Description2} 不可思议的组合。我看得出它与我称为“汞合”的现象有关。如果我服下西蒙最后的残余，时间将在我面前屈服……破碎之物将会复原。

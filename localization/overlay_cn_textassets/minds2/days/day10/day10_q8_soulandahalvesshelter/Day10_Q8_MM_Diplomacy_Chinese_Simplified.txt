@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Diplomacy.Name} 外交
-{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Diplomacy.Description} 诺特金决意与狗头帮和解，并愿在多面体陷落时为他们提供栖身之所！只是他们拒绝——他们怕瘟疫。

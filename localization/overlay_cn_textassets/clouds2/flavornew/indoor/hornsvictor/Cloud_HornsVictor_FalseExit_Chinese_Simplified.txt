@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Indoor.HornsVictor.Cloud_HornsVictor_FalseExit.44925} 凯恩家永远意味着关上的门
-{Clouds2.FlavorNew.Indoor.HornsVictor.Cloud_HornsVictor_FalseExit.10340} 凯恩家永远意味着关上的门
-{Clouds2.FlavorNew.Indoor.HornsVictor.Cloud_HornsVictor_FalseExit.56689} 踏好的道路违背自然
-{Clouds2.FlavorNew.Indoor.HornsVictor.Cloud_HornsVictor_FalseExit.61752} 人必须克服阻碍，才能超越自身
-{Clouds2.FlavorNew.Indoor.HornsVictor.Cloud_HornsVictor_FalseExit.30521} 在他们的城里，阻碍就是锁上的门或不合时宜的围栏

@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day4.Day4_Q1.1_GrifsTip.Day4_Q1.1_BrokenHeart.Name} “碎心”酒馆
-{QuestMarkers.Days.Day4.Day4_Q1.1_GrifsTip.Day4_Q1.1_BrokenHeart.Description} 他们在这里见过一个首都女人，据说她对西蒙很感兴趣

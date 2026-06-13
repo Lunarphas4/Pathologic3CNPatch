@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_1_MM_Cunning.Name} 狡黠之辩士
-{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_1_MM_Cunning.Description} 克拉拉和鼠先知愿在一桩要事上助我一臂之力。他们认定——少了他们，我多半办不成。

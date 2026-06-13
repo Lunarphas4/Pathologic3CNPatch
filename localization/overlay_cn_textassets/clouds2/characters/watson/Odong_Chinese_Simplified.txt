@@ -1,4 +1,0 @@
-{Clouds2.Characters.Watson.Odong.57075} 一位奥东科学家！
-{Clouds2.Characters.Watson.Odong.27818} 一位Odongh（金族牧人）科学家！
-{Clouds2.Characters.Watson.Odong.60337} 好像我手头的事还不够多似的
-{Clouds2.Characters.Watson.Odong.19757} 会拿我给原型机充能所需的物品来交换

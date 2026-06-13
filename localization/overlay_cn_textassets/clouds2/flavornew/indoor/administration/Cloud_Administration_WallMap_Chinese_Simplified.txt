@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Administration.Cloud_Administration_WallMap.44925} 不记得我是在哪里找到自己的地图的
-{Clouds2.FlavorNew.Indoor.Administration.Cloud_Administration_WallMap.10340} 不记得我是在哪里找到自己的地图的
-{Clouds2.FlavorNew.Indoor.Administration.Cloud_Administration_WallMap.50610} 上面写满了笔记和计算
-{Clouds2.FlavorNew.Indoor.Administration.Cloud_Administration_WallMap.56689} 看起来又旧又破
-{Clouds2.FlavorNew.Indoor.Administration.Cloud_Administration_WallMap.61752} ……虽然连最新的街区都标在上面

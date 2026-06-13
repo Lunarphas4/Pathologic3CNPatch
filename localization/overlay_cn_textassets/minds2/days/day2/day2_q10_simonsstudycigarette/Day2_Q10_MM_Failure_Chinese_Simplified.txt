@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_MM_Failure.Name} 谜
-{Minds2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_MM_Failure.Description} 我没能勘查现场。然而死者的兄弟认为此举本就无必要。

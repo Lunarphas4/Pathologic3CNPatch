@@ -1,2 +1,0 @@
-﻿{CraftRecipes.Meradorm_CraftRecipe.Name} 梅拉多姆
-{CraftRecipes.Meradorm_CraftRecipe.Description} 增加冷漠

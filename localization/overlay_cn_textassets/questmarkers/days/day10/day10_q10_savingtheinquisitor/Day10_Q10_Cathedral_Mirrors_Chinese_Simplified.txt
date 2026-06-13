@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Cathedral_Mirrors.Name} 大教堂
-{QuestMarkers.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Cathedral_Mirrors.Description} 大教堂里满是镜子——未来杀人的器具。

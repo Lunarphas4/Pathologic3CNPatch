@@ -1,5 +1,0 @@
-{Clouds.Old.Hospital_Burduk_Cloud_Tins.7497} 这是他们的口粮？
-{Clouds.Old.Hospital_Burduk_Cloud_Tins.7324} 这是他们的口粮？
-{Clouds.Old.Hospital_Burduk_Cloud_Tins.31969} 吃这种东西，不用瘟疫也够了。
-{Clouds.Old.Hospital_Burduk_Cloud_Tins.29580} 没有维生素，没有味道。
-{Clouds.Old.Hospital_Burduk_Cloud_Tins.1906} 这种食物会杀死任何免疫力。

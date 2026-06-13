@@ -1,2 +1,0 @@
-﻿{ArchiveMinds.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MM_KainsCooperation.Name} 凯恩家再次邀请我去熔炉谈话。
-{ArchiveMinds.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MM_KainsCooperation.Description} 凯恩家又邀请我去熔炉谈话。希望这次真的能谈成。

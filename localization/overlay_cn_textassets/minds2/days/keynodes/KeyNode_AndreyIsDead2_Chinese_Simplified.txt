@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_AndreyIsDead2.Name} 雪覆残垣
-{Minds2.Days.KeyNodes.KeyNode_AndreyIsDead2.Description} 安德烈·斯塔马京在试图把兄弟从绞架上救下时中枪身亡。

@@ -1,2 +1,0 @@
-{Prologue.Notifications.Notification_Prologue_Diagnosis_Correct.Name} 诊断正确
-{Prologue.Notifications.Notification_Prologue_Diagnosis_Correct.Description} 所有诊断均属正确。助手正在制备今天的疫苗，能让小镇多撑一天

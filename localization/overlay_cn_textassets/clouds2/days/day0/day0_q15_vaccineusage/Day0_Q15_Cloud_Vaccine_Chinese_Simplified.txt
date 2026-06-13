@@ -1,4 +1,0 @@
-{Clouds2.Days.Day0.Day0_Q15_VaccineUsage.Day0_Q15_Cloud_Vaccine.9931} 来自不死者身体的一剂疫苗
-{Clouds2.Days.Day0.Day0_Q15_VaccineUsage.Day0_Q15_Cloud_Vaccine.22179} 来自不死者身体的一剂疫苗
-{Clouds2.Days.Day0.Day0_Q15_VaccineUsage.Day0_Q15_Cloud_Vaccine.30089} 鲁宾把西蒙分解成了颗粒
-{Clouds2.Days.Day0.Day0_Q15_VaccineUsage.Day0_Q15_Cloud_Vaccine.13385} 其中一颗会归还我全部的时间

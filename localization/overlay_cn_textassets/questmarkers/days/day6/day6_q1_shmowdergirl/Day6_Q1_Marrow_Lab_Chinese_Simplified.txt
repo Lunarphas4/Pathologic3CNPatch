@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_Marrow_Lab.Name} 骨骨髓区背巷
-{QuestMarkers.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_Marrow_Lab.Description} 就在医院两步之遥——藏着一间孩子的地下实验室，把危险药剂往全镇散布。

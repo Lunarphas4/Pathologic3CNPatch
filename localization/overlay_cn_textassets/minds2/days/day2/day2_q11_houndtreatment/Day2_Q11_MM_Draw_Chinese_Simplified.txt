@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_MM_Draw.Name} 拒
-{Minds2.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_MM_Draw.Description} 让他们自己去料理。这些孩童把戏与我无关。

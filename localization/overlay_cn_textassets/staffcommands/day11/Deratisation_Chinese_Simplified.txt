@@ -1,2 +1,0 @@
-{StaffCommands.Day11.Deratisation.Name} 灭鼠灭虫
-{StaffCommands.Day11.Deratisation.Description} 系统清除城里的鼠类、害虫和其他肮脏生物。

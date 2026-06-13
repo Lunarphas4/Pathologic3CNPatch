@@ -1,3 +1,0 @@
-{Npcs.Man_GallowsCarpenter.Name} 搭绞架的人
-{Npcs.Man_GallowsCarpenter.FullName} ⁠
-{Npcs.Man_GallowsCarpenter.Description} ⁠

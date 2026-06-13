@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_2_MM_Suite.Name} 套间
-{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_2_MM_Suite.Description} 我们今日已在"瘟疫的心脏"会过面。她能回那里去吗？

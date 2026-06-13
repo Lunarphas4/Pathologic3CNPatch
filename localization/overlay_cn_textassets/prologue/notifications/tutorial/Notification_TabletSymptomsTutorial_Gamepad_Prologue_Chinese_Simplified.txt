@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_TabletSymptomsTutorial_Gamepad_Prologue.Name} 诊断流程
-{Prologue.Notifications.Tutorial.Notification_TabletSymptomsTutorial_Gamepad_Prologue.Description} 选择全部相关症状后确定诊断。按<InputActions/UI/TabletDiagnosis>切换至诊断页

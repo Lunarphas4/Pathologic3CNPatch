@@ -1,4 +1,0 @@
-{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Logs.14901} 他们正在砍倒城里的绿化树
-{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Logs.19920} 他们正在砍倒城里的绿化树
-{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Logs.28410} 人们在死，他们的树也随之死去
-{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Logs.16064} 毁林会导致侵蚀。但那是未来才要担心的事

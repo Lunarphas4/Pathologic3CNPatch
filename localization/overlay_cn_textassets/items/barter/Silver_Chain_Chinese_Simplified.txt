@@ -1,3 +1,0 @@
-{Items.Barter.Silver_Chain.Name} 链条
-{Items.Barter.Silver_Chain.Description} 也许也可以称之为枷锁。
-{Items.Barter.Silver_Chain.Description2} 也许也可以称之为枷锁。

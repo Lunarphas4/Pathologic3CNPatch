@@ -1,2 +1,0 @@
-{SymptomGroups.Zrenie.Name} 视觉
-{SymptomGroups.Zrenie.Description} 眼部病变性质各异，既可表现在器官供血和生理结构上，也可直接表现为患者的主观感受。

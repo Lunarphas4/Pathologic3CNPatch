@@ -1,3 +1,0 @@
-{Items.Metabolism.Katver.Name} 卡特维尔
-{Items.Metabolism.Katver.Description} 卡特维尔
-{Items.Metabolism.Katver.Description2} 卡特维尔

@@ -1,3 +1,0 @@
-{Npcs.Kondrat.Name} 红隼
-{Npcs.Kondrat.FullName} ⁠
-{Npcs.Kondrat.Description} ⁠

@@ -1,3 +1,0 @@
-{Npcs.SakhMen.Name} 萨克·曼
-{Npcs.SakhMen.FullName} ⁠
-{Npcs.SakhMen.Description} ⁠

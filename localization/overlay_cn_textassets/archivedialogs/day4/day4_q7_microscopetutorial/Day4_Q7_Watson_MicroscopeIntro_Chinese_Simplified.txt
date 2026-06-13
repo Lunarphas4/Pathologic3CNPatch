@@ -1,4 +1,0 @@
-﻿{ArchiveDialogs.Day4.Day4_Q7_MicroscopeTutorial.Day4_Q7_Watson_MicroscopeIntro.15902} 这是我们的显微镜。我们拿它来钉钉子。
-{ArchiveDialogs.Day4.Day4_Q7_MicroscopeTutorial.Day4_Q7_Watson_MicroscopeIntro.24277} 野蛮人。还是先看看样本吧。你们有样本吗？
-{ArchiveDialogs.Day4.Day4_Q7_MicroscopeTutorial.Day4_Q7_Watson_MicroscopeIntro.14447} 昨天给那位舞女取了呼吸道样本和血样。像是早知道一样。第一个健康，第二个有病。
-{ArchiveDialogs.Day4.Day4_Q7_MicroscopeTutorial.Day4_Q7_Watson_MicroscopeIntro.23976} 先看健康的那个。把显微镜试剂拿来。

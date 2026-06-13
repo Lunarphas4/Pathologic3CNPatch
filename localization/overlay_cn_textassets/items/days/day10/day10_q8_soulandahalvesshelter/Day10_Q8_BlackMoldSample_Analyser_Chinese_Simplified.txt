@@ -1,3 +1,0 @@
-﻿{Items.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_BlackMoldSample_Analyser.Name} 粗建地的霉菌（已检查）
-{Items.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_BlackMoldSample_Analyser.Description} 普通黑霉。
-{Items.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_BlackMoldSample_Analyser.Description2} 这是普通黑霉。它会导致几种严重呼吸道疾病，与沙疫无关。

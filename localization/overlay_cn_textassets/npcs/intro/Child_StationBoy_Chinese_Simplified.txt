@@ -1,3 +1,0 @@
-{Npcs.Intro.Child_StationBoy.Name} 埃利克
-{Npcs.Intro.Child_StationBoy.FullName} ⁠
-{Npcs.Intro.Child_StationBoy.Description} ⁠

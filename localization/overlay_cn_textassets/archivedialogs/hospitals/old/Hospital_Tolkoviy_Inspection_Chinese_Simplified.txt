@@ -1,4 +1,0 @@
-{ArchiveDialogs.Hospitals.Old.Hospital_Tolkoviy_Inspection.2913} 医生，我觉得好多了。我脑子里的那些恐怖东西……差不多退下去了。
-{ArchiveDialogs.Hospitals.Old.Hospital_Tolkoviy_Inspection.4842} 休息一下，我很快回来。
-{ArchiveDialogs.Hospitals.Old.Hospital_Tolkoviy_Inspection.15381} 那就开始检查吧。
-{ArchiveDialogs.Hospitals.Old.Hospital_Tolkoviy_Inspection.12694} 我需要取些样本做检测。

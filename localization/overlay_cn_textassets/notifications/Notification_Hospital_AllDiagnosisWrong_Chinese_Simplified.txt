@@ -1,2 +1,0 @@
-﻿{Notifications.Notification_Hospital_AllDiagnosisWrong.Name} 诊断中混入了错误
-{Notifications.Notification_Hospital_AllDiagnosisWrong.Description} 可叹有一份诊断不正确，今日疫苗便指望不上了。值得翻一翻个人档案，看看哪位病人的治疗没起效。

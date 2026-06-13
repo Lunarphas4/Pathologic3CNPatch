@@ -1,3 +1,0 @@
-{Npcs.IzekPatrolman.Name} 巡逻的人
-{Npcs.IzekPatrolman.FullName} ⁠
-{Npcs.IzekPatrolman.Description} ⁠

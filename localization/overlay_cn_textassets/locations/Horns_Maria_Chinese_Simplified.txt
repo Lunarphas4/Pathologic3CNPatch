@@ -1,2 +1,0 @@
-﻿{Locations.Horns_Maria.Name} 熔炉，玛丽亚的偏厅
-{Locations.Horns_Maria.Description} 熔炉，玛丽亚的偏厅

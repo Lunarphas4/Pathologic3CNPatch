@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_PrototypeCharger.44925} 实验性原型机的第二台充能装置
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_PrototypeCharger.10340} 实验性原型机的第二台充能装置
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_PrototypeCharger.56761} 第一台比烤箱还大
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_PrototypeCharger.56689} 牛胆汁、颠茄、普鲁卡因
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_PrototypeCharger.61752} 够放二十来次电

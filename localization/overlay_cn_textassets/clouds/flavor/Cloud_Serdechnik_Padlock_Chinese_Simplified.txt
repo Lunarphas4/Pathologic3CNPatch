@@ -1,3 +1,0 @@
-{Clouds.Flavor.Cloud_Serdechnik_Padlock.23306} 仅限工作人员。
-{Clouds.Flavor.Cloud_Serdechnik_Padlock.14554} 仅限工作人员。
-{Clouds.Flavor.Cloud_Serdechnik_Padlock.28176} 其他人必须走正门。

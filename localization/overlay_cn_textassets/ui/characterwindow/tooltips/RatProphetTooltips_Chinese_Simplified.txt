@@ -1,6 +1,0 @@
-{UI.CharacterWindow.Tooltips.RatProphetTooltips.Intro} 你不知道我是谁。戴面具的孩子，还是谎言的恶魔？也许我也是两个？我有两副不同的身体，你不可能没注意到。甚至三副？
-{UI.CharacterWindow.Tooltips.RatProphetTooltips.Summoning} 第5天，是你亲自召来了我，然后郑重承诺不消灭啮齿类
-{UI.CharacterWindow.Tooltips.RatProphetTooltips.Dreams} 第8天，要不是我帮你处理玛丽亚女主人那些愚蠢的梦，你根本撑不过去
-{UI.CharacterWindow.Tooltips.RatProphetTooltips.Children} 第11天，我把孩子们带出多面体，帮了你大忙。公平交易！
-{UI.CharacterWindow.Tooltips.RatProphetTooltips.Hungry} 第12天，我饿坏了，因为你什么都没给我留！
-{UI.CharacterWindow.Tooltips.RatProphetTooltips.Polyhedron} 第12天，我来到你美丽的多面体。当然是多面体里的镜室，傻瓜！不在那里还能在哪？

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day1.Day1_Q1_GetSchemes.Day1_Q1_MM_Blueprints_Burnt.Name} 手稿会燃烧
-{Minds2.Days.Day1.Day1_Q1_GetSchemes.Day1_Q1_MM_Blueprints_Burnt.Description} 没人阻止彼得：第三天，他烧掉了多面体的蓝图。

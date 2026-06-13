@@ -1,2 +1,0 @@
-{UI.Credits.Programming.MaksimKolosov.Name} Maksim Kolosov
-{UI.Credits.Programming.MaksimKolosov.Description} 程序员

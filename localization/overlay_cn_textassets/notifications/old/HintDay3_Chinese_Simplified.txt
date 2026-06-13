@@ -1,2 +1,0 @@
-{Notifications.Old.HintDay3.Name} ⁠
-{Notifications.Old.HintDay3.Description} 第三天

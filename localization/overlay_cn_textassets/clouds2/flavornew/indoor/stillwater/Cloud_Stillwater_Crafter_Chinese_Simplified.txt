@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_Crafter.44925} 在这里我可以合成简单药剂
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_Crafter.10340} 在这里我可以合成简单药剂
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_Crafter.56689} 太久没练，配方得重新想起来
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_Crafter.61752} 实验是实验员的朋友

@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_Analyzer.44925} 化学分析仪器和试剂的组合
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_Analyzer.10340} 化学分析仪器和试剂的组合
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_Analyzer.56689} 我就叫它分析仪
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_Analyzer.61752} 另一件东西会说出更多……
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_Analyzer.6634} ……只要花一两个小时把它分解成简单成分

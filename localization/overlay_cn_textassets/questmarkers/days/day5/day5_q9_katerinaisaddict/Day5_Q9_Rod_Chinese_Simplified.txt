@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_Rod.Name} 权杖宅
-{QuestMarkers.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_Rod.Description} 卡捷琳娜·萨布罗娃在滥用吗啡。好消息！

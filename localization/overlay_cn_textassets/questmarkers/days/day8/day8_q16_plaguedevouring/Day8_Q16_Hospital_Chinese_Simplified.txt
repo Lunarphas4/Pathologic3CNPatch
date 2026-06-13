@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Hospital.Name} 医院
-{QuestMarkers.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Hospital.Description} 利特尔在这里研究那位与我同病、来自被封屋子的病人。耐人寻味的病例——我该过去看看。

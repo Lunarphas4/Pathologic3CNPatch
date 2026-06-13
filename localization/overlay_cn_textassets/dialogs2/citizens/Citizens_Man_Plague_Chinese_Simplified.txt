@@ -1,9 +1,0 @@
-{Dialogs2.Citizens.Citizens_Man_Plague.627} 求你，别再靠近，别朝我呼吸。我不想被传染。
-{Dialogs2.Citizens.Citizens_Man_Plague.14085} 你不想染病，却不待在家里，偏在街上晃。真聪明。
-{Dialogs2.Citizens.Citizens_Man_Plague.31735} 我已经没有家了。我的街区被瘟疫毁了个干净。邻居全死了。一天之内，全没了。我现在不知道该怎么办。
-{Dialogs2.Citizens.Citizens_Man_Plague.12169} 冷静。我没病。
-{Dialogs2.Citizens.Citizens_Man_Plague.14046} 我邻居也是这么说的。他一夜之间就死了。我的街区被瘟疫毁了个干净。一天之内，所有人都没了。我现在不知道该怎么办。家回不去了，只能在街上晃，不知道该往哪儿去。听说这附近有个避难所，叫生者之家。
-{Dialogs2.Citizens.Citizens_Man_Plague.18913} 我是医生。我负责对抗这场疫病；要是你从我这儿染上，那可真讽刺。
-{Dialogs2.Citizens.Citizens_Man_Plague.8796} 哦，是你！所以就是你害得我整个街区、整条街一夜之间全没了！你就这么对抗疫病？你不羞愧吗？都是因为你，我现在没有家了。所有人都死了，所有人。
-{Dialogs2.Citizens.Citizens_Man_Plague.10206} 别慌。我在尽力。你以为这对我很容易？
-{Dialogs2.Citizens.Citizens_Man_Plague.18541} 整个街区没了？该死，这很糟。是我的错。看来我的法令哪里算错了。

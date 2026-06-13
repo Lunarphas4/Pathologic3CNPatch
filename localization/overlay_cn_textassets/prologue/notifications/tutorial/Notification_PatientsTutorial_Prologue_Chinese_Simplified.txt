@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_PatientsTutorial_Prologue.Name} 医院
-{Prologue.Notifications.Tutorial.Notification_PatientsTutorial_Prologue.Description} 需询问患者情况，给患者做检查，再将症状记录在病历簿中

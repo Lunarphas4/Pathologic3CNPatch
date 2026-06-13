@@ -1,3 +1,0 @@
-{Npcs.Izek.Name} 伊泽克
-{Npcs.Izek.FullName} ⁠
-{Npcs.Izek.Description} ⁠

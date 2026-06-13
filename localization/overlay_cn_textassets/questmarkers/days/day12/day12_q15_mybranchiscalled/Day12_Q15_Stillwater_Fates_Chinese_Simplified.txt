@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Stillwater_Fates.Name} 静水观星台
-{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Stillwater_Fates.Description} 静水观星台里还有一些我尚未得知的命运。

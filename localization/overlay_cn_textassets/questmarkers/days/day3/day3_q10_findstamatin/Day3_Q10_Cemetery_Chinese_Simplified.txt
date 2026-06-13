@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_Cemetery.Name} 墓园
-{QuestMarkers.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_Cemetery.Description} 彼得·斯塔马京在烦扰之时常来此处。他来得很勤。

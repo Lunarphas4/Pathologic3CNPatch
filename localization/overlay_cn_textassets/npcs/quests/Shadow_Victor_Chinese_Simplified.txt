@@ -1,3 +1,0 @@
-{Npcs.Quests.Shadow_Victor.Name} 俯身之影
-{Npcs.Quests.Shadow_Victor.FullName} ⁠
-{Npcs.Quests.Shadow_Victor.Description} ⁠

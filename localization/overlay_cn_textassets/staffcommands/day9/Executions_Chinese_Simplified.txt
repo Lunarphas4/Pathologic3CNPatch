@@ -1,2 +1,0 @@
-{StaffCommands.Day9.Executions.Name} 公开处决
-{StaffCommands.Day9.Executions.Description} 公开处决充斥街头的杀人犯、强盗和劫掠者。

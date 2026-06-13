@@ -1,2 +1,0 @@
-{Minds2.Days.Day11.Day11_Q4.1_ConsequenceStealing.Day11_Q4.1_MM_Liar.Name} 一诺千金
-{Minds2.Days.Day11.Day11_Q4.1_ConsequenceStealing.Day11_Q4.1_MM_Liar.Description} 格里夫的话不能信。我得另想办法

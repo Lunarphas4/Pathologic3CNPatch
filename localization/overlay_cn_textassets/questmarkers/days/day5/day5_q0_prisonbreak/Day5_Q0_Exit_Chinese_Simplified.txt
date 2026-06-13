@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_Exit.Name} 城区门
-{QuestMarkers.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_Exit.Description} 萨布罗夫的人在这里。他们应当放我离开这片城区。

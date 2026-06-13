@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_StaffStatsTutorial_Prologue.Name} 传染与骚动
-{Prologue.Notifications.Tutorial.Notification_StaffStatsTutorial_Prologue.Description} 法令消耗资源但延长城镇存活时间。传染与骚动曲线过高会导致灭亡

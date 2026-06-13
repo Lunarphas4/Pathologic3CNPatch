@@ -1,2 +1,0 @@
-{Symptoms.Gerpes.Name} 疱疹
-{Symptoms.Gerpes.Description} 皮肤或黏膜上出现成簇小水疱，常伴有疼痛或灼热。

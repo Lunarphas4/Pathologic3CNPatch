@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_ChildrenAreExpelled.Name} 高处之风
-{Minds2.Days.KeyNodes.KeyNode_ChildrenAreExpelled.Description} 孩子们已从多面体撤出。

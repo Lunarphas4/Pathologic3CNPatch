@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Cathedral.Name} 大教堂
-{QuestMarkers.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Cathedral.Description} 丧钟宣告大教堂里的一场悲剧。

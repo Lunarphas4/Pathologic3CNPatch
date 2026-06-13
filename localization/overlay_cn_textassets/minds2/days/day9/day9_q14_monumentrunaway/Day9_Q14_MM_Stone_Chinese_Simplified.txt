@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_MM_Stone.Name} 石之影
-{Minds2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_MM_Stone.Description} 那座底座似乎散发着某种阴沉的"目光"。还是我幻想？凯恩家的人最爱这种故事——可我该去找他们中的哪一位？

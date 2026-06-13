@@ -1,3 +1,0 @@
-{Npcs.Signwoman_Day10Sign.Name} 战车
-{Npcs.Signwoman_Day10Sign.FullName} ⁠
-{Npcs.Signwoman_Day10Sign.Description} ⁠

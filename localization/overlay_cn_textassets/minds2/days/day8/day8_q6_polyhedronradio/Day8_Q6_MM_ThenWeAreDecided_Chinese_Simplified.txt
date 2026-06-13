@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_ThenWeAreDecided.Name} 另一条路
-{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_ThenWeAreDecided.Description} 我找到了那栋宅子的后门！可惜——锁打不开。哪儿去找个会开锁的？

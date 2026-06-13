@@ -1,6 +1,0 @@
-{ArchiveDialogs.Test.Stash_Day4_KozevenniyStash.7396} 丹科夫斯基医生？我需要和您谈件事。
-{ArchiveDialogs.Test.Stash_Day4_KozevenniyStash.16286} 去和萨布罗夫谈。我很忙。
-{ArchiveDialogs.Test.Stash_Day4_KozevenniyStash.16223} 这事很微妙。有人从医院偷了药，正不管不顾地给自己下毒。总督会因为这种事把他们枪毙。
-{ArchiveDialogs.Test.Stash_Day4_KozevenniyStash.27150} 是啊，这可不是玩笑。他们在哪儿？
-{ArchiveDialogs.Test.Stash_Day4_KozevenniyStash.16922} 他们躲在通往巨大蚁巢那条街上，砖房旁的垃圾桶附近。
-{ArchiveDialogs.Test.Stash_Day4_KozevenniyStash.21081} 我来处理。谢谢。

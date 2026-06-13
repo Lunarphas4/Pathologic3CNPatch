@@ -1,4 +1,0 @@
-{Clouds2.Decrees.SteppeAmulets.SteppeAmulets_Cloud_Scull.13835} 希望他们用热水煮过它
-{Clouds2.Decrees.SteppeAmulets.SteppeAmulets_Cloud_Scull.3854} 希望他们用热水煮过它
-{Clouds2.Decrees.SteppeAmulets.SteppeAmulets_Cloud_Scull.36246} 未经处理的遗骸可能成为感染源
-{Clouds2.Decrees.SteppeAmulets.SteppeAmulets_Cloud_Scull.51653} 许多疾病会从动物传给人

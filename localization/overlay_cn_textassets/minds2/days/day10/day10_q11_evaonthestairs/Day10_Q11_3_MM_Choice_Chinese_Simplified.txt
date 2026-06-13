@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_3_MM_Choice.Name} 伊娃
-{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_3_MM_Choice.Description} 若我此刻离去——我会忘记她。让她离去。\n\n\n但若我去见她——我便要承担到底。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_MM_Diagnose.Name} 诊断
-{Minds2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_MM_Diagnose.Description} 我已确定这位舞者的诊断。不是沙疫。

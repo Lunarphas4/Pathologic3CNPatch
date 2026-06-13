@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_MM_Deception.Name} 背信
-{Minds2.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_MM_Deception.Description} 拉拉自始至终都未打算放弃她的计划。

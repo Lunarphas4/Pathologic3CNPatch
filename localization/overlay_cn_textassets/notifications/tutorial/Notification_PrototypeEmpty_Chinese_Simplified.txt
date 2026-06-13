@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_PrototypeEmpty.Name} 饱和已耗尽
-{Notifications.Tutorial.Notification_PrototypeEmpty.Description} 空的原型器具无法驱散瘴气。我可以在静水观星台用那个黄铜装填台填装。一旁的箱子里通常备有够装一次的材料。

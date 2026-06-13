@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_Promise.Name} 山中之约
-{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_Promise.Description} 我只需明日记起我对他许下的诺言。

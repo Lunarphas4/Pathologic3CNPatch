@@ -1,4 +1,0 @@
-{Clouds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_Cloud_Donations.19806} 新鲜的药品和补给
-{Clouds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_Cloud_Donations.28636} 新鲜的药品和补给
-{Clouds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_Cloud_Donations.25150} 我对庇护所运转的贡献
-{Clouds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_Cloud_Donations.13282} 应急指挥部资源得到了正当使用

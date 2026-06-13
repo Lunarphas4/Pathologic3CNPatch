@@ -1,3 +1,0 @@
-﻿{Items.Days.Day7.Day7_Q13_BullAnalysis.Day7_Q13_BullSampleOne_Analyser.Name} 第一次公牛分析（已检查）
-{Items.Days.Day7.Day7_Q13_BullAnalysis.Day7_Q13_BullSampleOne_Analyser.Description} 未经分析，牛血与人血无法区分。
-{Items.Days.Day7.Day7_Q13_BullAnalysis.Day7_Q13_BullSampleOne_Analyser.Description2} 从外表看，公牛尚无变化，但沙疫正开始在它血液中繁殖。必须继续观察。

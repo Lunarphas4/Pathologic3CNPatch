@@ -1,3 +1,0 @@
-{Items.Days.Day2.Day2_Q5.2_BeforeIsidorFuneral.Day2_Q5.2_IsidorSample.Name} 伊西多尔的样本
-{Items.Days.Day2.Day2_Q5.2_BeforeIsidorFuneral.Day2_Q5.2_IsidorSample.Description} 取自已故伊西多尔、用于检查的血液。
-{Items.Days.Day2.Day2_Q5.2_BeforeIsidorFuneral.Day2_Q5.2_IsidorSample.Description2} 从伊西多尔遗体上取得的一点血。已不适合捐献，但适合研究。

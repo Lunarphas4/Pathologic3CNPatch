@@ -1,5 +1,0 @@
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Flyer_Cloud_FireDisinfection.22727} “火——能消蠹！”
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Flyer_Cloud_FireDisinfection.22123} “火——能消蠹！”
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Flyer_Cloud_FireDisinfection.17634} “把水主开！”
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Flyer_Cloud_FireDisinfection.6538} “把食雾加热！”
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Flyer_Cloud_FireDisinfection.31423} 希望他们想写的是“食物”

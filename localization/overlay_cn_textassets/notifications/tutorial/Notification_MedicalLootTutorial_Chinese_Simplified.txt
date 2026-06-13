@@ -1,2 +1,0 @@
-{Notifications.Tutorial.Notification_MedicalLootTutorial.Name} 心境波动
-{Notifications.Tutorial.Notification_MedicalLootTutorial.Description} 药物可以改变我的精神状态。有的让我更冷漠，有的让我更狂躁。我得盯着自己的心境与药品库存。

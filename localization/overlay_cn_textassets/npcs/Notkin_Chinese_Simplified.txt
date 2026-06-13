@@ -1,3 +1,0 @@
-﻿{Npcs.Notkin.Name} 诺特金
-{Npcs.Notkin.FullName} 一魂半族首领
-{Npcs.Notkin.Description} 镇上有两大孩童帮派。一魂半族养着动物，并称之为他们的"半族"——据说这些动物比任何人都更懂他们。\n每个一魂半族都有这样一只动物伴侣——可我一只也没见过。

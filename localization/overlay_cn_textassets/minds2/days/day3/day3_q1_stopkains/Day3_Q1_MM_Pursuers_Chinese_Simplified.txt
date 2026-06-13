@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q1_StopKains.Day3_Q1_MM_Pursuers.Name} 追猎者
-{Minds2.Days.Day3.Day3_Q1_StopKains.Day3_Q1_MM_Pursuers.Description} 几个年轻人守在鲁宾的藏身处。敌意写在脸上。任由他们待着，必定要出事。

@@ -1,7 +1,0 @@
-{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_Skinners.Prologue_Vasil_Cloud_Food.23890} ⁠
-{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_Skinners.Prologue_Vasil_Cloud_Food.21378} 晚餐剩菜？呕
-{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_Skinners.Prologue_Vasil_Cloud_Food.4937} 都这样了，早该扔掉了
-{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_Skinners.Prologue_Vasil_Cloud_Food.5426} 腐烂了。恶臭难闻
-{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_Skinners.Prologue_Vasil_Cloud_Food.2980} 菲拉特养不起两口人
-{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_Skinners.Prologue_Vasil_Cloud_Food.29840} 只有腐烂的食物便宜
-{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_Skinners.Prologue_Vasil_Cloud_Food.38564} 但他饿得发狂，还是吃了这些残渣

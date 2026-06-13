@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day9.SergeantDront.Hospital_SergeantDront_MM_Diagnosed.Name} 已下诊断
-{Minds2.Hospital.Day9.SergeantDront.Hospital_SergeantDront_MM_Diagnosed.Description} 德龙特中士不介意躺在医院床上，从自己的部队里偷得片刻喘息。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_WhereIsGrif.Name} 这次能成
-{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_WhereIsGrif.Description} 格里夫能帮上忙。但他正躲着审判官。我该去哪儿找他？

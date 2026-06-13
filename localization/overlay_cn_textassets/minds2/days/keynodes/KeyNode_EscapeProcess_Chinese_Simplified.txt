@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_EscapeProcess.Name} 归乡
-{Minds2.Days.KeyNodes.KeyNode_EscapeProcess.Description} 凑齐所需诸物的次日，我便启程出逃。

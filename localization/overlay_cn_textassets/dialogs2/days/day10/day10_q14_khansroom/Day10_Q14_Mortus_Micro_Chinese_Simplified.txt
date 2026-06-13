@@ -1,6 +1,0 @@
-{Dialogs2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_Mortus_Micro.6437} 十五号昨天死了。我的休息日毁了。
-{Dialogs2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_Mortus_Micro.58183} 对你失去休假日，我深表哀悼。记一下：我要征用我的显微镜。
-{Dialogs2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_Mortus_Micro.63604} 请征用吧——与我何干？国家财产不会让我心疼。
-{Dialogs2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_Mortus_Micro.64198} 那是我从首都带来的。我来之前，你们没有显微镜。
-{Dialogs2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_Mortus_Micro.45614} 转告他们：暂时不要再做复杂样本。我们没有地方检查。只做瘟疫的基础检测。
-{Dialogs2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_Mortus_Micro.28674} 希望我以后能把它带回来。

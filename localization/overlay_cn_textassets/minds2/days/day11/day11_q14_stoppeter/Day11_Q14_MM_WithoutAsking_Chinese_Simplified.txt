@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q14_StopPeter.Day11_Q14_MM_WithoutAsking.Name} 小事一桩
-{Minds2.Days.Day11.Day11_Q14_StopPeter.Day11_Q14_MM_WithoutAsking.Description} 今日大教堂将上演一出血色戏剧。我至少能劝那位脆弱的彼得避开。

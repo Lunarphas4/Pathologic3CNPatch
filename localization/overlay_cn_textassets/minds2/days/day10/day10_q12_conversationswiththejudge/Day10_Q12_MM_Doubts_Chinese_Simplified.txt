@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q12_ConversationsWithTheJudge.Day10_Q12_MM_Doubts.Name} 疑
-{Minds2.Days.Day10.Day10_Q12_ConversationsWithTheJudge.Day10_Q12_MM_Doubts.Description} 我已不知该信什么、该做什么。

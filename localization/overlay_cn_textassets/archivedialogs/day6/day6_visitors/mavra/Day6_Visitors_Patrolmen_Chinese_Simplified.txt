@@ -1,8 +1,0 @@
-{ArchiveDialogs.Day6.Day6_Visitors.Mavra.Day6_Visitors_Patrolmen.14831} 我们正在执行您的命令，牛已经被宰杀了，但主人却不高兴。
-{ArchiveDialogs.Day6.Day6_Visitors.Mavra.Day6_Visitors_Patrolmen.11987} 没什么，他们稍后会感谢你的。
-{ArchiveDialogs.Day6.Day6_Visitors.Mavra.Day6_Visitors_Patrolmen.3798} 我没想到还有什么。
-{ArchiveDialogs.Day6.Day6_Visitors.Mavra.Day6_Visitors_Patrolmen.26413} 我希望你知道自己在做什么。
-{ArchiveDialogs.Day6.Day6_Visitors.Mavra.Day6_Visitors_Patrolmen.3680} 如果我不知道，我就不会下达命令。
-{ArchiveDialogs.Day6.Day6_Visitors.Mavra.Day6_Visitors_Patrolmen.15497} 有时你必须承担风险。
-{ArchiveDialogs.Day6.Day6_Visitors.Mavra.Day6_Visitors_Patrolmen.16959} 你可以通过某种方式与业主解决这个问题，或者其他什么。
-{ArchiveDialogs.Day6.Day6_Visitors.Mavra.Day6_Visitors_Patrolmen.2137} 让我们看看，让我们看看。

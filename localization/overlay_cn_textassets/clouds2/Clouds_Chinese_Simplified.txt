@@ -1,2 +1,0 @@
-{Clouds2.Clouds.ApathyGrowFormat} 冷漠 +{0}
-{Clouds2.Clouds.PsychosisGrowFormat} 狂躁 +{0}

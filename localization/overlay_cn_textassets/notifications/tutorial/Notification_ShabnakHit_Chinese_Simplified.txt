@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_ShabnakHit.Name} 成形之梦魇
-{Notifications.Tutorial.Notification_ShabnakHit.Description} 杀不死。朝目标跑——别被追上。

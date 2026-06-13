@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_Horns_Maria.Name} 熔炉，玛丽亚的偏厅
-{QuestMarkers.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_Horns_Maria.Description} 玛丽亚在此处做着她自认为是预言的梦。

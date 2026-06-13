@@ -1,2 +1,0 @@
-﻿{ArchiveDialogs.Day1.Eva_Evening_01.19909} 今天过得怎么样？
-{ArchiveDialogs.Day1.Eva_Evening_01.4759} 很好。

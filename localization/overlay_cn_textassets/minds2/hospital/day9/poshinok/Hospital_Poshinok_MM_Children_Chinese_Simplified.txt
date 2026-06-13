@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day9.Poshinok.Hospital_Poshinok_MM_Children.Name} 孩童的泪
-{Minds2.Hospital.Day9.Poshinok.Hospital_Poshinok_MM_Children.Description} 还有一些孩子的症状。看来"拼布"的孩子也病了。值得直接去问他。

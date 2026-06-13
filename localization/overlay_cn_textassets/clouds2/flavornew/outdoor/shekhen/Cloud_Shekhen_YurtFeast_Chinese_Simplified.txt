@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_YurtFeast.44925} 母牛是丰产的象征，是哺育者
-{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_YurtFeast.10340} 母牛是丰产的象征，是哺育者
-{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_YurtFeast.35524} 公牛是保护者，强者，开端者
-{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_YurtFeast.56689} 在我们这里，公牛是第一个字母
-{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_YurtFeast.61752} 而塔乌罗与公牛的联系显而易见

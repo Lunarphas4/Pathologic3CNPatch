@@ -1,8 +1,0 @@
-{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Random.28535} 身上有烟草吗？也许有支烟？
-{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Random.40709} 抽烟有害健康。
-{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Random.38303} 我们团医以前也这么说。身体结实，品性也正！他正嚼着健康的卷心菜，一块弹片直接穿过了他的脑袋。
-{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Random.12832} 这里怎么回事？为什么开炮？
-{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Random.30915} 我怎么知道？他们大概是在对镇子校射。我从夜里就站在这儿——早饭也没吃，肚子拧得厉害。以前抽根烟还能顶一顶，可现在烟草受潮了——该死，点不着。
-{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Random.57203} 同情你。
-{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Random.33525} 我的也受潮了。
-{Dialogs2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Soldiers_Random.15535} “校射”？你在说什么……

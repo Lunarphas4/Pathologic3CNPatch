@@ -1,5 +1,0 @@
-{Clouds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Cloud_Katerina_Womb.39622} 触诊时有疼痛反应！
-{Clouds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Cloud_Katerina_Womb.49974} 触诊时有疼痛反应！
-{Clouds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Cloud_Katerina_Womb.33491} 看起来像炎症
-{Clouds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Cloud_Katerina_Womb.4589} 囊肿概率很高，那就需要手术
-{Clouds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Cloud_Katerina_Womb.26931} 但必须排除怀孕

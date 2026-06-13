@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_MM_Pawn.Name} 岂有此理！
-{Minds2.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_MM_Pawn.Description} ……他们要医治的是只小狗。我一身学问简直就为此而来。我离开帝都，就是为了这等事！

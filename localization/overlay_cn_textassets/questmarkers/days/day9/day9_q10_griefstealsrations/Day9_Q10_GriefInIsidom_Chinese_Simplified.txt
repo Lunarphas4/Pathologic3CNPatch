@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day9.Day9_Q10_GriefStealsRations.Day9_Q10_GriefInIsidom.Name} 最后通牒
-{QuestMarkers.Days.Day9.Day9_Q10_GriefStealsRations.Day9_Q10_GriefInIsidom.Description} 我得说服格里夫放弃偷粮。

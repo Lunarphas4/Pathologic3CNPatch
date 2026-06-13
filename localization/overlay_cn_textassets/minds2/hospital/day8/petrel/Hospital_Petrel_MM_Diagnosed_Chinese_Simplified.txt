@@ -1,2 +1,0 @@
-{Minds2.Hospital.Day8.Petrel.Hospital_Petrel_MM_Diagnosed.Name} 已下诊断
-{Minds2.Hospital.Day8.Petrel.Hospital_Petrel_MM_Diagnosed.Description} 我宁愿相信，所开的疗程对这位思绪错乱的海燕——至少能起一点作用。

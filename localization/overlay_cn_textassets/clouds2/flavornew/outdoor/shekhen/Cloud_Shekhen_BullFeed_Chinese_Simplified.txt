@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_BullFeed.44925} 周边村落里，公牛留下得最久
-{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_BullFeed.10340} 周边村落里，公牛留下得最久
-{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_BullFeed.56689} 组织一次驱赶？
-{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_BullFeed.61752} 可城镇和它的苦难，与它们有什么关系

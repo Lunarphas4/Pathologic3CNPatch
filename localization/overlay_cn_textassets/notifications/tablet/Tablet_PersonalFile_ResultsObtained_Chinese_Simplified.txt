@@ -1,2 +1,0 @@
-{Notifications.Tablet.Tablet_PersonalFile_ResultsObtained.Name} ⁠
-{Notifications.Tablet.Tablet_PersonalFile_ResultsObtained.Description} 医院的报告已收到。

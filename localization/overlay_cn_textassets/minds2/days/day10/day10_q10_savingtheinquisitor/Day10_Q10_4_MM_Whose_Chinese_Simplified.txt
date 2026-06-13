@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_4_MM_Whose.Name} 他人之命数
-{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_4_MM_Whose.Description} 那位看守人坚信，那些镜子不会碎——因为它们不是为我放在那里的。\n\n为谁——这点已经明白。\n\n可它们原本到底是谁的？

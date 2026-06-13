@@ -1,3 +1,0 @@
-{ArchiveDialogs.Hospitals.Hospital_Orderly_InTheProcess.16955} 您难道没有事要忙吗？
-{ArchiveDialogs.Hospitals.Hospital_Orderly_InTheProcess.18434} 要救这些可怜人，我们需要正确的诊断。
-{ArchiveDialogs.Hospitals.Hospital_Orderly_InTheProcess.6440} 别把时间浪费在无意义的谈话上。

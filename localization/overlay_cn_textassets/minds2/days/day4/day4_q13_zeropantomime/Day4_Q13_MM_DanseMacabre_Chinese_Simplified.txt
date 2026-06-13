@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q13_ZeroPantomime.Day4_Q13_MM_DanseMacabre.Name} 死亡之舞
-{Minds2.Days.Day4.Day4_Q13_ZeroPantomime.Day4_Q13_MM_DanseMacabre.Description} 镇上没有面包，倒有不少马戏。瘟疫之中，镇民们被召去剧场看戏。

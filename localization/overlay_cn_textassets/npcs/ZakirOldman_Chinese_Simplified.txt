@@ -1,3 +1,0 @@
-{Npcs.ZakirOldman.Name} 草原住民
-{Npcs.ZakirOldman.FullName} ⁠
-{Npcs.ZakirOldman.Description} ⁠

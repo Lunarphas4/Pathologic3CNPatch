@@ -1,2 +1,0 @@
-﻿{CraftRecipes.PillCraft_Apat_CraftRecipe.Name} 临时补剂药片
-{CraftRecipes.PillCraft_Apat_CraftRecipe.Description} 移除一种随机的冷漠副作用

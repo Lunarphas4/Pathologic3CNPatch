@@ -1,2 +1,0 @@
-{UI.Credits.Localization.KonstantinKolyada.Name} Konstantin Kolyada
-{UI.Credits.Localization.KonstantinKolyada.Description} 本地化经理

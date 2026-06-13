@@ -1,3 +1,0 @@
-{ArchiveDialogs.NewArchive.Tutorial_BachelorsTool.9094} 看啊：他来了！真想不到：他来了，一个人，没带不死者！
-{ArchiveDialogs.NewArchive.Tutorial_BachelorsTool.26634} 同行，嗯——我们稍微温和一点吧。别逼得我们尊敬的长官太紧。如果他连自己的工具怎么用都不知道，又怎么找得到不死者？
-{ArchiveDialogs.NewArchive.Tutorial_BachelorsTool.16013} 它是怎么用的？说得详细点。

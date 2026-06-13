@@ -1,2 +1,0 @@
-﻿{Notifications.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_Hint_SecondDayIsOpen.Name} 第二天已可进入
-{Notifications.Days.Day3.Day3_Q8_FindHospital.Day3_Q8_Hint_SecondDayIsOpen.Description} 现在我可以多讲一些过去的事了。

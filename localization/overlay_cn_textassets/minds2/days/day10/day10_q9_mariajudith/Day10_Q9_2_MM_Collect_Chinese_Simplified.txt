@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q9_MariaJudith.Day10_Q9_2_MM_Collect.Name} 碎片
-{Minds2.Days.Day10.Day10_Q9_MariaJudith.Day10_Q9_2_MM_Collect.Description} 玛丽亚相信镜子对卡明斯基有害，便把它们一一收集起来。荒唐之事。

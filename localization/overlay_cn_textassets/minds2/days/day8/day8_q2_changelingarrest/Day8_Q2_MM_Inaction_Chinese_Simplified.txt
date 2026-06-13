@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q2_ChangelingArrest.Day8_Q2_MM_Inaction.Name} 不作为
-{Minds2.Days.Day8.Day8_Q2_ChangelingArrest.Day8_Q2_MM_Inaction.Description} 审判官对换生灵的罪行一无所知。对拉拉而言，这意味着死亡。

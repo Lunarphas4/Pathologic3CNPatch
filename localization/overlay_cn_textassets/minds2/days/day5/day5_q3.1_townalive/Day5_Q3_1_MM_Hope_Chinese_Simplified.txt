@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q3.1_TownAlive.Day5_Q3_1_MM_Hope.Name} 希望的短暂瞬间
-{Minds2.Days.Day5.Day5_Q3.1_TownAlive.Day5_Q3_1_MM_Hope.Description} 玛丽亚相信，小镇的毁灭被推迟了。但若要彻底避免它，我们每个人至少都得创造一个奇迹。

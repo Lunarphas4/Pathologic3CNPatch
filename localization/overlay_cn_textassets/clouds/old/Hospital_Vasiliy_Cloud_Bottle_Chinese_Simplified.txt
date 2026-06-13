@@ -1,5 +1,0 @@
-{Clouds.Old.Hospital_Vasiliy_Cloud_Bottle.16102} 醉汉的食谱。
-{Clouds.Old.Hospital_Vasiliy_Cloud_Bottle.1718} 醉汉的食谱。
-{Clouds.Old.Hospital_Vasiliy_Cloud_Bottle.2473} 最便宜的劣酒。
-{Clouds.Old.Hospital_Vasiliy_Cloud_Bottle.2270} 几瓶twyrine（特维酒）。
-{Clouds.Old.Hospital_Vasiliy_Cloud_Bottle.25623} 他喝了多少？

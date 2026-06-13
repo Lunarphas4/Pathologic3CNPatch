@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Stillwater.Name} 静水宅
-{QuestMarkers.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Stillwater.Description} 我在这里认识了伊娃

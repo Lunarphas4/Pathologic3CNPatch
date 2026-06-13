@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_InquisitorMustDie.Name} 阴谋
-{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_InquisitorMustDie.Description} 安德烈顶着彼得的身份蹲点等候，准备在三日后的面对面审讯中刺杀审判官。

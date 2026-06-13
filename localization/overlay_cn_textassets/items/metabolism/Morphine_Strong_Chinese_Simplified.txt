@@ -1,3 +1,0 @@
-﻿{Items.Metabolism.Morphine_Strong.Name} 大剂量吗啡
-{Items.Metabolism.Morphine_Strong.Description} 缓解肉体与精神的痛苦。代价只是你最敏锐的思维。许多人愿意接受这笔交易。\n\n给那些普通剂量已不再见效的人。
-{Items.Metabolism.Morphine_Strong.Description2} 缓解肉体与精神的痛苦。代价只是你最敏锐的思维。许多人愿意接受这笔交易。给那些普通剂量已不再见效的人。

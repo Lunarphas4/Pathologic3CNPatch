@@ -1,7 +1,0 @@
-{Dialogs2.Citizens.Citizens_Woman_Day3_Administration.7671} 你也要去市政厅吗？
-{Dialogs2.Citizens.Citizens_Woman_Day3_Administration.10698} 我为什么要怕？
-{Dialogs2.Citizens.Citizens_Woman_Day3_Administration.30886} 今天一早镇上就闹哄哄的。听说所有掌权家族都聚在市政厅了。肯定出了事。要是能知道究竟是什么事、该做什么准备就好了。
-{Dialogs2.Citizens.Citizens_Woman_Day3_Administration.3249} 好。我去市政厅看看发生了什么。
-{Dialogs2.Citizens.Citizens_Woman_Day3_Administration.15648} 有一点我敢肯定——绝不会是什么好事。
-{Dialogs2.Citizens.Citizens_Woman_Day3_Administration.25280} 不。我还有更重要的事要办。
-{Dialogs2.Citizens.Citizens_Woman_Day3_Administration.14672} 我去哪儿，关你什么事？

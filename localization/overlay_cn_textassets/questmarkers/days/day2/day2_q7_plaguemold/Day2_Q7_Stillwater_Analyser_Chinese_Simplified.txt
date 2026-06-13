@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_Stillwater_Analyser.Name} 静水宅
-{QuestMarkers.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_Stillwater_Analyser.Description} 这里是观星台，不是指挥部。即便如此——化验仪已经在我手里。

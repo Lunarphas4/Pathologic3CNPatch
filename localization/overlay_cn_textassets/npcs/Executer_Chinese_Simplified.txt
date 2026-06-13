@@ -1,3 +1,0 @@
-{Npcs.Executer.Name} 处刑人
-{Npcs.Executer.FullName} ⁠
-{Npcs.Executer.Description} ⁠

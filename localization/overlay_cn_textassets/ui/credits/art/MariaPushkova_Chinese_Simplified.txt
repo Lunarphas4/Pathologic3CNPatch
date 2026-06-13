@@ -1,2 +1,0 @@
-{UI.Credits.Art.MariaPushkova.Name} Maria Pushkova
-{UI.Credits.Art.MariaPushkova.Description} 概念美术

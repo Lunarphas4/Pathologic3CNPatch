@@ -1,3 +1,0 @@
-{Npcs.Toma.Name} 兰戈拉
-{Npcs.Toma.FullName} ⁠
-{Npcs.Toma.Description} ⁠

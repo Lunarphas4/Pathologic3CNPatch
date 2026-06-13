@@ -1,1 +1,0 @@
-{UI.Credits.HypeTrain.IvanBelousov.Name} Ivan Belousov

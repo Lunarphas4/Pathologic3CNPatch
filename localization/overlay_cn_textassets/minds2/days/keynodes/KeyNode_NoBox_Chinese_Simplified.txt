@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_NoBox.Name} 或许不要紧？
-{Minds2.Days.KeyNodes.KeyNode_NoBox.Description} 我没有收到伊西多尔最后那个包裹。

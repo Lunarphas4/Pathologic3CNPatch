@@ -1,2 +1,0 @@
-{Symptoms.GlazRed.Name} 眼睛发红
-{Symptoms.GlazRed.Description} 眼球由白色变为不同程度的粉红色，源于毛细血管充血，提示炎症过程。

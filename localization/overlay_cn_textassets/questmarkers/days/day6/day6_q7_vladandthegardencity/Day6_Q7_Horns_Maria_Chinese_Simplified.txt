@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_Horns_Maria.Name} 熔炉，玛丽亚的偏厅
-{QuestMarkers.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_Horns_Maria.Description} 若玛丽亚都左右不了小弗拉德——那便无人能。

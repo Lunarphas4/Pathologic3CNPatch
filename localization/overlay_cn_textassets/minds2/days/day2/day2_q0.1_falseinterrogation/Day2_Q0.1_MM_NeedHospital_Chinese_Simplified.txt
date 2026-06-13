@@ -1,2 +1,0 @@
-{Minds2.Days.Day2.Day2_Q0.1_FalseInterrogation.Day2_Q0.1_MM_NeedHospital.Name} 证词
-{Minds2.Days.Day2.Day2_Q0.1_FalseInterrogation.Day2_Q0.1_MM_NeedHospital.Description} 我必须先回忆自己是否开设了医院。否则我派不上什么用场

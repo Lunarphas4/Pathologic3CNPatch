@@ -1,3 +1,0 @@
-{Npcs.Dana.Name} 访客戴娜
-{Npcs.Dana.FullName} ⁠
-{Npcs.Dana.Description} ⁠

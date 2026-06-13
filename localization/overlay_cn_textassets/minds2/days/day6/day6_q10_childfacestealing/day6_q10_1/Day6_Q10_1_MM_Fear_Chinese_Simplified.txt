@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_1.Day6_Q10_1_MM_Fear.Name} 我不是猎妖人
-{Minds2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_1.Day6_Q10_1_MM_Fear.Description} 大概只是一只草原野兔在尖叫罢了。不值得我费工夫。

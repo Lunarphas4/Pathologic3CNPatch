@@ -1,2 +1,0 @@
-{ArchiveDialogs.Day4.Day4_Analysis.13483} 您有东西要分析吗？
-{ArchiveDialogs.Day4.Day4_Analysis.10521} 有，看看这个遗物。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_3_MM_CustomService.Name} 订主
-{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_3_MM_CustomService.Description} 格奥尔基知道他家造物给这镇带来了什么样的威胁吗？

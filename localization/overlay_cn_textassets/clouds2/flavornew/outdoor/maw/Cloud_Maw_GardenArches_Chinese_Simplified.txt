@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.Maw.Cloud_Maw_GardenArches.44925} 这座花园是奥利姆斯基家在旧荒地上建的
-{Clouds2.FlavorNew.Outdoor.Maw.Cloud_Maw_GardenArches.10340} 这座花园是奥利姆斯基家在旧荒地上建的
-{Clouds2.FlavorNew.Outdoor.Maw.Cloud_Maw_GardenArches.56689} 以前这里执行公开惩罚
-{Clouds2.FlavorNew.Outdoor.Maw.Cloud_Maw_GardenArches.61752} 现在树枝不再抽打任何人

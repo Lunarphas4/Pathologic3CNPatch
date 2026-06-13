@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_3_MM_FatherBlock.Name} 兵卒之父
-{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_3_MM_FatherBlock.Description} 布洛克将军必须知晓我调查的结果。否则——军队还会听谁的？

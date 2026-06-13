@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_MM_OneTime.Name} 色散
-{Minds2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_MM_OneTime.Description} 看来——有些河，你无法两次踏入。

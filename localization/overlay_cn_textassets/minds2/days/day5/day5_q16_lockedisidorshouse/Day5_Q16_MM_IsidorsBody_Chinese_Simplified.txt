@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_MM_IsidorsBody.Name} 检查
-{Minds2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_MM_IsidorsBody.Description} 伊西多的遗体第二天就下葬了。我无法检查。

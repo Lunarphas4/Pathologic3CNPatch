@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day9.SergeantDront.Hospital_SergeantDront_MM_PersonalFile.Name} 退出战列
-{Minds2.Hospital.Day9.SergeantDront.Hospital_SergeantDront_MM_PersonalFile.Description} 这便是抵镇士兵中的第一位病人——德龙特中士。

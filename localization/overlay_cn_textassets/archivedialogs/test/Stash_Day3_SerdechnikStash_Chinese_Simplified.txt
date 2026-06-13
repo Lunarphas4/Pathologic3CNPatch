@@ -1,6 +1,0 @@
-﻿{ArchiveDialogs.Test.Stash_Day3_SerdechnikStash.22090} 等一下！我想谈谈。做个交易：你听我说醉话，我告诉你我藏的一点东西在哪儿。
-{ArchiveDialogs.Test.Stash_Day3_SerdechnikStash.25289} 好吧。说。
-{ArchiveDialogs.Test.Stash_Day3_SerdechnikStash.8013} 我这可真是跌到底了……拿最后一点存货来买个酒友……
-{ArchiveDialogs.Test.Stash_Day3_SerdechnikStash.20063} 别浪费我的时间。
-{ArchiveDialogs.Test.Stash_Day3_SerdechnikStash.29349} 我在剧院帷幕后面摸过一圈。东西藏在后门，楼梯上，但没来得及取回来。就在骨骨髓区南边。
-{ArchiveDialogs.Test.Stash_Day3_SerdechnikStash.5585} 我去看看。

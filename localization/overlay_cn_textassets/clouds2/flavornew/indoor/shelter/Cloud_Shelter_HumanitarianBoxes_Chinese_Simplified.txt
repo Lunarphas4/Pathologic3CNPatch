@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_HumanitarianBoxes.44925} 奥利姆斯基家用肉来帮忙
-{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_HumanitarianBoxes.10340} 奥利姆斯基家用肉来帮忙
-{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_HumanitarianBoxes.27114} 萨布罗夫家提供装备和人手
-{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_HumanitarianBoxes.56689} 凯恩家最重要的是振奋人心的演说
-{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_HumanitarianBoxes.61752} 这里也有我的贡献

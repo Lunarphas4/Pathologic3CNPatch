@@ -1,2 +1,0 @@
-{UI.Credits.Art.AntonSavotkin.Name} Anton Savotkin
-{UI.Credits.Art.AntonSavotkin.Description} 动画师

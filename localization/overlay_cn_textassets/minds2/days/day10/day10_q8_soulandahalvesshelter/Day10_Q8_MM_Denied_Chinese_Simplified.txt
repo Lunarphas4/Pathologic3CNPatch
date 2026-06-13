@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Denied.Name} 驳回
-{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Denied.Description} 我不能保证孩子们的安全。若他们偏要在游戏的热火中送命——也别因我的签字而起。

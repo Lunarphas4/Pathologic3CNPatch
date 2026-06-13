@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Desinfection.Name} 消毒
-{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Desinfection.Description} 那位"显神迹"的克拉拉据称用按手之礼把屋里残留的疫气清掉了。

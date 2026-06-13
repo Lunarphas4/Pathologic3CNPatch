@@ -1,3 +1,0 @@
-{Npcs.Death.Name} 某个人的死亡
-{Npcs.Death.FullName} ⁠
-{Npcs.Death.Description} ⁠

@@ -1,2 +1,0 @@
-{StaffCommands.Day10.MedicalCheckUp.Name} 医疗检查
-{StaffCommands.Day10.MedicalCheckUp.Description} 为镇民及其住处进行医学检查。

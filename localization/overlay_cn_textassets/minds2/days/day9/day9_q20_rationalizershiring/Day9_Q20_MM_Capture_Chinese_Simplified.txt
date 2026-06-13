@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q20_RationalizersHiring.Day9_Q20_MM_Capture.Name} 接管指挥部
-{Minds2.Days.Day9.Day9_Q20_RationalizersHiring.Day9_Q20_MM_Capture.Description} 市政厅的几个职员对指挥部的混乱感到愤慨，亲自把事情接了过去。从此他们将代秘书协助我处理政令。

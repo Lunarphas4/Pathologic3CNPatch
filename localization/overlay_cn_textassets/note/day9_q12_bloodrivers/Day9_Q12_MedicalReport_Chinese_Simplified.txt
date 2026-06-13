@@ -1,2 +1,0 @@
-{Note.Day9_Q12_BloodRivers.Day9_Q12_MedicalReport.Name} 医疗报告副本
-{Note.Day9_Q12_BloodRivers.Day9_Q12_MedicalReport.Description} 报告\n\n本报告发给 Z. 巴别尔中尉，内容为已故列兵阿尔谢尼·卡什金的医学检查结果。上述列兵被发现有多处骨折和严重失血，二者共同明确指向其死因为高处坠落。未在该列兵身上发现犯罪性质的伤痕。\n\n签署人：医学学士丹尼尔·丹科夫斯基。

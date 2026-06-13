@@ -1,2 +1,0 @@
-{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.Bottle.Bottle_Tags_CheapestBooze.Name} ⁠
-{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.Bottle.Bottle_Tags_CheapestBooze.Description} 能买到的最廉价劣酒。

@@ -1,5 +1,0 @@
-{Clouds2.Decrees.MobilisingVigilantes.MobilisingVigilantes_Cloud_Poster_JoinTheVigil.21385} “加入巡夜队——帮助城镇！”
-{Clouds2.Decrees.MobilisingVigilantes.MobilisingVigilantes_Cloud_Poster_JoinTheVigil.25256} “加入巡夜队——帮助城镇！”
-{Clouds2.Decrees.MobilisingVigilantes.MobilisingVigilantes_Cloud_Poster_JoinTheVigil.11036} 每个人都重要
-{Clouds2.Decrees.MobilisingVigilantes.MobilisingVigilantes_Cloud_Poster_JoinTheVigil.22525} 大多数人只想躲在一边熬过去
-{Clouds2.Decrees.MobilisingVigilantes.MobilisingVigilantes_Cloud_Poster_JoinTheVigil.15567} 志愿者不够

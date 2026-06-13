@@ -1,2 +1,0 @@
-{Symptoms.GlazBlack.Name} 眼部毛细血管发黑
-{Symptoms.GlazBlack.Description} 正常情况下毛细血管因血液呈红色且通常不可见；明显变暗提示严重疾病。

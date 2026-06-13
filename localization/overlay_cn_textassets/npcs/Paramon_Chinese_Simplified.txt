@@ -1,3 +1,0 @@
-{Npcs.Paramon.Name} 田凫
-{Npcs.Paramon.FullName} ⁠
-{Npcs.Paramon.Description} ⁠

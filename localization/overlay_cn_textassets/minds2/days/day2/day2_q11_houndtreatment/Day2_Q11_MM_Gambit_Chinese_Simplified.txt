@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_MM_Gambit.Name} 王者发言
-{Minds2.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_MM_Gambit.Description} 卡斯帕把自家人被囚一事看得很重。他打算去谈判，并请我做仲裁。

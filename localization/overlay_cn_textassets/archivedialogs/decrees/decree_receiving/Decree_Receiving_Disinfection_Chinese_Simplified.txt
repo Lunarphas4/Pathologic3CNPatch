@@ -1,4 +1,0 @@
-{ArchiveDialogs.Decrees.Decree_Receiving.Decree_Receiving_Disinfection.888} 我在想，老板，我们应该烧掉白蚁丘。他有点怀疑。
-{ArchiveDialogs.Decrees.Decree_Receiving.Decree_Receiving_Disinfection.12415} 别乱说。我看着请愿者践踏了我们整个走廊，打碎了所有烛台上的灯，我的脑海中浮现出一条新的法令：我们需要进行消毒。
-{ArchiveDialogs.Decrees.Decree_Receiving.Decree_Receiving_Disinfection.20606} 太棒了！
-{ArchiveDialogs.Decrees.Decree_Receiving.Decree_Receiving_Disinfection.27669} 否则…别再说我的重要文件了，现在我们要通过法令了。

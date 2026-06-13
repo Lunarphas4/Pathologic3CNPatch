@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_MapDangerousDistricts.Name} 不友善之镇
-{Notifications.Tutorial.Notification_MapDangerousDistricts.Description} 安宁的城区容易通过。危险的城区——则得徒步小心穿过。此类城区以颜色标注。

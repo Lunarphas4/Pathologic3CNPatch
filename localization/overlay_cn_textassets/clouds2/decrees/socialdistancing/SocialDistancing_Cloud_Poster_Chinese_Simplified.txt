@@ -1,4 +1,0 @@
-{Clouds2.Decrees.SocialDistancing.SocialDistancing_Cloud_Poster.23976} 好吧，至少挺抓人眼球
-{Clouds2.Decrees.SocialDistancing.SocialDistancing_Cloud_Poster.145} 好吧，至少挺抓人眼球
-{Clouds2.Decrees.SocialDistancing.SocialDistancing_Cloud_Poster.833} 如果我不知道这是在号召保持距离……
-{Clouds2.Decrees.SocialDistancing.SocialDistancing_Cloud_Poster.28993} 人，公牛，人

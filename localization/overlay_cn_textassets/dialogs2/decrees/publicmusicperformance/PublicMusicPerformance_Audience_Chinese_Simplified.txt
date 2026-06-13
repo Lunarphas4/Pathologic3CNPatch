@@ -1,9 +1,0 @@
-{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Audience.41967} 嘘！安静！
-{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Audience.3255} 你真的喜——
-{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Audience.39828} 嘘！安静！你不听，就别打扰别人！
-{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Audience.15765} 别打断。音乐是心智的良药。
-{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Audience.3487} 音乐是心智的良药。
-{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Audience.26112} 这很重要……我会安静。抱歉。
-{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Audience.2714} …
-{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Audience.56512} 也许我必须欣赏——
-{Dialogs2.Decrees.PublicMusicPerformance.PublicMusicPerformance_Audience.55166} 他们说音乐是——

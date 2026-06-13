@@ -1,3 +1,0 @@
-{Items.Craft.Strychnine_Compressed.Name} 士的宁结晶
-{Items.Craft.Strychnine_Compressed.Description} 野蛮部族用来猎杀野兽和同族的毒药。浓缩形态不可服用。
-{Items.Craft.Strychnine_Compressed.Description2} 野蛮部族用来猎杀野兽和同族的毒药。浓缩形态不可服用。

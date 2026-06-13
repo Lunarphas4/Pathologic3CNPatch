@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_GeorgiyIsDead.Name} 格奥尔基之死
-{Minds2.Days.KeyNodes.KeyNode_GeorgiyIsDead.Description} 格奥尔基·凯恩被暴民撕碎。

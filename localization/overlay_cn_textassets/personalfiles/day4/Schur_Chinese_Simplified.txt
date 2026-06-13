@@ -1,2 +1,0 @@
-{PersonalFiles.Day4.Schur.Name} 芬奇
-{PersonalFiles.Day4.Schur.Description} 主动来到医院，表现出责任感。

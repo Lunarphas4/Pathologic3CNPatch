@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_WashingPlace.44925} 把阅兵制服弄上血、泥和呕吐物
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_WashingPlace.10340} 把阅兵制服弄上血、泥和呕吐物
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_WashingPlace.56689} 他们把胜利的布洛克派到城里，就是为了这个
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_WashingPlace.36540} 瘟疫形成了一座方便的历史垃圾场
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_WashingPlace.61752} 几乎令人受宠若惊——你们两人被当成平等之物丢弃

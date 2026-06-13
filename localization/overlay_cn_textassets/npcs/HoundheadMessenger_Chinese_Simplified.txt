@@ -1,3 +1,0 @@
-{Npcs.HoundheadMessenger.Name} 巴迪
-{Npcs.HoundheadMessenger.FullName} ⁠
-{Npcs.HoundheadMessenger.Description} ⁠

@@ -1,2 +1,0 @@
-{Notifications.Days.Day5.Day5_Q1_Hint_Fire_3.Name} ⁠
-{Notifications.Days.Day5.Day5_Q1_Hint_Fire_3.Description} 还剩三堆火。

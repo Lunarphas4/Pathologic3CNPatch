@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_MM_IsidorsStudy.Name} 调查
-{Minds2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_MM_IsidorsStudy.Description} 伊西多的书房第二天被锁上了，锁还卡住了。我无法调查。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_TheCrucifixion.Name} 赴刑之邀
-{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_TheCrucifixion.Description} 斯塔马京兄弟一死，世界便失去了本世纪最具才华的大匠——而我，则失去了认识多面体的最佳机会。

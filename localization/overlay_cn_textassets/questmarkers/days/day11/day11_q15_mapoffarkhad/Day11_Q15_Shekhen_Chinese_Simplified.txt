@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_Shekhen.Name} 谢肯
-{QuestMarkers.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_Shekhen.Description} 草原人协助法尔哈德下到地底。

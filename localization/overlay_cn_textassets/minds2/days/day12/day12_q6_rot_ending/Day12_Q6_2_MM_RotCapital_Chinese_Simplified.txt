@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_2_MM_RotCapital.Name} 首都
-{Minds2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_2_MM_RotCapital.Description} 我就是这样落到这步田地的。我就是这样活下来的。我活下来，是因为再无救镇之机。\n\n我曾相信高塔里的孩子会过得更好——结果，没有任何人过得更好。

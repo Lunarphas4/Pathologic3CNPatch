@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q10_RatProphet.Day5_Q10_MM_NoBell.Name} 仪式
-{Minds2.Days.Day5.Day5_Q10_RatProphet.Day5_Q10_MM_NoBell.Description} 铃丢了；我无法召来鼠先知。

@@ -1,3 +1,0 @@
-{Items.Weapons.Rifle.Name} 步枪
-{Items.Weapons.Rifle.Description} 它的创造者是省城工程师列夫·伊什特万。这支步枪让他成名，并被正规军采用。如今在草原边缘的偏僻小镇也能轻易弄到它，这正是内战的回声。
-{Items.Weapons.Rifle.Description2} 它的创造者是省城工程师列夫·伊什特万。这支步枪让他成名，并被正规军采用。如今在草原边缘的偏僻小镇也能轻易弄到它，这正是内战的回声。

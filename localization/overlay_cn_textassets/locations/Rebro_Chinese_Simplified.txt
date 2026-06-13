@@ -1,2 +1,0 @@
-﻿{Locations.Rebro.Name} 肋区
-{Locations.Rebro.Description} 肋区

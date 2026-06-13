@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_PolyhedronCausedThePlague.Name} 疫源真因
-{Minds2.Days.KeyNodes.KeyNode_PolyhedronCausedThePlague.Description} 多面体原来是一根把地下染病有机物吸抽上来的杠杆。

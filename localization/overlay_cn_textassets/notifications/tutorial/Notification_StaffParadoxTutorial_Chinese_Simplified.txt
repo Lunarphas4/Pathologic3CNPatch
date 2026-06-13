@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_StaffParadoxTutorial.Name} 悖论
-{Notifications.Tutorial.Notification_StaffParadoxTutorial.Description} 眼下的政令配置无法落实：靠前的政令把资源耗光，靠后的便无资源可用。我的决定需要重新斟酌。

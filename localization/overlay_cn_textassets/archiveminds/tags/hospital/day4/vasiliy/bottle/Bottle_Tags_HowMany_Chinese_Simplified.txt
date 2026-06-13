@@ -1,2 +1,0 @@
-{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.Bottle.Bottle_Tags_HowMany.Name} ⁠
-{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.Bottle.Bottle_Tags_HowMany.Description} 他喝了多少？

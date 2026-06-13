@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q6_Aglaya.Day6_Q6_MM_Inquisitor.Name} 阴影压境
-{Minds2.Days.Day6.Day6_Q6_Aglaya.Day6_Q6_MM_Inquisitor.Description} 维克多警告我提防当权者的代表。对全镇与对我而言，明日来人都是不祥之兆。

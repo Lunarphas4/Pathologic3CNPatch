@@ -1,4 +1,0 @@
-{Clouds2.Characters.Inspector.57075} 无论我站在哪里，他的眼睛都跟着我
-{Clouds2.Characters.Inspector.27818} 无论我站在哪里，他的眼睛都跟着我
-{Clouds2.Characters.Inspector.5374} 就像那些画像一样
-{Clouds2.Characters.Inspector.19757} 害虫

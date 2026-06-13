@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q2_GrifDeath.Day5_Q2_MM_Plate.Name} 可耻标记
-{Minds2.Days.Day5.Day5_Q2_GrifDeath.Day5_Q2_MM_Plate.Description} 我听到过关于格里夫的诽谤传闻。但他会是杀害西蒙的凶手吗？！我必须检查尸体寻找线索。

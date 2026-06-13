@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q10_GriefStealsRations.Day9_Q10_MM_Compensation.Name} 补偿
-{Minds2.Days.Day9.Day9_Q10_GriefStealsRations.Day9_Q10_MM_Compensation.Description} 我下令额外补给一批粮食给军队。

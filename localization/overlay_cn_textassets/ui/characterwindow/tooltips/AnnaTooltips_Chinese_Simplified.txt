@@ -1,4 +1,0 @@
-﻿{UI.CharacterWindow.Tooltips.AnnaTooltips.Intro} 来自一支被烧毁商队的女演员
-{UI.CharacterWindow.Tooltips.AnnaTooltips.Innocent} 第8天，有人借她的名义企图杀死来访的学士
-{UI.CharacterWindow.Tooltips.AnnaTooltips.Guilty} 第8天，企图杀死来访的学士
-{UI.CharacterWindow.Tooltips.AnnaTooltips.NoRegrets} 第12天，毫无悔意

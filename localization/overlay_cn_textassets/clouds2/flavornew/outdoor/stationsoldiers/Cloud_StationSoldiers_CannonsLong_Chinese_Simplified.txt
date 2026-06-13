@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_CannonsLong.44925} 这种火炮能打几十公里
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_CannonsLong.10340} 这种火炮能打几十公里
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_CannonsLong.56689} 把它们架在城边，只是为了威慑
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_CannonsLong.61752} 而城镇在恐惧中僵住了

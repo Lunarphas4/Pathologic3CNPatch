@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_MM_NewFates.Name} 新的篇章
-{Minds2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_MM_NewFates.Description} 还有些人的命运，我未曾得知。

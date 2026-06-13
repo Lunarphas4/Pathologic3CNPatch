@@ -1,3 +1,0 @@
-﻿{Items.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_WickedOldHouse_KeySecondFloor.Name} 绞肉机钥匙
-{Items.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_WickedOldHouse_KeySecondFloor.Description} 二楼钥匙。希望如此。
-{Items.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_WickedOldHouse_KeySecondFloor.Description2} 钥匙？看起来更像撬锁工具。

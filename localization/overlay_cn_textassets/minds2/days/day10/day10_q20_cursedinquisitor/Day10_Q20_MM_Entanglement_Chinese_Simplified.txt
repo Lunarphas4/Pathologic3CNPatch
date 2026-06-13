@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_MM_Entanglement.Name} 纠缠
-{Minds2.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_MM_Entanglement.Description} 可是阿格拉娅难道不是从一开始就在这镇上……该死。

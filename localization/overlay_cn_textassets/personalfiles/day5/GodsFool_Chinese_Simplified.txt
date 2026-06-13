@@ -1,2 +1,0 @@
-{PersonalFiles.Day5.GodsFool.Name} 博博克
-{PersonalFiles.Day5.GodsFool.Description} 住在垃圾场，偷偷溜进过受感染的房子。

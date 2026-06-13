@@ -1,2 +1,0 @@
-{Symptoms.Asfiksiya.Name} 呼吸困难
-{Symptoms.Asfiksiya.Description} 呼吸受阻或通气不足，可见于肺部或循环系统受损。

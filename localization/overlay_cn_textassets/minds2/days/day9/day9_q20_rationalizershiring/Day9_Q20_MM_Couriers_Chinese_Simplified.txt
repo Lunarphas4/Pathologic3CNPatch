@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q20_RationalizersHiring.Day9_Q20_MM_Couriers.Name} 年轻的帮手
-{Minds2.Days.Day9.Day9_Q20_RationalizersHiring.Day9_Q20_MM_Couriers.Description} 市政厅的信差们也决定相助——从今日起（早一日不行），他们愿意把政令一路送到流动实验室来。

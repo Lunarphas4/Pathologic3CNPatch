@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_MM_Report.Name} 报告
-{Minds2.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_MM_Report.Description} 档案到手，老奥尔金斯基也已暴露——我可以问心无愧地去见卡明斯基。

@@ -1,3 +1,0 @@
-{Npcs.Quests.Shadow_Nina.Name} 翱翔之影
-{Npcs.Quests.Shadow_Nina.FullName} ⁠
-{Npcs.Quests.Shadow_Nina.Description} ⁠

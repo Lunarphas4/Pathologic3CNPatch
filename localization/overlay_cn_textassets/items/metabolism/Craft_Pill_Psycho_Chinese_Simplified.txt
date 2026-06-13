@@ -1,3 +1,0 @@
-{Items.Metabolism.Craft_Pill_Psycho.Name} 临时抗压药片
-{Items.Metabolism.Craft_Pill_Psycho.Description} 这是什么？不知道。怎么起效？没头绪。它要么让我镇静，要么要了我的命。说实话，到这一步我已经不太在乎了。
-{Items.Metabolism.Craft_Pill_Psycho.Description2} ⁠

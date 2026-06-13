@@ -1,8 +1,0 @@
-﻿{UI.InteractObjects.InteractObjectHeaders.StaffTable} 审阅法令
-{UI.InteractObjects.InteractObjectHeaders.TimeTravelClock} 回溯过往
-{UI.InteractObjects.InteractObjectHeaders.Craft} 调配药剂
-{UI.InteractObjects.InteractObjectHeaders.Analyser} 分析物品
-{UI.InteractObjects.InteractObjectHeaders.SprayWeaponCharger} 充能原型器具
-{UI.InteractObjects.InteractObjectHeaders.SprayWeaponBulletGenerator} 准备充能
-{UI.InteractObjects.InteractObjectHeaders.Clock} 时钟
-{UI.InteractObjects.InteractObjectHeaders.DontBreak} 它们不会碎

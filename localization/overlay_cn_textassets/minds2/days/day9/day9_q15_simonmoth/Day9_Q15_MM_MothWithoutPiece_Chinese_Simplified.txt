@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_MothWithoutPiece.Name} 西蒙的造物
-{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_MothWithoutPiece.Description} 那是一只蛾。而且——少了一块。

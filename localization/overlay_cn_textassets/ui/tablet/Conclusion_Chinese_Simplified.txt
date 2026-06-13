@@ -1,3 +1,0 @@
-{UI.Tablet.Conclusion.Reset} 重置
-{UI.Tablet.Conclusion.Correct} 治疗起效了，病人逐渐康复。
-{UI.Tablet.Conclusion.NotCorrect} 治疗失败了，病人已去世。

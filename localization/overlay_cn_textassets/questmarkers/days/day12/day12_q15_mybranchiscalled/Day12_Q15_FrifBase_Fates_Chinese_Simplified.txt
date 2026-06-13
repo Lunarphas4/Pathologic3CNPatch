@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_FrifBase_Fates.Name} 格里夫的老巢
-{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_FrifBase_Fates.Description} 格里夫的老巢还有一些我尚未得知的命运。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q12_RotSiege.Day7_Q12_MM_AlexanderIsDead.Name} 枪声
-{Minds2.Days.Day7.Day7_Q12_RotSiege.Day7_Q12_MM_AlexanderIsDead.Description} 萨布罗夫自尽了。在一连串厄运之后，妻子的死终于把他压垮。

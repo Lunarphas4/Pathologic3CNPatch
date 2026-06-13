@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_5.Day9_Q12_5_MM_Haruspex.Name} 血之专家
-{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_5.Day9_Q12_5_MM_Haruspex.Description} 我需要就本地仪轨向布拉赫请教。

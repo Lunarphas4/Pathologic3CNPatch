@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_Cancel.Name} 撤回
-{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_Cancel.Description} 然而我还是需要这头公牛！若我早一天向伊娃多说一句，她便不会放它"散步"。

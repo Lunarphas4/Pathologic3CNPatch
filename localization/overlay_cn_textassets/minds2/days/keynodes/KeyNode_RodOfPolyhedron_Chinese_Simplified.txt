@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_RodOfPolyhedron.Name} 多面体不会倒
-{Minds2.Days.KeyNodes.KeyNode_RodOfPolyhedron.Description} 多面体的钢柱深入地下，没有人曾抵达过那样的深度。

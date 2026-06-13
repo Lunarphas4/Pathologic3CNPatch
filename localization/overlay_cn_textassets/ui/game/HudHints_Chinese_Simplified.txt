@@ -1,2 +1,0 @@
-{UI.Game.HudHints.Mania} 躁狂
-{UI.Game.HudHints.Apathy} 冷漠

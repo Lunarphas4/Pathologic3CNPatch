@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_Inspection.Name} 检查结果
-{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_Inspection.Description} 先把发现的症状录入病例本，再向病人详加询问。

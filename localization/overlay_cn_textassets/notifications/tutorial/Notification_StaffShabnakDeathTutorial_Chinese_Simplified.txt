@@ -1,2 +1,0 @@
-{Notifications.Tutorial.Notification_StaffShabnakDeathTutorial.Name} 后果
-{Notifications.Tutorial.Notification_StaffShabnakDeathTutorial.Description} 我摧毁了一处感染源，瘟疫便退了一些。打Shabnak（泥魔女）是政令之外的良策。

@@ -1,8 +1,0 @@
-{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_EmptyQuarter.Prologue_Tragedians_Empty.12207} 大人！能在这儿碰见您真好。您是\n迷路了么？医院那边\n正等着您呢。
-{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_EmptyQuarter.Prologue_Tragedians_Empty.20201} 我就在镇里转转。这个街区的风景很美。
-{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_EmptyQuarter.Prologue_Tragedians_Empty.14469} 求您发发慈悲吧，大人。\n您还有重任在身，却总惦记着那些粗鄙之物——子弹、药丸、混合物。\n\n这些空屋的柜子我们早搜遍了，连垃圾箱都倒空了。\n献上这些搜刮来的物资，正是为了让您能专心处理要务。
-{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_EmptyQuarter.Prologue_Tragedians_Empty.13017} 真贴心！看到镇民做了自己该做的事可真好。
-{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_EmptyQuarter.Prologue_Tragedians_Empty.31657} 我不需要你的贡品。我是个正直的医生，不收贿赂。
-{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_EmptyQuarter.Prologue_Tragedians_Empty.25587} 你说得对，我确实该回医院了。还有工作等着。
-{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_EmptyQuarter.Prologue_Tragedians_Empty.24022} 我原以为这儿有人在等我。当然不是你，是某个……有意思的人。
-{Prologue.Dialogs.Prologue_PartTwo_Hospital.Prologue_EmptyQuarter.Prologue_Tragedians_Empty.19013} 我没迷路。这街区最有希望找到我常用的药材。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q7_BrotherForBrother.Day8_Q7_MM_Rod.Name} 大地之伤
-{Minds2.Days.Day8.Day8_Q7_BrotherForBrother.Day8_Q7_MM_Rod.Description} 多面体之所以惊人地稳定——靠的是一根贯入地下数百米的金属铁柱。

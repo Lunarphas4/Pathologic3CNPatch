@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Old.Day5_Q4_AndreyDeath.Day5_Q4_Pub.Name} 碎心人酒馆
-{QuestMarkers.Old.Day5_Q4_AndreyDeath.Day5_Q4_Pub.Description} 我得去看看安德烈·斯塔马京。

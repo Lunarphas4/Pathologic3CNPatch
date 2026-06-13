@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_BachelorToolTutorial.Name} 原型器具
-{Notifications.Tutorial.Notification_BachelorToolTutorial.Description} 按住 <InputActions/Weapon/Shoot> 蓄力。摆锤停下时松开。

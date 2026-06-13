@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_PeterIsDead2.Name} 毁圮的台阶
-{Minds2.Days.KeyNodes.KeyNode_PeterIsDead2.Description} 彼得·斯塔马京死了。

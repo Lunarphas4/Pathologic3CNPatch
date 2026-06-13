@@ -1,2 +1,0 @@
-{Prologue.Notifications.Hints.Notification_Hint_RevolverEquip.Name} ⁠
-{Prologue.Notifications.Hints.Notification_Hint_RevolverEquip.Description} 没有威胁，绝不拔枪

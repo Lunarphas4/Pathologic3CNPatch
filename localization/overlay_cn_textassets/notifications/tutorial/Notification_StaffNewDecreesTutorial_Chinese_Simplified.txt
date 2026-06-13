@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_StaffNewDecreesTutorial.Name} 寻
-{Notifications.Tutorial.Notification_StaffNewDecreesTutorial.Description} 替本地人办成事，便会涌现出新的政令构想。

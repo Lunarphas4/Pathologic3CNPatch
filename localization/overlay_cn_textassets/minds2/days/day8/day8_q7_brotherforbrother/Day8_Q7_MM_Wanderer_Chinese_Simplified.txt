@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q7_BrotherForBrother.Day8_Q7_MM_Wanderer.Name} 漫游者
-{Minds2.Days.Day8.Day8_Q7_BrotherForBrother.Day8_Q7_MM_Wanderer.Description} 彼得又不在墓园！只剩最后一个地方可以查……不然他就要漫无目的地走开了。

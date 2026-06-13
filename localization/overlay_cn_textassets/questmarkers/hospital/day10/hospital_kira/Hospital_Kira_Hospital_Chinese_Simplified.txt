@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Hospital.Day10.Hospital_Kira.Hospital_Kira_Hospital.Name} 医院
-{QuestMarkers.Hospital.Day10.Hospital_Kira.Hospital_Kira_Hospital.Description} 又来了一位病人。晚到——总比无法配出疫苗好。

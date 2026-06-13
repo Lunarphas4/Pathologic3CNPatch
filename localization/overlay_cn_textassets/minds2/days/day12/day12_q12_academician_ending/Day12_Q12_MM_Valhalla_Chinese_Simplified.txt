@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_MM_Valhalla.Name} 战死
-{Minds2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_MM_Valhalla.Description} 雅科夫·利特尔与我所做的发现，将把流行病学推上不可思议的高度。世人不会忘记他！

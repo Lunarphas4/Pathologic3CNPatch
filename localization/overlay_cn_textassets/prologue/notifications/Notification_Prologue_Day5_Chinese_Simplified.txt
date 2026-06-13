@@ -1,2 +1,0 @@
-{Prologue.Notifications.Notification_Prologue_Day5.Name} 第五天，
-{Prologue.Notifications.Notification_Prologue_Day5.Description} 学者煽动民心又不得不将其平息

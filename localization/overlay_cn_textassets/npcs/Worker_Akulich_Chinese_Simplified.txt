@@ -1,3 +1,0 @@
-{Npcs.Worker_Akulich.Name} 工厂工人
-{Npcs.Worker_Akulich.FullName} ⁠
-{Npcs.Worker_Akulich.Description} ⁠

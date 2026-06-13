@@ -1,2 +1,0 @@
-{Symptoms.ZalojennieUshi.Name} 耳闷
-{Symptoms.ZalojennieUshi.Description} 耳内阻塞或压迫感，可能伴随听力下降。

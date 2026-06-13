@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_MM_FireTheater.Name} 布雷
-{Minds2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_MM_FireTheater.Description} 他们在医院阳台上找到了爆竹——据说还剩很多。

@@ -1,4 +1,0 @@
-{Clouds.Flavor.Cloud_RegionMost_StatueKain.17796} 格奥尔基·凯恩创作的雕塑。
-{Clouds.Flavor.Cloud_RegionMost_StatueKain.11185} 格奥尔基·凯恩创作的雕塑。
-{Clouds.Flavor.Cloud_RegionMost_StatueKain.12104} 自由。
-{Clouds.Flavor.Cloud_RegionMost_StatueKain.11103} 痛苦。

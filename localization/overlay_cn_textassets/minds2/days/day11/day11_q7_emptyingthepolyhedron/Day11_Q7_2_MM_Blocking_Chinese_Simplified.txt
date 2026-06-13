@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_2_MM_Blocking.Name} 不
-{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_2_MM_Blocking.Description} 布洛克帮不上忙。

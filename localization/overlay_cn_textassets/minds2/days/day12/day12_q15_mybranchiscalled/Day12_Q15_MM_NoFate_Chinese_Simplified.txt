@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_MM_NoFate.Name} 命数群星
-{Minds2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_MM_NoFate.Description} 我与他们一一作了告别。

@@ -1,5 +1,0 @@
-{Clouds.Old.Visitors.Old.Arina.Cloud_D10_V1_Door.3869} 家里没人，门却没锁。
-{Clouds.Old.Visitors.Old.Arina.Cloud_D10_V1_Door.20384} 家里没人，门却没锁。
-{Clouds.Old.Visitors.Old.Arina.Cloud_D10_V1_Door.13919} 人们四散奔逃。
-{Clouds.Old.Visitors.Old.Arina.Cloud_D10_V1_Door.30049} 房子空了，主人带走了家当。
-{Clouds.Old.Visitors.Old.Arina.Cloud_D10_V1_Door.30016} 愿他们在新地方好运。

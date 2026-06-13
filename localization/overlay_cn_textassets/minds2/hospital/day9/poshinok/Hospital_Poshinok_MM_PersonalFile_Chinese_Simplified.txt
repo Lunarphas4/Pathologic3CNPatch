@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day9.Poshinok.Hospital_Poshinok_MM_PersonalFile.Name} 与其说是病人，不如说是请愿者
-{Minds2.Hospital.Day9.Poshinok.Hospital_Poshinok_MM_PersonalFile.Description} 拼布没染瘟疫，但他要求医院给他签几份文件。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_MM_SimonsForesight.Name} 奇迹般的远见
-{Minds2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_MM_SimonsForesight.Description} 西蒙的事迹固已伟大——但他悄无声息为这镇挡掉的祸事更多，从不索回报。如今这镇只能各自为战了。

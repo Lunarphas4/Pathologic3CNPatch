@@ -1,3 +1,0 @@
-{Npcs.Elizabeth.Name} 访客海鸦
-{Npcs.Elizabeth.FullName} ⁠
-{Npcs.Elizabeth.Description} ⁠

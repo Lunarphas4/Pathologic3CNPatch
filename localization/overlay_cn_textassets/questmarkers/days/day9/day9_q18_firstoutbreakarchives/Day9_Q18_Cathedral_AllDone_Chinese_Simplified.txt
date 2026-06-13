@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_Cathedral_AllDone.Name} 大教堂
-{QuestMarkers.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_Cathedral_AllDone.Description} 伊西多尔的档案已到手，奥尔金斯基家的事也澄清了——我可以去拜见审判官了。

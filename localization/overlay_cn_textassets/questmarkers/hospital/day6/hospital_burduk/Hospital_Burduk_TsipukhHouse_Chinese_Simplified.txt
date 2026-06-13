@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_TsipukhHouse.Name} 麻脸的宅子
-{QuestMarkers.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_TsipukhHouse.Description} 牛蒡曾打算劫他。他会不会就是那时染上的病？

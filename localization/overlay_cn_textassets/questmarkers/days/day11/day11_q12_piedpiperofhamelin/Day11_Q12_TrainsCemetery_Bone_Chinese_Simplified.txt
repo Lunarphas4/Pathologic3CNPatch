@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_TrainsCemetery_Bone.Name} 火车坟场
-{QuestMarkers.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_TrainsCemetery_Bone.Description} 那些扭曲的车厢之间，能找到人骨。

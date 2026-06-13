@@ -1,5 +1,0 @@
-{Clouds2.Hospital.Day6.Hospital_Voronok.Hospital_Voronok_Cloud_PeelingSkin.3560} 严重脱皮
-{Clouds2.Hospital.Day6.Hospital_Voronok.Hospital_Voronok_Cloud_PeelingSkin.37589} 严重脱皮
-{Clouds2.Hospital.Day6.Hospital_Voronok.Hospital_Voronok_Cloud_PeelingSkin.23269} 慢性的，还是刚出现？
-{Clouds2.Hospital.Day6.Hospital_Voronok.Hospital_Voronok_Cloud_PeelingSkin.58843} 他说是慢性的
-{Clouds2.Hospital.Day6.Hospital_Voronok.Hospital_Voronok_Cloud_PeelingSkin.26331} 妻子死后无人照料，恶化了

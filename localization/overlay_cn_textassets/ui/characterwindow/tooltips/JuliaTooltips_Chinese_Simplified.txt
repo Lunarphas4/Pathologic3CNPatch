@@ -1,8 +1,0 @@
-﻿{UI.CharacterWindow.Tooltips.JuliaTooltips.Intro} 小镇道路的总工程师，梦境营造师之一
-{UI.CharacterWindow.Tooltips.JuliaTooltips.Street} 疫情爆发前不久，创造了一条会令人发疯的可怕街道
-{UI.CharacterWindow.Tooltips.JuliaTooltips.Exile} 第3天，凯恩家毫无解释地流放了她
-{UI.CharacterWindow.Tooltips.JuliaTooltips.Execution} 第7天，由于她的失败，审判官剥夺了维克多·凯恩的心智
-{UI.CharacterWindow.Tooltips.JuliaTooltips.Street2} 第8天，亲自走过自己的街道，确认它已经坏掉
-{UI.CharacterWindow.Tooltips.JuliaTooltips.Capital} 第9天，我说服她一有机会就随我去首都
-{UI.CharacterWindow.Tooltips.JuliaTooltips.Underground} 第12天，尤利娅算出小镇若无牺牲便无法获救
-{UI.CharacterWindow.Tooltips.JuliaTooltips.SadFinal} 第12天后，尤利娅寻求死亡或疯狂

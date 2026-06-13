@@ -1,4 +1,0 @@
-{ArchiveDialogs.Test.Stash_Day5_KozevenniyStash_BullRock.6357} 哎哟……我的头……像钟一样在响……
-{ArchiveDialogs.Test.Stash_Day5_KozevenniyStash_BullRock.21613} 回家去。你住哪儿？
-{ArchiveDialogs.Test.Stash_Day5_KozevenniyStash_BullRock.8900} 你知道他们烧死那个女人的地方吗？在剥皮场的骨桩地。住在那里的人总会把东西藏在牛形石头后面……我就住那儿。
-{ArchiveDialogs.Test.Stash_Day5_KozevenniyStash_BullRock.18677} 我去看看那些石头，也许还剩点什么。

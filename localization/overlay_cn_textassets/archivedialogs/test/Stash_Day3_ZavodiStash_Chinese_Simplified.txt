@@ -1,8 +1,0 @@
-{ArchiveDialogs.Test.Stash_Day3_ZavodiStash.23977} 丹尼尔·丹科夫斯基！请允许我同您握手！我是您杰出工作的仰慕者！
-{ArchiveDialogs.Test.Stash_Day3_ZavodiStash.29984} 谢谢。抱歉，我必须走了，我赶时间……
-{ArchiveDialogs.Test.Stash_Day3_ZavodiStash.30750} 等等！我想帮忙！我听说医院快没药了。我知道一个地方，你比我更需要它……
-{ArchiveDialogs.Test.Stash_Day3_ZavodiStash.12839} 哪里？
-{ArchiveDialogs.Test.Stash_Day3_ZavodiStash.2984} 在工厂。往西，铁路通向仓库的地方，围栏上有个洞。洞后面有棵树。两栋工厂楼之间有条过道——从下面穿过去。
-{ArchiveDialogs.Test.Stash_Day3_ZavodiStash.29756} 附近是不是有个烧垃圾的桶？
-{ArchiveDialogs.Test.Stash_Day3_ZavodiStash.9764} 对，有。你穿过那条过道后，往右，朝围栏走。然后再右转。我把酒馆里弄来的桶藏在灌木后的角落。你需要的东西都在那儿。
-{ArchiveDialogs.Test.Stash_Day3_ZavodiStash.11813} 从西边开始？我去看看。

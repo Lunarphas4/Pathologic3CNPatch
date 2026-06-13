@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day8.Day8_Q7_BrotherForBrother.Day8_Q7_RavenRock.Name} 鸦石
-{QuestMarkers.Days.Day8.Day8_Q7_BrotherForBrother.Day8_Q7_RavenRock.Description} 我在牧场——那块乌鸦形的大石旁——见过彼得留下的痕迹。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_OrdinaryStreet.Name} 平庸
-{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_OrdinaryStreet.Description} 我至少得亲眼看看这件不可思议的"城市发明"。

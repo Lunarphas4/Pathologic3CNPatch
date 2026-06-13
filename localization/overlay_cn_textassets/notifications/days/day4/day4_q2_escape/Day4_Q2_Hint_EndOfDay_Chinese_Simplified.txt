@@ -1,2 +1,0 @@
-﻿{Notifications.Days.Day4.Day4_Q2_Escape.Day4_Q2_Hint_EndOfDay.Name} 再无别事
-{Notifications.Days.Day4.Day4_Q2_Escape.Day4_Q2_Hint_EndOfDay.Description} 过去并未改变。学者曾试图逃出这镇。巡查队抓住了他。他将在牢里过夜。

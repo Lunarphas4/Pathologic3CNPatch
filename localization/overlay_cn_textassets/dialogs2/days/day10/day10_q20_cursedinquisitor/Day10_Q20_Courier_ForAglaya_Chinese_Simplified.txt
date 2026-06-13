@@ -1,4 +1,0 @@
-{Dialogs2.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_Courier_ForAglaya.45172} 日安，医生。我奉命护送您去大教堂。
-{Dialogs2.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_Courier_ForAglaya.26410} 让我猜猜——卡尔明斯基又想见我？
-{Dialogs2.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_Courier_ForAglaya.32168} 看来“护送”这个词意味着我没有选择？
-{Dialogs2.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_Courier_ForAglaya.16887} 带路。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q3_OdongRevenge.Day4_Q3_MM_Shovel.Name} 铲子
-{Minds2.Days.Day4.Day4_Q3_OdongRevenge.Day4_Q3_MM_Shovel.Description} 我得找把铁锹。在这里上哪儿弄一把？我总不能赤手空拳挖土。

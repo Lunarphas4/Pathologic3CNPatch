@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q10_Switchman.Day7_Q10_MM_Dead.Name} 死亡
-{Minds2.Days.Day7.Day7_Q10_Switchman.Day7_Q10_MM_Dead.Description} 即使我留下不走，也不能给人虚假的希望。

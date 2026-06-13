@@ -1,4 +1,0 @@
-{Clouds.Metabolism.Apathy.RegionJilniki.Cloud_RegionJilniki_RubblePile.9395} 碎石和垃圾。
-{Clouds.Metabolism.Apathy.RegionJilniki.Cloud_RegionJilniki_RubblePile.40075} 碎石和垃圾。
-{Clouds.Metabolism.Apathy.RegionJilniki.Cloud_RegionJilniki_RubblePile.32214} 这座城就是个猪圈。
-{Clouds.Metabolism.Apathy.RegionJilniki.Cloud_RegionJilniki_RubblePile.15270} 他们不配得救。

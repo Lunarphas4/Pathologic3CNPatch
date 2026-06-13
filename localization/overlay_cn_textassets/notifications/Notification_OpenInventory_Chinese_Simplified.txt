@@ -1,2 +1,0 @@
-{Notifications.Notification_OpenInventory.Name} ⁠
-{Notifications.Notification_OpenInventory.Description} 按<InputActions/UI/Inventory> 打开背包

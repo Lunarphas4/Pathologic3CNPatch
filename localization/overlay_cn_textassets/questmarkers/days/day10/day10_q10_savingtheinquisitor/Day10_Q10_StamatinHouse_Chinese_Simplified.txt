@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_StamatinHouse.Name} 斯特马汀的公寓
-{QuestMarkers.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_StamatinHouse.Description} 审判官把斯塔马京软禁在家。斯塔马京已不是他自己。

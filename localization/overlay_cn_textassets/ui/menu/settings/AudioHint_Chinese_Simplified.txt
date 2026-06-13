@@ -1,4 +1,0 @@
-{UI.Menu.Settings.AudioHint.MasterVolume} 控制主音量
-{UI.Menu.Settings.AudioHint.VoiceVolume} 控制画外音音量
-{UI.Menu.Settings.AudioHint.EffectsVolume} 控制音效音量
-{UI.Menu.Settings.AudioHint.MusicVolume} 控制音乐音量

@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_ToTheHospital.Name} 物证采集完毕
-{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_ToTheHospital.Description} 夜莺家中已查得里里外外。该回去和她把细节核清。

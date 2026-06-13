@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day6.Day6_Q2_Kidnapping.Day6_Q2_BrokenHeart.Name} 碎心人酒馆
-{QuestMarkers.Days.Day6.Day6_Q2_Kidnapping.Day6_Q2_BrokenHeart.Description} 安娜把绑来的孩子也带到酒馆里了？

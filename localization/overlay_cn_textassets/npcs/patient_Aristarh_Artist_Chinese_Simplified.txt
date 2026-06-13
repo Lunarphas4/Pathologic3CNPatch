@@ -1,3 +1,0 @@
-{Npcs.patient_Aristarh_Artist.Name} 天才
-{Npcs.patient_Aristarh_Artist.FullName} ⁠
-{Npcs.patient_Aristarh_Artist.Description} ⁠

@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_Warehouses.Name} 仓库
-{QuestMarkers.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_Warehouses.Description} 一魂半族偷走了狗头帮的"脸"，藏在仓库外某处。

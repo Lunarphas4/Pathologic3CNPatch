@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day7.Day7_Q12_RotSiege.Day7_Q12_Rot_Escape.Name} 权杖宅
-{QuestMarkers.Days.Day7.Day7_Q12_RotSiege.Day7_Q12_Rot_Escape.Description} 卫兵只听亚历山大·萨布罗夫的命令。

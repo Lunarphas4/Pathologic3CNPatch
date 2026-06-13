@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_MM_NothingSpecial.Name} 平淡无奇
-{Minds2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_MM_NothingSpecial.Description} 孩子们不让任何人进入多面体——我所见已超出本应允许的范围。可为何，我心里有这般诡异的空落？

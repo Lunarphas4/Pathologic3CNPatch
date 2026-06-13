@@ -1,8 +1,0 @@
-{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day3_V3_Stepan_Decision.30897} 那么，学士先生，会帮我料理花园吗？
-{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day3_V3_Stepan_Decision.9707} 我有几种帮法，一种比一种好看……
-{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day3_V3_Stepan_Decision.9796} 真有意思！
-{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day3_V3_Stepan_Decision.14677} 我们找到了愿意替你守花园的人。认识一下——图皮克，刚才还在附近。他夜里不一定要睡觉，所以能用半份工钱替你看着草药。
-{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day3_V3_Stepan_Decision.24249} 我们不会给你调巡逻队员。不过可以给你补充口粮：每天一把咖啡和一颗异国蔬菜——柠檬。睡意会一扫而空！
-{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day3_V3_Stepan_Decision.2293} 我想了想，明白这些药草对我们很有用。我们会派人把它们割下来，归城市使用。会给你补偿。不讨论。
-{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day3_V3_Stepan_Decision.16930} 不行。疫情期间，不是管花的时候。
-{ArchiveDialogs.NewArchive.Day3_Visitors.Stepan.Day3_V3_Stepan_Decision.28764} 我正在设法处理你这个离医学很远的问题。请等着。

@@ -1,4 +1,0 @@
-{ArchiveDialogs.Day4.Day4_Q4_CathedralInspection.Day4_Q4_EvaAboutCathedral.15593} 你知道我们的教堂是谁建的吗？
-{ArchiveDialogs.Day4.Day4_Q4_CathedralInspection.Day4_Q4_EvaAboutCathedral.9590} 不知道。
-{ArchiveDialogs.Day4.Day4_Q4_CathedralInspection.Day4_Q4_EvaAboutCathedral.469} 是一个叫法尔哈德的人。斯塔马京兄弟认识他。
-{ArchiveDialogs.Day4.Day4_Q4_CathedralInspection.Day4_Q4_EvaAboutCathedral.32609} 好吧，你这么说就算。

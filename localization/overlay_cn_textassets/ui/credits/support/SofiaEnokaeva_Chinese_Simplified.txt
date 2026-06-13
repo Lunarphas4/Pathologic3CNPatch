@@ -1,2 +1,0 @@
-{UI.Credits.Support.SofiaEnokaeva.Name} Sofia Enokaeva
-{UI.Credits.Support.SofiaEnokaeva.Description} 法律顾问

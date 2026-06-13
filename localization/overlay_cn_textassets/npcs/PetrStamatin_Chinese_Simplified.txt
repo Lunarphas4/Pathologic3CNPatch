@@ -1,3 +1,0 @@
-﻿{Npcs.PetrStamatin.Name} 彼得·斯塔马京
-{Npcs.PetrStamatin.FullName} 冷漠建筑师
-{Npcs.PetrStamatin.Description} 我们在帝都有过短暂的相识。彼得从来不算机敏，但也从未像如今这般失神。\n正是在这镇上，他建起了多面体——随即开始酗酒，无法承受自家杰作之美，也无法承受"此生再不能造出更好之物"的念头。\n看来——多面体真是一件无可匹敌的成就。

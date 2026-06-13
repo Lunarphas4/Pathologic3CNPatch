@@ -1,2 +1,0 @@
-{UI.Credits.Art.StepanMatrosov.Name} Stepan Matrosov
-{UI.Credits.Art.StepanMatrosov.Description} Environment 3D 美术

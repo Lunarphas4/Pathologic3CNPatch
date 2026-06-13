@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_MM_Mirrors.Name} 镜
-{Minds2.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_MM_Mirrors.Description} 预言梦是胡言烂语！可她偏要从中抽出杀卡明斯基之法，并且日后付诸实行。

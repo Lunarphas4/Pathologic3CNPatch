@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_Polyhedron_Kids.Name} 多面体
-{QuestMarkers.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_Polyhedron_Kids.Description} 士兵们随时等命撤空多面体。孩子们正在给步枪上膛。

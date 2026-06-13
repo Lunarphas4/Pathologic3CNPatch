@@ -1,2 +1,0 @@
-﻿{ArchiveMinds.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MM_VisitIsidor.Name} 西蒙的遗体现在可能正在医生伊西多尔的宅子里接受尸检。\n那具失踪遗体的尸检可能正在医生家里进行。
-{ArchiveMinds.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MM_VisitIsidor.Description} 我得去检查镇上唯一一位医生的宅子。西蒙遗体的尸检也许正在那里进行。

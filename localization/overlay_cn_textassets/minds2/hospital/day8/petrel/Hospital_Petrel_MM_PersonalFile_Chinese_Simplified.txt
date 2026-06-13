@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day8.Petrel.Hospital_Petrel_MM_PersonalFile.Name} 几乎不识自己的人
-{Minds2.Hospital.Day8.Petrel.Hospital_Petrel_MM_PersonalFile.Description} 海燕是在大教堂附近被发现的。他费力地回答勤杂工的问题。

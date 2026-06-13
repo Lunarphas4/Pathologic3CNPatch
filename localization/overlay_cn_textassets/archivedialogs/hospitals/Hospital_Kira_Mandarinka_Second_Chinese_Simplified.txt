@@ -1,8 +1,0 @@
-{ArchiveDialogs.Hospitals.Hospital_Kira_Mandarinka_Second.23452} 我们来玩医院好吗？先说好，我当最重要的医生。您当病人。一定很好玩！总不能每次都是萨夫卡当医生。
-{ArchiveDialogs.Hospitals.Hospital_Kira_Mandarinka_Second.23946} 我自己都快分不清，我到底是医生还是病人了。
-{ArchiveDialogs.Hospitals.Hospital_Kira_Mandarinka_Second.28898} 怎么会这样？把额头伸过来，我把这块小石头贴上去，要是变热了，就说明您病了。至于怎么判断您是不是医生……大概要去问萨夫卡。
-{ArchiveDialogs.Hospitals.Hospital_Kira_Mandarinka_Second.6666} 还是先告诉我一件事：基拉房间的地板上有些痕迹。那和你告诉我的秘密有关吗？
-{ArchiveDialogs.Hospitals.Hospital_Kira_Mandarinka_Second.25622} 对，就是他们一开始吵架，后来有什么东西砰的一声掉下来，又滚走了。然后斯塔霍维亚克叔叔气冲冲地出来，还把门摔得很响。可吓人了！有人弄掉了东西，怎么能气成那样呢？
-{ArchiveDialogs.Hospitals.Hospital_Kira_Mandarinka_Second.18093} 还得继续工作。暂时别离开屋子。
-{ArchiveDialogs.Hospitals.Hospital_Kira_Mandarinka_Second.23943} 小橘子，做最重要的医生，意思是每天都要看见疼痛、苦难、血、粪便和呕吐物。还得把人看成一袋袋器官，这样自己才不会发疯。你确定想当？
-{ArchiveDialogs.Hospitals.Hospital_Kira_Mandarinka_Second.4120} 呸！您都是骗人的，萨夫卡那里才没有这些。您只是怕我比您干得好，对吧？怕了吧怕了吧！这么大的人了，还害怕！

@@ -1,3 +1,0 @@
-﻿{Items.Metabolism.Meradorm.Name} 梅拉多姆
-{Items.Metabolism.Meradorm.Description} 强效安眠药，旨在让人在睡眠中疗愈痛苦。外科医生和酒鬼最好的朋友，小剂量服用可消除手抖。
-{Items.Metabolism.Meradorm.Description2} 强效安眠药，旨在让人在睡眠中疗愈痛苦。外科医生和酒鬼最好的朋友，小剂量服用可消除手抖。

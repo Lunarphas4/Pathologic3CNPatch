@@ -1,3 +1,0 @@
-﻿{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_BloodSamplesYulia_Analyser.Name} 数瓶血液（已检查）
-{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_BloodSamplesYulia_Analyser.Description} 尤利娅的血适合输血！
-{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_BloodSamplesYulia_Analyser.Description2} 尤利娅的血适合输血！萨布罗夫的人会邀请她来供血。

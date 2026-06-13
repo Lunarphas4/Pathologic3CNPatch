@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_MM_Mistake.Name} 司法之误
-{Minds2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_MM_Mistake.Description} 裁判正遭私刑威胁！我本可在清晨拦下他——或者，本可平息那群人的怒火？

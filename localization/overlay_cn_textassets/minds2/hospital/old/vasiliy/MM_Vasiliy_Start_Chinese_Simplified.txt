@@ -1,2 +1,0 @@
-{Minds2.Hospital.Old.Vasiliy.MM_Vasiliy_Start.Name} 病人菲拉特
-{Minds2.Hospital.Old.Vasiliy.MM_Vasiliy_Start.Description} 先检查病人菲拉特的情况。

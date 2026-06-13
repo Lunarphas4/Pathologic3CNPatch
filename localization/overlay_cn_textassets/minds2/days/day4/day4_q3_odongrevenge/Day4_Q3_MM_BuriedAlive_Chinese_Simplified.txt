@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q3_OdongRevenge.Day4_Q3_MM_BuriedAlive.Name} 格蕾丝的幻象
-{Minds2.Days.Day4.Day4_Q3_OdongRevenge.Day4_Q3_MM_BuriedAlive.Description} 格蕾丝说，她能感觉到此刻有人正被活埋在墓园中。

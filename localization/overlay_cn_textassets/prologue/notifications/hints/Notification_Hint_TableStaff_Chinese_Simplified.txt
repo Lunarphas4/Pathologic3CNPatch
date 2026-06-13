@@ -1,2 +1,0 @@
-{Prologue.Notifications.Hints.Notification_Hint_TableStaff.Name} 应急指挥台
-{Prologue.Notifications.Hints.Notification_Hint_TableStaff.Description} 应急指挥台设在二楼

@@ -1,4 +1,0 @@
-{Clouds.Flavor.Cloud_Slough_Small_Clock.17796} 和首都有三小时时差。
-{Clouds.Flavor.Cloud_Slough_Small_Clock.11185} 和首都有三小时时差。
-{Clouds.Flavor.Cloud_Slough_Small_Clock.12104} 也就是说，是同一个钟表匠。
-{Clouds.Flavor.Cloud_Slough_Small_Clock.11103} 这座城里所有钟都有同样的时间误差。

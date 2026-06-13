@@ -1,2 +1,0 @@
-{UI.Credits.Art.IvanLozinskiy.Name} Ivan Lozinskiy
-{UI.Credits.Art.IvanLozinskiy.Description} Environment 3D 美术

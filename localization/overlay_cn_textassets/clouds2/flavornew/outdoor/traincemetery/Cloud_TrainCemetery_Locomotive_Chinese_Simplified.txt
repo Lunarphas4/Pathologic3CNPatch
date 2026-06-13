@@ -1,3 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_Locomotive.44925} 下一班去首都的车什么时候开？
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_Locomotive.10340} 下一班去首都的车什么时候开？
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_Locomotive.61752} 没有心脏，列车也会死

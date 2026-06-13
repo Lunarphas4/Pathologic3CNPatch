@@ -1,2 +1,0 @@
-{UI.Credits.HypeTrain.Localization.YuriBeira.YuriBeira} Yuri "Nagryn" Beira
-{UI.Credits.HypeTrain.Localization.YuriBeira.InterpreterRodent} Interpreter of Rodent Prophecies

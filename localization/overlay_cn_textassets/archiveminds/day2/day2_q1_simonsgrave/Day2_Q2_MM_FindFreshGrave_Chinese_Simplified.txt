@@ -1,2 +1,0 @@
-﻿{ArchiveMinds.Day2.Day2_Q1_SimonsGrave.Day2_Q2_MM_FindFreshGrave.Name} 有传言说，西蒙的遗体被埋在墓园里一座新坟中。
-{ArchiveMinds.Day2.Day2_Q1_SimonsGrave.Day2_Q2_MM_FindFreshGrave.Description} 有那几个惊恐男人提供的线索，我会试着在墓园里找出最新的坟墓。若以为这么容易就能找到西蒙，那未免天真，但值得查证。

@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day10.Day10_Q18_CowardAndMurderer.Day10_Q18_Castle.Name} 一魂半族要塞
-{QuestMarkers.Days.Day10.Day10_Q18_CowardAndMurderer.Day10_Q18_Castle.Description} 可汗除了从敌方老巢逃出，还能从哪里逃出？

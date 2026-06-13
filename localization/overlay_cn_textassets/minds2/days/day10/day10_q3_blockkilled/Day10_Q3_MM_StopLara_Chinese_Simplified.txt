@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q3_BlockKilled.Day10_Q3_MM_StopLara.Name} 谁之过？
-{Minds2.Days.Day10.Day10_Q3_BlockKilled.Day10_Q3_MM_StopLara.Description} 拉拉的复仇会把布洛克和她自己一并烧光。我不能放任此事。我得回到一日之前，劝她打消这步险棋。

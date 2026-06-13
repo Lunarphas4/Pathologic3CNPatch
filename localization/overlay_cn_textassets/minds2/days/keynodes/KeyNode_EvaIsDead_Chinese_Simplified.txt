@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_EvaIsDead.Name} 大教堂之魂
-{Minds2.Days.KeyNodes.KeyNode_EvaIsDead.Description} 伊娃在当下已死。

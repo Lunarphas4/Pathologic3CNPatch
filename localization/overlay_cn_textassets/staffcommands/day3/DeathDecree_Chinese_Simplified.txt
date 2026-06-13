@@ -1,2 +1,0 @@
-{StaffCommands.Day3.DeathDecree.Name} 全民接种
-{StaffCommands.Day3.DeathDecree.Description} 让镇民接种奥尔金斯基的新药，以对抗沙疫。

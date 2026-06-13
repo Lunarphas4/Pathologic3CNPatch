@@ -1,3 +1,0 @@
-{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_WaterTanners.Name} 鞣匠街的水
-{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_WaterTanners.Description} 用于分析的水样。
-{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_WaterTanners.Description2} 水绕过供水系统，从草原泉眼被带进镇里。这份样本来自鞣匠街的一只水桶。

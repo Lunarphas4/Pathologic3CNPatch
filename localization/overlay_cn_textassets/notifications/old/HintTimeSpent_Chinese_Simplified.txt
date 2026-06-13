@@ -1,2 +1,0 @@
-{Notifications.Old.HintTimeSpent.Name} ⁠
-{Notifications.Old.HintTimeSpent.Description} 耗时：<damage>

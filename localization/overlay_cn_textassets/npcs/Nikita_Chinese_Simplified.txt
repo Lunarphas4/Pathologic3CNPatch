@@ -1,3 +1,0 @@
-{Npcs.Nikita.Name} 访客海鹦
-{Npcs.Nikita.FullName} ⁠
-{Npcs.Nikita.Description} ⁠

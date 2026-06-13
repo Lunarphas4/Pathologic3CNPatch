@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_FutureAssassination.Name} 更高之目标
-{Minds2.Days.KeyNodes.KeyNode_FutureAssassination.Description} 有人正密谋刺杀审判官卡明斯基。

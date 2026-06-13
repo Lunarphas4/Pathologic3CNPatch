@@ -1,5 +1,0 @@
-{UI.MapWindow.Tooltips.TimeTravel} 行程时间：<time_hours> 小时 <time_minutes> 分钟
-{UI.MapWindow.Tooltips.RegionNameTitle} 目的地：<location>
-{UI.MapWindow.Tooltips.RegionStatusTitle} 区域状态：<status>
-{UI.MapWindow.Tooltips.MapNavigationTitle} 正在规划路线
-{UI.MapWindow.Tooltips.Traveling} 正在赶路

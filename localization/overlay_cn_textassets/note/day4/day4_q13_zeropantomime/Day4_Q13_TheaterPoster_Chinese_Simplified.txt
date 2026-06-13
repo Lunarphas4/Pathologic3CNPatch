@@ -1,2 +1,0 @@
-{Note.Day4.Day4_Q13_ZeroPantomime.Day4_Q13_TheaterPoster.Name} 剧院海报
-{Note.Day4.Day4_Q13_ZeroPantomime.Day4_Q13_TheaterPoster.Description} 不朽先生敬请诸位留意：\n\n为迎接剧院季，\n\n每日全天，茶点休息除外，\n\n剧院面具们将排练一出新的哑剧。\n\n假发与发型：Y. 巴洛班。装饰花艺：O. 恰伊卡。

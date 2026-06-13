@@ -1,3 +1,0 @@
-{Npcs.Militia.Name} 巡逻的人
-{Npcs.Militia.FullName} ⁠
-{Npcs.Militia.Description} ⁠

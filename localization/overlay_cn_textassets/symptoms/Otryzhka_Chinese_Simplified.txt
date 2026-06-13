@@ -1,2 +1,0 @@
-{Symptoms.Otryzhka.Name} 嗳气
-{Symptoms.Otryzhka.Description} 胃肠道气体经口排出。胃中胆汁或酸度升高会在此时造成不适，也可能是疾病症状。

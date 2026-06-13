@@ -1,2 +1,0 @@
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PatientTwo.Prologue_PatientTwo_MM_TimeForDiagnose.Name} 病历采集完毕
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PatientTwo.Prologue_PatientTwo_MM_TimeForDiagnose.Description} 剔除伪症，保留真征，方可诊断。

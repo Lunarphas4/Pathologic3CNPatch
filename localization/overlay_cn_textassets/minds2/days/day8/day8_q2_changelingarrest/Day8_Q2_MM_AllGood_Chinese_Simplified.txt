@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q2_ChangelingArrest.Day8_Q2_MM_AllGood.Name} 得救
-{Minds2.Days.Day8.Day8_Q2_ChangelingArrest.Day8_Q2_MM_AllGood.Description} 欣慰的是，如今拉拉已没有性命之忧。她是个好人。

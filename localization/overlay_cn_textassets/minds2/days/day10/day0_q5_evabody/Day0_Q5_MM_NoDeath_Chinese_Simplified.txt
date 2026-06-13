@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day0_Q5_EvaBody.Day0_Q5_MM_NoDeath.Name} 信念
-{Minds2.Days.Day10.Day0_Q5_EvaBody.Day0_Q5_MM_NoDeath.Description} 伊娃声称死亡并不存在。看来她真的相信这一点。

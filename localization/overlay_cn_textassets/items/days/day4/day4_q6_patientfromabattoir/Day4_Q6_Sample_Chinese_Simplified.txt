@@ -1,3 +1,0 @@
-﻿{Items.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Sample.Name} 甘珠尔的残余
-{Items.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Sample.Description} 毫无意义的牺牲。
-{Items.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Sample.Description2} 虽然并非为了科学，病人确实牺牲了自己。这份牺牲必须被珍视，也必须尽可能从他的身体中提取关于疾病的知识。

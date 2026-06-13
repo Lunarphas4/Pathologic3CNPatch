@@ -1,2 +1,0 @@
-﻿{ArchiveMinds.Day2.Day2_Q1_Powder.Day2_Q1_MM_Kids_Challenge.Name} 孩子们正在找这种神秘粉末，我得赶在他们前面找到。
-{ArchiveMinds.Day2.Day2_Q1_Powder.Day2_Q1_MM_Kids_Challenge.Description} 孩子们正试图在一栋废屋里寻找所谓的“疗愈粉末”。我得先找到它，免得他们伤到自己或别人。

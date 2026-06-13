@@ -1,2 +1,0 @@
-{UI.Menu.Settings.Values.HDRPShadowFilteringMethod.PCF} 阴影柔化
-{UI.Menu.Settings.Values.HDRPShadowFilteringMethod.PCSS} 自适应软阴影

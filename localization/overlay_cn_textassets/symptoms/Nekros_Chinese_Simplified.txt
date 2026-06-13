@@ -1,2 +1,0 @@
-{Symptoms.Nekros.Name} 坏死
-{Symptoms.Nekros.Description} 组织失去活性并死亡，通常提示局部损伤或严重感染。

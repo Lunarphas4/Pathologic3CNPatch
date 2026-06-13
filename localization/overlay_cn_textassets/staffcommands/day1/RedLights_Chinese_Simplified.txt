@@ -1,2 +1,0 @@
-﻿{StaffCommands.Day1.RedLights.Name} 鼓舞
-{StaffCommands.Day1.RedLights.Description} 用彩色灯笼装点小镇

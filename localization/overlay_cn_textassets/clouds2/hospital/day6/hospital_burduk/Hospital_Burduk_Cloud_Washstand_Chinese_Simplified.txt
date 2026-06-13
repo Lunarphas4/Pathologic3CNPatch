@@ -1,5 +1,0 @@
-{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Washstand.31820} 这地方怎么洗得了脸？
-{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Washstand.31} 这地方怎么洗得了脸？
-{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Washstand.4470} 水已经放了一个多星期
-{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Washstand.28757} 所有人共用一个洗脸架？
-{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Washstand.21615} 这样什么感染都能传开

@@ -1,5 +1,0 @@
-{Clouds2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Cloud_Worms.65462} “你今天不能死，”他们说
-{Clouds2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Cloud_Worms.39962} “你今天不能死，”他们说
-{Clouds2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Cloud_Worms.41879} 我会获得权力，然后颁布这样的命令：禁止死亡
-{Clouds2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Cloud_Worms.57028} ……不，那太蠢了
-{Clouds2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Cloud_Worms.24486} 墓地是虫子最合适的地方

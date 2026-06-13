@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day6.Day6_Q9_SimonExhumation.Day6_Q9_Graveyard.Name} 墓园
-{QuestMarkers.Days.Day6.Day6_Q9_SimonExhumation.Day6_Q9_Graveyard.Description} 传言西蒙像凡人一样葬在墓园。

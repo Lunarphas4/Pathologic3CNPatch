@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_MainLever.44925} 碎掉的，会重新粘合
-{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_MainLever.21704} 碎掉的，会重新粘合
-{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_MainLever.10340} 卡尔明斯基毁掉了大教堂所有奇迹
-{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_MainLever.56689} 还是那只是我的幻觉？

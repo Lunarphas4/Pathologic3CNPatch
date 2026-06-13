@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RubinApartment_Fates.Name} 鲁宾的住所
-{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_RubinApartment_Fates.Description} 鲁宾的住所还有一些我尚未得知的命运。

@@ -1,3 +1,0 @@
-{Npcs.Houndhead_Left.Name} 刻耳柏洛斯左首
-{Npcs.Houndhead_Left.FullName} ⁠
-{Npcs.Houndhead_Left.Description} ⁠

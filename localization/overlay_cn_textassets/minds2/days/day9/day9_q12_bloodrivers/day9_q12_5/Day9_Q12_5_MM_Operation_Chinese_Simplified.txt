@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_5.Day9_Q12_5_MM_Operation.Name} 肃静！手术进行中！
-{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_5.Day9_Q12_5_MM_Operation.Description} 布拉赫眼下抽不开身。稍后，我可以在医院里找到他。

@@ -1,2 +1,0 @@
-{UI.Credits.Art.PeterPotapov.Name} Peter Potapov
-{UI.Credits.Art.PeterPotapov.Description} 3D 美术

@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_HUDPolarityTutorial_Prologue.Name} 心智跷跷板
-{Prologue.Notifications.Tutorial.Notification_HUDPolarityTutorial_Prologue.Description} 意识在躁狂和冷漠两种状态之间摇摆

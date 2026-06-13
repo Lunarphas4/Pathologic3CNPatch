@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_1_MM_Letter.Name} 来自天涯的信
-{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_1_MM_Letter.Description} 是伊西多尔邀我前来。邀人之后——他便被杀。他的书房或许藏有他的死因，也可能藏有给我的线索。

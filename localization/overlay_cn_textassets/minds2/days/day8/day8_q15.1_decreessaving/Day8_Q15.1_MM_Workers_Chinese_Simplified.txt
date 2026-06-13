@@ -1,2 +1,0 @@
-{Minds2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_MM_Workers.Name} 意外休假
-{Minds2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_MM_Workers.Description} 先前在城中执行法令的工人正在剥皮匠区休息。他们也许记得自己搬运了多少物资

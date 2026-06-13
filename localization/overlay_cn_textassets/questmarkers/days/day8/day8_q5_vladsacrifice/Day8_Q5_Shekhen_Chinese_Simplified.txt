@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_Shekhen.Name} 谢肯
-{QuestMarkers.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_Shekhen.Description} 在草原村里能找到通晓本地文化的人。

@@ -1,2 +1,0 @@
-{Minds2.Days.Day4.Day4_Q1_RescueGrif.Day4_Q1_MM_Execution.Name} 刑罚相称
-{Minds2.Days.Day4.Day4_Q1_RescueGrif.Day4_Q1_MM_Execution.Description} 恶徒格里夫或许该受谴责，甚至该上法庭——但不该死得这样。

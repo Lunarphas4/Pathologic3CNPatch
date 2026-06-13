@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_Isidom.Name} 伊西多尔的宅子
-{QuestMarkers.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_Isidom.Description} 玛丽亚·凯娜带着她的随从在后躯区这栋阴森的宅子里查访。

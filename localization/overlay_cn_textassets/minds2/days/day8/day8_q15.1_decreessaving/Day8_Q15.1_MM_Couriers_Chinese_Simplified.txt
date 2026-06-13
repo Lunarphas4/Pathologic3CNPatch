@@ -1,2 +1,0 @@
-{Minds2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_MM_Couriers.Name} 闲置
-{Minds2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_MM_Couriers.Description} 在后街某处，司令部的孩子信使无所事事地闲逛。孩子的脑子很容易抓住本不该给它的东西！

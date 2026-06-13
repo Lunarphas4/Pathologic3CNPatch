@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Administration_Timer.Name} 市政厅
-{QuestMarkers.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Administration_Timer.Description} 布洛克让我稍后再来。

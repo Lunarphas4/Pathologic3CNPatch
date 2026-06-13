@@ -1,4 +1,0 @@
-{Clouds2.Days.Intro.Old.Intro_Cloud_CapitalWindow3.19682} 草原那边现在下雨了。
-{Clouds2.Days.Intro.Old.Intro_Cloud_CapitalWindow3.3006} 草原那边现在下雨了。
-{Clouds2.Days.Intro.Old.Intro_Cloud_CapitalWindow3.6516} 草原那边，twyre（特维草）开花了。
-{Clouds2.Days.Intro.Old.Intro_Cloud_CapitalWindow3.25589} 首都闻起来像湿泥。

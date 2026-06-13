@@ -1,3 +1,0 @@
-{Items.Ammos.MatchAmmo.Name} 火柴
-{Items.Ammos.MatchAmmo.Description} 燃烧明亮但迅速熄灭。得益于氯酸钾成分，风雨中亦不熄灭。\n\n点火的工具。
-{Items.Ammos.MatchAmmo.Description2} 燃烧明亮但迅速熄灭。得益于氯酸钾成分，风雨中亦不熄灭。\n\n点火的工具。

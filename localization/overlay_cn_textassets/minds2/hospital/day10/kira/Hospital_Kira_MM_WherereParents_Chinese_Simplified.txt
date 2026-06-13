@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_WherereParents.Name} 古怪大人之屋
-{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_WherereParents.Description} 孩子们允许我查看屋内。我希望在那儿找到更多关于病情的线索。

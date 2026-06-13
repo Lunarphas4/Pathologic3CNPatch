@@ -1,2 +1,0 @@
-{UI.SymptomGroupTooltips.Jivot.Name} 胃肠道拭子
-{UI.SymptomGroupTooltips.Jivot.Description} 使用内窥镜仪器获取。研究结果有助于诊断胃肠道疾病、检测异常增生，并确定息肉的性质。

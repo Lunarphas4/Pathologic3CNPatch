@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_NeedGetKidsOutside.Name} 缠身之腐
-{Minds2.Days.KeyNodes.KeyNode_NeedGetKidsOutside.Description} 若不预先把孩子们从多面体中带出——它既毁不掉，也保不住。

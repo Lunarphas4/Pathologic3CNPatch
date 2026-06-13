@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_MM_Alive.Name} 明日会如何？
-{Minds2.Days.Day7.Day7_Q14_InvitationToABeheading.Day7_Q14_MM_Alive.Description} 至少今日我活下来了。

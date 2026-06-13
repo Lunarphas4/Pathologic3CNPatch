@@ -1,2 +1,0 @@
-{StaffCommands.Day11.Protocol11.Name} 第 11 号方案
-{StaffCommands.Day11.Protocol11.Description} 让民众接种军方医疗指挥部的实验药剂。

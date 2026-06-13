@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Common.QuestMarkers_Hospital.Name} 医院
-{QuestMarkers.Common.QuestMarkers_Hospital.Description} 病人在等我。要拿到当日疫苗，须对每位病人下出正确诊断。

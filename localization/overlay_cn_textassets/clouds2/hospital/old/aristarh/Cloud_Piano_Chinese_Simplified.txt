@@ -1,6 +1,0 @@
-{Clouds2.Hospital.old.Aristarh.Cloud_Piano.19803} 爱好？
-{Clouds2.Hospital.old.Aristarh.Cloud_Piano.28004} 爱好？
-{Clouds2.Hospital.old.Aristarh.Cloud_Piano.25618} 1 3 5 7 9 1 3 5 7 9 1 3 5 7 9 1 3 5 7 9 1 3 5 7 9 1 3 5 7 9 1 3 5 7 9 1 3 5 7 9
-{Clouds2.Hospital.old.Aristarh.Cloud_Piano.26843} 演奏高手？
-{Clouds2.Hospital.old.Aristarh.Cloud_Piano.3766} 遗产？
-{Clouds2.Hospital.old.Aristarh.Cloud_Piano.16044} 看起来走调了

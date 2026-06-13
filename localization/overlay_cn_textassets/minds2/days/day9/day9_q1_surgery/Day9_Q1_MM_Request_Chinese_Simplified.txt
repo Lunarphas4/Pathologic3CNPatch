@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_Request.Name} 出诊请求
-{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_Request.Description} 亚历山大·萨布罗夫恳求我救他妻子。他会在他的"权杖宅"里把更多详情告诉我。时间不多。

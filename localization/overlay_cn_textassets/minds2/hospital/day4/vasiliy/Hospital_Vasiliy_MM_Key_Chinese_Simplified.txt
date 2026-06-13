@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_Key.Name} 已得钥匙
-{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_Key.Description} 邻人的证词加上那间狼藉的盥洗室，应足以下诊断。还是终究要把菲拉特的住所亲自查一遍？

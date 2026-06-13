@@ -1,9 +1,0 @@
-{ArchiveDialogs.Hospitals.Hospital_Orderly_End-(1).4048} 工作报告会送到您的办公室。
-{ArchiveDialogs.Hospitals.Hospital_Orderly_End-(1).17924} 真方便。
-{ArchiveDialogs.Hospitals.Hospital_Orderly_End-(1).18204} 您已经做了不少。我知道希波克拉底誓言会让人忘了睡觉，但不该这样。
-{ArchiveDialogs.Hospitals.Hospital_Orderly_End-(1).3649} 不必安慰我。
-{ArchiveDialogs.Hospitals.Hospital_Orderly_End-(1).18426} 不睡觉，我的用处只会更小。
-{ArchiveDialogs.Hospitals.Hospital_Orderly_End-(1).32001} 谁？
-{ArchiveDialogs.Hospitals.Hospital_Orderly_End-(1).27982} 邮差。医生，您累了吗？
-{ArchiveDialogs.Hospitals.Hospital_Orderly_End-(1).5539} 不，我想知道名字。不过邮差也凑合。
-{ArchiveDialogs.Hospitals.Hospital_Orderly_End-(1).12381} 我想派自己的人去办这件事。至少他们还稍微可信。

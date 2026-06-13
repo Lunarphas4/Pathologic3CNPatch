@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_TimetravelAmalgamTutorial_Prologue.Name} 另一天
-{Prologue.Notifications.Tutorial.Notification_TimetravelAmalgamTutorial_Prologue.Description} 讲故事需要时间，而时间则藏在混合物中。我想要回忆之前的哪一天，就会使用混合物

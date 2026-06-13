@@ -1,2 +1,0 @@
-{Notifications.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Hint_LostKey.Name} ⁠
-{Notifications.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Hint_LostKey.Description} 看来我把那把无名钥匙弄丢了。

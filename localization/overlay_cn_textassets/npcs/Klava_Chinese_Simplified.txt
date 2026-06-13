@@ -1,3 +1,0 @@
-{Npcs.Klava.Name} 女人
-{Npcs.Klava.FullName} ⁠
-{Npcs.Klava.Description} ⁠

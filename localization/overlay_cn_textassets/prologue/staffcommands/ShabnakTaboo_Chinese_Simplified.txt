@@ -1,2 +1,0 @@
-{Prologue.StaffCommands.ShabnakTaboo.Name} Shabnak（泥魔女）禁令
-{Prologue.StaffCommands.ShabnakTaboo.Description} 禁止提及或协助草原食人者 Shabnak-Adyr（泥魔女）。（毕竟，这只是个传说！）

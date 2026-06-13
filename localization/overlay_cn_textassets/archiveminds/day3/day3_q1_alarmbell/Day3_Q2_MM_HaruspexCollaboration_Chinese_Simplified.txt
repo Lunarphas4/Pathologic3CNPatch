@@ -1,2 +1,0 @@
-﻿{ArchiveMinds.Day3.Day3_Q1_AlarmBell.Day3_Q2_MM_HaruspexCollaboration.Name} 我得接受布拉赫的帮助。
-{ArchiveMinds.Day3.Day3_Q1_AlarmBell.Day3_Q2_MM_HaruspexCollaboration.Description} 很难把布拉赫当成医生认真看待，但他仍然可能派上用场。

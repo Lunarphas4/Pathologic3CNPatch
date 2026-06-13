@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_6.Day9_Q12_6_MM_Block.Name} 向司令呈报
-{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_6.Day9_Q12_6_MM_Block.Description} 我有机会把士兵被害一事原原本本告诉布洛克将军。

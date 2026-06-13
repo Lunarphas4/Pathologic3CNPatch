@@ -1,2 +1,0 @@
-﻿{Locations.House_Tsipukh.Name} 麻脸的宅子
-{Locations.House_Tsipukh.Description} 麻脸的宅子

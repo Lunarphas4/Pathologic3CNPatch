@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q3_MM_Order.Name} 小弗拉德的命令
-{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q3_MM_Order.Description} 弗拉德被解职了，但他签发的命令仍在执行。我得在他们继续给人"接种"之前把它撤销。

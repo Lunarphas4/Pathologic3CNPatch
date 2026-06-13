@@ -1,4 +1,0 @@
-{Clouds2.Decrees.Protocol.Protocol_Cloud_Graffiti.12573} 无知之徒永远少不了
-{Clouds2.Decrees.Protocol.Protocol_Cloud_Graffiti.11977} 无知之徒永远少不了
-{Clouds2.Decrees.Protocol.Protocol_Cloud_Graffiti.3796} 城镇抗拒自己的救赎
-{Clouds2.Decrees.Protocol.Protocol_Cloud_Graffiti.19319} “不要接种！拒绝杀人的医生！”

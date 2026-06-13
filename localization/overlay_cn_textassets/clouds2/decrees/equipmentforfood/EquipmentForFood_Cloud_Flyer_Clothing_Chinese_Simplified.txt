@@ -1,4 +1,0 @@
-{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Flyer_Clothing.10126} “衣物也会感染！”
-{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Flyer_Clothing.7593} “衣物也会感染！”
-{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Flyer_Clothing.23559} “衣物无法消毒！”
-{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Flyer_Clothing.15439} “交出多余食物——换取衣物！”

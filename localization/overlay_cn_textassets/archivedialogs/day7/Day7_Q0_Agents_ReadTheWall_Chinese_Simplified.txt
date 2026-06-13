@@ -1,6 +1,0 @@
-{ArchiveDialogs.Day7.Day7_Q0_Agents_ReadTheWall.23893} 你看到墙上的字了吗？读一下写的是什么？
-{ArchiveDialogs.Day7.Day7_Q0_Agents_ReadTheWall.9812} 他们没有教你如何阅读自己吗？您现在是否带了专门的人来为您阅读标志？
-{ArchiveDialogs.Day7.Day7_Q0_Agents_ReadTheWall.17122} 听。您越早阅读，我们就能越早完成这里。当然，你可以抗拒，但在你读完之前，我们不会离开这里。
-{ArchiveDialogs.Day7.Day7_Q0_Agents_ReadTheWall.19326} ...
-{ArchiveDialogs.Day7.Day7_Q0_Agents_ReadTheWall.10272} 不。
-{ArchiveDialogs.Day7.Day7_Q0_Agents_ReadTheWall.13388} 你为什么带我来这里？我想见审判官。

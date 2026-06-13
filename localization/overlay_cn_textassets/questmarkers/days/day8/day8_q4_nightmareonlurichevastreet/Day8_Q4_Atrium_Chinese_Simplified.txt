@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day8.Day8_Q4_NightmareOnLurichevaStreet.Day8_Q4_Atrium.Name} 中庭里的新街
-{QuestMarkers.Days.Day8.Day8_Q4_NightmareOnLurichevaStreet.Day8_Q4_Atrium.Description} 尤利娅·柳里切娃设计并建造了那条"破碎的街"。如今她想亲自走一回。我还未决定要不要拦她。

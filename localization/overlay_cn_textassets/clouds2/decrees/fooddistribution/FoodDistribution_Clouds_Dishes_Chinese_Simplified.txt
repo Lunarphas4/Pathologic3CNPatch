@@ -1,5 +1,0 @@
-{Clouds2.Decrees.FoodDistribution.FoodDistribution_Clouds_Dishes.40551} 食物正在分发给人们
-{Clouds2.Decrees.FoodDistribution.FoodDistribution_Clouds_Dishes.23915} 食物正在分发给人们
-{Clouds2.Decrees.FoodDistribution.FoodDistribution_Clouds_Dishes.17395} 按我的命令
-{Clouds2.Decrees.FoodDistribution.FoodDistribution_Clouds_Dishes.14168} 很好
-{Clouds2.Decrees.FoodDistribution.FoodDistribution_Clouds_Dishes.57183} 还没发展到饥民暴动

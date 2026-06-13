@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_NeedEscape.Name} 一辆马车，给我一辆马车！
-{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_NeedEscape.Description} 我必须立刻离开这镇。没有我，死亡学院将被夷至根基。

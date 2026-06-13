@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_MM_Culprit.Name} 元凶
-{Minds2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_MM_Culprit.Description} 换生灵按卡捷琳娜·萨布罗娃的要求偷走了吗啡。

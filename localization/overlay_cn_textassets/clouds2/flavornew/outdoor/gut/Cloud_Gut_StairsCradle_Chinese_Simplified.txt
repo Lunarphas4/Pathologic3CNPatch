@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.Gut.Cloud_Gut_StairsCradle.44925} 死去孩子的摇篮被留在楼梯底下
-{Clouds2.FlavorNew.Outdoor.Gut.Cloud_Gut_StairsCradle.10340} 死去孩子的摇篮被留在楼梯底下
-{Clouds2.FlavorNew.Outdoor.Gut.Cloud_Gut_StairsCradle.56689} 他们相信这样灵魂就能升上天空
-{Clouds2.FlavorNew.Outdoor.Gut.Cloud_Gut_StairsCradle.3363} 明明可以去对抗儿童死亡率
-{Clouds2.FlavorNew.Outdoor.Gut.Cloud_Gut_StairsCradle.61752} 该开的是医院，不是楼梯

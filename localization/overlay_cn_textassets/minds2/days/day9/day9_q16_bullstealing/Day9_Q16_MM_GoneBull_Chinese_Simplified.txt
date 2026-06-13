@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_GoneBull.Name} 我根本没注意那头牛
-{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_GoneBull.Description} 那头染病的公牛失踪了。如果在屋顶上找到它，我也不会奇怪！也许伊娃知道点什么。

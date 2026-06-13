@@ -1,4 +1,0 @@
-{ArchiveDialogs.Day6.Day6_Q4_CathedralWorks.Day6_Q4_OrderlyNurseSaid.14272} 多少片药片的重量为克？
-{ArchiveDialogs.Day6.Day6_Q4_CathedralWorks.Day6_Q4_OrderlyNurseSaid.17926} 什么药？在哪里？
-{ArchiveDialogs.Day6.Day6_Q4_CathedralWorks.Day6_Q4_OrderlyNurseSaid.8110} 当然是去大教堂。据我了解，他们在那里做了一个绝缘体。
-{ArchiveDialogs.Day6.Day6_Q4_CathedralWorks.Day6_Q4_OrderlyNurseSaid.1202} 如何？ WHO？！

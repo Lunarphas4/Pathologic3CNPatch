@@ -1,2 +1,0 @@
-{UI.Credits.Localization.VasilisaSherman.Name} Vasilisa Sherman
-{UI.Credits.Localization.VasilisaSherman.Description} 译者

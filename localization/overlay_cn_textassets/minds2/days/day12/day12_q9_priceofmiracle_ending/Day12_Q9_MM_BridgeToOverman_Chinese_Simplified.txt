@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q9_PriceOfMiracle_Ending.Day12_Q9_MM_BridgeToOverman.Name} 人之桥
-{Minds2.Days.Day12.Day12_Q9_PriceOfMiracle_Ending.Day12_Q9_MM_BridgeToOverman.Description} 尽管我未能洞悉高塔的全部秘密——我知道：那残酷的"律法"将不再桎梏幸存者。

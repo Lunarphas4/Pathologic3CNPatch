@@ -1,8 +1,0 @@
-﻿{Dialogs2.Days.Intro.Intro_Morgue.Intro_Morgue_Patient_Saving.51979} 咳……咳哈啊……\n\n你是……死亡吗？你的眼睛像死亡……
-{Dialogs2.Days.Intro.Intro_Morgue.Intro_Morgue_Patient_Saving.39860} 我的眼睛属于一个刚刚没戴护目镜、穿过四十米毒气的人。
-{Dialogs2.Days.Intro.Intro_Morgue.Intro_Morgue_Patient_Saving.5603} 隧道尽头，还有第二条隧道。咳——
-{Dialogs2.Days.Intro.Intro_Morgue.Intro_Morgue_Patient_Saving.27564} 你听得见我吗？看着我，抓住我的声音。尽量保持清醒。
-{Dialogs2.Days.Intro.Intro_Morgue.Intro_Morgue_Patient_Saving.25380} 别说话。你会吸入更多毒气。
-{Dialogs2.Days.Intro.Intro_Morgue.Intro_Morgue_Patient_Saving.36962} 你死后幻象里看见的一切，之后再告诉我。我们必须立刻离开这里！
-{Dialogs2.Days.Intro.Intro_Morgue.Intro_Morgue_Patient_Saving.58583} 死人不会咳嗽，这说明你还活着。暂时如此。
-{Dialogs2.Days.Intro.Intro_Morgue.Intro_Morgue_Patient_Saving.44794} 把手给我。说话可以等。

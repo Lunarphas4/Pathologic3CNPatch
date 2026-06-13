@@ -1,2 +1,0 @@
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_Vasil.Prologue_Vasil_MM_Key.Name} 钥匙在手
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_Vasil.Prologue_Vasil_MM_Key.Description} 进入菲拉特的房间。共用浴室的邻居虽有用，但要窥透一个人，还是得去看看这个人生活的地方。

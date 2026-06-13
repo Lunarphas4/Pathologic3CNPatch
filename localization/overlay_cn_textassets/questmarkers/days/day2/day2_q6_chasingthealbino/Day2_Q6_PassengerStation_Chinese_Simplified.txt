@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_PassengerStation.Name} 火车站
-{QuestMarkers.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_PassengerStation.Description} 一个少年混混在这里追那凶手。

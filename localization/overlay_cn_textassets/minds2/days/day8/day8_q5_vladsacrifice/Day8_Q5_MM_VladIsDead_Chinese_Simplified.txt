@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_VladIsDead.Name} 可怕的复仇
-{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_VladIsDead.Description} 小弗拉德自首于金族，被撕成碎片。草原人在庆贺这场复仇。他父亲必须知情。

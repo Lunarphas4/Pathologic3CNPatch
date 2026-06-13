@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q1.1_GrifsTip.Day4_Q1_1_MM_Stamatin.Name} 身份之谜
-{Minds2.Days.Day4.Day4_Q1.1_GrifsTip.Day4_Q1_1_MM_Stamatin.Description} 安德烈觉得那位客人在躲他。也许，她在回避所有曾在帝都生活过、可能认出她的人？

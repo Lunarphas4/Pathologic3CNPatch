@@ -1,2 +1,0 @@
-{Prologue.Notifications.Hints.Notification_Prologue_Wishlist.Name} ⁠
-{Prologue.Notifications.Hints.Notification_Prologue_Wishlist.Description} 立刻加入愿望单

@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Old.Day3_Q8_Cathedral.Name} 教堂
-{QuestMarkers.Old.Day3_Q8_Cathedral.Description} 可备选作医院的地点之一。

@@ -1,3 +1,0 @@
-{Clouds.Flavor.Cloud_Rubin_BigAlembic.14716} 废弃的蒸馏器。
-{Clouds.Flavor.Cloud_Rubin_BigAlembic.7676} 废弃的蒸馏器。
-{Clouds.Flavor.Cloud_Rubin_BigAlembic.21260} 仓库那帮人也有自己的劣酒？

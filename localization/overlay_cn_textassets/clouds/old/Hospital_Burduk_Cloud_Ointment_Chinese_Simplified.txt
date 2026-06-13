@@ -1,6 +1,0 @@
-{Clouds.Old.Hospital_Burduk_Cloud_Ointment.23357} 外国软膏。
-{Clouds.Old.Hospital_Burduk_Cloud_Ointment.28398} 外国软膏。
-{Clouds.Old.Hospital_Burduk_Cloud_Ointment.727} 用于给开放性伤口消毒。
-{Clouds.Old.Hospital_Burduk_Cloud_Ointment.28634} 连首都都买不到这个。
-{Clouds.Old.Hospital_Burduk_Cloud_Ointment.11088} 最优秀的外国头脑发明的东西。
-{Clouds.Old.Hospital_Burduk_Cloud_Ointment.6091} 他为什么需要这么罕见的软膏？

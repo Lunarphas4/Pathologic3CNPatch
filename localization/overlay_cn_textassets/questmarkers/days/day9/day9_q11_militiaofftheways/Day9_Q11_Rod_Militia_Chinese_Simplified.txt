@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day9.Day9_Q11_MilitiaOffTheWays.Day9_Q11_Rod_Militia.Name} 脊宅
-{QuestMarkers.Days.Day9.Day9_Q11_MilitiaOffTheWays.Day9_Q11_Rod_Militia.Description} 如今萨布罗夫不会拒绝为我清空铁道。

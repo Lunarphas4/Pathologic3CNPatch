@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_PapersPlease.Name} 无凭无据，便是穷光蛋
-{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_PapersPlease.Description} 奥尔金斯基要求指挥部正式拨付一头牛的资源。这种时候还要走衙门里的程序！

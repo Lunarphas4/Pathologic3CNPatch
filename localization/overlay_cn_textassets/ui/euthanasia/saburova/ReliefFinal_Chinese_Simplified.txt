@@ -1,2 +1,0 @@
-﻿{UI.Euthanasia.Saburova.ReliefFinal.Name} 安详睡眠
-{UI.Euthanasia.Saburova.ReliefFinal.Description} 卡捷琳娜不会在手术中醒来

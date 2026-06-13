@@ -1,2 +1,0 @@
-{Notifications.Tutorial.ConcentrationMode.Notification_EnableVision.Name} ⁠
-{Notifications.Tutorial.ConcentrationMode.Notification_EnableVision.Description} 长按<InputActions/Weapon/Tags>查看值得留意的地方

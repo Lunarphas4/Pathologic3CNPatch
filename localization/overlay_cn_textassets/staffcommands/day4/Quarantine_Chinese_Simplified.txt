@@ -1,2 +1,0 @@
-{StaffCommands.Day4.Quarantine.Name} 隔离
-{StaffCommands.Day4.Quarantine.Description} 找出感染者的亲属，并将他们集中隔离。

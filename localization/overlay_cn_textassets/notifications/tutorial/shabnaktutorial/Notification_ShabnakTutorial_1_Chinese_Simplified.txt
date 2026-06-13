@@ -1,2 +1,0 @@
-{Notifications.Tutorial.ShabnakTutorial.Notification_ShabnakTutorial_1.Name} ⁠
-{Notifications.Tutorial.ShabnakTutorial.Notification_ShabnakTutorial_1.Description} 原型器具能减缓她。

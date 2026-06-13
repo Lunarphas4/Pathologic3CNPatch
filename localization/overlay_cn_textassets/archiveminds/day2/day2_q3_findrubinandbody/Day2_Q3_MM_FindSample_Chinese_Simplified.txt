@@ -1,2 +1,0 @@
-{ArchiveMinds.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MM_FindSample.Name} ⁠
-{ArchiveMinds.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MM_FindSample.Description} 已故医生屋墙上有奇怪的霉菌。我要取个样本。

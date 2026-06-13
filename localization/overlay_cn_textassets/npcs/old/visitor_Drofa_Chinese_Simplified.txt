@@ -1,3 +1,0 @@
-{Npcs.Old.visitor_Drofa.Name} ⁠
-{Npcs.Old.visitor_Drofa.FullName} ⁠
-{Npcs.Old.visitor_Drofa.Description} ⁠

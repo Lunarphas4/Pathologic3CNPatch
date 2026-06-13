@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day8.Day8_Q13_BetrayalOfAndrey.Day8_Q13_Cathedral_Warn.Name} 大教堂
-{QuestMarkers.Days.Day8.Day8_Q13_BetrayalOfAndrey.Day8_Q13_Cathedral_Warn.Description} 有人在筹谋刺杀审判官。可他必定已知此事吧？

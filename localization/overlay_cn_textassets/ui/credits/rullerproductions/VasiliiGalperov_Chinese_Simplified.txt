@@ -1,2 +1,0 @@
-{UI.Credits.RullerProductions.VasiliiGalperov.Name} Vasilii Galperov
-{UI.Credits.RullerProductions.VasiliiGalperov.Description} 技术总监

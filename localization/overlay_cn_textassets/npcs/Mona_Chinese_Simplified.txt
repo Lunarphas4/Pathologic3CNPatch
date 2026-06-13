@@ -1,3 +1,0 @@
-{Npcs.Mona.Name} 莫娜
-{Npcs.Mona.FullName} ⁠
-{Npcs.Mona.Description} ⁠

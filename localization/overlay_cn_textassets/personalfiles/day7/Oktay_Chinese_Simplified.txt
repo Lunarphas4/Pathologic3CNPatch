@@ -1,2 +1,0 @@
-{PersonalFiles.Day7.Oktay.Name} 奥克泰
-{PersonalFiles.Day7.Oktay.Description} 草原人，满脑子迷信。

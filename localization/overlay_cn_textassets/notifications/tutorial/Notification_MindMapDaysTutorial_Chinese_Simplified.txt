@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_MindMapDaysTutorial.Name} 脑图
-{Notifications.Tutorial.Notification_MindMapDaysTutorial.Description} 每一日都有它自己的问题——而思绪有时会彼此交错。

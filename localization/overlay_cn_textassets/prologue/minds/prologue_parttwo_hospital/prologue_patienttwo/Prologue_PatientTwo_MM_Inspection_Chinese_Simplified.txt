@@ -1,2 +1,0 @@
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PatientTwo.Prologue_PatientTwo_MM_Inspection.Name} 体检结束
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PatientTwo.Prologue_PatientTwo_MM_Inspection.Description} 记得将症状录入病例簿，再与患者讨论。

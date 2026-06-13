@@ -1,2 +1,0 @@
-﻿{ArchiveMinds.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MM_ExamineSample.Name} 必须检查屋墙上的霉菌。
-{ArchiveMinds.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MM_ExamineSample.Description} 既然这里没有一个医务人员知道他们镇上存在什么霉菌，那就由我亲自检查！

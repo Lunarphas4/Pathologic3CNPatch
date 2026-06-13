@@ -1,2 +1,0 @@
-{UI.Euthanasia.PainFinal.Name} 剧痛
-{UI.Euthanasia.PainFinal.Description} 这位病人因为我而在痛苦中死去。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q9_PriceOfMiracle_Ending.Day12_Q9_MM_MiracleFinal.Name} 尾声
-{Minds2.Days.Day12.Day12_Q9_PriceOfMiracle_Ending.Day12_Q9_MM_MiracleFinal.Description} 这个世界为违逆"存在之律"付出了惨重代价。但最终，那奇迹值得每一滴流出的血。

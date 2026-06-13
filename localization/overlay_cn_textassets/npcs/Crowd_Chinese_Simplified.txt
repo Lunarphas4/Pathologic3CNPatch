@@ -1,3 +1,0 @@
-{Npcs.Crowd.Name} 人群
-{Npcs.Crowd.FullName} ⁠
-{Npcs.Crowd.Description} ⁠

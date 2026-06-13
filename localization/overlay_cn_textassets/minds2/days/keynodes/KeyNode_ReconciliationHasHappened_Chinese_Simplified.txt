@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_ReconciliationHasHappened.Name} 和解
-{Minds2.Days.KeyNodes.KeyNode_ReconciliationHasHappened.Description} 执掌权柄的凯恩一家把我视作友人。

@@ -1,3 +1,0 @@
-﻿{Npcs.GeorgiyKain.Name} 格奥尔基·凯恩
-{Npcs.GeorgiyKain.FullName} 裁判
-{Npcs.GeorgiyKain.Description} 西蒙的兄弟。有传言说他们是孪生，也有人说他年纪只有西蒙的一半。\n他始终把尘世的公义视作神圣之审判的映照，并以最郑重之心待之。但骨子里，他仍是西蒙诸思想的总理论家——一位社会与世界的"建筑师"与缔造者。\n我从一开始就该听他的话。

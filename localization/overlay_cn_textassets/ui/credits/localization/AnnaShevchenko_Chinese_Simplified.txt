@@ -1,1 +1,0 @@
-{UI.Credits.Localization.AnnaShevchenko.Name} Anna Shevchenko

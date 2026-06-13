@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_Prison.Name} 没人会来
-{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_Prison.Description} 看来今晚我得在牢房里过夜了。罢了，明天他们就会明白他们抓的是谁！

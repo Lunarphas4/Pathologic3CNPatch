@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_Wicked_Exam.Name} 粗建地里的屋子
-{QuestMarkers.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_Wicked_Exam.Description} 几日前这里疫情正盛。今日的屋子还安全吗？

@@ -1,3 +1,0 @@
-{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Result4_Healthy.Name} 蛋
-{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Result4_Healthy.Description} 里面似乎能听见婴儿的啼哭。\n\n最珍贵的东西。要怎样平衡天平才能得到它？
-{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Result4_Healthy.Description2} 里面似乎能听见婴儿的啼哭。\n\n最珍贵的东西。要怎样平衡天平才能得到它？

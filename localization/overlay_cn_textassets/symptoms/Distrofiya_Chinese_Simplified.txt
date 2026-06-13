@@ -1,2 +1,0 @@
-{Symptoms.Distrofiya.Name} 营养不良
-{Symptoms.Distrofiya.Description} 体重过低并不总是饥饿所致，也可能说明营养吸收异常，或身体在对抗疾病时过度消耗。

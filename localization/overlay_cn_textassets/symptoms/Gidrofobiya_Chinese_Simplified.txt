@@ -1,2 +1,0 @@
-{Symptoms.Gidrofobiya.Name} 恐水症
-{Symptoms.Gidrofobiya.Description} 源自希腊语，意为畏水。接触水时会引发痉挛与惊恐发作。

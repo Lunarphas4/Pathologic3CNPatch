@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Purpose.Name} 目的
-{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Purpose.Description} 书房首次开启之日。也是我入镇的第二天。寻找必须从那里开始。

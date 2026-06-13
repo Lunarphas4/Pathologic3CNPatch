@@ -1,3 +1,0 @@
-﻿{Items.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_Hooks.Name} 钩子
-{Items.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_Hooks.Description} 要释放被鱼钩钩住的鱼，他们会撕开它的喉咙。
-{Items.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_Hooks.Description2} 一把骨钩。因为本地迷信，这东西很少见。克拉拉说她需要它们来影响他人。其原理尚不明确。

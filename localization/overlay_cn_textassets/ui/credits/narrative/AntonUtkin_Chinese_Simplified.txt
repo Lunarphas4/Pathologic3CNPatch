@@ -1,2 +1,0 @@
-{UI.Credits.Narrative.AntonUtkin.Name} Anton Utkin
-{UI.Credits.Narrative.AntonUtkin.Description} 编剧

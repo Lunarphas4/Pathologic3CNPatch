@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q1.1_GrifsTip.Day4_Q1_1_MM_Drunkards.Name} 常客
-{Minds2.Days.Day4.Day4_Q1.1_GrifsTip.Day4_Q1_1_MM_Drunkards.Description} 这里的客人和小镇酒鬼相比并无出奇。我先试着盘问伙计和其他常客。

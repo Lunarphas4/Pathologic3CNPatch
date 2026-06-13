@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_IsidoorFromWarehouse.Name} 伊西多尔的宅子
-{QuestMarkers.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_IsidoorFromWarehouse.Description} 被杀的伊西多尔·布拉赫的宅子。格里夫可能藏在这里。

@@ -1,2 +1,0 @@
-﻿{Notifications.Notification_EndDay.Name} 这一日已至终
-{Notifications.Notification_EndDay.Description} 在其中——一幕揭开。

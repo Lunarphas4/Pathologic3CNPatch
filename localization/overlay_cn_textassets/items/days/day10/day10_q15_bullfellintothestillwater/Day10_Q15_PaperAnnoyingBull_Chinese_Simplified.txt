@@ -1,3 +1,0 @@
-﻿{Items.Days.Day10.Day10_Q15_BullFellIntoTheStillwater.Day10_Q15_PaperAnnoyingBull.Name} 烦人的小公牛
-{Items.Days.Day10.Day10_Q15_BullFellIntoTheStillwater.Day10_Q15_PaperAnnoyingBull.Description} 一只用粗纸精巧折成的公牛。
-{Items.Days.Day10.Day10_Q15_BullFellIntoTheStillwater.Day10_Q15_PaperAnnoyingBull.Description2} 这只小公牛几乎是自己跳进我口袋的。之前看起来要大得多，现在显然不是了。

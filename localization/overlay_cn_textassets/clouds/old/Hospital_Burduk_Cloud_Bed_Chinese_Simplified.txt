@@ -1,5 +1,0 @@
-{Clouds.Old.Hospital_Burduk_Cloud_Bed.22069} 床单上满是血。
-{Clouds.Old.Hospital_Burduk_Cloud_Bed.9597} 床单上满是血。
-{Clouds.Old.Hospital_Burduk_Cloud_Bed.28340} 出血？
-{Clouds.Old.Hospital_Burduk_Cloud_Bed.11224} 试着给谁做过手术？
-{Clouds.Old.Hospital_Burduk_Cloud_Bed.26597} 很多血。

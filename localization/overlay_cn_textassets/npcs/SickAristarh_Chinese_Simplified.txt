@@ -1,3 +1,0 @@
-{Npcs.SickAristarh.Name} 病人鸿雁
-{Npcs.SickAristarh.FullName} ⁠
-{Npcs.SickAristarh.Description} ⁠

@@ -1,2 +1,0 @@
-{Prologue.Notifications.Hints.Notification_Hint_Prologue_Gates.Name} ⁠
-{Prologue.Notifications.Hints.Notification_Hint_Prologue_Gates.Description} 时间正在流逝。找到装有时钟的拱门才能离开这片地区

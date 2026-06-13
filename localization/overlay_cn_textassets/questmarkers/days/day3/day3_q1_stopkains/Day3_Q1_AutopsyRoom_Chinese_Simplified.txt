@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day3.Day3_Q1_StopKains.Day3_Q1_AutopsyRoom.Name} 鲁兵的藏身处
-{QuestMarkers.Days.Day3.Day3_Q1_StopKains.Day3_Q1_AutopsyRoom.Description} 我得赶在他的杀手之前到鲁宾那里。

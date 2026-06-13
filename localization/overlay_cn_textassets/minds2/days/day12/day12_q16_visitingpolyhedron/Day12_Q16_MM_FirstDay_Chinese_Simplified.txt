@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_MM_FirstDay.Name} 第一天
-{Minds2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_MM_FirstDay.Description} 有什么东西在啃噬着我……我那段旅程的最初，有件事本可以助我一臂之力。可惜——第一天的事，我已无从忆起。

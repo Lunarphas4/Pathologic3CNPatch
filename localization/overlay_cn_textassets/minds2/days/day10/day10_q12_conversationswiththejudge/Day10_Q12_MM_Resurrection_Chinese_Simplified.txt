@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q12_ConversationsWithTheJudge.Day10_Q12_MM_Resurrection.Name} 归来
-{Minds2.Days.Day10.Day10_Q12_ConversationsWithTheJudge.Day10_Q12_MM_Resurrection.Description} 格奥尔基还活着，我和他还有一次对谈在前。

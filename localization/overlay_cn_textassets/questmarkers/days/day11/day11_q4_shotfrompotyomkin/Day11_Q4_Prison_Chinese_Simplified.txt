@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Prison.Name} 市政厅，监狱
-{QuestMarkers.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Prison.Description} 卡佩拉因莫须有的罪名被关进了笼里。

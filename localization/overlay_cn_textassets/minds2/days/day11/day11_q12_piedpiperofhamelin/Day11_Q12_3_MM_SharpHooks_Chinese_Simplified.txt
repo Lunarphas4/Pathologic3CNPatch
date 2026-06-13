@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_3_MM_SharpHooks.Name} 利器之禁
-{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_3_MM_SharpHooks.Description} 克拉拉自告奋勇相助。她只需要几枚钩子。钩子加一根骨头——便足够了。

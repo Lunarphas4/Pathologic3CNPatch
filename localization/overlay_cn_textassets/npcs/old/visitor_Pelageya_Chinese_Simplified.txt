@@ -1,3 +1,0 @@
-{Npcs.Old.visitor_Pelageya.Name} ⁠
-{Npcs.Old.visitor_Pelageya.FullName} ⁠
-{Npcs.Old.visitor_Pelageya.Description} ⁠

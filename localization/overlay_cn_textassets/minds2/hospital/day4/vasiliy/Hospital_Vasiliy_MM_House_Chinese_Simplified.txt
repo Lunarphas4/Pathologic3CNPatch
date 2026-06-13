@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_House.Name} 查家
-{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_House.Description} 这病例棘手，我不想盲下诊断。得去看看菲拉特的居住环境。

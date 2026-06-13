@@ -1,2 +1,0 @@
-{Notifications.HintHomeDone.Name} ⁠
-{Notifications.HintHomeDone.Description} 此处再无可为之事。

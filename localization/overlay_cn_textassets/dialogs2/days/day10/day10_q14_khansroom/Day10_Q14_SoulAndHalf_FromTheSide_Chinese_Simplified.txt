@@ -1,8 +1,0 @@
-{Dialogs2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_SoulAndHalf_FromTheSide.3202} 哇！锡镜炸了！你怎么做到的，嗯？你只是看了它一眼——它就砰地炸了！
-{Dialogs2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_SoulAndHalf_FromTheSide.14323} 你在说什么，孩子？
-{Dialogs2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_SoulAndHalf_FromTheSide.60952} 先生，我也想学那个！教我怎么只看一眼就把东西砸碎，好不好？刚才那下——哇。你和可汗一直说啊说，然后你看了一眼小镜子——砰！
-{Dialogs2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_SoulAndHalf_FromTheSide.64235} 该死，白白毁了一台显微镜。我身上没有备用的。医院现在该怎么运转？
-{Dialogs2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_SoulAndHalf_FromTheSide.12112} 我得先弄清楚刚才发生了什么。之后……也许我会教你。
-{Dialogs2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_SoulAndHalf_FromTheSide.43517} 好吧——告诉我，你这个不情愿的实验见证者看见了什么。我们离开了很久吗？过去了多少时间？
-{Dialogs2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_SoulAndHalf_FromTheSide.58358} 什么时间，先生？谁离开了？大家都在这里！求你了……刚才那下——哇。你和可汗一直说啊说，然后你看了一眼小镜子——砰！
-{Dialogs2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_SoulAndHalf_FromTheSide.32670} 所以你什么也没注意到？在你看来，我们一直只是站在这里？了不起。

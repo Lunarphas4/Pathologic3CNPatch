@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day5.Tolkoviy.Hospital_Tolkoviy_MM_Inspection.Name} 检查结果
-{Minds2.Hospital.Day5.Tolkoviy.Hospital_Tolkoviy_MM_Inspection.Description} 首先，在病例簿中记录已发现的症状，然后向病人详细询问。

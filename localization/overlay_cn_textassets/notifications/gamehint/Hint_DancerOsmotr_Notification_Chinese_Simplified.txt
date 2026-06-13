@@ -1,2 +1,0 @@
-﻿{Notifications.GameHint.Hint_DancerOsmotr_Notification.Name} 为这位舞者下诊断
-{Notifications.GameHint.Hint_DancerOsmotr_Notification.Description} 为这位舞者下诊断。

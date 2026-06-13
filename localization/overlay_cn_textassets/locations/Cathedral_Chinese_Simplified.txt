@@ -1,2 +1,0 @@
-﻿{Locations.Cathedral.Name} 大教堂
-{Locations.Cathedral.Description} 大教堂

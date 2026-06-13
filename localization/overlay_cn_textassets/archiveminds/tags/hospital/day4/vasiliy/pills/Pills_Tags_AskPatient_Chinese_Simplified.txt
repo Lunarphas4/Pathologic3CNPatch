@@ -1,2 +1,0 @@
-{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.Pills.Pills_Tags_AskPatient.Name} ⁠
-{ArchiveMinds.Tags.Hospital.Day4.Vasiliy.Pills.Pills_Tags_AskPatient.Description} 我该问问病人这些药片的事吗？

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_2_MM_Isidom.Name} 临出口
-{Minds2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_2_MM_Isidom.Description} 格里夫是从伊西多尔的宅子里指挥他那帮人的。在见他之前，剩下的事最好都办完。

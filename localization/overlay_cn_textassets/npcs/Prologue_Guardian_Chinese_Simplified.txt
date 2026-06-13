@@ -1,3 +1,0 @@
-{Npcs.Prologue_Guardian.Name} 守卫
-{Npcs.Prologue_Guardian.FullName} ⁠
-{Npcs.Prologue_Guardian.Description} ⁠

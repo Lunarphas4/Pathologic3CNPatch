@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_MM_MissingArchives.Name} 失踪的档案
-{Minds2.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_MM_MissingArchives.Description} 我手里有两条线：第一条昨日断了，第二条则在我入镇的第三天断。两条都得查。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_MM_Evening.Name} 例行事项
-{Minds2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_MM_Evening.Description} 我的诊断正确吗？很快就会知道了。报告今晚会送到静水宅。

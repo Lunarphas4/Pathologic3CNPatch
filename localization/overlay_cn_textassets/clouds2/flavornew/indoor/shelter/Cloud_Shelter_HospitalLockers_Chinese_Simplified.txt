@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_HospitalLockers.44925} 仿佛医院从未存在过
-{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_HospitalLockers.10340} 仿佛医院从未存在过
-{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_HospitalLockers.56689} 仿佛城镇就这样莫名其妙地活了这么久
-{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_HospitalLockers.61752} 我还要看着自己建起的一切毁灭多久？

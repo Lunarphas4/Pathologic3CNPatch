@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_MM_ThoseWhoDontKnow.Name} 丧葬
-{Minds2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_MM_ThoseWhoDontKnow.Description} 墓园里又一场出殡。还会有多少？

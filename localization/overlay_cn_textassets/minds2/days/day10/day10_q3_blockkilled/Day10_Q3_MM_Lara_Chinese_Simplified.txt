@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q3_BlockKilled.Day10_Q3_MM_Lara.Name} 凶手
-{Minds2.Days.Day10.Day10_Q3_BlockKilled.Day10_Q3_MM_Lara.Description} 拉拉是杀将军的凶手。一支没有司令的军队——必然失序。

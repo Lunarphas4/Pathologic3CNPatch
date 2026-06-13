@@ -1,2 +1,0 @@
-{Notifications.Tutorial.Notification_MindPalaceTutorial.Name} 推理
-{Notifications.Tutorial.Notification_MindPalaceTutorial.Description} 有时候，我需要从眼前的局势里抽身一步，冷静地理清头绪。这样才能把整幅图景拼起来。

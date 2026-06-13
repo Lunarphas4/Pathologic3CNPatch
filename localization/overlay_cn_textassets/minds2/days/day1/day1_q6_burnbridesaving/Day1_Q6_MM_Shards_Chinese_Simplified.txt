@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Shards.Name} 碎片
-{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Shards.Description} 圆环闭合，那场因对西蒙的爱而生的无意义可怖屠杀，再次把我的心智击碎成千片碎片。

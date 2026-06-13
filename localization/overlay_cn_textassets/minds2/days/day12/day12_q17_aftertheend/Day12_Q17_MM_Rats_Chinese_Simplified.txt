@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q17_AfterTheEnd.Day12_Q17_MM_Rats.Name} 墙中之鼠
-{Minds2.Days.Day12.Day12_Q17_AfterTheEnd.Day12_Q17_MM_Rats.Description} 我将鼠先知请进了那间镜室。如今他便住在此处。

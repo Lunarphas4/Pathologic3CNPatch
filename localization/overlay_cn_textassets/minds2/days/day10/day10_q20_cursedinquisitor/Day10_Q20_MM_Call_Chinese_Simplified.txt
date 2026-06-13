@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_MM_Call.Name} 传召
-{Minds2.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_MM_Call.Description} 审判官又要见我。我是不是该给他一张我的照片？

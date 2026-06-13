@@ -1,3 +1,0 @@
-{Npcs.Odong.Name} Odongh（金族牧人）
-{Npcs.Odong.FullName} ⁠
-{Npcs.Odong.Description} ⁠

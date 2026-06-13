@@ -1,3 +1,0 @@
-﻿{Npcs.Laska.Name} 格蕾丝
-{Npcs.Laska.FullName} 看墓人
-{Npcs.Laska.Description} 看墓的是个非常年幼的女孩，纤瘦得像一片草叶。她说自己能与亡者交谈，镇民都信她。\n反应迟缓，注意力短浅。我猜她母亲怀她时酗酒甚重。

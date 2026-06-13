@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_6.Day9_Q12_6_MM_Vigilantes.Name} 义勇协助
-{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_6.Day9_Q12_6_MM_Vigilantes.Description} 布洛克要求义勇队协助士兵。

@@ -1,3 +1,0 @@
-{Npcs.Saburov_Servant.Name} 萨布罗夫家仆
-{Npcs.Saburov_Servant.FullName} ⁠
-{Npcs.Saburov_Servant.Description} ⁠

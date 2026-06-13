@@ -1,2 +1,0 @@
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PartTwo_MM_Examination.Name} 患者档案
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PartTwo_MM_Examination.Description} 护理员又送来三人。他们的诊断结果将助我逼近疫苗真相。开工吧。

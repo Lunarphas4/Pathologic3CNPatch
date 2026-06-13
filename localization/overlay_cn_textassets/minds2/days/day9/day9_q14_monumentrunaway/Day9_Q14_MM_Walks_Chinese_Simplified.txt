@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_MM_Walks.Name} 与塑像同行
-{Minds2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_MM_Walks.Description} 崖边坐着的孩子们说那座塑像"自己走开了"。还说，再去查一遍底座，便能明白更多。

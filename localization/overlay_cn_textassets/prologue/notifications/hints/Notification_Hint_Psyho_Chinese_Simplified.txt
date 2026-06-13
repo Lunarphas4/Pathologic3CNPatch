@@ -1,2 +1,0 @@
-{Prologue.Notifications.Hints.Notification_Hint_Psyho.Name} 躁狂
-{Prologue.Notifications.Hints.Notification_Hint_Psyho.Description} 越是躁狂，就越是迅速。但躁狂到极点，便是死亡

@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_InspectionTutorial_Prologue.Name} 身体检查
-{Prologue.Notifications.Tutorial.Notification_InspectionTutorial_Prologue.Description} 必须给患者做检查，并将症状写入病历簿。检查过程中，可随时按<InputActions/UI/Tablet>打开病历簿

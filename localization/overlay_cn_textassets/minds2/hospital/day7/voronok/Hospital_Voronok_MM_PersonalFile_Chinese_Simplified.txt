@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day7.Voronok.Hospital_Voronok_MM_PersonalFile.Name} 苦命的鳏夫
-{Minds2.Hospital.Day7.Voronok.Hospital_Voronok_MM_PersonalFile.Description} 马丁的妻子死于沙疫。他眼下尚活着。

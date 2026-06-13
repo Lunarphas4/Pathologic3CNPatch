@@ -1,3 +1,0 @@
-{Days.Day5.Name} 第五天
-{Days.Day5.Description} 今天，学者将抓住唯一可能通往西蒙·凯恩的线索
-{Days.Day5.Name_StartDay} 第五天，

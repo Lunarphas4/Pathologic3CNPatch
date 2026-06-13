@@ -1,1 +1,0 @@
-{UI.Credits.VoiceActing.IgorStaroseltsev.Name} Igor Staroseltsev

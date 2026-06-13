@@ -1,4 +1,0 @@
-{Clouds2.Hospital.Day5.Hospital_Tolkoviy.Hospital_Tolkoviy_Cloud_HandsTwo.54012} 他的手被抓伤了
-{Clouds2.Hospital.Day5.Hospital_Tolkoviy.Hospital_Tolkoviy_Cloud_HandsTwo.55251} 他的手被抓伤了
-{Clouds2.Hospital.Day5.Hospital_Tolkoviy.Hospital_Tolkoviy_Cloud_HandsTwo.25611} 还是在踩踏中擦伤的？
-{Clouds2.Hospital.Day5.Hospital_Tolkoviy.Hospital_Tolkoviy_Cloud_HandsTwo.12408} 他说这是坏习惯

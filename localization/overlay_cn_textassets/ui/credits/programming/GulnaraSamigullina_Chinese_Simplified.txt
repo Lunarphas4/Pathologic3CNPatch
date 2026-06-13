@@ -1,2 +1,0 @@
-{UI.Credits.Programming.GulnaraSamigullina.Name} Gulnara Samigullina
-{UI.Credits.Programming.GulnaraSamigullina.Description} 程序员、玩法逻辑脚本

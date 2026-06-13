@@ -1,3 +1,0 @@
-{Projectors.Weather.Weather_Rain_Night.20373} ⁠
-{Projectors.Weather.Weather_Rain_Night.9753} 寒冷的夜晚
-{Projectors.Weather.Weather_Rain_Night.17707} 湿透到骨头里

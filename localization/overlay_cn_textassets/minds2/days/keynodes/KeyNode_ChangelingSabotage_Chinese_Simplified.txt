@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_ChangelingSabotage.Name} 蓄意破坏
-{Minds2.Days.KeyNodes.KeyNode_ChangelingSabotage.Description} 我没接受那位"圣女"的相助。她还能怎样——出于赌气把我的病人治好？

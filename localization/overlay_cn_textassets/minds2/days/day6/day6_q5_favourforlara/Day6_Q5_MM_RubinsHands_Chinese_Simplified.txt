@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q5_FavourForLara.Day6_Q5_MM_RubinsHands.Name} 多一双手
-{Minds2.Days.Day6.Day6_Q5_FavourForLara.Day6_Q5_MM_RubinsHands.Description} 与其自责自怨，鲁宾不如来医院搭把手。这话他听见了——决定权在他自己。

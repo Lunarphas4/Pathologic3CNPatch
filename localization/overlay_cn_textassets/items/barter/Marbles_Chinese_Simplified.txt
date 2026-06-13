@@ -1,3 +1,0 @@
-{Items.Barter.Marbles.Name} 玻璃弹珠
-{Items.Barter.Marbles.Description} 孩子透过它看周遭的世界，只看见天地倒了过来，仿佛早期电影放映机里的幻象
-{Items.Barter.Marbles.Description2} 孩子透过它看周遭的世界，只看见天地倒了过来，仿佛早期电影放映机里的幻象

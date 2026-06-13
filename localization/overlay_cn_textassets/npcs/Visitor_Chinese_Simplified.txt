@@ -1,3 +1,0 @@
-{Npcs.Visitor.Name} 访客
-{Npcs.Visitor.FullName} ⁠
-{Npcs.Visitor.Description} ⁠

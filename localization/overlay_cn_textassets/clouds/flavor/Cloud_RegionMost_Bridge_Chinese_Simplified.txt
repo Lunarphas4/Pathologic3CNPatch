@@ -1,3 +1,0 @@
-{Clouds.Flavor.Cloud_RegionMost_Bridge.17796} 通向多面体的路。
-{Clouds.Flavor.Cloud_RegionMost_Bridge.11185} 通向多面体的路。
-{Clouds.Flavor.Cloud_RegionMost_Bridge.11103} 这座塔不过是巨大的折纸……

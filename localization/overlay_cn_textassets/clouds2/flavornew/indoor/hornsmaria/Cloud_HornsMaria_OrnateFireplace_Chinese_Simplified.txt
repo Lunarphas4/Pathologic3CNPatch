@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Indoor.HornsMaria.Cloud_HornsMaria_OrnateFireplace.44925} 火葬炉，玛丽亚仆人的灵魂在其中焚尽
-{Clouds2.FlavorNew.Indoor.HornsMaria.Cloud_HornsMaria_OrnateFireplace.10340} 火葬炉，玛丽亚仆人的灵魂在其中焚尽
-{Clouds2.FlavorNew.Indoor.HornsMaria.Cloud_HornsMaria_OrnateFireplace.56689} 为她燃烧是多么愉悦
-{Clouds2.FlavorNew.Indoor.HornsMaria.Cloud_HornsMaria_OrnateFireplace.61752} 但我的目标是为人们照亮道路

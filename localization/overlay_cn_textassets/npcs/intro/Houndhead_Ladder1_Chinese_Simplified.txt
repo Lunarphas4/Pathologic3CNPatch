@@ -1,3 +1,0 @@
-{Npcs.Intro.Houndhead_Ladder1.Name} 菲尔
-{Npcs.Intro.Houndhead_Ladder1.FullName} ⁠
-{Npcs.Intro.Houndhead_Ladder1.Description} ⁠

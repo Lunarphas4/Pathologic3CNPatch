@@ -1,2 +1,0 @@
-﻿{CraftRecipes.Relaxant_CraftRecipe.Name} 莫利亚汀
-{CraftRecipes.Relaxant_CraftRecipe.Description} 增加冷漠

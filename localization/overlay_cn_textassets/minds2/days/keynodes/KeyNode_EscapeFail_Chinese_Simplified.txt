@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_EscapeFail.Name} 隔离
-{Minds2.Days.KeyNodes.KeyNode_EscapeFail.Description} 出镇之事已失败，眼下情形之下不可能再行。

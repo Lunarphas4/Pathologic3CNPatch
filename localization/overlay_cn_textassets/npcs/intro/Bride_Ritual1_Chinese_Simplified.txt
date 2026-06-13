@@ -1,3 +1,0 @@
-{Npcs.Intro.Bride_Ritual1.Name} 埃尔热
-{Npcs.Intro.Bride_Ritual1.FullName} ⁠
-{Npcs.Intro.Bride_Ritual1.Description} ⁠

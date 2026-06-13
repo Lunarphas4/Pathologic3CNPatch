@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_NoKhanNoEmptying.Name} 无政府
-{Minds2.Days.KeyNodes.KeyNode_NoKhanNoEmptying.Description} 孩童帮派陷入了无政府之乱。撤离多面体已无可能。

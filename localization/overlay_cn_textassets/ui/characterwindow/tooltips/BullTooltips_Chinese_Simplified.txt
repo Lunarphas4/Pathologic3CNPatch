@@ -1,6 +1,0 @@
-﻿{UI.CharacterWindow.Tooltips.BullTooltips.Death} 第9天，这头公牛被饥民吃掉
-{UI.CharacterWindow.Tooltips.BullTooltips.Intro} 第6天，我带走这头公牛，并让它感染沙疫
-{UI.CharacterWindow.Tooltips.BullTooltips.Decrees} 第8天，这头公牛吞掉了紧急指挥部的所有命令
-{UI.CharacterWindow.Tooltips.BullTooltips.Alive} 第9天，这头公牛免于被吃掉
-{UI.CharacterWindow.Tooltips.BullTooltips.Gone} 第10天，这头公牛在静水观星台房间里神秘消失，只剩一头纸牛留在原处
-{UI.CharacterWindow.Tooltips.BullTooltips.Polyhedron} 第12天，这头公牛的倒影在多面体的面上游荡

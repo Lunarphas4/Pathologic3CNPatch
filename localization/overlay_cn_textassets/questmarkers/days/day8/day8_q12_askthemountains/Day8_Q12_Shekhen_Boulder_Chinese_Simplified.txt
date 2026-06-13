@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day8.Day8_Q12_AskTheMountains.Day8_Q12_Shekhen_Boulder.Name} 谢肯
-{QuestMarkers.Days.Day8.Day8_Q12_AskTheMountains.Day8_Q12_Shekhen_Boulder.Description} 若巨石不来见我——那我便穿越整片草原去见他。

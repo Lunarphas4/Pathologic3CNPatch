@@ -1,2 +1,0 @@
-﻿{Notifications.Notification_Hospital_NotAllDiagnosis.Name} 诊断不足
-{Notifications.Notification_Hospital_NotAllDiagnosis.Description} 今日所有病人未全部确诊之前，疫苗无法取得。可以翻查个人档案，看看漏了谁。

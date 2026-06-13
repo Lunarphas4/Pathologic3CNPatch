@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day5.SakhMen.Hospital_SakhMen_MM_Inspection.Name} 检查结果
-{Minds2.Hospital.Day5.SakhMen.Hospital_SakhMen_MM_Inspection.Description} 已识别症状可能由多种疾病引起。我需要继续追问。

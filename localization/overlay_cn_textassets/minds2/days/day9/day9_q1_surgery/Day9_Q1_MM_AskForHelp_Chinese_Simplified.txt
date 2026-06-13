@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_AskForHelp.Name} 会诊
-{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_AskForHelp.Description} 萨布罗夫一家只信我一人。但镇里还有别的大夫，向他们求助、求他们一道动手并非什么丢脸事。

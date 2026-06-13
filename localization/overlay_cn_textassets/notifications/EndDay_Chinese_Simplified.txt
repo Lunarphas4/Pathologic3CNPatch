@@ -1,2 +1,0 @@
-{Notifications.EndDay.Name} 今天结束
-{Notifications.EndDay.Description} ⁠

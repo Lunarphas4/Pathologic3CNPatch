@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_DangerousPolyhedron.Name} 达摩克利斯之剑
-{Minds2.Days.KeyNodes.KeyNode_DangerousPolyhedron.Description} 我不知多面体是否有坍塌之虞。

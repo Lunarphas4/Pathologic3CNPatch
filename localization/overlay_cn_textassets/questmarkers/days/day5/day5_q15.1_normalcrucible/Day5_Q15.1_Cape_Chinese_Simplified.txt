@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day5.Day5_Q15.1_NormalCrucible.Day5_Q15.1_Cape.Name} 岬角
-{QuestMarkers.Days.Day5.Day5_Q15.1_NormalCrucible.Day5_Q15.1_Cape.Description} 今天维克多在妻子的墓前哀悼

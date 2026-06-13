@@ -1,2 +1,0 @@
-﻿{Locations.Liuricheva.Name} 束网
-{Locations.Liuricheva.Description} 束网

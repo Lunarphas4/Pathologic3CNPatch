@@ -1,3 +1,0 @@
-{Items.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_DecreesDeck_Numbers.Name} 带计算的法令表
-{Items.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_DecreesDeck_Numbers.Description} 只剩把数字和法令对上。
-{Items.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_DecreesDeck_Numbers.Description2} 这么多计算——一眼就让人头晕。我只需要弄清哪些数字对应哪道命令。

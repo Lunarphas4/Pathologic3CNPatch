@@ -1,2 +1,0 @@
-{Notifications.GameHint.Hint_Vizir_Notification.Name} ⁠
-{Notifications.GameHint.Hint_Vizir_Notification.Description} 按 <InputActions/Weapon/Visor> 佩戴疫探镜。疫探镜可让你看见染病区域与疫雾。

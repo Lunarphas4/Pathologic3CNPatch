@@ -1,2 +1,0 @@
-{Notifications.Old.HintVisor_1.Name} ⁠
-{Notifications.Old.HintVisor_1.Description} ⁠

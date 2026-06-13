@@ -1,2 +1,0 @@
-{Prologue.Notifications.Notification_Prologue_Day2.Name} 第二天，
-{Prologue.Notifications.Notification_Prologue_Day2.Description} 学者搅乱了土地的安宁，不是一次，而是两次

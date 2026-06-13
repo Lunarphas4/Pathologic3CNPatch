@@ -1,2 +1,0 @@
-﻿{Locations.Rubin_Flat_House_5.Name} 鲁宾的公寓
-{Locations.Rubin_Flat_House_5.Description} 鲁宾的公寓

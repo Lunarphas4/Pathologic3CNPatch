@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_MM_Handkerchief.Name} 物证
-{Minds2.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_MM_Handkerchief.Description} 弗拉德把心上人的手帕收在办公桌里。多浪漫！

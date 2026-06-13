@@ -1,3 +1,0 @@
-{Npcs.Girl_Jay.Name} 松鸦
-{Npcs.Girl_Jay.FullName} ⁠
-{Npcs.Girl_Jay.Description} ⁠

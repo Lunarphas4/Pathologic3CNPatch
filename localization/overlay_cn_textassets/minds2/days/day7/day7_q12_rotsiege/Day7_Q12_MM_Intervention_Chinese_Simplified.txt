@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q12_RotSiege.Day7_Q12_MM_Intervention.Name} 自行处置
-{Minds2.Days.Day7.Day7_Q12_RotSiege.Day7_Q12_MM_Intervention.Description} 卫兵解了"权杖宅"之围。镇上的人，从此心头更怨。

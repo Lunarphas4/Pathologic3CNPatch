@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_MM_Inquisitor'sHospitality.Name} 审判官的款待
-{Minds2.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_MM_Inquisitor'sHospitality.Description} 当卡明斯基的邀请并非为了"谈话"——你便无从回绝。

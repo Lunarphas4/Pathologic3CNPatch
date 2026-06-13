@@ -1,3 +1,0 @@
-{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Shabnak.Name} 已摧毁的感染源
-{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Shabnak.Description} 摧毁Shabnak（泥魔女）时，我已经数次重创死亡。那是瘟疫的畸形产物，还是瘟疫本身？也许战斗发生在我的脑海里，但每消灭一处感染源，传染水平都迅速下降。
-{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Shabnak.Description2} 摧毁Shabnak（泥魔女）时，我已经数次重创死亡。那是瘟疫的畸形产物，还是瘟疫本身？也许战斗发生在我的脑海里，但每消灭一处感染源，传染水平都迅速下降。

@@ -1,4 +1,0 @@
-{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Poster_Needy.21580} “为有需要的人收集柴火！”
-{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Poster_Needy.32720} “为有需要的人收集柴火！”
-{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Poster_Needy.8141} 拿怜悯做买卖：廉价把戏
-{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Poster_Needy.22586} 攥着拳头的乞丐

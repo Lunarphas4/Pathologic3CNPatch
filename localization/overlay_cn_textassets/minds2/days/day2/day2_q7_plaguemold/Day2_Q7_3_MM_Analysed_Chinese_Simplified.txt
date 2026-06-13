@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_3_MM_Analysed.Name} 凝结之雾
-{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_3_MM_Analysed.Description} 霉斑在墙上凝结：恰是病原微生物繁殖的温床。这等污秽将摧毁全镇！

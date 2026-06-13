@@ -1,2 +1,0 @@
-{Minds2.Days.Day8.Day8_Q15.2_BullSaving.Day8_Q15.2_MM_FeedByDecree.Name} 非目标需求
-{Minds2.Days.Day8.Day8_Q15.2_BullSaving.Day8_Q15.2_MM_FeedByDecree.Description} 今天我喂饱了饥饿的人。这对抗疫有帮助吗？不多。要紧的是——这样的举动会让伊娃高兴

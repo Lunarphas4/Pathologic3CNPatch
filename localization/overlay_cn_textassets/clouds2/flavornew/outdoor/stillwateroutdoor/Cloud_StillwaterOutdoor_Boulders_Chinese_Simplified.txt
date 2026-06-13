@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.StillwaterOutdoor.Cloud_StillwaterOutdoor_Boulders.44925} 天然石块？
-{Clouds2.FlavorNew.Outdoor.StillwaterOutdoor.Cloud_StillwaterOutdoor_Boulders.10340} 天然石块？
-{Clouds2.FlavorNew.Outdoor.StillwaterOutdoor.Cloud_StillwaterOutdoor_Boulders.56689} 古代文明的巨石？
-{Clouds2.FlavorNew.Outdoor.StillwaterOutdoor.Cloud_StillwaterOutdoor_Boulders.61752} 还是凯恩家构想的一部分？

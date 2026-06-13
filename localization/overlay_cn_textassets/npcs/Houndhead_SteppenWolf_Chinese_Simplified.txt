@@ -1,3 +1,0 @@
-{Npcs.Houndhead_SteppenWolf.Name} 草原之狼
-{Npcs.Houndhead_SteppenWolf.FullName} ⁠
-{Npcs.Houndhead_SteppenWolf.Description} ⁠

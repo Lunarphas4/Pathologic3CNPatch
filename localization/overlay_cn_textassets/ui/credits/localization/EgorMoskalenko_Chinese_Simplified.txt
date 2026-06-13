@@ -1,2 +1,0 @@
-{UI.Credits.Localization.EgorMoskalenko.Name} Egor Moskalenko
-{UI.Credits.Localization.EgorMoskalenko.Description} 翻译编辑

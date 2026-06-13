@@ -1,7 +1,0 @@
-{Dialogs2.Days.Day10.Day10_Q23_GriefInCage.Day10_Q23_GriefShadow_InCage.49154} 你是来纪念一位英雄的？良心过不去了？还是只是路过时，想起了老朋友？
-{Dialogs2.Days.Day10.Day10_Q23_GriefInCage.Day10_Q23_GriefShadow_InCage.61325} 别往伤口上撒盐了，影子。我对这一切的结局并不高兴。我已经尽力了。
-{Dialogs2.Days.Day10.Day10_Q23_GriefInCage.Day10_Q23_GriefShadow_InCage.5508} 全部？嗯哼。不过格里夫会喜欢的。以高音收场，像殉道者一样。为软弱和可怜的人战斗而死，被记作抵抗的英雄。这比在监狱里烂掉好多了。
-{Dialogs2.Days.Day10.Day10_Q23_GriefInCage.Day10_Q23_GriefShadow_InCage.28244} 格里夫是个蠢货。活该。
-{Dialogs2.Days.Day10.Day10_Q23_GriefInCage.Day10_Q23_GriefShadow_InCage.40658} 格里夫对音乐的想法确实有点奇特。或者说，曾经如此。
-{Dialogs2.Days.Day10.Day10_Q23_GriefInCage.Day10_Q23_GriefShadow_InCage.53862} 我没想让他被处决。我没有！
-{Dialogs2.Days.Day10.Day10_Q23_GriefInCage.Day10_Q23_GriefShadow_InCage.27583} 我认识格里夫的时间短得不能再短。就在那点时间里，我救过他多少次？到此为止了，一切都结束了。

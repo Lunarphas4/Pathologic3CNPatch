@@ -1,5 +1,0 @@
-{Clouds.Old.Hospital_GodsFool_Cloud_Bonfire.15315} 他们在这里做饭。
-{Clouds.Old.Hospital_GodsFool_Cloud_Bonfire.26668} 他们在这里做饭。
-{Clouds.Old.Hospital_GodsFool_Cloud_Bonfire.30574} 这里很容易暖和起来。
-{Clouds.Old.Hospital_GodsFool_Cloud_Bonfire.643} 锅里散出一股恶臭。
-{Clouds.Old.Hospital_GodsFool_Cloud_Bonfire.6784} 他们在吃什么？

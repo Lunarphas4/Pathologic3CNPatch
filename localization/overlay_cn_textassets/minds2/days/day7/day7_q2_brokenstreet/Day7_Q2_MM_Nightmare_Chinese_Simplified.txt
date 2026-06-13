@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_Nightmare.Name} 凯恩家的工程
-{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_Nightmare.Description} 通往疯狂的路，由善意铺就。

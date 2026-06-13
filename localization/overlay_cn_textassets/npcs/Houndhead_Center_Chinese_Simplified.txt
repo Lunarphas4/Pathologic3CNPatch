@@ -1,3 +1,0 @@
-{Npcs.Houndhead_Center.Name} 狗中头
-{Npcs.Houndhead_Center.FullName} ⁠
-{Npcs.Houndhead_Center.Description} ⁠

@@ -1,2 +1,0 @@
-﻿{Locations.Polyhedron_Indoor_SplitWorld_Normal.Name} 断裂世界
-{Locations.Polyhedron_Indoor_SplitWorld_Normal.Description} 断裂世界

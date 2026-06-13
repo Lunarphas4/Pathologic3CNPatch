@@ -1,3 +1,0 @@
-﻿{Npcs.Anna.Name} 安娜·安琪尔
-{Npcs.Anna.FullName} 歌伶
-{Npcs.Anna.Description} 关于这个让人极不愉快的女人，流着不堪入耳的传言：不是说她杀了人，便是说她偷了孩子。我也只是道听途说罢了。\n这镇仿佛是几十个想从人世消失之人的避难所。

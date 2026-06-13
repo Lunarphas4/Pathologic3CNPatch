@@ -1,2 +1,0 @@
-{Symptoms.Psihoz.Name} 精神病性发作
-{Symptoms.Psihoz.Description} 思维、感知或行为严重紊乱，患者可能难以判断现实。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_3_MM_Servants.Name} 军队是审判庭的看门犬
-{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_3_MM_Servants.Description} 布洛克倾尽权柄，才把安德烈移到市政厅过夜。但在那里我能和他谈一谈！

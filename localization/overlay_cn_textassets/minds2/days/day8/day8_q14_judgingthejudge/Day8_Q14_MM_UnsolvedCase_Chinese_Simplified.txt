@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_MM_UnsolvedCase.Name} 审判裁判
-{Minds2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_MM_UnsolvedCase.Description} 暴民杀死了格奥尔基。我没看见这是如何发生的。

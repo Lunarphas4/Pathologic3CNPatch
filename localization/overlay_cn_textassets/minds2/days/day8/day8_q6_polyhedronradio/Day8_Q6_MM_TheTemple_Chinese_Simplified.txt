@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_TheTemple.Name} 通门之钥
-{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_TheTemple.Description} 阁楼总有路可入！要不——去找卡明斯基……开口求他？

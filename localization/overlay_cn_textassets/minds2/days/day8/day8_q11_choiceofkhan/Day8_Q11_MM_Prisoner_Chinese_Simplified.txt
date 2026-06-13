@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_MM_Prisoner.Name} 走投无路
-{Minds2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_MM_Prisoner.Description} 只要可汗仍违心地被关在笼里，孩子们的仇便平息不了。

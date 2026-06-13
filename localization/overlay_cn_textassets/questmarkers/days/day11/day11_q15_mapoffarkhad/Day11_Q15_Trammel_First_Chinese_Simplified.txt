@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_Trammel_First.Name} 束网
-{QuestMarkers.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_Trammel_First.Description} 这镇上的所有街道都汇于尤利娅家。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q15_BullFellIntoTheStillwater.Day10_Q15_MM_NoBullAgain.Name} 空荡
-{Minds2.Days.Day10.Day10_Q15_BullFellIntoTheStillwater.Day10_Q15_MM_NoBullAgain.Description} 它去哪儿了？

@@ -1,3 +1,0 @@
-{Npcs.Mortus.Name} 护理员
-{Npcs.Mortus.FullName} ⁠
-{Npcs.Mortus.Description} ⁠

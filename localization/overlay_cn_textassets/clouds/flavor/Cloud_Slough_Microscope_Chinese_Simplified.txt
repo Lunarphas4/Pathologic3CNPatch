@@ -1,5 +1,0 @@
-{Clouds.Flavor.Cloud_Slough_Microscope.17796} 他们好心把城里能找到的医疗器材都搬来了。
-{Clouds.Flavor.Cloud_Slough_Microscope.11103} 他们好心把城里能找到的医疗器材都搬来了。
-{Clouds.Flavor.Cloud_Slough_Microscope.27308} 我有点饿。
-{Clouds.Flavor.Cloud_Slough_Microscope.16167} 显微镜需要和杂物分开放。\n不能让亚麻尘落在上面。
-{Clouds.Flavor.Cloud_Slough_Microscope.18551} 这是一台罕见的梅普尔斯显微镜。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_NeedInqusitor.Name} 不祥的救主
-{Minds2.Days.KeyNodes.KeyNode_NeedInqusitor.Description} 看来卡明斯基若死，多面体便保不住。

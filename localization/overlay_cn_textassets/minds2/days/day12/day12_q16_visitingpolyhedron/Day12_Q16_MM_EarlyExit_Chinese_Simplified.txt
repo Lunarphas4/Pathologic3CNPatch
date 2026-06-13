@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_MM_EarlyExit.Name} 现实世界
-{Minds2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_MM_EarlyExit.Description} 昔日的丹尼尔·丹科夫斯基，是不会从多面体里走出来的。无论那些棱面如何召唤——我想保住自己。从此，那条路对我已经关闭。

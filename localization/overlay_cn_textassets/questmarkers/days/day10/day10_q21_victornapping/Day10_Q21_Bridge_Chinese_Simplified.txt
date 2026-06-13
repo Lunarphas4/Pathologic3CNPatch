@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_Bridge.Name} 脾脏区
-{QuestMarkers.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_Bridge.Description} 有人看见维克多被领着朝这个方向走——过了桥某处。

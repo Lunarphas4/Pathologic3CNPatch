@@ -1,2 +1,0 @@
-{PersonalFiles.Day6.Astrild.Name} 阿斯特丽德
-{PersonalFiles.Day6.Astrild.Description} 孤独的女人，来取退烧药。

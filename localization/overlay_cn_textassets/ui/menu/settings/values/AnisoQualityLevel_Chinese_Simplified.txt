@@ -1,5 +1,0 @@
-{UI.Menu.Settings.Values.AnisoQualityLevel.x1} x1
-{UI.Menu.Settings.Values.AnisoQualityLevel.x2} x2
-{UI.Menu.Settings.Values.AnisoQualityLevel.x4} x4
-{UI.Menu.Settings.Values.AnisoQualityLevel.x8} x8
-{UI.Menu.Settings.Values.AnisoQualityLevel.x16} x16

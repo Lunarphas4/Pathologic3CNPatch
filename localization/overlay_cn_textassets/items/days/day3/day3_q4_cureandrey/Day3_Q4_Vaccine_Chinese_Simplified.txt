@@ -1,3 +1,0 @@
-{Items.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Vaccine.Name} 可疑药剂
-{Items.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Vaccine.Description} 小奥利吉姆斯基所谓的疫苗。
-{Items.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Vaccine.Description2} 小奥利吉姆斯基用来毒害全镇的所谓疫苗。Odonghe（金族牧人）发明了它。据说它能刺激对沙疫的免疫力。

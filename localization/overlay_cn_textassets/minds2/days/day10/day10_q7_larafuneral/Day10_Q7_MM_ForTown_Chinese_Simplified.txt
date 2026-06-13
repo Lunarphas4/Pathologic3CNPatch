@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_MM_ForTown.Name} 为了这座镇
-{Minds2.Days.Day10.Day10_Q7_LaraFuneral.Day10_Q7_MM_ForTown.Description} 我别无他法。

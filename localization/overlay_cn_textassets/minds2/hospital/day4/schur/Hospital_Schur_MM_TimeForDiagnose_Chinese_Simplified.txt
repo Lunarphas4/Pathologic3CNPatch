@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day4.Schur.Hospital_Schur_MM_TimeForDiagnose.Name} 该下诊断了
-{Minds2.Hospital.Day4.Schur.Hospital_Schur_MM_TimeForDiagnose.Description} 我得查清芬奇除沙疫之外还得了什么病。

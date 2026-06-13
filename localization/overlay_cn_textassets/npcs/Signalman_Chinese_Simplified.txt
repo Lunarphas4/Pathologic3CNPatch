@@ -1,3 +1,0 @@
-{Npcs.Signalman.Name} 扳道工
-{Npcs.Signalman.FullName} ⁠
-{Npcs.Signalman.Description} ⁠

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_MM_Persuasion.Name} 再创伤
-{Minds2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_MM_Persuasion.Description} 看来我说服他放弃了进一步的实验。再不会有人以神智为代价了。

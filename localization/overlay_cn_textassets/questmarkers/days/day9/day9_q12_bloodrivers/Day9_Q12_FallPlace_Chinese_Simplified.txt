@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_FallPlace.Name} 多面体之基座
-{QuestMarkers.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_FallPlace.Description} 就在多面体下方那座小岛上，发现了士兵的尸首。

@@ -1,3 +1,0 @@
-{Npcs.Prologue_Hall_Crowd.Name} 旁观的人
-{Npcs.Prologue_Hall_Crowd.FullName} ⁠
-{Npcs.Prologue_Hall_Crowd.Description} ⁠

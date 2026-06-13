@@ -1,4 +1,0 @@
-{Clouds2.Days.Day10.Day10_Q3_BlockKilled.Day10_Q3_Cloud_Guards.4719} 被剥夺了荣誉
-{Clouds2.Days.Day10.Day10_Q3_BlockKilled.Day10_Q3_Cloud_Guards.7095} 被剥夺了荣誉
-{Clouds2.Days.Day10.Day10_Q3_BlockKilled.Day10_Q3_Cloud_Guards.40839} 被遗忘的浪人
-{Clouds2.Days.Day10.Day10_Q3_BlockKilled.Day10_Q3_Cloud_Guards.64279} 模型上的血

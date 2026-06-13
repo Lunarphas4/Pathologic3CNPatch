@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_Isidoor.Name} 伊西多尔的宅子
-{QuestMarkers.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_Isidoor.Description} 格里夫躲在这里。他已为我备好出镇之路。

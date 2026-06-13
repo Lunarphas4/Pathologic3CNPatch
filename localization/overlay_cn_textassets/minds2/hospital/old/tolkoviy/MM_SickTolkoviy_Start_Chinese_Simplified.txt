@@ -1,2 +1,0 @@
-{Minds2.Hospital.Old.Tolkoviy.MM_SickTolkoviy_Start.Name} 病人嘲鸫
-{Minds2.Hospital.Old.Tolkoviy.MM_SickTolkoviy_Start.Description} 先检查病人嘲鸫的情况。

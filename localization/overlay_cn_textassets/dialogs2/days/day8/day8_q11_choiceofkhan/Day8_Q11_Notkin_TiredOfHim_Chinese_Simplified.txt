@@ -1,9 +1,0 @@
-{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Notkin_TiredOfHim.10477} 怎么样？你说服他出来了吗，谈判大师？
-{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Notkin_TiredOfHim.39939} 没有。
-{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Notkin_TiredOfHim.40116} 是啊，他就是那样。谈起来谁都能被他说服。他跟你说蓟草的事了吗？他和荆棘好像有种说不清的关系……我不懂他到底什么意思，但听着还挺有意思。
-{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Notkin_TiredOfHim.36037} 你还得再多听他一阵，诺特金，也还得继续把他留在笼子里。
-{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Notkin_TiredOfHim.4770} 所以这就是我的新差事了？给我的老敌人当保姆。还有我的猫，小丑，也老往他的笼子边跑。让他摸。还非要他摸！以前从没有过。小丑以前只让一个外人碰过——凯恩家那位最年长的。毛茸茸的小叛徒。
-{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Notkin_TiredOfHim.48676} 确实，可汗在那笼子里变得很像西蒙了。
-{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Notkin_TiredOfHim.46586} 我从没见过你的猫。我几乎能肯定那是你编出来的。
-{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Notkin_TiredOfHim.46232} 我的外交失败也有好处。你可以继续和他下棋。
-{Dialogs2.Days.Day8.Day8_Q11_ChoiceOfKhan.Day8_Q11_Notkin_TiredOfHim.53254} 我已经分不清到底是谁说服了谁、说服了什么。那场谈话很怪。

@@ -1,2 +1,0 @@
-{ArchiveDialogs.Hospitals.Hospital_Psychosis.7762} 真想用手术刀结束这场痛苦。你们全都死了，连我也是个死人。狂欢吧，在疯舞中旋转死亡，大笑吧！为什么还在呻吟，蠢货们！
-{ArchiveDialogs.Hospitals.Hospital_Psychosis.26021} 你失控了，学者。你的手在发抖——你敢以这种状态靠近病人试试看。你是医生，记住：首要是不造成伤害。深呼吸，冷静下来，别在杀人之前才清醒。

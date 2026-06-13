@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_Stillwater_Analysis.Name} 静水观星台
-{QuestMarkers.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_Stillwater_Analysis.Description} 要不要把那些怪疹拿去化验？

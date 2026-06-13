@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_HUDBalanceTutorial_Prologue.Name} 平衡
-{Prologue.Notifications.Tutorial.Notification_HUDBalanceTutorial_Prologue.Description} 有些物品会影响精神状态。按 <InputActions/Weapon/Tags> 进入专注模式，就能更容易发现它们。

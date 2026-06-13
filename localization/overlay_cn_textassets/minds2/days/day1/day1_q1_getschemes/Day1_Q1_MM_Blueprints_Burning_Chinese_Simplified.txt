@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day1.Day1_Q1_GetSchemes.Day1_Q1_MM_Blueprints_Burning.Name} 自灰烬中升起
-{Minds2.Days.Day1.Day1_Q1_GetSchemes.Day1_Q1_MM_Blueprints_Burning.Description} 审判官想看多面体的蓝图。遗憾的是，彼得在第三天烧掉了它们。但我知道它们在被焚毁前埋在哪里。

@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day5.Day5_Q6.1_GodsFoolPatient.Day5_Q6.1_Hospital_GodsFool.Name} 医院
-{QuestMarkers.Days.Day5.Day5_Q6.1_GodsFoolPatient.Day5_Q6.1_Hospital_GodsFool.Description} 换生灵本可以治好其中一名病人——但她没有。所以我可以诊断他

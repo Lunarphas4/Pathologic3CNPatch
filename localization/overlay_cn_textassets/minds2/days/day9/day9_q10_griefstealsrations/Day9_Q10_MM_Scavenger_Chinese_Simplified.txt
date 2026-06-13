@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q10_GriefStealsRations.Day9_Q10_MM_Scavenger.Name} 拾荒者
-{Minds2.Days.Day9.Day9_Q10_GriefStealsRations.Day9_Q10_MM_Scavenger.Description} 如果不阻止偷粮，再过两日，军队便会向全镇开火。

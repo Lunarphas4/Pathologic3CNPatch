@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_AmalgamUsage.Name} 汞合金
-{Notifications.Tutorial.Notification_AmalgamUsage.Description} 学者的过去与玩家的过去都需要汞合金。读档亦需付出代价。

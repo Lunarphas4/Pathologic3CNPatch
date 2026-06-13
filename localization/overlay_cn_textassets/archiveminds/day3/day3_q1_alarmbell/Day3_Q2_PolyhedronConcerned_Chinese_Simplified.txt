@@ -1,2 +1,0 @@
-﻿{ArchiveMinds.Day3.Day3_Q1_AlarmBell.Day3_Q2_PolyhedronConcerned.Name} 他们想把多面体改成隔离病房，但这也许不安全。
-{ArchiveMinds.Day3.Day3_Q1_AlarmBell.Day3_Q2_PolyhedronConcerned.Description} 格奥尔基提议在多面体里设立隔离病房，但那座塔看起来并不安全。

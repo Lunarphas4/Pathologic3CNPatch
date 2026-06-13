@@ -1,2 +1,0 @@
-{PersonalFiles.Day6.Voronok.Name} 沃罗诺克
-{PersonalFiles.Day6.Voronok.Description} 新近丧偶，妻子死于沙疫。

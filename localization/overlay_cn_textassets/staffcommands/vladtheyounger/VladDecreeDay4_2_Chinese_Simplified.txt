@@ -1,2 +1,0 @@
-{StaffCommands.VladTheYounger.VladDecreeDay4_2.Name} 集体安葬
-{StaffCommands.VladTheYounger.VladDecreeDay4_2.Description} 在烂泥地附近组织集中掩埋。

@@ -1,2 +1,0 @@
-{Locations.Kladbishe.Name} 墓园
-{Locations.Kladbishe.Description} 墓园

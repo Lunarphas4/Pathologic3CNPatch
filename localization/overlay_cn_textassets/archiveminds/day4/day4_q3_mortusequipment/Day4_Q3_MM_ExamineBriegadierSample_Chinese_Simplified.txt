@@ -1,2 +1,0 @@
-﻿{ArchiveMinds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_MM_ExamineBriegadierSample.Name} 他数小时内就死了。为什么这么快？
-{ArchiveMinds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_MM_ExamineBriegadierSample.Description} 工头进入感染城区后数小时内就死了。为什么这么快？

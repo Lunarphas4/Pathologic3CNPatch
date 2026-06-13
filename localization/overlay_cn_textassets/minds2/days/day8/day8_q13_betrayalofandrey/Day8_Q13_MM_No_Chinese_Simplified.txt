@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q13_BetrayalOfAndrey.Day8_Q13_MM_No.Name} 不
-{Minds2.Days.Day8.Day8_Q13_BetrayalOfAndrey.Day8_Q13_MM_No.Description} 我不会出卖安德烈。

@@ -1,2 +1,0 @@
-{Notifications.Old.HintDayAgain.Name} ⁠
-{Notifications.Old.HintDayAgain.Description} ⁠

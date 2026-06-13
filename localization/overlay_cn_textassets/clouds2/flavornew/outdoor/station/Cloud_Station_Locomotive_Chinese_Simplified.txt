@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.Station.Cloud_Station_Locomotive.44925} 列车僵在轨道上，死了，不能动了
-{Clouds2.FlavorNew.Outdoor.Station.Cloud_Station_Locomotive.10340} 列车僵在轨道上，死了，不能动了
-{Clouds2.FlavorNew.Outdoor.Station.Cloud_Station_Locomotive.58869} 电影里劫火车看起来简单多了
-{Clouds2.FlavorNew.Outdoor.Station.Cloud_Station_Locomotive.56689} 感觉它们从流水线上下来只是为了……
-{Clouds2.FlavorNew.Outdoor.Station.Cloud_Station_Locomotive.61752} ……马上被人在枪声和怪叫中劫走

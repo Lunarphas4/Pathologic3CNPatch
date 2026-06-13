@@ -1,2 +1,0 @@
-{Dialogs2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_Seraphima_Polyhedron.53599} （取消对话）[谢拉菲玛台词]
-{Dialogs2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_Seraphima_Polyhedron.31599} [学者回答]

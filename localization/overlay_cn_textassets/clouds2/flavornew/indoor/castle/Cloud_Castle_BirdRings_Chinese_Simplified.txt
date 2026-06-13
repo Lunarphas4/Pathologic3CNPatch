@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Castle.Cloud_Castle_BirdRings.44925} 我发誓，我听见翅膀拍动的声音了！
-{Clouds2.FlavorNew.Indoor.Castle.Cloud_Castle_BirdRings.10340} 我发誓，我听见翅膀拍动的声音了！
-{Clouds2.FlavorNew.Indoor.Castle.Cloud_Castle_BirdRings.56689} 带鸟的双魂者会爬上最高的烟囱
-{Clouds2.FlavorNew.Indoor.Castle.Cloud_Castle_BirdRings.61752} 但高不过镜塔

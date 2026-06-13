@@ -1,2 +1,0 @@
-﻿{ArchiveMinds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_MM_BriegadierSampleResult.Name} 瘟疫能在数小时内杀死一个人。
-{ArchiveMinds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_MM_BriegadierSampleResult.Description} 瘟疫能在数小时内杀死一个人。我们工作时必须把这一点考虑进去。

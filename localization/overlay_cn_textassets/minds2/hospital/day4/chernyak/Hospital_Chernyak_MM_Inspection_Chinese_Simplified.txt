@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day4.Chernyak.Hospital_Chernyak_MM_Inspection.Name} 检查
-{Minds2.Hospital.Day4.Chernyak.Hospital_Chernyak_MM_Inspection.Description} 我需要给病人做检查。

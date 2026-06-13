@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_EuthanasiaAmalgamTutorial.Name} 取其余生
-{Notifications.Tutorial.Notification_EuthanasiaAmalgamTutorial.Description} 沙疫病人的痛苦难以忍受。以精确的药量——我可让他们解脱。他们所剩的时光便归我所有。

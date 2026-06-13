@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_WaterTower_Vaccine.Name} 水塔
-{QuestMarkers.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_WaterTower_Vaccine.Description} 即将上演屠戮的地方，即将变为坟场的地方。我究竟能做成些什么吗？

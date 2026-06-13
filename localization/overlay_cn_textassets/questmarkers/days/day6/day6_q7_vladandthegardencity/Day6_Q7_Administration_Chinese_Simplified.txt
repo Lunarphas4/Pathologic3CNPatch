@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_Administration.Name} 市政厅
-{QuestMarkers.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_Administration.Description} 小弗拉德在此处任职的官署。

@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_BarterPriceTutorial.Name} 公平交易
-{Notifications.Tutorial.Notification_BarterPriceTutorial.Description} 若我开出的东西价值低于所求之物，人们不会答应交换。

@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_ClockItemsTrigger.Name} 回忆
-{Notifications.Tutorial.Notification_ClockItemsTrigger.Description} 物品只存在于它们被发现的那一日。换日时——它们留在钟里。

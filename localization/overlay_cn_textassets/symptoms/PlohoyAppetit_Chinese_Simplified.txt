@@ -1,2 +1,0 @@
-{Symptoms.PlohoyAppetit.Name} 食欲不振
-{Symptoms.PlohoyAppetit.Description} 进食需求降低，或完全没有进食欲望。

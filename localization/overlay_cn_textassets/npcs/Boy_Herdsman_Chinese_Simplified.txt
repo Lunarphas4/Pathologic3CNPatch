@@ -1,3 +1,0 @@
-{Npcs.Boy_Herdsman.Name} 少年牧人
-{Npcs.Boy_Herdsman.FullName} ⁠
-{Npcs.Boy_Herdsman.Description} ⁠

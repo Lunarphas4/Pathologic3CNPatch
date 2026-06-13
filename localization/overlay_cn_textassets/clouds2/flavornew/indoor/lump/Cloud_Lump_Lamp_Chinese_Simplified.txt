@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Lump.Cloud_Lump_Lamp.44925} 窗边的灯，当然是信号
-{Clouds2.FlavorNew.Indoor.Lump.Cloud_Lump_Lamp.10340} 窗边的灯，当然是信号
-{Clouds2.FlavorNew.Indoor.Lump.Cloud_Lump_Lamp.56689} 逃亡的草原人可以通行？
-{Clouds2.FlavorNew.Indoor.Lump.Cloud_Lump_Lamp.61752} 表示卡佩拉今天不会去见孩子们？
-{Clouds2.FlavorNew.Indoor.Lump.Cloud_Lump_Lamp.56840} 一束灯塔的光，意思是：来这里很危险？

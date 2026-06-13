@@ -1,9 +1,0 @@
-{UI.Microscope.TimeHint} 该检查一下
-{UI.Microscope.Material} 材料
-{UI.Microscope.Reagents} 剩余试剂
-{UI.Microscope.ResearchButton} <InputActions/Microscope/StartMicroscope> 检查
-{UI.Microscope.GetSampleButton} <InputActions/Microscope/GatherSample> 拿取样本
-{UI.Microscope.HasSampleButton} 已拿取样本
-{UI.Microscope.Glasses} 剩余显微镜载玻片
-{UI.Microscope.NotEnoughGlassesButton} 没有载玻片了
-{UI.Microscope.BacteriaHint} 寻找红色细菌

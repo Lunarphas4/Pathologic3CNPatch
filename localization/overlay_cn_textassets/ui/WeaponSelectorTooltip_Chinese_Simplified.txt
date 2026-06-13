@@ -1,6 +1,0 @@
-{UI.WeaponSelectorTooltip.BareHand} 没有武器
-{UI.WeaponSelectorTooltip.Spray} 原型器具（主武器模式）
-{UI.WeaponSelectorTooltip.Silver} 原型器具（充能）
-{UI.WeaponSelectorTooltip.Debutant} 初学者
-{UI.WeaponSelectorTooltip.Revolver} 左轮手枪
-{UI.WeaponSelectorTooltip.EmptyWeapon} 空

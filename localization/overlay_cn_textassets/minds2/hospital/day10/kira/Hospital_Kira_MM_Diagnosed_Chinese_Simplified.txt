@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_Diagnosed.Name} 查毕
-{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_Diagnosed.Description} 诊断已下。我再无可为之事。

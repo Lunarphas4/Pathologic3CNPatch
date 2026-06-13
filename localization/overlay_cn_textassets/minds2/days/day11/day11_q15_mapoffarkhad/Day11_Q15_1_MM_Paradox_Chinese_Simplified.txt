@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_Paradox.Name} 悖论
-{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_Paradox.Description} 尤利娅还没到。从时序看，我此刻甚至不该已经见过布拉赫……我头都晕了。稍后再来。

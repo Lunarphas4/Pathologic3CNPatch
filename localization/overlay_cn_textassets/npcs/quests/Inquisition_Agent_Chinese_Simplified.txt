@@ -1,3 +1,0 @@
-{Npcs.Quests.Inquisition_Agent.Name} 审判官的爪牙
-{Npcs.Quests.Inquisition_Agent.FullName} ⁠
-{Npcs.Quests.Inquisition_Agent.Description} ⁠

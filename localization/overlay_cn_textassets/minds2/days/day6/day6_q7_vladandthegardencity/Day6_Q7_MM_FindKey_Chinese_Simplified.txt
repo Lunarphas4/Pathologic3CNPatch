@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_MM_FindKey.Name} 线索
-{Minds2.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_MM_FindKey.Description} 弗拉德的办公桌锁着。要么今天我打开，要么后天律师来打开。我得想个法子。

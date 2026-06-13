@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Trial.Name} 审判
-{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_Trial.Description} 看来——是西蒙和伊西多尔把瘟疫带进了这座小镇。

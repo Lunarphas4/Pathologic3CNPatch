@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_PlagueQuaterExact.Name} 染疫城区
-{QuestMarkers.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_PlagueQuaterExact.Description} 今天克拉拉在此处为愿意听课的人讲授音乐。

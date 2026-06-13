@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_MM_Refuse.Name} 不值一顾
-{Minds2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_MM_Refuse.Description} 每天都有成千上万的人死去！一尊雕像于我何干？

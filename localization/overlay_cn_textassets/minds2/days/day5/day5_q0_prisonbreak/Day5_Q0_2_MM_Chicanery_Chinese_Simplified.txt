@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_2_MM_Chicanery.Name} 诡计
-{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_2_MM_Chicanery.Description} 需要五堆篝火，才能说服勤务员解除街区封锁。不是三堆，不是四堆。五堆。

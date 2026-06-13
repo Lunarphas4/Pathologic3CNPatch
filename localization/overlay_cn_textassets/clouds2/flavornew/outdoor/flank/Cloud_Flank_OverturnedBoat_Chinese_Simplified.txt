@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_OverturnedBoat.44925} 远远看去，我还以为那是一头孤零零的公牛
-{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_OverturnedBoat.10340} 远远看去，我还以为那是一头孤零零的公牛
-{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_OverturnedBoat.56689} 走到水边，独自忧伤
-{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_OverturnedBoat.61752} 或者更像一只巨大的南方食蚁兽

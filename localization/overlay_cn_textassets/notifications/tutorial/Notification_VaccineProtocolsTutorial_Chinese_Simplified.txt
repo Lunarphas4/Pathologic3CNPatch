@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_VaccineProtocolsTutorial.Name} 接种政令
-{Notifications.Tutorial.Notification_VaccineProtocolsTutorial.Description} 若某日所有病人都诊断正确，将获得一道接种政令。若哪怕只有一位误诊——便得不到接种政令；须重启此日，纠正错误。

@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Traps.Notification_EnableVision.Name} 按<InputActions/Weapon/Visor>以打开瘟疫探测器并环视四周，可看见瘟疫毒云，及时避开感染区域。
-{Notifications.Tutorial.Traps.Notification_EnableVision.Description} 按<InputActions/Weapon/Visor>以打开瘟疫探测器并环视四周，可看见瘟疫毒云，及时避开感染区域。

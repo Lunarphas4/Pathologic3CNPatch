@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_MM_Evacuation.Name} 撤离
-{Minds2.Days.Day11.Day11_Q8_GiantNinaWalking.Day11_Q8_MM_Evacuation.Description} 妮娜答应把孩子从多面体撤出。

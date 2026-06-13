@@ -1,2 +1,0 @@
-{Notifications.EnableStaffCommand.Name} 可用的新政令：<command>
-{Notifications.EnableStaffCommand.Description} ⁠

@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_FindProbe.Name} 感染源
-{Notifications.Tutorial.Notification_FindProbe.Description} 这里有一处感染源待我寻找。声越响——离我越近。

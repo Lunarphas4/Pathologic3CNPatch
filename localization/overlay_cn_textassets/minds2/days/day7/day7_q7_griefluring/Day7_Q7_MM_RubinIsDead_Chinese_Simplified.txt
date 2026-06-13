@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_RubinIsDead.Name} 死循环
-{Minds2.Days.Day7.Day7_Q7_GriefLuring.Day7_Q7_MM_RubinIsDead.Description} 鲁宾已不在人世，他帮不了我去找格里夫。

@@ -1,3 +1,0 @@
-﻿{Items.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_RingOfMaria.Name} 玛丽亚的戒指
-{Items.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_RingOfMaria.Description} 竟然不是莫比乌斯环形状，令人意外。
-{Items.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_RingOfMaria.Description2} 天气虽坏，这枚戒指摸起来却是温热的。

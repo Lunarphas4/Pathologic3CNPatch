@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Horns_PH.Name} 熔炉，格奥尔基的工坊
-{QuestMarkers.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Horns_PH.Description} 多面体是凯恩家委托建造的。也许他们知道它如今怪异举动的根由？

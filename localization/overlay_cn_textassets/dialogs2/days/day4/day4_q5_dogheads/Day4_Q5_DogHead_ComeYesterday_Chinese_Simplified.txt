@@ -1,8 +1,0 @@
-{Dialogs2.Days.Day4.Day4_Q5_Dogheads.Day4_Q5_DogHead_ComeYesterday.27564} 哟，你瞧，他又来了！
-{Dialogs2.Days.Day4.Day4_Q5_Dogheads.Day4_Q5_DogHead_ComeYesterday.13026} 所以，你找到精灵了吗？
-{Dialogs2.Days.Day4.Day4_Q5_Dogheads.Day4_Q5_DogHead_ComeYesterday.8491} 什么精灵？
-{Dialogs2.Days.Day4.Day4_Q5_Dogheads.Day4_Q5_DogHead_ComeYesterday.6002} 哎哟，这老头的记性可真是一天不如一天了！跟条又老又大的金鱼似的。你昨天不还在问精灵吗！
-{Dialogs2.Days.Day4.Day4_Q5_Dogheads.Day4_Q5_DogHead_ComeYesterday.32243} 我跟你说过话？什么时候？我们说了什么？
-{Dialogs2.Days.Day4.Day4_Q5_Dogheads.Day4_Q5_DogHead_ComeYesterday.13970} 西蒙死后的第三天！你当我们闲得慌，要每天把同一件事反反复复讲给你听吗？
-{Dialogs2.Days.Day4.Day4_Q5_Dogheads.Day4_Q5_DogHead_ComeYesterday.553} 你是说第三天。明白了。
-{Dialogs2.Days.Day4.Day4_Q5_Dogheads.Day4_Q5_DogHead_ComeYesterday.16245} 你说“又”是什么意思？

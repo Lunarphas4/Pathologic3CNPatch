@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_MicroscopeFocusTutorial.Name} 微观世界
-{Notifications.Tutorial.Notification_MicroscopeFocusTutorial.Description} 按 <InputActions/Microscope/Distinctness> 调焦。可让我更清楚地看到细菌。

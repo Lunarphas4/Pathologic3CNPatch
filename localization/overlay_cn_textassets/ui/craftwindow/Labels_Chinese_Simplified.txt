@@ -1,8 +1,0 @@
-{UI.CraftWindow.Labels.Laboratory} 实验室
-{UI.CraftWindow.Labels.Ingredients} 材料
-{UI.CraftWindow.Labels.Sheet1} 第1页
-{UI.CraftWindow.Labels.Sheet2} 第2页
-{UI.CraftWindow.Labels.Sheet3} 第3页
-{UI.CraftWindow.Labels.ListRecipes} 制作配方
-{UI.CraftWindow.Labels.Title} 名字
-{UI.CraftWindow.Labels.Effects} 效果

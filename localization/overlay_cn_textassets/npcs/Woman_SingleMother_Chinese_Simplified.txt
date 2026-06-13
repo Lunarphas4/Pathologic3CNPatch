@@ -1,3 +1,0 @@
-{Npcs.Woman_SingleMother.Name} 孤身一人
-{Npcs.Woman_SingleMother.FullName} ⁠
-{Npcs.Woman_SingleMother.Description} ⁠

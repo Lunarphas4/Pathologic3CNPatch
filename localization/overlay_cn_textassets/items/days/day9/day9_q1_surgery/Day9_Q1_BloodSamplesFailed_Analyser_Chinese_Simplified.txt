@@ -1,3 +1,0 @@
-﻿{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_BloodSamplesFailed_Analyser.Name} 数瓶血液（已检查）
-{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_BloodSamplesFailed_Analyser.Description} 彻底失败！没有一份样本与卡捷琳娜的血液相容。
-{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_BloodSamplesFailed_Analyser.Description2} 灾难！没有一份样本与卡捷琳娜的血液相容。亚历山大的最接近，但连他的也太危险。输血无法进行。

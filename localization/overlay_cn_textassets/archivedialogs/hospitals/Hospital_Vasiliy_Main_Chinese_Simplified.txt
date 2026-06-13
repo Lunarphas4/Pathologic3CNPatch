@@ -1,3 +1,0 @@
-﻿{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Main.31273} ？
-{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Main.16328} 我们可以开始体格检查了吗？
-{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Main.8858} ...

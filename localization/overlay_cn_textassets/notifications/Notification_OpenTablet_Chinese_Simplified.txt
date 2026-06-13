@@ -1,2 +1,0 @@
-{Notifications.Notification_OpenTablet.Name} ⁠
-{Notifications.Notification_OpenTablet.Description} 按 <InputActions/UI/Tablet> 打开病例本并选择诊断。

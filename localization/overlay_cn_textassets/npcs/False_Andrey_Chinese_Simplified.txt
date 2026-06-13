@@ -1,3 +1,0 @@
-{Npcs.False_Andrey.Name} 安德烈·斯塔马京
-{Npcs.False_Andrey.FullName} ⁠
-{Npcs.False_Andrey.Description} ⁠

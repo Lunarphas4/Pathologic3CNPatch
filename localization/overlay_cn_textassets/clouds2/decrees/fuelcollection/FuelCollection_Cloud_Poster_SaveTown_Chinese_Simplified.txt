@@ -1,4 +1,0 @@
-{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Poster_SaveTown.1872} “交出柴火——拯救城镇！”
-{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Poster_SaveTown.2402} “交出柴火——拯救城镇！”
-{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Poster_SaveTown.12992} 这腔调让人牙酸。秘诀就在这儿吗？
-{Clouds2.Decrees.FuelCollection.FuelCollection_Cloud_Poster_SaveTown.5480} 海报起作用了：人们相信它们

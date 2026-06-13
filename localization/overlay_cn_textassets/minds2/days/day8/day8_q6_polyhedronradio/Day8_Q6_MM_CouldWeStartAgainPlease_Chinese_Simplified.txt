@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_CouldWeStartAgainPlease.Name} 死胡同
-{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_CouldWeStartAgainPlease.Description} 失败。如今我再也无法从斯塔马京兄弟口中得知多面体之事了。

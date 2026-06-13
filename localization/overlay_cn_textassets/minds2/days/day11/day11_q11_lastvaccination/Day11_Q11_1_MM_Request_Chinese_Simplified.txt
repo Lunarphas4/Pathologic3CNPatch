@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Request.Name} 古怪的请求
-{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Request.Description} 克拉拉承诺救镇——她只求我别插手。这场谈话之前，我本就没打算插手！

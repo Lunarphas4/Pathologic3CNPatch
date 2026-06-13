@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day9.Poshinok.Hospital_Poshinok_MM_No.Name} 关乎命运的决定
-{Minds2.Hospital.Day9.Poshinok.Hospital_Poshinok_MM_No.Description} 即使没染瘟疫，"拼布"和他的孩子都不能出镇。就这么定。

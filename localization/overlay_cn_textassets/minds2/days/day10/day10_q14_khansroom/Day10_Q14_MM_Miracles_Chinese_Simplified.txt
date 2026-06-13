@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_MM_Miracles.Name} 奇迹
-{Minds2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_MM_Miracles.Description} <i>霍拉旭，天地之间有许多事，是你那哲学想不到的。</i>

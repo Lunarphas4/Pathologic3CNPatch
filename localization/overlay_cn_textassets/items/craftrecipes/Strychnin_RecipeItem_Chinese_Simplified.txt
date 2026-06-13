@@ -1,3 +1,0 @@
-﻿{Items.CraftRecipes.Strychnin_RecipeItem.Name} 配方：士的宁
-{Items.CraftRecipes.Strychnin_RecipeItem.Description} 兴奋剂。中度增加躁狂。
-{Items.CraftRecipes.Strychnin_RecipeItem.Description2} 兴奋剂。中度增加躁狂。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Dichotomy.Name} 二分
-{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Dichotomy.Description} ……敌友难辨。但阿格拉娅指给我哪里能找到病人——这显然是友善之举。

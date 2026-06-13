@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_1_MM_Eurydice.Name} 俄耳甫斯
-{Minds2.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_1_MM_Eurydice.Description} 看来若我偏离道路——这条路便会消失。

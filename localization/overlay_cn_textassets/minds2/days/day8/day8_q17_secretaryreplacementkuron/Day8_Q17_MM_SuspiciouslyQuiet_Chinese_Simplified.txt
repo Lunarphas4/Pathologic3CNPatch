@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q17_SecretaryReplacementKuron.Day8_Q17_MM_SuspiciouslyQuiet.Name} 有人来过
-{Minds2.Days.Day8.Day8_Q17_SecretaryReplacementKuron.Day8_Q17_MM_SuspiciouslyQuiet.Description} 秘书不知去向。平日里，他从不放过对我决定挑刺的机会。

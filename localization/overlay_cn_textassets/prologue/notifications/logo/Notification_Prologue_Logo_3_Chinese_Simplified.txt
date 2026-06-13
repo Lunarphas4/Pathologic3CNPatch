@@ -1,2 +1,0 @@
-{Prologue.Notifications.Logo.Notification_Prologue_Logo_3.Name} ⁠
-{Prologue.Notifications.Logo.Notification_Prologue_Logo_3.Description} 疫情如野火般吞噬了整个小镇。其传染速度和致命程度都超出了人类以往的任何认知。而我，成了阻挡这场空前瘟疫的唯一医生。

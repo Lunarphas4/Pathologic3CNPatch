@@ -1,2 +1,0 @@
-{ArchiveMinds.Tags.ClosedDoor.ClosedDoor_Tags_root_DoorClosed.Name} ⁠
-{ArchiveMinds.Tags.ClosedDoor.ClosedDoor_Tags_root_DoorClosed.Description} ⁠

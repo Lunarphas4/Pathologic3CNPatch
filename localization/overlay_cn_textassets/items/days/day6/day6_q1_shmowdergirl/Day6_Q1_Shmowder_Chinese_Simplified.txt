@@ -1,3 +1,0 @@
-﻿{Items.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_Shmowder.Name} “什莫粉”
-{Items.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_Shmowder.Description} 孩子们的奇迹疗法。
-{Items.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_Shmowder.Description2} 一盒某种碾碎的药片。有害。孩子们相信它能治疗沙疫。

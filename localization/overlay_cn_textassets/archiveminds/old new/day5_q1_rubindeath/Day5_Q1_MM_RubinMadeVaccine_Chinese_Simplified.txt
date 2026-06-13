@@ -1,2 +1,0 @@
-﻿{ArchiveMinds.OldNew.Day5_Q1_RubinDeath.Day5_Q1_MM_RubinMadeVaccine.Name} 西蒙不复存在
-{ArchiveMinds.OldNew.Day5_Q1_RubinDeath.Day5_Q1_MM_RubinMadeVaccine.Description} 鲁宾用西蒙的遗体制成了疫苗。

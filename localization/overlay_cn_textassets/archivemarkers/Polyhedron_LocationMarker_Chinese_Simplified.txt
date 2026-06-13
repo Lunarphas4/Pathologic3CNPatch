@@ -1,2 +1,0 @@
-{ArchiveMarkers.Polyhedron_LocationMarker.Name} ⁠
-{ArchiveMarkers.Polyhedron_LocationMarker.Description} ⁠

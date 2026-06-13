@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_3_MM_Coffin.Name} 入会
-{Minds2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_3_MM_Coffin.Description} 他们把我装进一具棺材抬出了隔离区。一辆列车候在轨道上。一股木馏油的气味。

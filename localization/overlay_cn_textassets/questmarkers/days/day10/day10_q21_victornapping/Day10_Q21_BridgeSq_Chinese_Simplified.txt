@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_BridgeSq.Name} 熔炉中庭
-{QuestMarkers.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_BridgeSq.Description} 玛丽亚的追随者们歇在这里——他们出于什么缘故，需要我。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_MM_TheWay.Name} 我的路
-{Minds2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_MM_TheWay.Description} 克拉拉相信，重要的只是我的抉择。我只需弄清——把这抉择落在何处。

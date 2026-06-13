@@ -1,2 +1,0 @@
-{Notifications.Old.Hint_MeetingAtTenAm.Name} ⁠
-{Notifications.Old.Hint_MeetingAtTenAm.Description} 半小时后与玛丽亚会面。

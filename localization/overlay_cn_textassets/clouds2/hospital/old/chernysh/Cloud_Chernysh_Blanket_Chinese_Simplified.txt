@@ -1,4 +1,0 @@
-{Clouds2.Hospital.old.Chernysh.Cloud_Chernysh_Blanket.3353} 似乎不冷，可他在发冷。
-{Clouds2.Hospital.old.Chernysh.Cloud_Chernysh_Blanket.29972} 似乎不冷，可他在发冷。
-{Clouds2.Hospital.old.Chernysh.Cloud_Chernysh_Blanket.12247} 循环系统有问题。
-{Clouds2.Hospital.old.Chernysh.Cloud_Chernysh_Blanket.3414} 这会和心脏有关吗？

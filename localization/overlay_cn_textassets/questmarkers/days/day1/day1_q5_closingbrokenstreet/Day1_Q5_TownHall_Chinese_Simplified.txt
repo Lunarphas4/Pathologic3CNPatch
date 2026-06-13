@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_TownHall.Name} 市政厅
-{QuestMarkers.Days.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_TownHall.Description} 要封闭一条危险街道，除了市政厅还能去哪里？

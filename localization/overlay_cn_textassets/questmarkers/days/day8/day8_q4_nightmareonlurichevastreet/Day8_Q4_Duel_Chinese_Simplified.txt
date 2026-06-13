@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day8.Day8_Q4_NightmareOnLurichevaStreet.Day8_Q4_Duel.Name} 中庭中心
-{QuestMarkers.Days.Day8.Day8_Q4_NightmareOnLurichevaStreet.Day8_Q4_Duel.Description} 如同决斗者——尤利娅和我从两端相向而行，约在中心相会。

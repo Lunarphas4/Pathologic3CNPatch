@@ -1,2 +1,0 @@
-{StaffCommands.Day6.FoodDistribution.Name} 配给食物
-{StaffCommands.Day6.FoodDistribution.Description} 拨出食物，分发给火灾受害者。

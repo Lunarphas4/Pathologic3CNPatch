@@ -1,3 +1,0 @@
-{Npcs.StreetCleaner.Name} 看管人
-{Npcs.StreetCleaner.FullName} ⁠
-{Npcs.StreetCleaner.Description} ⁠

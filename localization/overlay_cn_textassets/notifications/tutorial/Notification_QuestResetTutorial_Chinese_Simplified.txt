@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_QuestResetTutorial.Name} 另样的事件
-{Notifications.Tutorial.Notification_QuestResetTutorial.Description} 我抉择的后果总把我送进牢里。我必须换一种做法。找到链条上的最后一个思绪节点，我便能 <InputActions/Hints/MindQuestResetHint> 在新一日开始之前更改事件。

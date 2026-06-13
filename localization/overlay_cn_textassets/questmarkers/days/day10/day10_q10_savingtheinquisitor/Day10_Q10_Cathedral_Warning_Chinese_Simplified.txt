@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Cathedral_Warning.Name} 大教堂
-{QuestMarkers.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Cathedral_Warning.Description} 审判官不外出巡查时，可在大教堂找到。我不确定能立刻见到他，还是要等。

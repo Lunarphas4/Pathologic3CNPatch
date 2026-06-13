@@ -1,8 +1,0 @@
-{Clouds2.Characters.EvaLiminal.19314} 艾娃！差点没认出你……
-{Clouds2.Characters.EvaLiminal.30616} 艾娃！差点没认出你……
-{Clouds2.Characters.EvaLiminal.60261} 出什么事了吗？
-{Clouds2.Characters.EvaLiminal.25120} 那是丧服吗？暮色的颜色
-{Clouds2.Characters.EvaLiminal.65264} 从静水观星台深处升起的影子
-{Clouds2.Characters.EvaLiminal.46392} 冰冷，坚硬，自由
-{Clouds2.Characters.EvaLiminal.65356} 这不是我……认识的那个艾娃
-{Clouds2.Characters.EvaLiminal.10455} 也许这样……反而更好。没有蛛网，没有翅膀

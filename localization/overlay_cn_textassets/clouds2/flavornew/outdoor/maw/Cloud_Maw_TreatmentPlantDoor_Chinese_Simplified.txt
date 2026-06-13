@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.Maw.Cloud_Maw_TreatmentPlantDoor.44925} 有氯气味
-{Clouds2.FlavorNew.Outdoor.Maw.Cloud_Maw_TreatmentPlantDoor.10340} 有氯气味
-{Clouds2.FlavorNew.Outdoor.Maw.Cloud_Maw_TreatmentPlantDoor.56689} 这里净化水
-{Clouds2.FlavorNew.Outdoor.Maw.Cloud_Maw_TreatmentPlantDoor.61752} 还好人群砸坏的是管道，不是基础设施

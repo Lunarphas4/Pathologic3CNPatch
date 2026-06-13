@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q11_MilitiaOffTheWays.Day9_Q11_MM_EscapeSuccess.Name} 守诺之人
-{Minds2.Days.Day9.Day9_Q11_MilitiaOffTheWays.Day9_Q11_MM_EscapeSuccess.Description} 萨布罗夫言而有信。他会撤走义勇队，处理好那些士兵。明日，路便畅通。

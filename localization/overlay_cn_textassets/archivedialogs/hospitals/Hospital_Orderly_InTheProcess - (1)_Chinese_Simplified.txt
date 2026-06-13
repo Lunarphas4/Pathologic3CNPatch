@@ -1,7 +1,0 @@
-{ArchiveDialogs.Hospitals.Hospital_Orderly_InTheProcess-(1).16955} 医生？患者怎么样？
-{ArchiveDialogs.Hospitals.Hospital_Orderly_InTheProcess-(1).12039} 你以为这很快？
-{ArchiveDialogs.Hospitals.Hospital_Orderly_InTheProcess-(1).2801} 别生气。我只是希望一切都好。
-{ArchiveDialogs.Hospitals.Hospital_Orderly_InTheProcess-(1).26384} 浪漫。
-{ArchiveDialogs.Hospitals.Hospital_Orderly_InTheProcess-(1).6852} 乌托邦。
-{ArchiveDialogs.Hospitals.Hospital_Orderly_InTheProcess-(1).23131} 我也希望。
-{ArchiveDialogs.Hospitals.Hospital_Orderly_InTheProcess-(1).26642} 至少还活着。

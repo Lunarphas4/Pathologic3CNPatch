@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex.Name} 布拉赫
-{QuestMarkers.Days.Day7.Day7_Q9_Engineer.Day7_Q9_Haruspex.Description} 布拉赫和气味有种微妙的关系。也许他也知道如何驱除铁锈味。

@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_Castle_Microscope.Name} 一魂半族要塞
-{QuestMarkers.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_Castle_Microscope.Description} 在这里，被囚的可汗等着我把显微镜借他用。

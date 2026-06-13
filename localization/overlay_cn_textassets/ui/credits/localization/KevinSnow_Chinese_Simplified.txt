@@ -1,2 +1,0 @@
-{UI.Credits.Localization.KevinSnow.Name} Kevin Snow
-{UI.Credits.Localization.KevinSnow.Description} 翻译编辑（英语）

@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day6.Day6_Q9_SimonExhumation.Day6_Q9_Grave5.Name} 神秘之墓
-{QuestMarkers.Days.Day6.Day6_Q9_SimonExhumation.Day6_Q9_Grave5.Description} 靠近它，心跳便加速。

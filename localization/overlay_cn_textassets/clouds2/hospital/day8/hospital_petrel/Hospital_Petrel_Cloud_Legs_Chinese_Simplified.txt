@@ -1,6 +1,0 @@
-{Clouds2.Hospital.Day8.Hospital_Petrel.Hospital_Petrel_Cloud_Legs.4136} 某种皮疹？
-{Clouds2.Hospital.Day8.Hospital_Petrel.Hospital_Petrel_Cloud_Legs.52546} 某种皮疹？
-{Clouds2.Hospital.Day8.Hospital_Petrel.Hospital_Petrel_Cloud_Legs.59754} 过敏？卫生条件差？
-{Clouds2.Hospital.Day8.Hospital_Petrel.Hospital_Petrel_Cloud_Legs.6385} 咬伤？
-{Clouds2.Hospital.Day8.Hospital_Petrel.Hospital_Petrel_Cloud_Legs.38387} 被“最可怕的明天”来的苍蝇咬了
-{Clouds2.Hospital.Day8.Hospital_Petrel.Hospital_Petrel_Cloud_Legs.35890} 在那个明天，医院变成了停尸房

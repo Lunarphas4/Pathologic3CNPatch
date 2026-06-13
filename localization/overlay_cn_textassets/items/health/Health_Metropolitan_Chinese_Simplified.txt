@@ -1,3 +1,0 @@
-{Items.Health.Health_Metropolitan.Name} 首都来的药
-{Items.Health.Health_Metropolitan.Description} 生命值：+100
-{Items.Health.Health_Metropolitan.Description2} 生命值：+100

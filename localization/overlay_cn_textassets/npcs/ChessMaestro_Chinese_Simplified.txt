@@ -1,3 +1,0 @@
-{Npcs.ChessMaestro.Name} 象棋俱乐部主管
-{Npcs.ChessMaestro.FullName} ⁠
-{Npcs.ChessMaestro.Description} ⁠

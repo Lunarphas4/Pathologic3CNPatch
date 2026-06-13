@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day8.Mirosya.Hospital_Mirosya_MM_TimeForDiagnose.Name} 够了，别再拖
-{Minds2.Hospital.Day8.Mirosya.Hospital_Mirosya_MM_TimeForDiagnose.Description} 母亲承认了一切，却觉得自己毫无过错。女儿一如既往地顺从。

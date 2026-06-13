@@ -1,3 +1,0 @@
-{Items.Metabolism.Coffe.Name} 咖啡
-{Items.Metabolism.Coffe.Description} 咖啡
-{Items.Metabolism.Coffe.Description2} 咖啡

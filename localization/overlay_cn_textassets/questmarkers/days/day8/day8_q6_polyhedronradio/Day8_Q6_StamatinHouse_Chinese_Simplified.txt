@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StamatinHouse.Name} 斯塔马京的阁楼
-{QuestMarkers.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StamatinHouse.Description} 审判官劝彼得不要离开住所。但允许访客吗？

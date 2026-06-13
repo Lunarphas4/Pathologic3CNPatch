@@ -1,2 +1,0 @@
-{Notifications.Tutorial.Notification_CasebookConirmTutorial.Name} ⁠
-{Notifications.Tutorial.Notification_CasebookConirmTutorial.Description} ⁠

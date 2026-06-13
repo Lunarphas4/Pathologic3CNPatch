@@ -1,2 +1,0 @@
-{UI.Credits.Art.AlexandraKononenko.Name} Alexandra Kononenko
-{UI.Credits.Art.AlexandraKononenko.Description} 概念美术

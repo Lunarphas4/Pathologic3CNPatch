@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Decision.Name} 皆已查毕
-{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Decision.Description} 我可以宣布裁定了。

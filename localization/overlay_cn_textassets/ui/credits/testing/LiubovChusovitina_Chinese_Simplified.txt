@@ -1,2 +1,0 @@
-{UI.Credits.Testing.LiubovChusovitina.Name} Liubov Babak
-{UI.Credits.Testing.LiubovChusovitina.Description} QA 测试

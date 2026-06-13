@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_MM_KappelaWing.Name} 卡佩拉的偏厅
-{Minds2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_MM_KappelaWing.Description} 据说卡佩拉那一翼里有个等着我的惊喜。

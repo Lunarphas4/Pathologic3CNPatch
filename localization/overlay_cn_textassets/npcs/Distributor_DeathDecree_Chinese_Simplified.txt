@@ -1,3 +1,0 @@
-{Npcs.Distributor_DeathDecree.Name} 分发“死粥”的人
-{Npcs.Distributor_DeathDecree.FullName} ⁠
-{Npcs.Distributor_DeathDecree.Description} ⁠

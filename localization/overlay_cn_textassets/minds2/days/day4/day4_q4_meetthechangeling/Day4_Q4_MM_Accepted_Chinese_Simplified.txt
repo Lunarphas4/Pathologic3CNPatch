@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q4_MeetTheChangeling.Day4_Q4_MM_Accepted.Name} 应允
-{Minds2.Days.Day4.Day4_Q4_MeetTheChangeling.Day4_Q4_MM_Accepted.Description} 克拉拉请求允许她在医院里干活。我按我的条件答应了。

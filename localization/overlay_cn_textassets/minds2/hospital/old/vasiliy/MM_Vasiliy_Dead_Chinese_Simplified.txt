@@ -1,2 +1,0 @@
-{Minds2.Hospital.Old.Vasiliy.MM_Vasiliy_Dead.Name} 菲拉特死了
-{Minds2.Hospital.Old.Vasiliy.MM_Vasiliy_Dead.Description} 治疗没能救下病人菲拉特。

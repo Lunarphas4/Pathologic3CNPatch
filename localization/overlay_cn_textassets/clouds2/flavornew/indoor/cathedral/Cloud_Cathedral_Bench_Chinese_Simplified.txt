@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_Bench.44925} 木头很老
-{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_Bench.10340} 木头很老
-{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_Bench.56689} 却没有一点水蚀腐烂的痕迹
-{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_Bench.61752} 时间无权支配

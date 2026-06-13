@@ -1,3 +1,0 @@
-{Items.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_DecreesDeck_Names.Name} 带标题的法令表
-{Items.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_DecreesDeck_Names.Description} 只剩恢复计算了。
-{Items.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_DecreesDeck_Names.Description2} 几乎可以直接使用的命令。只缺计算；没有计算，它们害处比用处更大。

@@ -1,5 +1,0 @@
-{Clouds.Flavor.Cloud_RegionKhebtovka_Wain.17796} 不会出现在试玩版里。
-{Clouds.Flavor.Cloud_RegionKhebtovka_Wain.12750} 他们指望能离开……我也曾这样指望。
-{Clouds.Flavor.Cloud_RegionKhebtovka_Wain.8510} 他们会去哪里？首都？
-{Clouds.Flavor.Cloud_RegionKhebtovka_Wain.32453} 看来他们没找到马。我在这儿一匹也没见过。
-{Clouds.Flavor.Cloud_RegionKhebtovka_Wain.24379} 他们丢下一切，徒步走了？

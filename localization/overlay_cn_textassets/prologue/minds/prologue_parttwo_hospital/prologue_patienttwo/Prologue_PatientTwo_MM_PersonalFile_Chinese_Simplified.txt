@@ -1,2 +1,0 @@
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PatientTwo.Prologue_PatientTwo_MM_PersonalFile.Name} 第二患者
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PatientTwo.Prologue_PatientTwo_MM_PersonalFile.Description} 主动入院，意识超群！

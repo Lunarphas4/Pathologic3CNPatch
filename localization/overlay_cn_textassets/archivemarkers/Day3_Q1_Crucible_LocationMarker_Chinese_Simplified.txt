@@ -1,2 +1,0 @@
-{ArchiveMarkers.Day3_Q1_Crucible_LocationMarker.Name} ⁠
-{ArchiveMarkers.Day3_Q1_Crucible_LocationMarker.Description} ⁠

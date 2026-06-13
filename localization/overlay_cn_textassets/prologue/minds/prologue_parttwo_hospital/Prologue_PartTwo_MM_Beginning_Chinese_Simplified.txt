@@ -1,2 +1,0 @@
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PartTwo_MM_Beginning.Name} 抵镇第五日
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PartTwo_MM_Beginning.Description} 驻院第三天。瘟疫肆虐，疫苗研制尚需时日，眼下唯靠隔离令护佑民众。

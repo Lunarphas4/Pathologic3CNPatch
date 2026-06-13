@@ -1,2 +1,0 @@
-{StaffCommands.VladTheYounger.VladDecreeDay5_2.Name} 净化
-{StaffCommands.VladTheYounger.VladDecreeDay5_2.Description} 把斯塔马京酒馆库存中的twyrine（特维酒）分发给镇民。

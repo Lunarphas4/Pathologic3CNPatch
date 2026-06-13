@@ -1,3 +1,0 @@
-﻿{Npcs.Prokop.Name} 普拉东
-{Npcs.Prokop.FullName} 我的助手
-{Npcs.Prokop.Description} 非常聪明，话里满是政治影射与机锋。我偶尔会和他熬夜——一边研究，一边开一瓶酒。他对自己不顺的私生活做了太多反讽式的调侃，最后我才意识到——那其实是他极大的痛苦之源。

@@ -1,2 +1,0 @@
-{UI.MindWindow.MindTooltip.Name} 重新开始这一天
-{UI.MindWindow.MindTooltip.Description} \t过去可以改变，而过去一旦改变，未来也会重写。只要还有时间，你就可以反复重来，撤销做出的选择。将鼠标悬停在长链的最后一个节点上，单击鼠标右键，即可撤销。看节点的边角可以看出来哪个是最后一个节点。

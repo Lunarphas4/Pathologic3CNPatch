@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_NoFutureAssassination.Name} 先人一步
-{Minds2.Days.KeyNodes.KeyNode_NoFutureAssassination.Description} 无人威胁卡明斯基的安全。

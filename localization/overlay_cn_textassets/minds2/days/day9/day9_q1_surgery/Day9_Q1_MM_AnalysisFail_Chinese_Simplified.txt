@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_AnalysisFail.Name} 化验失败
-{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_AnalysisFail.Description} 所收集的样本，没有一份适合卡捷琳娜。我白白浪费了宝贵的时间！

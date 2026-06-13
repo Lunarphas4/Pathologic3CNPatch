@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day9.SergeantDront.Hospital_SergeantDront_MM_TimeForDiagnose.Name} 潜在感染源
-{Minds2.Hospital.Day9.SergeantDront.Hospital_SergeantDront_MM_TimeForDiagnose.Description} 上级以挖战壕作为对德龙特的处分。本地的土壤里满是病原体。

@@ -1,4 +1,0 @@
-{UI.CharacterWindow.Tooltips.SerafimaTooltips.Intro} 死亡学院的助手
-{UI.CharacterWindow.Tooltips.SerafimaTooltips.LabDestroyed} 我回来前一直保护实验室免受权势者攻击。可惜，徒劳无功
-{UI.CharacterWindow.Tooltips.SerafimaTooltips.LabSaved} 我回来前一直保护实验室免受权势者攻击
-{UI.CharacterWindow.Tooltips.SerafimaTooltips.Plague} 我回来后染上了瘟疫

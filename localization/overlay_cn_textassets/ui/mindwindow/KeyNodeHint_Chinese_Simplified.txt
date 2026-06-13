@@ -1,6 +1,0 @@
-{UI.MindWindow.KeyNodeHint.KeyNodeHint} <Key> 可在此处更改
-{UI.MindWindow.KeyNodeHint.HasMapLinkHint} <Key> 在地图上查看
-{UI.MindWindow.KeyNodeHint.NotEnoughtResourcesTitle} 资源不足：
-{UI.MindWindow.KeyNodeHint.RemovedResourcesTitle} 失去资源：
-{UI.MindWindow.KeyNodeHint.ComebackResourcesTitle} 获得资源：
-{UI.MindWindow.KeyNodeHint.CantResetQuest} 无法重置任务

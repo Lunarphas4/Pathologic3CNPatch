@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_1_MM_Success.Name} 若他未骗我
-{Minds2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_1_MM_Success.Description} 格里夫信守了他那一边。我得去找他……如果我仍准备出逃。

@@ -1,2 +1,0 @@
-﻿{Locations.Government.Name} 市政厅
-{Locations.Government.Description} 市政厅

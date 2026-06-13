@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_MM_Rust.Name} 铁锈味
-{Minds2.Days.Day7.Day7_Q9_Engineer.Day7_Q9_MM_Rust.Description} 那位机师厌恶我身上散发的铁锈味。布拉赫或许知道办法去除它。

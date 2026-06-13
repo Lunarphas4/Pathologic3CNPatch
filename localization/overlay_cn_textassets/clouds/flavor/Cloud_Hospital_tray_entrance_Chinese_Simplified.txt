@@ -1,4 +1,0 @@
-{Clouds.Flavor.Cloud_Hospital_tray_entrance.17796} 卫生检查点？
-{Clouds.Flavor.Cloud_Hospital_tray_entrance.31629} 卫生检查点？
-{Clouds.Flavor.Cloud_Hospital_tray_entrance.12104} 用于消毒和快速对症处理。
-{Clouds.Flavor.Cloud_Hospital_tray_entrance.11185} 带着感冒进来的人，出去时会多带一堆别的病……

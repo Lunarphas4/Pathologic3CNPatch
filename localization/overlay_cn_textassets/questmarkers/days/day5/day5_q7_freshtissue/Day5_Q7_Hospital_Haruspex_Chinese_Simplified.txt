@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Hospital_Haruspex.Name} 医院
-{QuestMarkers.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Hospital_Haruspex.Description} 我又一次需要一位合格外科大夫的帮手——布拉赫。

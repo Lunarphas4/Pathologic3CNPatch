@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_RightAngle.Name} 投影试验
-{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_RightAngle.Description} 正确的角度是从远端那个角！只有从那里——才能看出它是……一只蛾？

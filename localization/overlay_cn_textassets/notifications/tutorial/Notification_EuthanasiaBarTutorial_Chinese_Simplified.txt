@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_EuthanasiaBarTutorial.Name} 取其余生
-{Notifications.Tutorial.Notification_EuthanasiaBarTutorial.Description} 抑制类药物给得太多，病人会在剧痛中死去；给得太少，则缓解不了痛苦。我得找到恰当的平衡。

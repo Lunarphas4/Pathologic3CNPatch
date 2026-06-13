@@ -1,5 +1,0 @@
-{Clouds2.Decrees.SteppeAmulets.SteppeAmulets_Cloud_Sheaf.40779} 草药能给空气消毒吗？
-{Clouds2.Decrees.SteppeAmulets.SteppeAmulets_Cloud_Sheaf.22544} 草药能给空气消毒吗？
-{Clouds2.Decrees.SteppeAmulets.SteppeAmulets_Cloud_Sheaf.53244} 科学事实也许藏在迷信背后
-{Clouds2.Decrees.SteppeAmulets.SteppeAmulets_Cloud_Sheaf.2233} 那叫什么，大自然的药房？罂粟、古柯、奎宁……
-{Clouds2.Decrees.SteppeAmulets.SteppeAmulets_Cloud_Sheaf.32098} 本地植物学正等待它的林奈

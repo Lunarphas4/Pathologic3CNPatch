@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Trammel_Fates.Name} 束网
-{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Trammel_Fates.Description} 套笼那里还有一些我尚未得知的命运。

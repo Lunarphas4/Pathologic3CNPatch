@@ -1,6 +1,0 @@
-{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Patient.22957} 小不点提醒过我这个病人
-{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Patient.25800} 小不点提醒过我这个病人
-{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Patient.7082} 她说他是强盗，要更小心些
-{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Patient.5007} 但病人就是病人，看起来精疲力竭
-{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Patient.7026} 可这个强盗本人抖得像片叶子
-{Clouds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Cloud_Patient.45320} 再看看他的眼睛红成什么样

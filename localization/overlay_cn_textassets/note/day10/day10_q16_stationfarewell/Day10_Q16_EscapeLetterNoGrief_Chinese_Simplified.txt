@@ -1,2 +1,0 @@
-{Note.Day10.Day10_Q16_StationFarewell.Day10_Q16_EscapeLetterNoGrief.Name} 关于逃离的便条
-{Note.Day10.Day10_Q16_StationFarewell.Day10_Q16_EscapeLetterNoGrief.Description} 给大城市来的医生：\n\n你的格里夫死了。\n我们是自由人。格里夫答应过你什么，都被他带进坟墓了。有一件事我想不明白：你肩膀上明明有颗好脑袋，怎么总往镇外看？以为自己能抛下我们？现在不能了。\n\n理发匠巴利。

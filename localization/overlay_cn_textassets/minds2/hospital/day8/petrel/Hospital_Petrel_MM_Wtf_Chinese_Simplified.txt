@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day8.Petrel.Hospital_Petrel_MM_Wtf.Name} 今天到底有几位病人？
-{Minds2.Hospital.Day8.Petrel.Hospital_Petrel_MM_Wtf.Description} 先前还有一个人——也有记忆问题……还是说，是我自己的记忆出了问题？

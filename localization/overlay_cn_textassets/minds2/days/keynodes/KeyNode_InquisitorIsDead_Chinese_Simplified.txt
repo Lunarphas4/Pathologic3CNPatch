@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_InquisitorIsDead.Name} 碎裂的铁心
-{Minds2.Days.KeyNodes.KeyNode_InquisitorIsDead.Description} 审判官被杀。

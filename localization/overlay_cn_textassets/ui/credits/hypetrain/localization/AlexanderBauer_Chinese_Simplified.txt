@@ -1,2 +1,0 @@
-{UI.Credits.HypeTrain.Localization.AlexanderBauer.AlexanderBauer} Alexander "Sanja Tomie" Bauer
-{UI.Credits.HypeTrain.Localization.AlexanderBauer.OneWhoReads} One Who Reads Between the Lines

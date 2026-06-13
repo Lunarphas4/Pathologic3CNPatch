@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_SprayWeaponChargeSocketsTutorial.Name} 充能原型器具
-{Notifications.Tutorial.Notification_SprayWeaponChargeSocketsTutorial.Description} 这种消毒液由三味组成：兴奋剂、麻醉剂、毒剂。

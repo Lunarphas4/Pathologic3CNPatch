@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Stillwater_Diagnoses.Name} 静水宅
-{QuestMarkers.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_Stillwater_Diagnoses.Description} 我检查了病人；结果应该会送到静水宅。

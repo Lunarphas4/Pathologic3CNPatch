@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_TownIsTaken.Name} 镇陷
-{Minds2.Days.KeyNodes.KeyNode_TownIsTaken.Description} 这镇在军变之火中焚毁。

@@ -1,3 +1,0 @@
-{Items.OLD.Item_Vaccine_Rubin.Name} 鲁宾的疫苗
-{Items.OLD.Item_Vaccine_Rubin.Description} 鲁宾的疫苗
-{Items.OLD.Item_Vaccine_Rubin.Description2} 鲁宾的疫苗

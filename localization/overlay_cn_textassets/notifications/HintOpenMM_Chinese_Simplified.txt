@@ -1,2 +1,0 @@
-{Notifications.HintOpenMM.Name} ⁠
-{Notifications.HintOpenMM.Description} <InputActions/UI/Tags> ——思维图

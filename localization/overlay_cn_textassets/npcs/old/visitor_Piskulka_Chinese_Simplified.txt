@@ -1,3 +1,0 @@
-{Npcs.Old.visitor_Piskulka.Name} ⁠
-{Npcs.Old.visitor_Piskulka.FullName} ⁠
-{Npcs.Old.visitor_Piskulka.Description} ⁠

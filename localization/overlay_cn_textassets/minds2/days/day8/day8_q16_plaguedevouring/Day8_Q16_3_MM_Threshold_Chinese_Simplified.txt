@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_3_MM_Threshold.Name} 每一步
-{Minds2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_3_MM_Threshold.Description} 我们对沙疫的研究已大有进展。如今最关键——不要止步。我有预感：很快便能把它逼至绝处。

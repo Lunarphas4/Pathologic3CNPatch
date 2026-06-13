@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_MM_Pub.Name} 弗拉德的实验
-{Minds2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_MM_Pub.Description} 小弗拉德在安德烈的酒馆里试用了一种治沙疫的草原偏方。

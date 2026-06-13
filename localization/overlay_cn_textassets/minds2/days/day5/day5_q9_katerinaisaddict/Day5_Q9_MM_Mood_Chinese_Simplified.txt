@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_MM_Mood.Name} 相互理解
-{Minds2.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_MM_Mood.Description} 换生灵只和与她同频的人交流。

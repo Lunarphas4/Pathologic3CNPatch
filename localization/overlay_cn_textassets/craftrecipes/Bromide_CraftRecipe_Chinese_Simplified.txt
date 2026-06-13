@@ -1,2 +1,0 @@
-﻿{CraftRecipes.Bromide_CraftRecipe.Name} 溴化物
-{CraftRecipes.Bromide_CraftRecipe.Description} 略微增加冷漠

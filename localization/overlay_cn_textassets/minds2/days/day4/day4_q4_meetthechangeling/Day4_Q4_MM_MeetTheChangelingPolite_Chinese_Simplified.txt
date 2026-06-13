@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q4_MeetTheChangeling.Day4_Q4_MM_MeetTheChangelingPolite.Name} 落难少女
-{Minds2.Days.Day4.Day4_Q4_MeetTheChangeling.Day4_Q4_MM_MeetTheChangelingPolite.Description} 克拉拉在医院附近候着我。如果我拒绝她，她会觉得受了冒犯，必定要生事。

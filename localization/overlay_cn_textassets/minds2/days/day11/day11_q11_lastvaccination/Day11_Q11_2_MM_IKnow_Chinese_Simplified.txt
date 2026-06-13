@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_2_MM_IKnow.Name} 我已知
-{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_2_MM_IKnow.Description} ……最后一份血清制好了。

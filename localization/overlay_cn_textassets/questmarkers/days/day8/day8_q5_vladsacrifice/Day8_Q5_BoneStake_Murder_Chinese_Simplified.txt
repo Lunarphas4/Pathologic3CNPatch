@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_BoneStake_Murder.Name} 骨桩场
-{QuestMarkers.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_BoneStake_Murder.Description} 今日骨桩地正庆贺一场人祭。

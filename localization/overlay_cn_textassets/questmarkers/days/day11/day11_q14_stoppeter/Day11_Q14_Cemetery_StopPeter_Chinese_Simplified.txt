@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q14_StopPeter.Day11_Q14_Cemetery_StopPeter.Name} 墓园
-{QuestMarkers.Days.Day11.Day11_Q14_StopPeter.Day11_Q14_Cemetery_StopPeter.Description} 这恐怕不是顶着兄弟身份的彼得·斯塔马京的最后栖身处。

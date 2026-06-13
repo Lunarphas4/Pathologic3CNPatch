@@ -1,3 +1,0 @@
-{Items.Ammos.StainedGlassShards.Name} 彩色玻璃碎片
-{Items.Ammos.StainedGlassShards.Description} 透过它们看，世界会碎成由更小世界组成的万花筒。你会看见平时注意不到的东西。只有在还有秘密尚未发现时才应这样做（地图角落会注明）。
-{Items.Ammos.StainedGlassShards.Description2} 透过它们看，世界会碎成由更小世界组成的万花筒。你会看见平时注意不到的东西。只有在还有秘密尚未发现时才应这样做（地图角落会注明）。

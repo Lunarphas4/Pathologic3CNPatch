@@ -1,8 +1,0 @@
-{ArchiveDialogs.Test.Day4_HospitalIsClosed.29895} 你把泥都踩进来了！我刚把这块地方扫干净。
-{ArchiveDialogs.Test.Day4_HospitalIsClosed.13058} 我只是要去医院。
-{ArchiveDialogs.Test.Day4_HospitalIsClosed.1196} 什么医院？这里没有医院。
-{ArchiveDialogs.Test.Day4_HospitalIsClosed.23899} 怎么会？我和剧院主人谈过，他同意把建筑交出来做医院。
-{ArchiveDialogs.Test.Day4_HospitalIsClosed.24673} 那你通知过镇上的行政当局吗？没有？问题就在这儿。
-{ArchiveDialogs.Test.Day4_HospitalIsClosed.6907} 你介意跟我说说这栋建筑吗？
-{ArchiveDialogs.Test.Day4_HospitalIsClosed.28640} 剧院？它怎么了？剧院就是剧院，就这样。我是个简单人，没空管什么剧院。能糊口就不错了。
-{ArchiveDialogs.Test.Day4_HospitalIsClosed.18192} 明白了。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_SimonStudyZero.Name} 至圣所
-{Minds2.Days.KeyNodes.KeyNode_SimonStudyZero.Description} 我从未踏入过西蒙·凯恩的书房。

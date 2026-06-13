@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day4.Chernyak.Hospital_Chernyak_MM_TimeForDiagnose.Name} 病史已采齐
-{Minds2.Hospital.Day4.Chernyak.Hospital_Chernyak_MM_TimeForDiagnose.Description} 该知道的我都知道了。是时候下诊断。

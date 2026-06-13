@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_MM_Appeal.Name} 致辞
-{Minds2.Days.Day12.Day12_Q16_VisitingPolyhedron.Day12_Q16_MM_Appeal.Description} 你在读这份卷宗，并在心里发问：一个人怎能同时身处那么多地方？现在你知道了。我们要继续吗？

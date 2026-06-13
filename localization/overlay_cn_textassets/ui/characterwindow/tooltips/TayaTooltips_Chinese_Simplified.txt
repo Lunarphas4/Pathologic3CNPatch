@@ -1,4 +1,0 @@
-﻿{UI.CharacterWindow.Tooltips.TayaTooltips.Intro} 一个扮演公牛与牛人女主人的孩子
-{UI.CharacterWindow.Tooltips.TayaTooltips.Prison} 第1天，被锁在白蚁巢里，几乎必死
-{UI.CharacterWindow.Tooltips.TayaTooltips.Village} 在未知的日子里搬去了草原村庄
-{UI.CharacterWindow.Tooltips.TayaTooltips.Servant} 第12天，迎接布拉赫成为部族的新领袖

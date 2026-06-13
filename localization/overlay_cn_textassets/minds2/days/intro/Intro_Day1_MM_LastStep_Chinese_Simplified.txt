@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Intro.Intro_Day1_MM_LastStep.Name} 我准备好了
-{Minds2.Days.Intro.Intro_Day1_MM_LastStep.Description} 我已经跨过这座镇的第一道障碍。若能保持这个势头，此行不会花太久。

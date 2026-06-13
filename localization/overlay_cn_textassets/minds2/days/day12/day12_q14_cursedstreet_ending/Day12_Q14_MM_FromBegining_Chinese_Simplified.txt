@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q14_CursedStreet_Ending.Day12_Q14_MM_FromBegining.Name} 从头开始
-{Minds2.Days.Day12.Day12_Q14_CursedStreet_Ending.Day12_Q14_MM_FromBegining.Description} 我留在了起火之处。要是当时……不。这是我唯一无法挽回的错误。

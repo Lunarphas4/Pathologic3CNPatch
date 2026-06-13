@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q6_AngryRubin.Day10_Q6_MM_RubinIsWaiting.Name} 弟子
-{Minds2.Days.Day10.Day10_Q6_AngryRubin.Day10_Q6_MM_RubinIsWaiting.Description} 一个让人心头一痛的、熟悉的大夫身影，在静水观星台等我。

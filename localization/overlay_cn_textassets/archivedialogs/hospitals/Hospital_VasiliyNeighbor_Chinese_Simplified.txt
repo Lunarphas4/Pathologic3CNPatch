@@ -1,7 +1,0 @@
-{ArchiveDialogs.Hospitals.Hospital_VasiliyNeighbor.6624} 早上好，丹尼尔。什么风把你吹来了？
-{ArchiveDialogs.Hospitals.Hospital_VasiliyNeighbor.5686} 想打听一下瓦西里。
-{ArchiveDialogs.Hospitals.Hospital_VasiliyNeighbor.21955} 他最近行为很奇怪。
-{ArchiveDialogs.Hospitals.Hospital_VasiliyNeighbor.19279} 自己跟自己说话，还把镜子砸了。
-{ArchiveDialogs.Hospitals.Hospital_VasiliyNeighbor.28282} 最近和另一个守卫吵过一架，那人扬言要报复。
-{ArchiveDialogs.Hospitals.Hospital_VasiliyNeighbor.9520} 所有感染者都是老朋友，晚上常一起坐着喝一小瓶twyrine（特维酒），昨晚也喝到很晚。
-{ArchiveDialogs.Hospitals.Hospital_VasiliyNeighbor.14167} 他们喝得太厉害，早上瓦西里在门口吐了。

@@ -1,2 +1,0 @@
-﻿{CraftRecipes.Strychnin_Strong_CraftRecipe.Name} 大剂量士的宁
-{CraftRecipes.Strychnin_Strong_CraftRecipe.Description} 大幅增加躁狂

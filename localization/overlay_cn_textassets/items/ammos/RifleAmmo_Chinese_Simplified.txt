@@ -1,3 +1,0 @@
-{Items.Ammos.RifleAmmo.Name} 步枪弹
-{Items.Ammos.RifleAmmo.Description} 步枪也能用。
-{Items.Ammos.RifleAmmo.Description2} 步枪也能用。

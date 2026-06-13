@@ -1,3 +1,0 @@
-﻿{Items.Days.Day5.Day5_Q1_2_RubinResurrection.Day5_Q1_RubinVaccine.Name} 鲁宾的疫苗
-{Items.Days.Day5.Day5_Q1_2_RubinResurrection.Day5_Q1_RubinVaccine.Description} 西蒙·凯恩仅剩之物。
-{Items.Days.Day5.Day5_Q1_2_RubinResurrection.Day5_Q1_RubinVaccine.Description2} 鲁宾为它牺牲了西蒙的遗体，也牺牲了自己的安宁。即使它真能抵御沙疫，剂量也少得可怜。必须研究这份样本。

@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day5.GodsFool.Hospital_GodsFool_MM_Medicine.Name} 这可不像会在流浪汉营地见到的东西。
-{Minds2.Hospital.Day5.GodsFool.Hospital_GodsFool_MM_Medicine.Description} 我该问问本地人，他们从哪弄来这么多医疗用品。

@@ -1,2 +1,0 @@
-{Notifications.Old.Hint_MM_FirsOpen_1.Name} ⁠
-{Notifications.Old.Hint_MM_FirsOpen_1.Description} ⁠

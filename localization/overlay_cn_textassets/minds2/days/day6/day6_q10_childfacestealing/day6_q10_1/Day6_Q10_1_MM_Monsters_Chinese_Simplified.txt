@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_1.Day6_Q10_1_MM_Monsters.Name} 草原骇异
-{Minds2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_1.Day6_Q10_1_MM_Monsters.Description} 火车坟场传来阴森的声响。我得小心查探。

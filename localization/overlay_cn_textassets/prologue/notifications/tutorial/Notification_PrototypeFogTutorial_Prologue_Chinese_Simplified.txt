@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_PrototypeFogTutorial_Prologue.Name} 学者的原型工具
-{Prologue.Notifications.Tutorial.Notification_PrototypeFogTutorial_Prologue.Description} 瘟疫的迷雾中危机重重。按<InputActions/Weapon/Slot1>装备原型工具

@@ -1,1 +1,0 @@
-{UI.SprayWeaponBulletGenerator.Buttons.Generate} <InputActions/UI/ChargeSprayWeapon> 准备弹丸

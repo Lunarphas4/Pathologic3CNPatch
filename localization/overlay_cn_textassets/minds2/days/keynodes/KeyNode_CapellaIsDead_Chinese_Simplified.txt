@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_CapellaIsDead.Name} 安魂曲
-{Minds2.Days.KeyNodes.KeyNode_CapellaIsDead.Description} 士兵以奥尔金斯基家对军队的罪过将卡佩拉处决。

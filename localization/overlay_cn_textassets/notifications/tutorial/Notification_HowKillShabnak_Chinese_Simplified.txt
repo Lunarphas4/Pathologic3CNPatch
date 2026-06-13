@@ -1,2 +1,0 @@
-{Notifications.Tutorial.Notification_HowKillShabnak.Name} 感染之源
-{Notifications.Tutorial.Notification_HowKillShabnak.Description} 现在我得找到Shabnak（泥魔女）。找到之后，按 <InputActions/Weapon/Silver> 把原型器具调到发射弹丸状态，再按 <InputActions/Weapon/Shoot> 命中"瘟疫"以削减感染。我只有一次机会。

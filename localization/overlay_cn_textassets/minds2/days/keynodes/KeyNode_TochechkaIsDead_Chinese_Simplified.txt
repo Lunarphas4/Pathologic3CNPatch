@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_TochechkaIsDead.Name} 句号
-{Minds2.Days.KeyNodes.KeyNode_TochechkaIsDead.Description} 染了瘟疫的雅科夫·利特尔已逝。

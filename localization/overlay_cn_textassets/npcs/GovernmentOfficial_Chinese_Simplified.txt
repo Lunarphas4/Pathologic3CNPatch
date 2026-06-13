@@ -1,3 +1,0 @@
-{Npcs.GovernmentOfficial.Name} 书记员
-{Npcs.GovernmentOfficial.FullName} ⁠
-{Npcs.GovernmentOfficial.Description} ⁠

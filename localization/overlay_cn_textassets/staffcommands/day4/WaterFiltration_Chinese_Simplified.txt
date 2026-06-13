@@ -1,2 +1,0 @@
-{StaffCommands.Day4.WaterFiltration.Name} 饮水过滤
-{StaffCommands.Day4.WaterFiltration.Description} 安排过滤全镇的饮用水储备。

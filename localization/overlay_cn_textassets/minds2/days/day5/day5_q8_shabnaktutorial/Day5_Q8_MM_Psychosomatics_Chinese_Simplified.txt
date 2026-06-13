@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q8_ShabnakTutorial.Day5_Q8_MM_Psychosomatics.Name} 心身症
-{Minds2.Days.Day5.Day5_Q8_ShabnakTutorial.Day5_Q8_MM_Psychosomatics.Description} 不管是不是幻觉，我都经不起再来一下了。跑，丹科夫斯基！

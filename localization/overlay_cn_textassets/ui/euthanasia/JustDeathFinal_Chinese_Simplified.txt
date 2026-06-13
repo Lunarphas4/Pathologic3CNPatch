@@ -1,2 +1,0 @@
-{UI.Euthanasia.JustDeathFinal.Name} 死亡
-{UI.Euthanasia.JustDeathFinal.Description} 我没能减轻病人的痛苦，但至少没有让他们再受更多的苦。

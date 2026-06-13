@@ -1,2 +1,0 @@
-{UI.Credits.Support.VasilisaSherman.Name} Vasilisa Sherman
-{UI.Credits.Support.VasilisaSherman.Description} 创意总监助理

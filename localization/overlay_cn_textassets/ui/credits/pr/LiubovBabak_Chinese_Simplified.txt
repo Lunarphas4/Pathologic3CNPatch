@@ -1,2 +1,0 @@
-{UI.Credits.PR.LiubovBabak.Name} Liubov Babak
-{UI.Credits.PR.LiubovBabak.Description} 助理制作人

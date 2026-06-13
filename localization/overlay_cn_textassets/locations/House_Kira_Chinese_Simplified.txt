@@ -1,2 +1,0 @@
-﻿{Locations.House_Kira.Name} 基拉的宅子
-{Locations.House_Kira.Description} 基拉的宅子

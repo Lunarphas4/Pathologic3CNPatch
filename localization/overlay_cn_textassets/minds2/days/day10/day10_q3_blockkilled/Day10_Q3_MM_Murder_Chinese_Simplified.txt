@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q3_BlockKilled.Day10_Q3_MM_Murder.Name} 要命的月份
-{Minds2.Days.Day10.Day10_Q3_BlockKilled.Day10_Q3_MM_Murder.Description} 非拉拉，便是布洛克将军！又是一桩杀人案。

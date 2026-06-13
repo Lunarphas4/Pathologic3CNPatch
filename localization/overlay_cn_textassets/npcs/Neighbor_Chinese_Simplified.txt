@@ -1,3 +1,0 @@
-{Npcs.Neighbor.Name} 邻居
-{Npcs.Neighbor.FullName} ⁠
-{Npcs.Neighbor.Description} ⁠

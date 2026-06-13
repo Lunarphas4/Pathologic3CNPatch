@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_MM_Invitation.Name} 水塔
-{Minds2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_MM_Invitation.Description} 有人恳求我去静水观星台后方的草原见面。

@@ -1,3 +1,0 @@
-{Items.AnalyserItems.Day0_Q0_TestItem_Analyser.Name} 测试物件（已检验）
-{Items.AnalyserItems.Day0_Q0_TestItem_Analyser.Description} 结论：这件物品被造出来只有一个用途——放进分析器里检验。它的使命已经完成，现在可以拿去换 twyrine（特维酒）。
-{Items.AnalyserItems.Day0_Q0_TestItem_Analyser.Description2} 结论：这件物品被造出来只有一个用途——放进分析器里检验。它的使命已经完成，现在可以拿去换 twyrine（特维酒）。

@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_FastTravelDangerTutorial.Name} 穿镇而行
-{Notifications.Tutorial.Notification_FastTravelDangerTutorial.Description} 有些城区太危险，无法快速穿越。有时——最明智的便是绕开它们。

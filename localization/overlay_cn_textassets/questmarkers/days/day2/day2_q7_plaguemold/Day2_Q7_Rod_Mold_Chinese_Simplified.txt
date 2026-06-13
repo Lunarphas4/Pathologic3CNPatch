@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_Rod_Mold.Name} 权杖宅
-{QuestMarkers.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_Rod_Mold.Description} 萨布罗夫总督必须知晓我对疫霉的研究。

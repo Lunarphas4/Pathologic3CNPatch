@@ -1,2 +1,0 @@
-{UI.SymptomGroupTooltips.Slizistie.Name} 粘膜组织样本
-{UI.SymptomGroupTooltips.Slizistie.Description} 取自口腔以分析微生物群的组成。该检测通常用于确定感染类型及其对抗生素的敏感性。

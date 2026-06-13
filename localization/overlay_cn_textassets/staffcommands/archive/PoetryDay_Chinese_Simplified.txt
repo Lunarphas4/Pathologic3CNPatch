@@ -1,2 +1,0 @@
-{StaffCommands.Archive.PoetryDay.Name} 诗歌朗诵会
-{StaffCommands.Archive.PoetryDay.Description} 组织公开诗歌朗诵活动。

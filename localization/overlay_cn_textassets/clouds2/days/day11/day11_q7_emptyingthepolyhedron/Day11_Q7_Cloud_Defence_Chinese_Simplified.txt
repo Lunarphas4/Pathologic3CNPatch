@@ -1,4 +1,0 @@
-{Clouds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_Cloud_Defence.26015} 真的有必要设路障吗？
-{Clouds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_Cloud_Defence.59170} 真的有必要设路障吗？
-{Clouds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_Cloud_Defence.61521} 士兵不太可能进去
-{Clouds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_Cloud_Defence.15825} 我也进不去

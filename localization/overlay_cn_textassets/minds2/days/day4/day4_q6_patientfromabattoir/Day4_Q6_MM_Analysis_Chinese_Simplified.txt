@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_MM_Analysis.Name} 拼图一片
-{Minds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_MM_Analysis.Description} 何等惨烈的命运。我的本分，是把那份组织样本送进分析仪去做检测。

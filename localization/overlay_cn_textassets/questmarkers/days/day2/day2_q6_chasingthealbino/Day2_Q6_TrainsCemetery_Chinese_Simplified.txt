@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_TrainsCemetery.Name} 火车坟场
-{QuestMarkers.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_TrainsCemetery.Description} 沿着铁轨再往前——便能找到那群凶手的藏身处。这地方不在地图上。

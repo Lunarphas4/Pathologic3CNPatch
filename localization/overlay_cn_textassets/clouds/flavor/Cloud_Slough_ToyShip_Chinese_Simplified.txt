@@ -1,4 +1,0 @@
-{Clouds.Flavor.Cloud_Slough_ToyShip.17130} 那句话怎么说来着……？
-{Clouds.Flavor.Cloud_Slough_ToyShip.16071} 那句话怎么说来着……？
-{Clouds.Flavor.Cloud_Slough_ToyShip.8786} 漫长的航行，是漫长的消耗……
-{Clouds.Flavor.Cloud_Slough_ToyShip.24486} ……而船，是驶向处刑的车。

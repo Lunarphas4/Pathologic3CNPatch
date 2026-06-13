@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_2_MM_ItsATrap.Name} 受困
-{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_2_MM_ItsATrap.Description} 当一个感染街区陷入黑暗，就会被视为无可挽救。根据奥利吉姆斯基的法令，里面所有人都已死。

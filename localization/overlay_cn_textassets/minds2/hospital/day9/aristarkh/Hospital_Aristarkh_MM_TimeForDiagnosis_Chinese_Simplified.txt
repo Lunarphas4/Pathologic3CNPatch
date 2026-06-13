@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_TimeForDiagnosis.Name} 一切已明，可下结论
-{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_TimeForDiagnosis.Description} 阿里斯塔尔赫什么都不愿说——是因为周围人都已在指责他和赫拉的私情。

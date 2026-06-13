@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_KhanIsPrisoned.Name} 铁面具
-{Minds2.Days.KeyNodes.KeyNode_KhanIsPrisoned.Description} 卡斯帕·凯恩被名为"一魂半族"的孩童帮派关押。帮派之战仍在闷烧。

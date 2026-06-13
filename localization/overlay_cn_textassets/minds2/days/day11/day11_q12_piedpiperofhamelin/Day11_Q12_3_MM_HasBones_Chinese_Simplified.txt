@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_3_MM_HasBones.Name} 残骸
-{Minds2.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_3_MM_HasBones.Description} 我拿到了那个失踪孩子的骨头！亏得我戴着手套。

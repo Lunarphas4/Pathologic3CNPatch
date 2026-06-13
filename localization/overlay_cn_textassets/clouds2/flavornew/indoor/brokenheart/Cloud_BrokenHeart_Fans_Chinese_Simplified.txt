@@ -1,3 +1,0 @@
-{Clouds2.FlavorNew.Indoor.BrokenHeart.Cloud_BrokenHeart_Fans.44925} 闷得像地下铁
-{Clouds2.FlavorNew.Indoor.BrokenHeart.Cloud_BrokenHeart_Fans.10340} 闷得像地下铁
-{Clouds2.FlavorNew.Indoor.BrokenHeart.Cloud_BrokenHeart_Fans.56689} 风扇为什么要有锋利的边？

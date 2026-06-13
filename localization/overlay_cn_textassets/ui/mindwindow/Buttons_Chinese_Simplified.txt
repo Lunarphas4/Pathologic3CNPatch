@@ -1,5 +1,0 @@
-﻿{UI.MindWindow.Buttons.Help} 帮助
-{UI.MindWindow.Buttons.StartDay} 开始新的一天
-{UI.MindWindow.Buttons.StartDayWithHint} <InputActions/UI/MindWindowStartDay> 开始这一天
-{UI.MindWindow.Buttons.LeftDay} 前一天
-{UI.MindWindow.Buttons.RightDay} 下一天

@@ -1,2 +1,0 @@
-{Prologue.PersonalFiles.PatientOne.Name} 鲁塔
-{Prologue.PersonalFiles.PatientOne.Description} 住在锅炉房，说自己没病。

@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_Stillwater_Shmowder.Name} 静水宅
-{QuestMarkers.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_Stillwater_Shmowder.Description} 一个有良心的小姑娘请我去化验一种奇怪的混合药丸。

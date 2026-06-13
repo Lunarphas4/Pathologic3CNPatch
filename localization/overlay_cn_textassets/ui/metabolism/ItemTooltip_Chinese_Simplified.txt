@@ -1,1 +1,0 @@
-{UI.Metabolism.ItemTooltip.Hint} 会形成依赖，连续使用时效果会减弱

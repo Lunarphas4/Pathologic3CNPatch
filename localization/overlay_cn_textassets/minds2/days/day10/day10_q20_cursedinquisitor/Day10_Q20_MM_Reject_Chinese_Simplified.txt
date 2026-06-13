@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_MM_Reject.Name} 各走各路
-{Minds2.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_MM_Reject.Description} 傍晚审判官想见我，但我躲开了他的爪牙。即便如此——我还是错过了什么。

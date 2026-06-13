@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_MM_MariaLetter.Name} 请求，还是命令？
-{Minds2.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_MM_MariaLetter.Description} 玛丽亚·凯娜恳请我到熔炉来见她。

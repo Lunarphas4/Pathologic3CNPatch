@@ -1,2 +1,0 @@
-{UI.Credits.Narrative.AnnaPimonova.Name} Anna Pimonova
-{UI.Credits.Narrative.AnnaPimonova.Description} 编剧

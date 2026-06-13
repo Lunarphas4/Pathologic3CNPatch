@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_MM_Recipes.Name} 囤粮过冬
-{Minds2.Days.Day6.Day6_Q1_ShmowderGirl.Day6_Q1_MM_Recipes.Description} 这位发明家会把她最好几味药的方子给我。当然——不是白给。

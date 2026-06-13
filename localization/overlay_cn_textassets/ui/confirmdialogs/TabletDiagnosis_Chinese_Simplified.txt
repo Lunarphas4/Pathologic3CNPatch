@@ -1,4 +1,0 @@
-﻿{UI.ConfirmDialogs.TabletDiagnosis.Title} 确定要锁定诊断吗？
-{UI.ConfirmDialogs.TabletDiagnosis.Description} 今天的调查到此为止。傍晚时，你会在静水观星台收到诊断是否正确的通知。
-{UI.ConfirmDialogs.TabletDiagnosis.Confirm} <InputActions/UI/ConfirmDialog> 确认
-{UI.ConfirmDialogs.TabletDiagnosis.Cancel} <InputActions/UI/Cancel> 仍不确定

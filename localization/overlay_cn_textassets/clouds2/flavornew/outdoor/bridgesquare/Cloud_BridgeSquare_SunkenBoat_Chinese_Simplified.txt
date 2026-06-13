@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.BridgeSquare.Cloud_BridgeSquare_SunkenBoat.44925} 无处可逃
-{Clouds2.FlavorNew.Outdoor.BridgeSquare.Cloud_BridgeSquare_SunkenBoat.10340} 无处可逃
-{Clouds2.FlavorNew.Outdoor.BridgeSquare.Cloud_BridgeSquare_SunkenBoat.56689} 桥烧了，船也烧了
-{Clouds2.FlavorNew.Outdoor.BridgeSquare.Cloud_BridgeSquare_SunkenBoat.61752} 倒真想用一只眼睛看看那岸边……

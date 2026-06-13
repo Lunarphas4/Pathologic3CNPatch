@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Eva.Eva_EveningStillwater.Name} 静水宅
-{QuestMarkers.Eva.Eva_EveningStillwater.Description} 这一日近晚。我得赶到静水观星台——去见伊娃！

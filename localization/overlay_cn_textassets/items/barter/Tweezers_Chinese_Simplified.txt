@@ -1,3 +1,0 @@
-{Items.Barter.Tweezers.Name} 镊子
-{Items.Barter.Tweezers.Description} 就像一个问得恰到好处的问题，能挖出再顽固的污秽。
-{Items.Barter.Tweezers.Description2} 就像一个问得恰到好处的问题，能挖出再顽固的污秽。

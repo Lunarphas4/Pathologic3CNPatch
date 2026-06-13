@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_2_MM_GatesOpen.Name} 城墙已倒
-{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_2_MM_GatesOpen.Description} 我已经看清了穿越恐怖的道路，市政厅里的人也得救了。至少今天如此。

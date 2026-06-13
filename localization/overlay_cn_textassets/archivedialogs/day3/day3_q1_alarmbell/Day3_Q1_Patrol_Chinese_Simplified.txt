@@ -1,8 +1,0 @@
-{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Patrol.244} 都向您汇报了吗？
-{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Patrol.1201} 但愿如此。
-{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Patrol.22430} 您将在医院工作，医院决定设在剧院里。和您共事的是本地医生斯坦尼斯拉夫·鲁宾。
-{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Patrol.19884} 会的。你们为什么特意强调他？
-{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Patrol.5384} 这话不便让外人听见，但也是为了免得您惹上麻烦：有人在监视鲁宾。有理由认为他卷入了犯罪。
-{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Patrol.18589} 那么你们观察的结果如何？
-{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Patrol.25473} 暂时还没有明确结果。您不必为此费心，但要做好准备：您的搭档可能会被调离医院工作。也许您该准备一个替代人选？
-{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Patrol.26605} 没有事实，这话听起来站不住脚。我还有足够多的事要做。

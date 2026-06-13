@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_WaterTower.Name} 水塔
-{QuestMarkers.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_WaterTower.Description} 一位草药新娘在那里等我。能与这等生灵对话——是难得的机会。

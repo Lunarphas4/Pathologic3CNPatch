@@ -1,2 +1,0 @@
-{UI.Credits.Audio.RessaSchwarzwald.Name} Ressa Schwarzwald
-{UI.Credits.Audio.RessaSchwarzwald.Description} 声音设计制作人、声音设计

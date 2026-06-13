@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_HornsMaria.Name} 熔炉，玛丽亚的偏厅
-{QuestMarkers.Days.Day9.Day9_Q9_KapellaInauguration.Day9_Q9_HornsMaria.Description} 玛丽亚·凯娜要我立即去见她。

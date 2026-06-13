@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_2_MM_Murderer.Name} 爆破手
-{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_2_MM_Murderer.Description} 安德烈·斯塔马京将杀死审判官。眼下他被关在彼得的阁楼里。

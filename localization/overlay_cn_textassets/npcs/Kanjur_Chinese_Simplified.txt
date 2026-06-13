@@ -1,3 +1,0 @@
-{Npcs.Kanjur.Name} 甘珠尔
-{Npcs.Kanjur.FullName} ⁠
-{Npcs.Kanjur.Description} ⁠

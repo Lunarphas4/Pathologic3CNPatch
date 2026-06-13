@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_Stillwater.Name} 静水观星台
-{QuestMarkers.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_Stillwater.Description} 静水观星台守着它造主的秘密。

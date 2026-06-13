@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day3.Day3_Q11_LurichevaDefence.Day3_Q11_Administration.Name} 市政厅
-{QuestMarkers.Days.Day3.Day3_Q11_LurichevaDefence.Day3_Q11_Administration.Description} 尤利娅·柳里切娃请我替她在凯恩家面前求情。

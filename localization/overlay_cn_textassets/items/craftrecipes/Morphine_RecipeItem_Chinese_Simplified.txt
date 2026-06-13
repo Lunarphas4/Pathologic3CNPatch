@@ -1,3 +1,0 @@
-﻿{Items.CraftRecipes.Morphine_RecipeItem.Name} 配方：吗啡
-{Items.CraftRecipes.Morphine_RecipeItem.Description} 镇静剂。中度增加冷漠。
-{Items.CraftRecipes.Morphine_RecipeItem.Description2} 镇静剂。中度增加冷漠。

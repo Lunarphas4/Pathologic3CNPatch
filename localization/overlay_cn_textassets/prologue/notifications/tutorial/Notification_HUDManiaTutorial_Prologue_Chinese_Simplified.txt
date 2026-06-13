@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_HUDManiaTutorial_Prologue.Name} 躁狂
-{Prologue.Notifications.Tutorial.Notification_HUDManiaTutorial_Prologue.Description} 躁狂值过高，大脑过载，移动速度提升，但是健康状况会恶化。数值越高效果就越强

@@ -1,3 +1,0 @@
-{Items.Craft.Novocaine.Name} 奴佛卡因
-{Items.Craft.Novocaine.Description} 比旧式麻醉剂安全得多。与其他药剂混合时会表现出某些独特性质。
-{Items.Craft.Novocaine.Description2} 比旧式麻醉剂安全得多。与其他药剂混合时会表现出某些独特性质。

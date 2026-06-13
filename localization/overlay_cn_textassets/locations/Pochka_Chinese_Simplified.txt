@@ -1,2 +1,0 @@
-﻿{Locations.Pochka.Name} 脾脏区
-{Locations.Pochka.Description} 脾脏区

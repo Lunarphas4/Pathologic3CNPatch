@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_MM_EmptyPlace.Name} 空无
-{Minds2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_MM_EmptyPlace.Description} 我进了书房！可里面空空如也——格奥尔基明明保证过案发现场未经触碰。这到底怎么回事？

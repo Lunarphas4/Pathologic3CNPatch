@@ -1,3 +1,0 @@
-﻿{Items.Hospital.Day7.Hospital_Platon.Hospital_Platon_Key.Name} 艾米莉亚公寓钥匙
-{Items.Hospital.Day7.Hospital_Platon.Hospital_Platon_Key.Description} 有点生锈，可能是浇水造成的。
-{Items.Hospital.Day7.Hospital_Platon.Hospital_Platon_Key.Description2} 当然，是在花盆里找到的。

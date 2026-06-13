@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day9.Poshinok.Hospital_Poshinok_MM_Yes.Name} 关乎命运的决定
-{Minds2.Hospital.Day9.Poshinok.Hospital_Poshinok_MM_Yes.Description} 就给"拼布"和他的孩子一个机会——让他们撤离这镇。毕竟，他们没染瘟疫。

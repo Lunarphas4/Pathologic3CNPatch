@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_Cathedral_Archives.Name} 大教堂
-{QuestMarkers.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_Cathedral_Archives.Description} 审判官召见时，难以推辞。

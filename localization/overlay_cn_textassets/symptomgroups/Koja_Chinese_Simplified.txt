@@ -1,2 +1,0 @@
-{SymptomGroups.Koja.Name} 皮肤
-{SymptomGroups.Koja.Description} 身体的保护性覆盖层。需要区分皮肤损害与其他器官系统故障在外部的表现。

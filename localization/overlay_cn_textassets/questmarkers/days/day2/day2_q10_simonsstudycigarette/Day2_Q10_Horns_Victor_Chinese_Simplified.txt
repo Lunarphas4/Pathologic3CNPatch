@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Horns_Victor.Name} 熔炉，维克多的偏厅
-{QuestMarkers.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Horns_Victor.Description} 在自己的书房里——不朽的西蒙·凯恩在此处被杀。

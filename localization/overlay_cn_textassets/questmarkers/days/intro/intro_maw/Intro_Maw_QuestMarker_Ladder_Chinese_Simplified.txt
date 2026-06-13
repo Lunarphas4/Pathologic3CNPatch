@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Intro.Intro_Maw.Intro_Maw_QuestMarker_Ladder.Name} 通往天国的楼梯
-{QuestMarkers.Days.Intro.Intro_Maw.Intro_Maw_QuestMarker_Ladder.Description} 一伙叫狗头帮的孩子可能把我的显微镜带到了这里。

@@ -1,7 +1,0 @@
-{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_TimeIsOver.57548} 时候到了，tanigdaagui khun（陌生人）。我要走了。
-{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_TimeIsOver.29764} 告辞。
-{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_TimeIsOver.253} 这里是伊西多尔的血洒下的地方。Yahala。外来者不得用自己的 bailga 玷污它。我允许你待在这里，这已经很多了。我不会让别人再进来。离开。现在离开，我会保证没有外来者能进入。
-{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_TimeIsOver.65344} 你真是顽固得过头。
-{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_TimeIsOver.11652} 长得像堵砖墙一样又高又宽，一定很好。谁敢和你争？
-{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_TimeIsOver.14736} 所以那把锁才会……将会被弄坏。你会破坏它，好保护伊西多尔的记忆不受外来者侵犯。
-{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_TimeIsOver.282} 好吧，我还没结束。你要么留下陪我，要么让我一个人留在这里。

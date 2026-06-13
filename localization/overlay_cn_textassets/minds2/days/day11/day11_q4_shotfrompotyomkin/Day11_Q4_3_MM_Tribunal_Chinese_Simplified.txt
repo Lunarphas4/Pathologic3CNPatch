@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_3_MM_Tribunal.Name} 军事法庭
-{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_3_MM_Tribunal.Description} 罪人已被收押，可这既不能让死者复生，也安抚不了士兵。

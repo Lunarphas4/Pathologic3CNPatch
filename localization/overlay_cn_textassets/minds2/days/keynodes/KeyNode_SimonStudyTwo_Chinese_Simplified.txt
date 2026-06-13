@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_SimonStudyTwo.Name} 唯一之焦
-{Minds2.Days.KeyNodes.KeyNode_SimonStudyTwo.Description} 我在第二日首次踏入西蒙·凯恩的书房。

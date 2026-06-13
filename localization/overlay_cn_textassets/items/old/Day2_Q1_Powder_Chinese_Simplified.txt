@@ -1,3 +1,0 @@
-{Items.OLD.Day2_Q1_Powder.Name} 什莫粉
-{Items.OLD.Day2_Q1_Powder.Description} 什莫粉
-{Items.OLD.Day2_Q1_Powder.Description2} 什莫粉

@@ -1,3 +1,0 @@
-{Npcs.Army_Officer.Name} 军官
-{Npcs.Army_Officer.FullName} ⁠
-{Npcs.Army_Officer.Description} ⁠

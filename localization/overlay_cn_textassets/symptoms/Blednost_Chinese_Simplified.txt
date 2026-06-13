@@ -1,2 +1,0 @@
-{Symptoms.Blednost.Name} 严重苍白
-{Symptoms.Blednost.Description} 苍白可能说明血液循环不良，例如血管收缩，或血红蛋白与红细胞减少。

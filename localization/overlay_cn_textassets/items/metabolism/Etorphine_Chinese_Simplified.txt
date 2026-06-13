@@ -1,3 +1,0 @@
-﻿{Items.Metabolism.Etorphine.Name} 莨菪碱
-{Items.Metabolism.Etorphine.Description} 从天仙子中提取的生物碱。会加快心率、扰乱记忆、激发暴怒。极其提神。
-{Items.Metabolism.Etorphine.Description2} 从天仙子中提取的生物碱。会加快心率、扰乱记忆、激发暴怒。极其提神。

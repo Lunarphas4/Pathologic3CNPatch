@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_OperationEnds.Name} 长舒一口气
-{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_OperationEnds.Description} 手术结束了。我已尽我所能。

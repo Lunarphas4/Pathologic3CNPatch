@@ -1,3 +1,0 @@
-{Clouds2.Days.Day0.Day0_Q16_ShardsKintsugi.Day0_Q16_Cloud_MainLeverNoShards.25583} 能修复破碎的容器
-{Clouds2.Days.Day0.Day0_Q16_ShardsKintsugi.Day0_Q16_Cloud_MainLeverNoShards.29169} 能修复破碎的容器
-{Clouds2.Days.Day0.Day0_Q16_ShardsKintsugi.Day0_Q16_Cloud_MainLeverNoShards.35714} 但我所有的合剂容器都完好无损

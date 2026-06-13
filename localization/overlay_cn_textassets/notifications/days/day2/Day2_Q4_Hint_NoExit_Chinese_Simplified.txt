@@ -1,2 +1,0 @@
-{Notifications.Days.Day2.Day2_Q4_Hint_NoExit.Name} ⁠
-{Notifications.Days.Day2.Day2_Q4_Hint_NoExit.Description} 我没把那只装着蝴蝶的包裹从伊西多尔的书房带出来。也许再无机会。

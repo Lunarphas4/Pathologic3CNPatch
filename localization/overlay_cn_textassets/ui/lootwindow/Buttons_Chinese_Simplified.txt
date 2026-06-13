@@ -1,1 +1,0 @@
-{UI.LootWindow.Buttons.TakeAll} <InputActions/UI/TakeAll> 全部拿取

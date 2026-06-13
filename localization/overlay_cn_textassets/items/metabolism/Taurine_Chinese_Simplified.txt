@@ -1,3 +1,0 @@
-﻿{Items.Metabolism.Taurine.Name} 牛磺酸
-{Items.Metabolism.Taurine.Description} 牛胆汁提取物，很适合这座建立在公牛之上的小镇。可刺激神经系统。
-{Items.Metabolism.Taurine.Description2} 牛胆汁提取物，很适合这座建立在公牛之上的小镇。可刺激神经系统。

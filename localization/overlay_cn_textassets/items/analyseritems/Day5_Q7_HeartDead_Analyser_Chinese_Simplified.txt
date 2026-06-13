@@ -1,3 +1,0 @@
-﻿{Items.AnalyserItems.Day5_Q7_HeartDead_Analyser.Name} 死心（已检查）
-{Items.AnalyserItems.Day5_Q7_HeartDead_Analyser.Description} 沉默。
-{Items.AnalyserItems.Day5_Q7_HeartDead_Analyser.Description2} 只有徒然虚耗一生所造成的绝望，才会让我做这次分析。太晚了。死去的器官果然毫无用处。

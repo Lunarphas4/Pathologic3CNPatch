@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_MM_Overlook.Name} 乌托邦观景台
-{Minds2.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_MM_Overlook.Description} 据说孩子们能在戈尔洪河对岸看见这镇的"新城区"。他们在编故事！

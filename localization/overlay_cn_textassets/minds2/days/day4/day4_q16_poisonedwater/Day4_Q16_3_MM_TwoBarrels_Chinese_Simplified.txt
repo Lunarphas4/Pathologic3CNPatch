@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_3_MM_TwoBarrels.Name} 最后一桶
-{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_3_MM_TwoBarrels.Description} 唉，这桶也被污染了。我得趁未为时已晚再查一桶。

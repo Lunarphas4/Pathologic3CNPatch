@@ -1,2 +1,0 @@
-{Notifications.GameHint.Hint_AddPersonalFiles_Notification.Name} ⁠
-{Notifications.GameHint.Hint_AddPersonalFiles_Notification.Description} 按 <InputActions/UI/Tablet> 查看病例本。诊断病人的流程在其中管理。

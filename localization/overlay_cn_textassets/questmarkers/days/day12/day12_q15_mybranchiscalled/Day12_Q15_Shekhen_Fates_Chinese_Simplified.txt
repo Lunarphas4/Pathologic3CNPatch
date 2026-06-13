@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Shekhen_Fates.Name} 谢肯
-{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Shekhen_Fates.Description} 草原村里还有一些我尚未得知的命运。

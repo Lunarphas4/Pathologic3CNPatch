@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_1_MM_Prototype.Name} 原型机
-{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_1_MM_Prototype.Description} 实验装置能驱散感染空气！如果我能清理大会堂，他们就会放我出去。总不会比停尸房更糟吧？

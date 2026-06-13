@@ -1,2 +1,0 @@
-{StaffCommands.Archive.PlantingFicuses.Name} 种植榕树
-{StaffCommands.Archive.PlantingFicuses.Description} 在街区里种植榕树，以示安定与生机。

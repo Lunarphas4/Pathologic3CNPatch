@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_PersonalFile.Name} 白蚁巢守卫
-{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_PersonalFile.Description} 菲拉特看守那座工厂宿舍——奥尔金斯基把它从公众视野里掩了起来。

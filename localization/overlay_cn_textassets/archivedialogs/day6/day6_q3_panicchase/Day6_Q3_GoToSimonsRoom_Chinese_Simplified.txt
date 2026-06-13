@@ -1,6 +1,0 @@
-{ArchiveDialogs.Day6.Day6_Q3_PanicChase.Day6_Q3_GoToSimonsRoom.30139} 我们与你有点脱节，丹科夫斯基。你没看到吗，我们这里有一个家庭委员会。
-{ArchiveDialogs.Day6.Day6_Q3_PanicChase.Day6_Q3_GoToSimonsRoom.10637} 是的，不管我怎么来，你们总是有家族议会的。时时刻刻都在一起。我根本不是来找你的，而是来视察西蒙的办公室的。
-{ArchiveDialogs.Day6.Day6_Q3_PanicChase.Day6_Q3_GoToSimonsRoom.8832} 那里没什么可看的。字面上地。那里是空的。
-{ArchiveDialogs.Day6.Day6_Q3_PanicChase.Day6_Q3_GoToSimonsRoom.14034} 让他看看。如果它是空的，则意味着没有什么可偷的。
-{ArchiveDialogs.Day6.Day6_Q3_PanicChase.Day6_Q3_GoToSimonsRoom.13853} 就是这样。让他看看，我们就到此为止吧。
-{ArchiveDialogs.Day6.Day6_Q3_PanicChase.Day6_Q3_GoToSimonsRoom.8886} 嗯，我走了。

@@ -1,2 +1,0 @@
-{UI.Credits.PR.VadimLychagin.Name} Vadim Lychagin
-{UI.Credits.PR.VadimLychagin.Description} 公关专员

@@ -1,6 +1,0 @@
-﻿{UI.SprayWeaponCharger.Labels.Material} 材料
-{UI.SprayWeaponCharger.Labels.NotEnoughIngredients} 材料不足
-{UI.SprayWeaponCharger.Labels.PrototypeHasAlreadyBeenRefueled} 原型器具已充能
-{UI.SprayWeaponCharger.Labels.ItShouldLastLittleLonger} 再充久一点比较好
-{UI.SprayWeaponCharger.Labels.PrototypeIsFueled} 原型器具已成功充能
-{UI.SprayWeaponCharger.Labels.TimeHint} 将用于装填

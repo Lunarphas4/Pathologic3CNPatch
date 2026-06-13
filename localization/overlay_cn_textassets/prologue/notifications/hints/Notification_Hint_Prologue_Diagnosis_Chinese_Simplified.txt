@@ -1,2 +1,0 @@
-{Prologue.Notifications.Hints.Notification_Hint_Prologue_Diagnosis.Name} ⁠
-{Prologue.Notifications.Hints.Notification_Hint_Prologue_Diagnosis.Description} 必须先确诊并将病例移交助手

@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_StaffCostTutorial.Name} 资源
-{Notifications.Tutorial.Notification_StaffCostTutorial.Description} 政令以不同方式影响这镇，并消耗应急指挥部的资源。人是可替的，物则不然。

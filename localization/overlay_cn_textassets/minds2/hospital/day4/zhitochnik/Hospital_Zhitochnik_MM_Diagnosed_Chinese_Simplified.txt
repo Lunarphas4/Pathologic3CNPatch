@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day4.Zhitochnik.Hospital_Zhitochnik_MM_Diagnosed.Name} 确认诊断
-{Minds2.Hospital.Day4.Zhitochnik.Hospital_Zhitochnik_MM_Diagnosed.Description} 哈德曼自信发现了一味"百病通治"之药。最叫人意外的是——他确实把自己死于瘟疫的日子推迟了。

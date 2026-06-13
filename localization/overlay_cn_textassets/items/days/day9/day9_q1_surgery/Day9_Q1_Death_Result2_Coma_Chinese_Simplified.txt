@@ -1,3 +1,0 @@
-{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Result2_Coma.Name} 针
-{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Result2_Coma.Description} 看着它让我太阳穴发疼，但线仍然完整。
-{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Death_Result2_Coma.Description2} 看着它让我太阳穴发疼，但线仍然完整。

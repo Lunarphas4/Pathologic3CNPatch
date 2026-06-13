@@ -1,3 +1,0 @@
-{Npcs.Watson.SavantWatson.Name} 雅采克
-{Npcs.Watson.SavantWatson.FullName} ⁠
-{Npcs.Watson.SavantWatson.Description} ⁠

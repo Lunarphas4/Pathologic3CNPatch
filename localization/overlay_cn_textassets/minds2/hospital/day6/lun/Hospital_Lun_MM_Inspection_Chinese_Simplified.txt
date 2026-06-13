@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day6.Lun.Hospital_Lun_MM_Inspection.Name} 检查结果
-{Minds2.Hospital.Day6.Lun.Hospital_Lun_MM_Inspection.Description} 先把发现的症状录入病例本，再就此向病人发问——若问得动的话。

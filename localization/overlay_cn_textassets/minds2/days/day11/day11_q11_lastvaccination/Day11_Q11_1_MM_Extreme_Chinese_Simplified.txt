@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Extreme.Name} 极端手段
-{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Extreme.Description} 布洛克必须遏制疫病——即使要把每一名感染者尽数焚毁。可他的士兵会执行这道命令吗？

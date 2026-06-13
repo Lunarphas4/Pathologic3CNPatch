@@ -1,4 +1,0 @@
-{Clouds2.Decrees.Disinfection.Disinfection_Cloud_Pile.21553} 微生物活不过这一关
-{Clouds2.Decrees.Disinfection.Disinfection_Cloud_Pile.32221} 微生物活不过这一关
-{Clouds2.Decrees.Disinfection.Disinfection_Cloud_Pile.23211} 物件总比人好
-{Clouds2.Decrees.Disinfection.Disinfection_Cloud_Pile.16819} 火能净化

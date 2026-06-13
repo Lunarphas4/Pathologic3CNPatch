@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_SimonIsEternal.Name} 焦
-{Minds2.Days.KeyNodes.KeyNode_SimonIsEternal.Description} 西蒙的记忆封存于多面体。

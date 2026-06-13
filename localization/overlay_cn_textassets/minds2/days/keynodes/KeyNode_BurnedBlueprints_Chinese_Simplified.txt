@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_BurnedBlueprints.Name} 秘随入土
-{Minds2.Days.KeyNodes.KeyNode_BurnedBlueprints.Description} 多面体的图纸已被付之一炬，无可挽回。

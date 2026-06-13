@@ -1,7 +1,0 @@
-{Clouds2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Cloud_SimonsDoor.20351} 时间的界限
-{Clouds2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Cloud_SimonsDoor.19253} 时间的界限
-{Clouds2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Cloud_SimonsDoor.37963} 焦点之钟
-{Clouds2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Cloud_SimonsDoor.3018} 这是什么意思？
-{Clouds2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Cloud_SimonsDoor.41752} 这套机制会在特定时刻锁住书房吗？
-{Clouds2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Cloud_SimonsDoor.58532} 只有在指定时间才能进入
-{Clouds2.Days.Day2.Day2_Q10_SimonsStudyCigarette.Day2_Q10_Cloud_SimonsDoor.61514} 但具体是哪几天？

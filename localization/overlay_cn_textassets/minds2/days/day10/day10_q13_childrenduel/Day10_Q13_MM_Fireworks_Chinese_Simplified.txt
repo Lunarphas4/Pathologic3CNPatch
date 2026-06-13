@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_MM_Fireworks.Name} 送葬礼炮
-{Minds2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_MM_Fireworks.Description} 爆竹已被没收。在古东方，鞭炮曾被用于驱疫——我是否也该采用此法？

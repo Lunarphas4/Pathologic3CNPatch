@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_MM_Invite.Name} 例行的邀约
-{Minds2.Days.Day6.Day6_Q8_ConversationsWithTheJudge.Day6_Q8_MM_Invite.Description} 我再次前往格奥尔基的工坊，试图领会他兄长那颗伟大的头脑。

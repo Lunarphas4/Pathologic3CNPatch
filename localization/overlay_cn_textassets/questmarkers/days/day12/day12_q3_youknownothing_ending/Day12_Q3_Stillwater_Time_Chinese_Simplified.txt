@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day12.Day12_Q3_YouKnowNothing_Ending.Day12_Q3_Stillwater_Time.Name} 静水观星台
-{QuestMarkers.Days.Day12.Day12_Q3_YouKnowNothing_Ending.Day12_Q3_Stillwater_Time.Description} 外面的门——接受宿命。钟面——抗争。

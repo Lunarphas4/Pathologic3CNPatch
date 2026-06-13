@@ -1,3 +1,0 @@
-﻿{Items.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_Bell.Name} 萨布罗娃的铃
-{Items.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_Bell.Description} 叮咚叮。
-{Items.Days.Day5.Day5_Q9_KaterinaIsAddict.Day5_Q9_Bell.Description2} 有人用笛子对付老鼠；而要对付鼠先知，我得到了一只小铃。

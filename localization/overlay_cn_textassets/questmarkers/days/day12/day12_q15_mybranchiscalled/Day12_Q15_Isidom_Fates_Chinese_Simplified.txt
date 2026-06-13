@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Isidom_Fates.Name} 伊西多尔的宅子
-{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Isidom_Fates.Description} 伊西多尔的宅子里还有一些我尚未得知的命运。

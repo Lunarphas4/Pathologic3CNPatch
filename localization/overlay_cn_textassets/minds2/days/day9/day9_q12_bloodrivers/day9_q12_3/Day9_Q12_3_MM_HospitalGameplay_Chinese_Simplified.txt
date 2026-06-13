@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_3.Day9_Q12_3_MM_HospitalGameplay.Name} 检查
-{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_3.Day9_Q12_3_MM_HospitalGameplay.Description} 他们让我接触尸体了！那么——是麻疹还是流感？

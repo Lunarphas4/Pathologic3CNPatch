@@ -1,2 +1,0 @@
-﻿{Locations.House_Vasiliy.Name} 菲拉特的宅子
-{Locations.House_Vasiliy.Description} 菲拉特的宅子

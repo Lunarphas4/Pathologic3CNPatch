@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Hospital_Haruspex.Name} 医院
-{QuestMarkers.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Hospital_Haruspex.Description} 我邀屠夫布拉赫到医院来搭把手。

@@ -1,3 +1,0 @@
-﻿{Items.Days.Day10.Day10_Q15_BullFellIntoTheStillwater.Day10_Q15_PaperAnnoyingBull_Analysed.Name} 烦人的小公牛（已检查）
-{Items.Days.Day10.Day10_Q15_BullFellIntoTheStillwater.Day10_Q15_PaperAnnoyingBull_Analysed.Description} Baccio？……没有你，静水观星台显得太空了。
-{Items.Days.Day10.Day10_Q15_BullFellIntoTheStillwater.Day10_Q15_PaperAnnoyingBull_Analysed.Description2} 感染公牛失踪现场留下的纸玩具。经过大量分析，结果证明它只是个普通纸玩具。

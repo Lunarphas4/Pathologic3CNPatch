@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_Flank.Name} 胁腹区
-{QuestMarkers.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_Flank.Description} 一个牧人告诉我彼得朝胁腹区去了。血迹也指向那边。

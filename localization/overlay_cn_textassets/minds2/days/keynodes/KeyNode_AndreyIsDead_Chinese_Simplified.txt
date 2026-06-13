@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_AndreyIsDead.Name} 安德烈之死
-{Minds2.Days.KeyNodes.KeyNode_AndreyIsDead.Description} 安德烈·斯塔马京死了。

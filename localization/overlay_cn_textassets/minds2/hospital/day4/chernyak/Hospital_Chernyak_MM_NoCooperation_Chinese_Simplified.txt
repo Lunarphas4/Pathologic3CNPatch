@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day4.Chernyak.Hospital_Chernyak_MM_NoCooperation.Name} 未解的冲突
-{Minds2.Hospital.Day4.Chernyak.Hospital_Chernyak_MM_NoCooperation.Description} 小黑对加在他身上的疑心很反感。看来诊断只能不经检查就下。一开始我就该更圆滑些。

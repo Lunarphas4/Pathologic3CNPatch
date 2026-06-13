@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_MM_MariaWaiting.Name} 奇异迹象
-{Minds2.Days.Day5.Day5_Q3_TownDeath.Day5_Q3_MM_MariaWaiting.Description} 玛丽亚·凯娜，西蒙的侄女，带着随从来到伊西多家。他们似乎正在举行某种古老仪式。

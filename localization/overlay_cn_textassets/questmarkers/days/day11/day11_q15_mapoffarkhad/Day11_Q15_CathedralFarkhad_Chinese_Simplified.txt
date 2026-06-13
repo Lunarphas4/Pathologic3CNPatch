@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_CathedralFarkhad.Name} 大教堂
-{QuestMarkers.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_CathedralFarkhad.Description} 斯塔马京兄弟是法尔哈德最大的对头。

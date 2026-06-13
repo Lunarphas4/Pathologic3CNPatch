@@ -1,3 +1,0 @@
-{Npcs.YoungVlad_MariasServant.Name} 卡戎
-{Npcs.YoungVlad_MariasServant.FullName} ⁠
-{Npcs.YoungVlad_MariasServant.Description} ⁠

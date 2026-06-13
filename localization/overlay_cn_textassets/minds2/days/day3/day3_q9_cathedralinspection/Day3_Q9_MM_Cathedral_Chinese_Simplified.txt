@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_MM_Cathedral.Name} 石场地标
-{Minds2.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_MM_Cathedral.Description} 大教堂里都举行些什么样的仪式？

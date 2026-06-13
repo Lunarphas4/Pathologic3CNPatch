@@ -1,2 +1,0 @@
-{Prologue.Notifications.Hints.Notification_Hint_Prologue_Map.Name} ⁠
-{Prologue.Notifications.Hints.Notification_Hint_Prologue_Map.Description} 按<InputActions/UI/Map>查看地图

@@ -1,3 +1,0 @@
-{StaffCommands.Critical.Day10_Critical_EventPoint.Title} 布洛克已死
-{StaffCommands.Critical.Day10_Critical_EventPoint.Description} 指挥官被杀，军队哗变将把小镇拖入毁灭。
-{StaffCommands.Critical.Day10_Critical_EventPoint.Summary} 导致动荡升级

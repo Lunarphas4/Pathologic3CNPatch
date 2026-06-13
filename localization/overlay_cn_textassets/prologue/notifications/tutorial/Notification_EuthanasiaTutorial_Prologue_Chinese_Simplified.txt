@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_EuthanasiaTutorial_Prologue.Name} 安乐死
-{Prologue.Notifications.Tutorial.Notification_EuthanasiaTutorial_Prologue.Description} 给濒死的患者注射镇静剂。这种药剂同样也能安抚我的精神

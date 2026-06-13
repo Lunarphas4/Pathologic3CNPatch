@@ -1,2 +1,0 @@
-{Notifications.Tutorial.Notification_BachelorSenseTutorial.Name} 敏锐目光
-{Notifications.Tutorial.Notification_BachelorSenseTutorial.Description} 有些物件可能派得上用场。只要<InputActions/Weapon/Tags>集中注意，我就能轻易发现它们。

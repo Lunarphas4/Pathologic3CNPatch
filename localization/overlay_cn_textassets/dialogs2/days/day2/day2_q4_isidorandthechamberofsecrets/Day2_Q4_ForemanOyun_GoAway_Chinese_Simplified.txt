@@ -1,7 +1,0 @@
-{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_GoAway.34093} 你骗了我，tanigdaagui khun（陌生人）。我见过 boös（兄长）。他没有称你为仆人——他说你是骗子。
-{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_GoAway.31167} 我就当这是夸奖了。
-{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_GoAway.42880} 我不是骗子——是你太容易上当。
-{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_GoAway.1860} 对。你该走了。这里是伊西多尔的血洒下的地方。你已经用你的 bailga 玷污了它。我不会再让其他外来者进来。
-{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_GoAway.31975} 等等！我还需要……
-{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_GoAway.8987} 很好。反正我也没有理由继续在这里逗留。
-{Dialogs2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_ForemanOyun_GoAway.16674} 你不过是在仗着自己打个喷嚏都能把我从这儿吹走。

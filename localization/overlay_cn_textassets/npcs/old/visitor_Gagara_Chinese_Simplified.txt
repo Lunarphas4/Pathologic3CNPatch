@@ -1,3 +1,0 @@
-{Npcs.Old.visitor_Gagara.Name} ⁠
-{Npcs.Old.visitor_Gagara.FullName} ⁠
-{Npcs.Old.visitor_Gagara.Description} ⁠

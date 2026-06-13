@@ -1,2 +1,0 @@
-{Symptoms.Slabost.Name} 虚弱
-{Symptoms.Slabost.Description} 患者感到迟钝、无力，缺乏完成日常活动的体力，常与低血压有关。

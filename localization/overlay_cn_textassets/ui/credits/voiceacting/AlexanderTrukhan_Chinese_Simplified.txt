@@ -1,1 +1,0 @@
-{UI.Credits.VoiceActing.AlexanderTrukhan.Name} Alexander Trukhan

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q3_MM_ShadyCure.Name} 可疑药剂
-{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q3_MM_ShadyCure.Description} 镇上正在分发一种来路不明的沙疫"良药"。

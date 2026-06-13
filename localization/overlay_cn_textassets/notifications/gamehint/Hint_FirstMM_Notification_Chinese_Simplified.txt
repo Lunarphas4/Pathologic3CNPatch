@@ -1,2 +1,0 @@
-{Notifications.GameHint.Hint_FirstMM_Notification.Name} ⁠
-{Notifications.GameHint.Hint_FirstMM_Notification.Description} 按 <InputActions/UI/Mind> 打开思维图。当前目标在其中显示。

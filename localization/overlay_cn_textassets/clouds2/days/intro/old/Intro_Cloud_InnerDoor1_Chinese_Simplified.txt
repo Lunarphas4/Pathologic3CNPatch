@@ -1,5 +1,0 @@
-{Clouds2.Days.Intro.Old.Intro_Cloud_InnerDoor1.29455} 有罪。
-{Clouds2.Days.Intro.Old.Intro_Cloud_InnerDoor1.18660} 有罪。
-{Clouds2.Days.Intro.Old.Intro_Cloud_InnerDoor1.22002} 而且仍然有罪。
-{Clouds2.Days.Intro.Old.Intro_Cloud_InnerDoor1.20096} mea culpa(我的罪过)
-{Clouds2.Days.Intro.Old.Intro_Cloud_InnerDoor1.28869} mea maxima culpa(我的至重罪过)

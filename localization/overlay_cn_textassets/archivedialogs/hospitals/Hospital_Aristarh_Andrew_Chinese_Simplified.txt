@@ -1,7 +1,0 @@
-{ArchiveDialogs.Hospitals.Hospital_Aristarh_Andrew.31393} 请说。
-{ArchiveDialogs.Hospitals.Hospital_Aristarh_Andrew.13282} 关于阿里斯塔尔赫，你能说些什么？
-{ArchiveDialogs.Hospitals.Hospital_Aristarh_Andrew.7616} 阿里斯塔尔赫是个很有才能的年轻人。
-{ArchiveDialogs.Hospitals.Hospital_Aristarh_Andrew.7606} 但我不愿为他的教育承担责任。
-{ArchiveDialogs.Hospitals.Hospital_Aristarh_Andrew.14616} 如果我想创办一所用自己名字命名的学校，我就会留在首都。
-{ArchiveDialogs.Hospitals.Hospital_Aristarh_Andrew.838} 他住得离这里不远。在住民区边缘。
-{ArchiveDialogs.Hospitals.Hospital_Aristarh_Andrew.25035} 那孩子现在喝得不要命——大概指望像彼得那样，灵感也会降到他身上。

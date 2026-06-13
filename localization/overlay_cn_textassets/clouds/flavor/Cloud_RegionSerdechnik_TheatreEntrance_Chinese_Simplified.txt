@@ -1,4 +1,0 @@
-{Clouds.Flavor.Cloud_RegionSerdechnik_TheatreEntrance.23767} 外面，是奇特的建筑。
-{Clouds.Flavor.Cloud_RegionSerdechnik_TheatreEntrance.43004} 外面，是奇特的建筑。
-{Clouds.Flavor.Cloud_RegionSerdechnik_TheatreEntrance.11099} 里面，是令人浮想的演出。
-{Clouds.Flavor.Cloud_RegionSerdechnik_TheatreEntrance.14786} 里面，是几十个死于瘟疫的人。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_MM_AndreySaved.Name} 试验品
-{Minds2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_MM_AndreySaved.Description} 安德烈体内的"疫苗"已经处理掉了，那位舞者正接受隔离。看来，斯塔马京暂时脱离了险境。

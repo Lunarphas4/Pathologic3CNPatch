@@ -1,3 +1,0 @@
-{Npcs.Martha.Name} 女人
-{Npcs.Martha.FullName} ⁠
-{Npcs.Martha.Description} ⁠

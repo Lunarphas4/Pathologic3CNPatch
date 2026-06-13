@@ -1,5 +1,0 @@
-﻿{UI.CharacterWindow.Tooltips.AspityTooltips.Intro} 收容逃亡草原人的临终院主人
-{UI.CharacterWindow.Tooltips.AspityTooltips.Funeral} 第2天，安葬了伊西多尔·布拉赫，并把他的遗产交给阿尔捷米
-{UI.CharacterWindow.Tooltips.AspityTooltips.Nest} 第10天，据称为了教我正确的死亡而死
-{UI.CharacterWindow.Tooltips.AspityTooltips.Coronation} 第12天，迎接她庇护的布拉赫登上部族之位
-{UI.CharacterWindow.Tooltips.AspityTooltips.Wake} 第12天，宣告没有布拉赫，部族即将走向死亡

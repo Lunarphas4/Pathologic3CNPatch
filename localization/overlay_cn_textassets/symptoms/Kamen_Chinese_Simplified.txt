@@ -1,2 +1,0 @@
-{Symptoms.Kamen.Name} 石化病变
-{Symptoms.Kamen.Description} 皮肤角化并开裂，像被热力烤裂的大地，症状因此得名。

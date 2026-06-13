@@ -1,3 +1,0 @@
-{Days.Day3.Name} 第三天
-{Days.Day3.Description} 今日钟声鸣响
-{Days.Day3.Name_StartDay} 第三天，

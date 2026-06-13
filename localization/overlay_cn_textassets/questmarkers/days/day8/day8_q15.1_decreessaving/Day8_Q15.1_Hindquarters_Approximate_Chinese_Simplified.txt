@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Hindquarters_Approximate.Name} 后躯区
-{QuestMarkers.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Hindquarters_Approximate.Description} 我的年轻信使们就在这个街区某处游荡。我得找找！

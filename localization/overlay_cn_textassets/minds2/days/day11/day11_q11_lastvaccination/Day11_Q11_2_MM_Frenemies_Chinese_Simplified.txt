@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_2_MM_Frenemies.Name} 友或敌
-{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_2_MM_Frenemies.Description} 克拉拉没有拒绝我，但她明显不愿在……一名见证人面前开口。

@@ -1,2 +1,0 @@
-{Symptoms.Yazva.Name} 溃疡
-{Symptoms.Yazva.Description} 皮肤完整性破坏并暴露下层组织。溃疡不同于机械性皮肤损伤，边缘通常清晰可见。

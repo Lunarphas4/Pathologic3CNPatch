@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_MM_Laboratory.Name} 死亡学院
-{Minds2.Days.Day12.Day12_Q12_Academician_Ending.Day12_Q12_MM_Laboratory.Description} 我止住了瘟疫，也救下了我的实验室。但我不再追逐幻影：我的目标，是阻止下一场疫情。

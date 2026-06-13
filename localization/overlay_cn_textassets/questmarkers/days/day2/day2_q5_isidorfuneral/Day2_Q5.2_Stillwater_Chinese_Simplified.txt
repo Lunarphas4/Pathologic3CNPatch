@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Stillwater.Name} 静水观星台
-{QuestMarkers.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Stillwater.Description} 我想在显微镜下看看血……只能先做化学分析了

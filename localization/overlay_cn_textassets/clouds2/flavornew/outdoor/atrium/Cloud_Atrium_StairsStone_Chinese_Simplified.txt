@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.Atrium.Cloud_Atrium_StairsStone.44925} 像一根量杆
-{Clouds2.FlavorNew.Outdoor.Atrium.Cloud_Atrium_StairsStone.10340} 像一根量杆
-{Clouds2.FlavorNew.Outdoor.Atrium.Cloud_Atrium_StairsStone.56689} 通往天空的楼梯，和斯塔马金的阁楼一起……
-{Clouds2.FlavorNew.Outdoor.Atrium.Cloud_Atrium_StairsStone.45131} ……在地图上形成一个清晰的斜十字
-{Clouds2.FlavorNew.Outdoor.Atrium.Cloud_Atrium_StairsStone.61752} 鬼才知道这有没有意义

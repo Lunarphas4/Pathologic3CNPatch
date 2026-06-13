@@ -1,2 +1,0 @@
-{UI.Credits.Art.VictoriaTereshonok.Name} Victoria Tereshonok
-{UI.Credits.Art.VictoriaTereshonok.Description} Prop 3D 美术

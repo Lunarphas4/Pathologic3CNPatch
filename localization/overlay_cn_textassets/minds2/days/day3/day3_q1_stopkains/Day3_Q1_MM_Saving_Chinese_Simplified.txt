@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q1_StopKains.Day3_Q1_MM_Saving.Name} 自利的搭救
-{Minds2.Days.Day3.Day3_Q1_StopKains.Day3_Q1_MM_Saving.Description} 我得确保鲁宾不再有性命之忧。如有必要，我亲自上门"威胁"也无妨。

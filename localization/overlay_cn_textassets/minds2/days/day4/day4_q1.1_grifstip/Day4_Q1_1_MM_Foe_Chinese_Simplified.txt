@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q1.1_GrifsTip.Day4_Q1_1_MM_Foe.Name} 潜在对手
-{Minds2.Days.Day4.Day4_Q1.1_GrifsTip.Day4_Q1_1_MM_Foe.Description} 她是自己来的，还是有人差遣？她针对的是西蒙……还是我？我暂时无法追查到她，但我会留意风声。

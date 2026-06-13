@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_3_MM_HaveMold.Name} 致命试管
-{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_3_MM_HaveMold.Description} 做足防护后，我刮下了一小块覆层。足够拿来化验！

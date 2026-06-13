@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q1_StopKains.Day3_Q1_MM_Escape.Name} 逃亡
-{Minds2.Days.Day3.Day3_Q1_StopKains.Day3_Q1_MM_Escape.Description} 我没能拦住鲁宾的敌人。我是大夫，不是凶手。看来，没人能救他了。

@@ -1,3 +1,0 @@
-{Clouds2.FlavorNew.Indoor.HornsVictor.Cloud_HornsVictor_SimonsTable.44925} 工程师工作需要铅笔和橡皮
-{Clouds2.FlavorNew.Indoor.HornsVictor.Cloud_HornsVictor_SimonsTable.10340} 工程师工作需要铅笔和橡皮
-{Clouds2.FlavorNew.Indoor.HornsVictor.Cloud_HornsVictor_SimonsTable.56689} 哲学家不需要橡皮

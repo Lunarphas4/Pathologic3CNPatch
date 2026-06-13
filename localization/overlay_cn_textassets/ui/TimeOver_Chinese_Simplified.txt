@@ -1,1 +1,0 @@
-{UI.TimeOver.TimeOver} 时间到

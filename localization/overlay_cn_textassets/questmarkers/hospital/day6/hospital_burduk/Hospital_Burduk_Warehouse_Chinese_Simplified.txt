@@ -1,2 +1,0 @@
-{QuestMarkers.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Warehouse.Name} 匪窝
-{QuestMarkers.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_Warehouse.Description} 进医院之前，牛蒡和他的同伙住在仓库。

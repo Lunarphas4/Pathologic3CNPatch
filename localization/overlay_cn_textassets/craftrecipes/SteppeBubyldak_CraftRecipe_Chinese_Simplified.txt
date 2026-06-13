@@ -1,2 +1,0 @@
-﻿{CraftRecipes.SteppeBubyldak_CraftRecipe.Name} 草原布比尔达克
-{CraftRecipes.SteppeBubyldak_CraftRecipe.Description} 增加躁狂

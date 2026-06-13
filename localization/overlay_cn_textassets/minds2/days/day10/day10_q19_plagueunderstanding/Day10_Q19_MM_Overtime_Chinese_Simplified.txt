@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_MM_Overtime.Name} 加时
-{Minds2.Days.Day10.Day10_Q19_PlagueUnderstanding.Day10_Q19_MM_Overtime.Description} 弥留之际的利特尔想见我一面。他领悟到了重要之事。

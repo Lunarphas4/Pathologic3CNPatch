@@ -1,3 +1,0 @@
-{Items.Craft.BelladonnaCapital.Name} 研究所毒剂
-{Items.Craft.BelladonnaCapital.Description} 用于害虫防治。严加封存，层层上锁，只凭书面许可发放。
-{Items.Craft.BelladonnaCapital.Description2} 用于害虫防治。严加封存，层层上锁，只凭书面许可发放。

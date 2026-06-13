@@ -1,3 +1,0 @@
-﻿{Items.Metabolism.SteppeBubyldak.Name} 草原布比尔达克
-{Items.Metabolism.SteppeBubyldak.Description} 草原布比尔达克
-{Items.Metabolism.SteppeBubyldak.Description2} 草原布比尔达克

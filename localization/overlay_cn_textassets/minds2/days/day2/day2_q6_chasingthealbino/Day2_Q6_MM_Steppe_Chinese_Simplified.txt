@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_MM_Steppe.Name} 草原幻象
-{Minds2.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_MM_Steppe.Description} 伊西多尔是草原传说的友人，而非其敌。但纵然是他，也被那不可想象之物的逼近所削弱。

@@ -1,3 +1,0 @@
-{Npcs.Kamil.Name} 秧鸡
-{Npcs.Kamil.FullName} ⁠
-{Npcs.Kamil.Description} ⁠

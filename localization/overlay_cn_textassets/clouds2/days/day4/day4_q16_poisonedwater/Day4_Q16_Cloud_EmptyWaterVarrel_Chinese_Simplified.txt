@@ -1,3 +1,0 @@
-{Clouds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_Cloud_EmptyWaterVarrel.19806} 拉拉投毒的水曾在这里
-{Clouds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_Cloud_EmptyWaterVarrel.28636} 拉拉投毒的水曾在这里
-{Clouds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_Cloud_EmptyWaterVarrel.47480} 现在桶已经空了

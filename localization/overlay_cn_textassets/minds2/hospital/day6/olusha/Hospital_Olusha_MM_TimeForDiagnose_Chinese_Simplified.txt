@@ -1,2 +1,0 @@
-{Minds2.Hospital.Day6.Olusha.Hospital_Olusha_MM_TimeForDiagnose.Name} 草原的赠物
-{Minds2.Hospital.Day6.Olusha.Hospital_Olusha_MM_TimeForDiagnose.Description} 甘妮特习惯直接从灌丛上摘浆果吃。值得对照疾病单，看哪些病会因此染上。

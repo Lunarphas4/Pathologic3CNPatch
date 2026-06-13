@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_2_MM_Eye.Name} 深处
-{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_2_MM_Eye.Description} 静水观星台是法尔哈德的造物。其中一间锁着的屋子，便是法尔哈德的书房。它的钥匙——就是静水观星台之"眼"中的那粒尘埃！

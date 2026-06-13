@@ -1,2 +1,0 @@
-{Prologue.StaffCommands.ContinuousCycle.Name} 全天候生产
-{Prologue.StaffCommands.ContinuousCycle.Description} 允许奥尔金斯基工厂实施夜间轮班

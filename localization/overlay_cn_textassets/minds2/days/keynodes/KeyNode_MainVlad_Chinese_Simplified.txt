@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_MainVlad.Name} 替罪羊
-{Minds2.Days.KeyNodes.KeyNode_MainVlad.Description} 小弗拉德接掌了抗疫之责。

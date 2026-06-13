@@ -1,2 +1,0 @@
-{StaffCommands.Day9.MobilisingVigilantes.Name} 动员民兵
-{StaffCommands.Day9.MobilisingVigilantes.Description} 进一步动员人手，补充守卫队。

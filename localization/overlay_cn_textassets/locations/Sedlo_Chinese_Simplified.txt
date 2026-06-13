@@ -1,2 +1,0 @@
-﻿{Locations.Sedlo.Name} 胁腹区
-{Locations.Sedlo.Description} 胁腹区

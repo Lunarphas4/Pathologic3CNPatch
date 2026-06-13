@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_3_MM_GoodBarrel.Name} Aqua vitae（生命之水）
-{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_3_MM_GoodBarrel.Description} 好——镇上至少有一大桶水没受污染！

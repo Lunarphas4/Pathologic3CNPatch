@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_Trammel_Second.Name} 束网
-{QuestMarkers.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_Trammel_Second.Description} 尤利娅没在等我。但已无别处可去。

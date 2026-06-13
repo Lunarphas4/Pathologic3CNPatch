@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_FinalDiagnosisTutorial_Prologue.Name} 诊断
-{Prologue.Notifications.Tutorial.Notification_FinalDiagnosisTutorial_Prologue.Description} 调查发现新症状后，必须写进病历簿里（按<InputActions/UI/Tablet>即可），然后再选择最终诊断

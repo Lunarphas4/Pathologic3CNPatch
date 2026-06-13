@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_InquisitionBook.44925} 律法之书
-{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_InquisitionBook.10340} 律法之书
-{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_InquisitionBook.56689} 禁止跳过自己的头顶
-{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_InquisitionBook.61752} 禁止弯折世界
-{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_InquisitionBook.40186} 禁止不按节拍呼吸

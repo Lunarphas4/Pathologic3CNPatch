@@ -1,2 +1,0 @@
-{CraftRecipes.Katver_CraftRecipe.Name} 卡特维尔
-{CraftRecipes.Katver_CraftRecipe.Description} 增加冷漠

@@ -1,5 +1,0 @@
-{Clouds2.Days.Intro.Old.Intro_Cloud_TanatKnockingDoor.2566} 敲门声
-{Clouds2.Days.Intro.Old.Intro_Cloud_TanatKnockingDoor.29392} 敲门声
-{Clouds2.Days.Intro.Old.Intro_Cloud_TanatKnockingDoor.4205} 砸门声
-{Clouds2.Days.Intro.Old.Intro_Cloud_TanatKnockingDoor.20264} 如果不开门，他们也许会走？
-{Clouds2.Days.Intro.Old.Intro_Cloud_TanatKnockingDoor.16657} 关闭令还没下达。

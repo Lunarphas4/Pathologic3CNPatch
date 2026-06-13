@@ -1,3 +1,0 @@
-{Npcs.AndreyStamatin.Name} 安德烈·斯塔马京
-{Npcs.AndreyStamatin.FullName} 狂躁建筑师
-{Npcs.AndreyStamatin.Description} 建筑师、酒馆老板、纵情之徒、杀人者。我和安德烈在大学里短暂同窗——结识于一次学生骚乱。他那处枪伤是我亲手缝合的。一次出乎意料的重逢。\n安德烈一向觉得教条与道德束缚他。只有蠢人才会指望他到这镇上来，只满足于在酒馆里斟twyrine（特维酒）。

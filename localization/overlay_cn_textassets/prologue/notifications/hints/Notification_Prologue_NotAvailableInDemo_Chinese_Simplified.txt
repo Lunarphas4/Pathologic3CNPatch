@@ -1,2 +1,0 @@
-{Prologue.Notifications.Hints.Notification_Prologue_NotAvailableInDemo.Name} 关闭
-{Prologue.Notifications.Hints.Notification_Prologue_NotAvailableInDemo.Description} 演示版不可用

@@ -1,4 +1,0 @@
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_Poster_ColdHouse.23421} “瘟疫栖身于寒冷的房屋。”
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_Poster_ColdHouse.4089} “瘟疫栖身于寒冷的房屋。”
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_Poster_ColdHouse.7692} 低温会削弱免疫力
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_Poster_ColdHouse.22620} 暖和些，人们就会少生病

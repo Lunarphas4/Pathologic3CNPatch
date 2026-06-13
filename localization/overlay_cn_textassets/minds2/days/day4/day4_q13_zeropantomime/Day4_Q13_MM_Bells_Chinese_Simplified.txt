@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q13_ZeroPantomime.Day4_Q13_MM_Bells.Name} 第三声铃
-{Minds2.Days.Day4.Day4_Q13_ZeroPantomime.Day4_Q13_MM_Bells.Description} 好戏开场！

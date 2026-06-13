@@ -1,2 +1,0 @@
-{Notifications.AddCraftRecipe.Name} ⁠
-{Notifications.AddCraftRecipe.Description} ⁠

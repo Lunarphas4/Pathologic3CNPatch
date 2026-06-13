@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q7_SavingOfPolyhedron.Day12_Q7_MM_Expert.Name} 我所信奉的，是真理
-{Minds2.Days.Day12.Day12_Q7_SavingOfPolyhedron.Day12_Q7_MM_Expert.Description} 两位审判官谁的论据都未压过对方。在这种情形下，布洛克不得不求助于外援专家。

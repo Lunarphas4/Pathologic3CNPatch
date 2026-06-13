@@ -1,2 +1,0 @@
-{Minds2.Hospital.Old.Zhitochnik.MM_SickZhitochnik_Start.Name} 病人硬汉
-{Minds2.Hospital.Old.Zhitochnik.MM_SickZhitochnik_Start.Description} 先检查病人硬汉的情况。

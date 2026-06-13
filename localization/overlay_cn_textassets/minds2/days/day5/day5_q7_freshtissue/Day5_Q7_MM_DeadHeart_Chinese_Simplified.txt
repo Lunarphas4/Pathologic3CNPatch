@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_MM_DeadHeart.Name} 死心
-{Minds2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_MM_DeadHeart.Description} 该死！我不够快！心脏已经停止，里面的沙疫也随之死亡。现在它只是一块无用的肉。牺牲白费了。

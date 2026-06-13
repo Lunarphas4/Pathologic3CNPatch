@@ -1,2 +1,0 @@
-{Minds2.Hospital.Old.Zhitochnik.MM_SickZhitochnik_End.Name} 病人硬汉
-{Minds2.Hospital.Old.Zhitochnik.MM_SickZhitochnik_End.Description} 病人硬汉暂时稳住了。

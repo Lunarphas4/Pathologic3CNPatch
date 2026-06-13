@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_HealthQuaters.Name} 健康城区
-{QuestMarkers.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_HealthQuaters.Description} 我的新助手会把化验仪带到这里。附近应该有一桶可疑的水。

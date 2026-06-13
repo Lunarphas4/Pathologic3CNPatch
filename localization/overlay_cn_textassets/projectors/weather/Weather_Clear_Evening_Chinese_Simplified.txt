@@ -1,3 +1,0 @@
-{Projectors.Weather.Weather_Clear_Evening.32540} ⁠
-{Projectors.Weather.Weather_Clear_Evening.9151} 平静的傍晚
-{Projectors.Weather.Weather_Clear_Evening.6071} 天气总算让人喘口气

@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Cathedral.Name} 教堂
-{QuestMarkers.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_Cathedral.Description} 唯独维克多的案子卡明斯基没让我去查。难道真有那么严重？

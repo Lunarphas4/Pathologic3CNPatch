@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_1_MM_Gossips.Name} 风声
-{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_1_MM_Gossips.Description} 关于那栋怪屋的流言传到了萨布罗夫耳里。他本人希望我去做专业鉴定。

@@ -1,3 +1,0 @@
-{Npcs.Quests.Houndhead_Ambassador.Name} 狗头使者
-{Npcs.Quests.Houndhead_Ambassador.FullName} ⁠
-{Npcs.Quests.Houndhead_Ambassador.Description} ⁠

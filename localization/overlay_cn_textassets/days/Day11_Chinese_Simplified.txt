@@ -1,3 +1,0 @@
-{Days.Day11.Name} 第十一天
-{Days.Day11.Description} 若干死亡学论题在今天得到实践证明
-{Days.Day11.Name_StartDay} 第十一天，

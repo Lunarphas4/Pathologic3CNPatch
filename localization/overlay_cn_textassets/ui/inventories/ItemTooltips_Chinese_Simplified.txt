@@ -1,9 +1,0 @@
-﻿{UI.Inventories.ItemTooltips.ItemHealthTooltip} 肉体健康：<value>
-{UI.Inventories.ItemTooltips.ItemNegativeMetabolistTooltip} 冷漠：<value>
-{UI.Inventories.ItemTooltips.ItemPositiveMetabolismTooltip} 狂躁：<value>
-{UI.Inventories.ItemTooltips.ItemWeaponAmmoTooltip} 子弹：<value>
-{UI.Inventories.ItemTooltips.ItemSilverBulletAmmoTooltip} 饱和度：<value>
-{UI.Inventories.ItemTooltips.ItemSilverBulletAvailableTooltip} 弹药：
-{UI.Inventories.ItemTooltips.ItemSilverBulletAvailable} 已准备
-{UI.Inventories.ItemTooltips.ItemSilverBulletNotAvailable} 未准备
-{UI.Inventories.ItemTooltips.ItemCostTooltip} 花费：

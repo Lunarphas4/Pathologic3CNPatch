@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_MM_IsidorsSecondFloor.Name} 太迟
-{Minds2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_MM_IsidorsSecondFloor.Description} 伊西多的房子随着主人死去而沉寂。他的书房在二楼。

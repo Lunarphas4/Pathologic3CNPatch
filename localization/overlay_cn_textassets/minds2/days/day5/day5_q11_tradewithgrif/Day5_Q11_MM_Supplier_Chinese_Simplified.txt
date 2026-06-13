@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q11_TradeWithGrif.Day5_Q11_MM_Supplier.Name} 供应者
-{Minds2.Days.Day5.Day5_Q11_TradeWithGrif.Day5_Q11_MM_Supplier.Description} 格里夫曾给卡捷琳娜·萨布罗娃供应吗啡。

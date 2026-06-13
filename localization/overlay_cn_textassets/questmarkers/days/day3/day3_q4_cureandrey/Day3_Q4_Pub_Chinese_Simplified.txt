@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Pub.Name} 碎心人酒馆
-{QuestMarkers.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_Pub.Description} 小弗拉德在安德烈的酒馆里试用了他那"治沙疫"的药。我得去看看结果。

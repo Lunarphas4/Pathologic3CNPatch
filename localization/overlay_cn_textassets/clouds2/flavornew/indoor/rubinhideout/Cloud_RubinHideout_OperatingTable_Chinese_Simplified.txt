@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Indoor.RubinHideout.Cloud_RubinHideout_OperatingTable.44925} 鲁宾，你就是个屠夫
-{Clouds2.FlavorNew.Indoor.RubinHideout.Cloud_RubinHideout_OperatingTable.10340} 鲁宾，你就是个屠夫
-{Clouds2.FlavorNew.Indoor.RubinHideout.Cloud_RubinHideout_OperatingTable.56689} 按本地标准算是学者，一个救人性命的屠夫
-{Clouds2.FlavorNew.Indoor.RubinHideout.Cloud_RubinHideout_OperatingTable.61752} 你自己打算怎么背着这些活下去？

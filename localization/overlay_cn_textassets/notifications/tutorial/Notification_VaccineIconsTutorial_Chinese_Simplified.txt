@@ -1,2 +1,0 @@
-{Notifications.Tutorial.Notification_VaccineIconsTutorial.Name} ⁠
-{Notifications.Tutorial.Notification_VaccineIconsTutorial.Description} ⁠

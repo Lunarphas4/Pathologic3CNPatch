@@ -1,5 +1,0 @@
-{UI.CharacterWindow.Tooltips.CapellaTooltips.Death} 第12天，因危害军队之罪被绞死
-{UI.CharacterWindow.Tooltips.CapellaTooltips.Intro} 未来的“白色之女主人”
-{UI.CharacterWindow.Tooltips.CapellaTooltips.HeadOfOlgimski} 第9天，成为奥尔金斯基家族的家长
-{UI.CharacterWindow.Tooltips.CapellaTooltips.InPrison} 第11天，自愿入狱
-{UI.CharacterWindow.Tooltips.CapellaTooltips.Engaged} 第12天，同意与可汗缔结家族婚约

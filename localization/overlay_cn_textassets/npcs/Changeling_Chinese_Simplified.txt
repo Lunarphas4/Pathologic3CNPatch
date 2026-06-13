@@ -1,3 +1,0 @@
-{Npcs.Changeling.Name} 换生灵
-{Npcs.Changeling.FullName} 克拉拉
-{Npcs.Changeling.Description} 一个衣衫褴褛、目光催眠般的小姑娘。头脑简单的人说她按手便能治病；又说她是Shabnak（泥魔女）的妹妹、死亡之先兆。名声起落如此……\n我曾在常人无从到达的偏远之处见到克拉拉，时而仿佛她同时身处两地。\n她的影子里潜伏着某种庞大之物。她到底是谁？

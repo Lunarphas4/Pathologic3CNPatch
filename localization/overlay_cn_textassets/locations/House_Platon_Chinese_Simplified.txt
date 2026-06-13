@@ -1,2 +1,0 @@
-﻿{Locations.House_Platon.Name} 艾米莉亚的宅子
-{Locations.House_Platon.Description} 艾米莉亚的宅子

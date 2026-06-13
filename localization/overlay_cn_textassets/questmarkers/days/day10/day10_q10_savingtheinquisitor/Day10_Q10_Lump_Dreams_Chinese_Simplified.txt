@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Lump_Dreams.Name} 块石宅
-{QuestMarkers.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_Lump_Dreams.Description} 卡佩拉是块石宅新的女主人。

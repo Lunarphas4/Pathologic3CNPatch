@@ -1,4 +1,0 @@
-{UI.CraftWindow.Buttons.Making} <InputActions/UI/StartCraft> 制作
-{UI.CraftWindow.Buttons.UseRecipe} 使用制作配方
-{UI.CraftWindow.Buttons.ListOfRecipes} 所有制作配方
-{UI.CraftWindow.Buttons.ClearCells} 清空槽位

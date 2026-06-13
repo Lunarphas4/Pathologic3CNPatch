@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_MM_InspectionIsOver.Name} 超越者
-{Minds2.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_MM_InspectionIsOver.Description} 大教堂不宜居人。当初的构想，是把它当作一台"产生时间"的装置。

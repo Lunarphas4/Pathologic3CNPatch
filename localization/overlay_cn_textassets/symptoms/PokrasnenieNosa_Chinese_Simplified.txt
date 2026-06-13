@@ -1,2 +1,0 @@
-{Symptoms.PokrasnenieNosa.Name} 鼻周发红
-{Symptoms.PokrasnenieNosa.Description} 鼻黏膜及周围组织发炎，常伴随流鼻涕。

@@ -1,2 +1,0 @@
-{Prologue.Notifications.Hints.Notification_Hint_Prologue_Evidences.Name} ⁠
-{Prologue.Notifications.Hints.Notification_Hint_Prologue_Evidences.Description} 必须先集齐线索

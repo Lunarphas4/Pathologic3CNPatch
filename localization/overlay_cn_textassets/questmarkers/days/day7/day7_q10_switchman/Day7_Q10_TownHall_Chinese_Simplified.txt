@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day7.Day7_Q10_Switchman.Day7_Q10_TownHall.Name} 市政厅
-{QuestMarkers.Days.Day7.Day7_Q10_Switchman.Day7_Q10_TownHall.Description} 若市政厅不告诉我扳道工的住址，那便没地方能告诉了。

@@ -1,3 +1,0 @@
-{Npcs.Timophey.Name} 访客松鸡
-{Npcs.Timophey.FullName} ⁠
-{Npcs.Timophey.Description} ⁠

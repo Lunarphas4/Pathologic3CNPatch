@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_NoBulls.Name} ……人也是
-{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_NoBulls.Description} 镇上的公牛日见稀少。没人愿意从自家牛群里分出一头。

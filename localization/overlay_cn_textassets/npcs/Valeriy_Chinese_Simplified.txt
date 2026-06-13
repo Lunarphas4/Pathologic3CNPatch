@@ -1,3 +1,0 @@
-{Npcs.Valeriy.Name} 访客沙锥鸟
-{Npcs.Valeriy.FullName} ⁠
-{Npcs.Valeriy.Description} ⁠

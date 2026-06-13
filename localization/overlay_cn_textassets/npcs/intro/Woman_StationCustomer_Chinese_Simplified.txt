@@ -1,3 +1,0 @@
-{Npcs.Intro.Woman_StationCustomer.Name} 时髦女士
-{Npcs.Intro.Woman_StationCustomer.FullName} ⁠
-{Npcs.Intro.Woman_StationCustomer.Description} ⁠

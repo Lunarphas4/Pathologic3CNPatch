@@ -1,2 +1,0 @@
-{Minds2.Days.Day2.Day2_Q5.1_AtTheIsidorFuneral.Day2.Q5.1_MM_Beasts.Name} 野兽把守
-{Minds2.Days.Day2.Day2_Q5.1_AtTheIsidorFuneral.Day2.Q5.1_MM_Beasts.Description} 墓地上午关闭。我可以试着稍后，正午时再回来

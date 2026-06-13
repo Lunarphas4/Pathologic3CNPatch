@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q20_RationalizersHiring.Day9_Q20_MM_Visit.Name} 不期之客
-{Minds2.Days.Day9.Day9_Q20_RationalizersHiring.Day9_Q20_MM_Visit.Description} 助手室里的几个人，我隐约觉得面熟。我们曾与他们一同复原过政令。莫非是认错了？

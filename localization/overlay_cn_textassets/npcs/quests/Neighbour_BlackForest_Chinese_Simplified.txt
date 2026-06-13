@@ -1,3 +1,0 @@
-{Npcs.Quests.Neighbour_BlackForest.Name} 雅库布的邻居
-{Npcs.Quests.Neighbour_BlackForest.FullName} ⁠
-{Npcs.Quests.Neighbour_BlackForest.Description} ⁠

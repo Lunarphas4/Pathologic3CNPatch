@@ -1,4 +1,0 @@
-{Clouds2.Days.Day4.Day4_Q1_RescueGrif.Day4_Q1_Cloud_Grif.16768} 受了伤，但没有被击败
-{Clouds2.Days.Day4.Day4_Q1_RescueGrif.Day4_Q1_Cloud_Grif.19244} 受了伤，但没有被击败
-{Clouds2.Days.Day4.Day4_Q1_RescueGrif.Day4_Q1_Cloud_Grif.11831} 有些人在遇刺后会重新思考人生
-{Clouds2.Days.Day4.Day4_Q1_RescueGrif.Day4_Q1_Cloud_Grif.16560} 另一些人则变得更刻薄

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_1_MM_Everything.Name} 谋划
-{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_1_MM_Everything.Description} 今日我已尽我所能。是吗？

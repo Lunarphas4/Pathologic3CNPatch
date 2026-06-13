@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_MM_Disenchantment.Name} 幻灭
-{Minds2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_MM_Disenchantment.Description} 斯坦尼斯拉夫·鲁宾，我最后的线索，被杀了。不朽者的踪迹断了。

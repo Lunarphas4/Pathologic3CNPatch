@@ -1,3 +1,0 @@
-﻿{Items.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Heart.Name} 娜拉的心
-{Items.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Heart.Description} 它在颤动。
-{Items.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_Heart.Description2} 娜拉把自己的心给了布拉赫。字面意义上的。野蛮习俗。

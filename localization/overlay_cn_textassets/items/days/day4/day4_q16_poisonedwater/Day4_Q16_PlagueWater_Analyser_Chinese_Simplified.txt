@@ -1,3 +1,0 @@
-﻿{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_PlagueWater_Analyser.Name} 水样（已检查）
-{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_PlagueWater_Analyser.Description} 感染沙疫的水。
-{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_PlagueWater_Analyser.Description2} 水即生命。而这水含有沙疫活性因子，会给饮用者带来死亡。

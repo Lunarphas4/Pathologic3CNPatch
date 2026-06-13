@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_WhoIsThisBrokenMan.Name} 手足之心
-{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_WhoIsThisBrokenMan.Description} 安德烈不在位置上。他正在召集人手营救彼得。我没时间等——我得提前去见彼得。

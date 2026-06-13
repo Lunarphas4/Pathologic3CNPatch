@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_Hospital_Bull.Name} 医院
-{QuestMarkers.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_Hospital_Bull.Description} 一个代表团在医院等我接见。

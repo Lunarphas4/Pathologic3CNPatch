@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_Animals.Name} 公牛事务
-{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_Animals.Description} 镇上的牲畜都由老奥尔金斯基管。虽然我在他家不受欢迎，但他怕也不敢回绝我。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_MM_Nonsense.Name} 无稽之谈
-{Minds2.Days.Day6.Day6_Q13_BlackForest.Day6_Q13_MM_Nonsense.Description} 一座能治沙疫的黑森林？又是草原上的迷信。

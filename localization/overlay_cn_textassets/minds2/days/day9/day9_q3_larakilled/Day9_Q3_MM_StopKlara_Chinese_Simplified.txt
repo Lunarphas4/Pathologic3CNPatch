@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q3_LaraKilled.Day9_Q3_MM_StopKlara.Name} 它会在昨日发生
-{Minds2.Days.Day9.Day9_Q3_LaraKilled.Day9_Q3_MM_StopKlara.Description} 换生灵真是个不讲道理的对象！我得提早一日把她拦下——一了百了。

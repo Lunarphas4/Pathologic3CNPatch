@@ -1,8 +1,0 @@
-{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_Microscope.26473} 医生，快点！这可不是你会想错过的景象！
-{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_Microscope.22155} 你在说什么？
-{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_Microscope.6730} 沙疫！在显微镜下，它正在做最异常的事！标本还新鲜，您必须亲眼看看！来自封板屋里那个可怜人——就是您找到并送来的那个。多么罕见的运气！
-{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_Microscope.39521} 好，好。但别兴奋得乱跳，不然你会把显微镜撞翻。
-{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_Microscope.32424} 我会看一眼。
-{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_Microscope.4213} 如果你把我叫来，只是为了看每个二年级学生都在显微镜下见过的东西，我会非常不悦。
-{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_Microscope.44455} 沙疫！在显微镜下，它正在做最异常的事！标本还新鲜，您必须亲眼看看！来自封板屋里那个可怜人——就是您送来的尸体。多么罕见的运气！
-{Dialogs2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_Watson_Microscope.63269} 太吵了，小家伙。说清楚——急在哪里？

@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Indoor.HornsVictor.Cloud_HornsVictor_StrangeStatue.44925} ……你想掀起\n帷幕，却忘了遗命中的词：
-{Clouds2.FlavorNew.Indoor.HornsVictor.Cloud_HornsVictor_StrangeStatue.10340} ……你想掀起\n帷幕，却忘了遗命中的词：
-{Clouds2.FlavorNew.Indoor.HornsVictor.Cloud_HornsVictor_StrangeStatue.56689} 时候未到，别碰禁忌的遮盖！
-{Clouds2.FlavorNew.Indoor.HornsVictor.Cloud_HornsVictor_StrangeStatue.61752} 但神圣的声音为何传下遗训：
-{Clouds2.FlavorNew.Indoor.HornsVictor.Cloud_HornsVictor_StrangeStatue.22165} 谁掀起织物，谁便看见真理？

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_PeterIsDead.Name} 无所不可
-{Minds2.Days.KeyNodes.KeyNode_PeterIsDead.Description} 彼得·斯塔马京以"逾越可能之限"之罪被吊死。

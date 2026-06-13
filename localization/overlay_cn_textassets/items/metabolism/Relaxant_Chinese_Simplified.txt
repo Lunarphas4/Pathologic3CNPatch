@@ -1,3 +1,0 @@
-﻿{Items.Metabolism.Relaxant.Name} 莫利亚汀
-{Items.Metabolism.Relaxant.Description} 用于治疗炮弹休克、癫痫及其他神经疾病的肌肉松弛剂。因使用方便，在前线越来越流行。
-{Items.Metabolism.Relaxant.Description2} 松弛剂

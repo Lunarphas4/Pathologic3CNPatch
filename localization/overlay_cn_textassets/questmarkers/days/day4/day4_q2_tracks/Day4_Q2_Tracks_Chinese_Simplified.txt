@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day4.Day4_Q2_Tracks.Day4_Q2_Tracks.Name} 火车站
-{QuestMarkers.Days.Day4.Day4_Q2_Tracks.Day4_Q2_Tracks.Description} 恶徒格里夫为想出镇的人安排了交通。

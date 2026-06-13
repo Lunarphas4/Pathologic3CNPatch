@@ -1,3 +1,0 @@
-{Npcs.GriefMate.Name} 秃鹫
-{Npcs.GriefMate.FullName} ⁠
-{Npcs.GriefMate.Description} ⁠

@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Traps.Notification_TakeTheTool.Name} 按 <InputActions/Weapon/Slot1> 持起原型器具
-{Notifications.Tutorial.Traps.Notification_TakeTheTool.Description} 按 <InputActions/Weapon/Slot1> 持起原型器具。

@@ -1,9 +1,0 @@
-{Clouds2.Hospital.Day5.Hospital_GodsFool.Hospital_GodsFool_Cloud_Patient.26864} 露宿街头
-{Clouds2.Hospital.Day5.Hospital_GodsFool.Hospital_GodsFool_Cloud_Patient.10643} 露宿街头
-{Clouds2.Hospital.Day5.Hospital_GodsFool.Hospital_GodsFool_Cloud_Patient.15842} 衣衫褴褛，气味难闻，还在发痒
-{Clouds2.Hospital.Day5.Hospital_GodsFool.Hospital_GodsFool_Cloud_Patient.29188} 几乎站不住脚
-{Clouds2.Hospital.Day5.Hospital_GodsFool.Hospital_GodsFool_Cloud_Patient.34072} 生活方式，还是症状？
-{Clouds2.Hospital.Day5.Hospital_GodsFool.Hospital_GodsFool_Cloud_Patient.114} 一个乐于帮忙的人
-{Clouds2.Hospital.Day5.Hospital_GodsFool.Hospital_GodsFool_Cloud_Patient.61632} 替勤务员干了脏活
-{Clouds2.Hospital.Day5.Hospital_GodsFool.Hospital_GodsFool_Cloud_Patient.37507} 冒着生命危险，给别人家的孩子带回玩具
-{Clouds2.Hospital.Day5.Hospital_GodsFool.Hospital_GodsFool_Cloud_Patient.49774} 当然，孩子先死了。类型规律就是如此

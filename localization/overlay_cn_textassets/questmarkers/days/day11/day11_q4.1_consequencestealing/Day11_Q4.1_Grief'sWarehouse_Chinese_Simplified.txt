@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day11.Day11_Q4.1_ConsequenceStealing.Day11_Q4.1_Grief'sWarehouse.Name} 肉埋在何处
-{QuestMarkers.Days.Day11.Day11_Q4.1_ConsequenceStealing.Day11_Q4.1_Grief'sWarehouse.Description} 军需从仓库被盗——这引发了骚乱。格里夫的人卷入其中了吗？

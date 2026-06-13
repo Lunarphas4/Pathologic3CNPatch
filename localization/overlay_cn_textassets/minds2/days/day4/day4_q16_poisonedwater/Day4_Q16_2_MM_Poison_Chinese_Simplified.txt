@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_2_MM_Poison.Name} 别习以为常
-{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_2_MM_Poison.Description} 我最不愿"猜对"。穷人正被发放着含病原体的水。必须立刻叫停！

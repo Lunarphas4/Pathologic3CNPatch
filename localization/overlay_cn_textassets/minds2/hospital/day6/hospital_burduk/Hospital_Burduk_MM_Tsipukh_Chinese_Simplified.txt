@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_Tsipukh.Name} 诅咒是麻脸编的
-{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_Tsipukh.Description} 何况他那病是先天的。牛蒡不可能被那位"巫师"传染。

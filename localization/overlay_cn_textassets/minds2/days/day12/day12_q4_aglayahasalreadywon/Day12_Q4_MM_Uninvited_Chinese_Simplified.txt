@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_MM_Uninvited.Name} 不请自来
-{Minds2.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_MM_Uninvited.Description} 我知道——答案在套笼那里等我。

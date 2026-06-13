@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_PlagueQuarter.Name} 感染街区
-{QuestMarkers.Days.Day0.Day0_Q14_SilverBulletTutorial.Day0_Q14_PlagueQuarter.Description} 我制成了一枚抗瘟疫药剂弹。它明天必然会失效。在她吞噬我之前，我必须朝她开一枪。

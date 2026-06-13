@@ -1,2 +1,0 @@
-{Prologue.Notifications.Logo.Notification_Prologue_Logo_1.Name} ⁠
-{Prologue.Notifications.Logo.Notification_Prologue_Logo_1.Description} 我是医学专业的学者丹尼尔·丹科夫斯基，因为研究人类寿命的极限而闻名。我将全部精力和非凡才智都投入到对抗人类最大的恐惧——不可避免的死亡宿命之中。

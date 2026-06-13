@@ -1,2 +1,0 @@
-{UI.Credits.Art.MariaShikalova.Name} Maria Shikalova
-{UI.Credits.Art.MariaShikalova.Description} UI 美术、UX 专员

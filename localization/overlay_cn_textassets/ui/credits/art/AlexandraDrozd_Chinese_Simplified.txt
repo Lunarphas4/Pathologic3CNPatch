@@ -1,2 +1,0 @@
-{UI.Credits.Art.AlexandraDrozd.Name} Alexandra Drozd
-{UI.Credits.Art.AlexandraDrozd.Description} 概念美术

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_MM_Understanding.Name} 理解西蒙
-{Minds2.Days.Day8.Day8_Q14_JudgingTheJudge.Day8_Q14_MM_Understanding.Description} 格奥尔基在等我，要告诉我更多关于他那位兄长的事。

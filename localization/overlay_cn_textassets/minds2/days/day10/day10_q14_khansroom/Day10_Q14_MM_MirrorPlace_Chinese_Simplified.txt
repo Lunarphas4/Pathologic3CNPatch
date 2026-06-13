@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_MM_MirrorPlace.Name} 色散
-{Minds2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_MM_MirrorPlace.Description} 好一个奇异之地！我们到了什么地方？

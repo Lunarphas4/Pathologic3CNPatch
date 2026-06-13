@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_StaffCarouselTutorial_Prologue.Name} 法令系统
-{Prologue.Notifications.Tutorial.Notification_StaffCarouselTutorial_Prologue.Description} 法令以不同方式影响城镇，效果呈现在图表中。需谨慎分配资源

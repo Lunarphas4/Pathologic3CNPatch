@@ -1,2 +1,0 @@
-{Notifications.Days.Day12.Day12_Q13_BullAtThePolyhedron.Day12_Q13_Hint_BullHint.Name} ⁠
-{Notifications.Days.Day12.Day12_Q13_BullAtThePolyhedron.Day12_Q13_Hint_BullHint.Description} 那只折纸公牛在我口袋里抖动。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_SimonAndIsidorAllowedThePlague.Name} 审判
-{Minds2.Days.KeyNodes.KeyNode_SimonAndIsidorAllowedThePlague.Description} 西蒙与伊西多尔放瘟疫入了镇。

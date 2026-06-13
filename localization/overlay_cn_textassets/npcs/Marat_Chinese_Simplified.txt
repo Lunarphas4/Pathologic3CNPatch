@@ -1,3 +1,0 @@
-{Npcs.Marat.Name} 马拉特
-{Npcs.Marat.FullName} ⁠
-{Npcs.Marat.Description} ⁠

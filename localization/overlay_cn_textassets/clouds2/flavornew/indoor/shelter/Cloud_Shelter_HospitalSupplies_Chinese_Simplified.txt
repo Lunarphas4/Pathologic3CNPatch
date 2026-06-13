@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_HospitalSupplies.44925} 有些小瓶碎了，有些混了，有些被偷了
-{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_HospitalSupplies.10340} 有些小瓶碎了，有些混了，有些被偷了
-{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_HospitalSupplies.56689} 军官们总是非常热爱秩序
-{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_HospitalSupplies.61752} 但他们给周围带来的只有混乱

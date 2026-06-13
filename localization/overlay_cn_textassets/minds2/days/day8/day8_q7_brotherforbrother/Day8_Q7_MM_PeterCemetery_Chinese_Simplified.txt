@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q7_BrotherForBrother.Day8_Q7_MM_PeterCemetery.Name} 暂栖之所
-{Minds2.Days.Day8.Day8_Q7_BrotherForBrother.Day8_Q7_MM_PeterCemetery.Description} 就让彼得躲进墓园吧。三天之后，我估计能在那儿找到他。

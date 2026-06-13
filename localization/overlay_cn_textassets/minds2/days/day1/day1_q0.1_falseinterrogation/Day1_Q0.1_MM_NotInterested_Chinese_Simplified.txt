@@ -1,2 +1,0 @@
-{Minds2.Days.Day1.Day1_Q0.1_FalseInterrogation.Day1_Q0.1_MM_NotInterested.Name} 没兴趣
-{Minds2.Days.Day1.Day1_Q0.1_FalseInterrogation.Day1_Q0.1_MM_NotInterested.Description} 我已经把调查警督感兴趣的一切都告诉他了，甚至还多说了一点

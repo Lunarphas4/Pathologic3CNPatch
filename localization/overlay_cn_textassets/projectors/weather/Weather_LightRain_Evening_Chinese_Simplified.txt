@@ -1,4 +1,0 @@
-{Projectors.Weather.Weather_LightRain_Evening.13106} ⁠
-{Projectors.Weather.Weather_LightRain_Evening.1091} 下着毛毛雨
-{Projectors.Weather.Weather_LightRain_Evening.25831} 细雨绵绵的傍晚
-{Projectors.Weather.Weather_LightRain_Evening.29376} 连自然都在忧伤

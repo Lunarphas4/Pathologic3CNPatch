@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_TimetravelChooseTutorial_Prologue.Name} 另一天
-{Prologue.Notifications.Tutorial.Notification_TimetravelChooseTutorial_Prologue.Description} 新的一天带来新的记忆。选择日期即可探索当日事件

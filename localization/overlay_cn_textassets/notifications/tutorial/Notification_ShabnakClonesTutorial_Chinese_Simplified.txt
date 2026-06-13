@@ -1,2 +1,0 @@
-{Notifications.Tutorial.Notification_ShabnakClonesTutorial.Name} 沙疫在变化
-{Notifications.Tutorial.Notification_ShabnakClonesTutorial.Description} 原始延展燃着黄色的火焰。若Shabnak（泥魔女）走进火堆而火色有异——那便不是沙疫。我必须仔细看清各处篝火。Shabnak（泥魔女）有灵识，会学习——它会设法骗我。

@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Polyhedron.Name} 多面体
-{QuestMarkers.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Polyhedron.Description} 那座玻璃塔似乎在嗡嗡作响。它是要把自己从地里拔起来吗？

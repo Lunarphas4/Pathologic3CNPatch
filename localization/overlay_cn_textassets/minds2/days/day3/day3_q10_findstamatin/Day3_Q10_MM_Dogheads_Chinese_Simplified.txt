@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Dogheads.Name} 昨天？
-{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Dogheads.Description} 狗头帮一口咬定我已经向他们问过多面体的事了。

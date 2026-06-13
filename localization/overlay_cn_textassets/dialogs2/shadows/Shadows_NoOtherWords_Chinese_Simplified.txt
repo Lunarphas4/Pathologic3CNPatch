@@ -1,8 +1,0 @@
-{Dialogs2.Shadows.Shadows_NoOtherWords.61585} 这里立着一个疏忽、冷漠与轻慢的受害者。一个命运之线本可继续编织，却被割断的人。
-{Dialogs2.Shadows.Shadows_NoOtherWords.27419} 什么时候？什么时候，又为什么，影子？
-{Dialogs2.Shadows.Shadows_NoOtherWords.63566} 不是现在。几天前，这个人还健健康康，对自己的命运一无所知。然后死亡收割了它的庄稼。
-{Dialogs2.Shadows.Shadows_NoOtherWords.15844} 健健康康，当然。
-{Dialogs2.Shadows.Shadows_NoOtherWords.19421} 你说话就像在和我对弈。没有一句明白话。
-{Dialogs2.Shadows.Shadows_NoOtherWords.13455} 我有罪，影子。但我会找到这条生命被切断的那个点。我会记起来。
-{Dialogs2.Shadows.Shadows_NoOtherWords.26370} 闭嘴！我会把一切拨正。
-{Dialogs2.Shadows.Shadows_NoOtherWords.38261} 有些人是自取其命。

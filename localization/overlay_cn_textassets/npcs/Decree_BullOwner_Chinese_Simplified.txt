@@ -1,3 +1,0 @@
-{Npcs.Decree_BullOwner.Name} 布兰特
-{Npcs.Decree_BullOwner.FullName} ⁠
-{Npcs.Decree_BullOwner.Description} ⁠

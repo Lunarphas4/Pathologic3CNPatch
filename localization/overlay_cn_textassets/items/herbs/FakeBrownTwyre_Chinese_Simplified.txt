@@ -1,3 +1,0 @@
-{Items.Herbs.FakeBrownTwyre.Name} 商人手里的褐色 twyre（特维草）
-{Items.Herbs.FakeBrownTwyre.Description} 东北草原的特有植物。当地人用它蒸馏药物和烈酒。如此罕见的植物，我买得未免太便宜了。
-{Items.Herbs.FakeBrownTwyre.Description2} 商人冒充褐色 twyre（特维草）卖给我的，结果是完全不同的草药。

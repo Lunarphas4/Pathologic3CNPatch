@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day5.GodsFool.Hospital_GodsFool_MM_Bull.Name} 小公牛在这里。
-{Minds2.Hospital.Day5.GodsFool.Hospital_GodsFool_MM_Bull.Description} 但波博克担心自己“没把”公牛从某个地方弄出来。我该问问别人，弄清这混乱的说法。

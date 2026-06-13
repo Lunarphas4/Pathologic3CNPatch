@@ -1,3 +1,0 @@
-﻿{Items.Days.Day4.Day4_Q3_OdongRevenge.Day4_Q3_Shovel.Name} 铲子
-{Items.Days.Day4.Day4_Q3_OdongRevenge.Day4_Q3_Shovel.Description} 用来剖开大地的手术刀。
-{Items.Days.Day4.Day4_Q3_OdongRevenge.Day4_Q3_Shovel.Description2} 我在街上听到过一些关于破土禁忌的说法。但我不是这里的人，而且事情比草原迷信更重要。

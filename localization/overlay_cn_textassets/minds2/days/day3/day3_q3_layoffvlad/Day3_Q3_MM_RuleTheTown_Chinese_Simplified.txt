@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q3_MM_RuleTheTown.Name} 弗拉德请辞
-{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q3_MM_RuleTheTown.Description} 小奥尔金斯基已被排除在决策之外。而我必须正式接掌大权，才能废止那种致命的"接种术"。

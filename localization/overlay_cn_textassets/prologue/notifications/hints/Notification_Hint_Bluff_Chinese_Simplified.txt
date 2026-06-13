@@ -1,2 +1,0 @@
-{Prologue.Notifications.Hints.Notification_Hint_Bluff.Name} ⁠
-{Prologue.Notifications.Hints.Notification_Hint_Bluff.Description} 按<InputActions/Weapon/Aim>举起左轮手枪瞄准并威慑

@@ -1,2 +1,0 @@
-{Notifications.Old.HintSub5.Name} ⁠
-{Notifications.Old.HintSub5.Description} ⁠

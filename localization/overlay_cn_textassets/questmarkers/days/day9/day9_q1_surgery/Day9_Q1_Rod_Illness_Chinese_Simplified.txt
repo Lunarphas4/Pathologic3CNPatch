@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Rod_Illness.Name} 脊宅
-{QuestMarkers.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Rod_Illness.Description} 卡捷琳娜病了。她急需我相助。

@@ -1,6 +1,0 @@
-﻿{UI.CharacterWindow.Tooltips.VictorTooltips.Death} 第12天，他的心脏承受不住压力
-{UI.CharacterWindow.Tooltips.VictorTooltips.Intro} 凯恩家的管家
-{UI.CharacterWindow.Tooltips.VictorTooltips.NearlyDeath} 第7天，因创造危险街道而被剥夺心智
-{UI.CharacterWindow.Tooltips.VictorTooltips.Captured} 第10天，被绑架后又被送回
-{UI.CharacterWindow.Tooltips.VictorTooltips.Nina} 第11天起，承载着狂野妮娜·凯娜的记忆
-{UI.CharacterWindow.Tooltips.VictorTooltips.Polyhedron} 第11天，带领孩子们离开多面体

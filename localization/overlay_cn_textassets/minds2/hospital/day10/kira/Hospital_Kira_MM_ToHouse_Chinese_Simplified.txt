@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_ToHouse.Name} 实地查访
-{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_ToHouse.Description} 医者直觉告诉我：若觉得该去病人住处看看——便必须去看。

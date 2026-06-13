@@ -1,3 +1,0 @@
-﻿{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_WaterMarrow.Name} 骨髓区的水
-{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_WaterMarrow.Description} 用于分析的水样。
-{Items.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_WaterMarrow.Description2} 饮用戈尔孔河水因草原信仰而被禁止，工厂污水又加深了这种禁忌。这份样本取自骨髓区的一只水桶。

@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Shekhen.Name} 谢亨
-{QuestMarkers.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5.2_Shekhen.Description} 从早晨起，伊西多尔就在草原村落中被送上最后的旅程。直到葬礼前都会如此

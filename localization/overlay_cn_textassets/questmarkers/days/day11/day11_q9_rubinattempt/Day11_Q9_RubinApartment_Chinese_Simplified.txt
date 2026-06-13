@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q9_RubinAttempt.Day11_Q9_RubinApartment.Name} 鲁宾的住所
-{QuestMarkers.Days.Day11.Day11_Q9_RubinAttempt.Day11_Q9_RubinApartment.Description} 据说鲁宾在他登记的住所等我。

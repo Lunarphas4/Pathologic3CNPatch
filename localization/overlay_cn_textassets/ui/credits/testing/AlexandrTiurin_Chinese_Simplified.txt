@@ -1,2 +1,0 @@
-{UI.Credits.Testing.AlexandrTiurin.Name} Alexandr Tiurin
-{UI.Credits.Testing.AlexandrTiurin.Description} 首席 QA 测试

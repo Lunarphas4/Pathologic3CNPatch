@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_MM_ChildrenAndFire.Name} 军备
-{Minds2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_MM_ChildrenAndFire.Description} 如今医院里堆满了爆炸物。可狗头帮还想把它们拖走射向士兵。两者哪个更糟，我都说不上来。

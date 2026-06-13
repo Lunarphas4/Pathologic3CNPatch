@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_Catheral_Street.Name} 大教堂
-{QuestMarkers.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_Catheral_Street.Description} 卡明斯基又想找我谈话。

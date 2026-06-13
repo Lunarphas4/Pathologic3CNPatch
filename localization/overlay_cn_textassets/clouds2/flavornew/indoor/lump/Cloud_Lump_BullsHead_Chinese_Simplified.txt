@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Lump.Cloud_Lump_BullsHead.44925} 这里住着公牛中的公牛
-{Clouds2.FlavorNew.Indoor.Lump.Cloud_Lump_BullsHead.10340} 这里住着公牛中的公牛
-{Clouds2.FlavorNew.Indoor.Lump.Cloud_Lump_BullsHead.56689} 在它面前低头
-{Clouds2.FlavorNew.Indoor.Lump.Cloud_Lump_BullsHead.61752} ……否则就跟头告别

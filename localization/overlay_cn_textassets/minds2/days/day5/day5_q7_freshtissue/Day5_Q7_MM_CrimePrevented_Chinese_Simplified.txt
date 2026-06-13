@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_MM_CrimePrevented.Name} 悖论
-{Minds2.Days.Day5.Day5_Q7_FreshTissue.Day5_Q7_MM_CrimePrevented.Description} 询问布拉赫是唯一能让他措手不及、阻止他杀死娜拉的机会。否则，谁知道那会在何时何地发生。

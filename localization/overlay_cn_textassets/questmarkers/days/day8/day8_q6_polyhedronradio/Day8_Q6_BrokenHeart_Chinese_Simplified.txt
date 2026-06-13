@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_BrokenHeart.Name} 碎心
-{QuestMarkers.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_BrokenHeart.Description} 斯塔马京兄弟造了多面体。也许他们知道现在出的什么古怪？

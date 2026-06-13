@@ -1,3 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Thanatica.Cloud_Thanatica_Plants.44925} 新的方向
-{Clouds2.FlavorNew.Indoor.Thanatica.Cloud_Thanatica_Plants.56689} 新的方向
-{Clouds2.FlavorNew.Indoor.Thanatica.Cloud_Thanatica_Plants.61752} 新的照管对象

@@ -1,2 +1,0 @@
-{UI.SymptomGroupTooltips.Koja.Name} 皮肤样本
-{UI.SymptomGroupTooltips.Koja.Description} 取下一小块皮肤样本以明确诊断，通常在有肿物存在时进行。这是最早发明的活检类型。

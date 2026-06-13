@@ -1,2 +1,0 @@
-{UI.MicroscopeFinals.Failure.Name} 测试失败
-{UI.MicroscopeFinals.Failure.Description} 检查没有得到任何结果

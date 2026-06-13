@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day1.Day1_Q1_GetSchemes.Day1_Q1_MM_NeedShovel.Name} 干净的手
-{Minds2.Days.Day1.Day1_Q1_GetSchemes.Day1_Q1_MM_NeedShovel.Description} 彼得用手挖出藏匿处，弄伤了自己，让半座小镇被鲜血淹没。我不想重蹈他的命运。得找一把铲子。

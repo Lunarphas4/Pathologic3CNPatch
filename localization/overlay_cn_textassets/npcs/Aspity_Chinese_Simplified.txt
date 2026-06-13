@@ -1,3 +1,0 @@
-{Npcs.Aspity.Name} 阿斯皮迪
-{Npcs.Aspity.FullName} Sahba-ötün（萨芭-奥腾）
-{Npcs.Aspity.Description} 这个女人曾领着金族。更确切地说，是其中一支。我始终没弄清他们内部的结构。\n她总是用毫不掩饰、反倒令人耳目一新的厌恶看着我。我们几乎没说过话。

@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_Blood.Name} 血迹
-{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_Blood.Description} 这群文艺波西米亚青年的屋里出了什么事？有人需要帮忙？

@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day4.Schur.Hospital_Schur_MM_PersonalFile.Name} 今日第二位病人
-{Minds2.Hospital.Day4.Schur.Hospital_Schur_MM_PersonalFile.Description} 芬奇。自己来的医院，怀疑染了瘟疫。

@@ -1,3 +1,0 @@
-﻿{Items.Metabolism.Morphine.Name} 吗啡
-{Items.Metabolism.Morphine.Description} 精神和肉体的痛苦都能缓解，唯一的代价是思维会变得敏锐。多数人甘愿接受这交易。
-{Items.Metabolism.Morphine.Description2} 精神和肉体的痛苦都能缓解，唯一的代价是思维会变得敏锐。多数人甘愿接受这交易。

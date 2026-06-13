@@ -1,4 +1,0 @@
-{Clouds.Flavor.Cloud_Hospital_microscope.17796} 孩子们以为能用它看见未来。
-{Clouds.Flavor.Cloud_Hospital_microscope.12104} 孩子们以为能用它看见未来。
-{Clouds.Flavor.Cloud_Hospital_microscope.15583} 能看见微观世界，想必也同样宝贵。
-{Clouds.Flavor.Cloud_Hospital_microscope.51056} 某种意义上，它是在看过去。

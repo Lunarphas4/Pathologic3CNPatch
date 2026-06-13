@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day4.Zhitochnik.Hospital_Zhitochnik_MM_PersonalFile.Name} 学问人
-{Minds2.Hospital.Day4.Zhitochnik.Hospital_Zhitochnik_MM_PersonalFile.Description} 又一个江湖郎中。自称哈德曼，自认是发明家。

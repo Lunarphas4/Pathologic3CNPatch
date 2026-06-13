@@ -1,5 +1,0 @@
-{Clouds2.Hospital.old.Aristarh.Cloud_CarpenterBloodiedTowel.27508} 他试图止血
-{Clouds2.Hospital.old.Aristarh.Cloud_CarpenterBloodiedTowel.29593} 他试图止血
-{Clouds2.Hospital.old.Aristarh.Cloud_CarpenterBloodiedTowel.6106} 不知道他有没有跑到医院？
-{Clouds2.Hospital.old.Aristarh.Cloud_CarpenterBloodiedTowel.18916} 酒精会稀释血液
-{Clouds2.Hospital.old.Aristarh.Cloud_CarpenterBloodiedTowel.29134} 这可不是砍掉自己手指的好时候

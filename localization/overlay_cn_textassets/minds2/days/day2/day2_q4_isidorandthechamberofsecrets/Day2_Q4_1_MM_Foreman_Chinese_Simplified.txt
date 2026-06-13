@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_1_MM_Foreman.Name} 奥伊温
-{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_1_MM_Foreman.Description} 死者的朋友——那位魁梧的草原人——允许我勘查书房。若非有他，我决不可能想到也办不到这一步！

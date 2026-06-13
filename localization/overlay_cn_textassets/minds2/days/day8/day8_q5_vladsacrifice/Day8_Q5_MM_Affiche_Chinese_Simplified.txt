@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_Affiche.Name} 解
-{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_Affiche.Description} 镇上随处可见的血色印记，是今日骨桩地一场盛大草原庆典的"招贴"。

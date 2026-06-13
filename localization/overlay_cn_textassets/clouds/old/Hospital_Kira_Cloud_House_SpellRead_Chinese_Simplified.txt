@@ -1,4 +1,0 @@
-{Clouds.Old.Hospital_Kira_Cloud_House_SpellRead.25010} 看起来像线索。
-{Clouds.Old.Hospital_Kira_Cloud_House_SpellRead.4803} 看起来像线索。
-{Clouds.Old.Hospital_Kira_Cloud_House_SpellRead.25589} 明明都是成年人。
-{Clouds.Old.Hospital_Kira_Cloud_House_SpellRead.31772} 他们真的相信这个？

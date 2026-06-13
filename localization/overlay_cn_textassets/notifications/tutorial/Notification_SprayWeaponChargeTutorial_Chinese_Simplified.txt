@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_SprayWeaponChargeTutorial.Name} 给原型机充能
-{Notifications.Tutorial.Notification_SprayWeaponChargeTutorial.Description} 使用原型机前，需要先给它充能。材料在柜子里；桌上是充能台。

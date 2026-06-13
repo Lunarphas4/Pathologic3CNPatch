@@ -1,3 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Administration.Cloud_Administration_LibraryDoor.44925} 书籍不对访客开放
-{Clouds2.FlavorNew.Indoor.Administration.Cloud_Administration_LibraryDoor.10340} 书籍不对访客开放
-{Clouds2.FlavorNew.Indoor.Administration.Cloud_Administration_LibraryDoor.56689} 这座城里——一切都不是给人用的

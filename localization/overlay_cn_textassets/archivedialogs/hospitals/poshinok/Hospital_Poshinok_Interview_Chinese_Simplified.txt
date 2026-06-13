@@ -1,3 +1,0 @@
-{ArchiveDialogs.Hospitals.Poshinok.Hospital_Poshinok_Interview.459} 哎呀，医生，我不舒服！一会儿爪子疼，一会儿尾巴掉。
-{ArchiveDialogs.Hospitals.Poshinok.Hospital_Poshinok_Interview.21750} 现在谁好受？下一个！
-{ArchiveDialogs.Hospitals.Poshinok.Hospital_Poshinok_Interview.8552} 脱衣服。倒不是我喜欢看裸体男人，只是职责所迫。

@@ -1,2 +1,0 @@
-{UI.Credits.Programming.IvanSmakotin.Name} Ivan Smakotin
-{UI.Credits.Programming.IvanSmakotin.Description} 程序员、玩法逻辑脚本

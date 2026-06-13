@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_1_MM_BreakThrough.Name} 冲破隔离
-{Minds2.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_1_MM_BreakThrough.Description} 三日前我便和格里夫约好了出镇之事。要么现在——要么再无机会。

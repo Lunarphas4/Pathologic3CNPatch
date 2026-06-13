@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_3_MM_Patient.Name} 疫之触手
-{Minds2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_3_MM_Patient.Description} 在那栋骇人之屋里我找到了一个绝佳样本。已把病人送往医院——让助手们研究。

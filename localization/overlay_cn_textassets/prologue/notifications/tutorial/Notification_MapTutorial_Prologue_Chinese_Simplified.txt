@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_MapTutorial_Prologue.Name} 小镇导航
-{Prologue.Notifications.Tutorial.Notification_MapTutorial_Prologue.Description} 选择目标区域名称或标记点即可规划路线

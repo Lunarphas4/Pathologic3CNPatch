@@ -1,3 +1,0 @@
-{Npcs.patient_Poshinok.Name} 病人拼布
-{Npcs.patient_Poshinok.FullName} ⁠
-{Npcs.patient_Poshinok.Description} ⁠

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_PartOfSimon.Name} 忆
-{Minds2.Days.KeyNodes.KeyNode_PartOfSimon.Description} 伊西多尔·布拉赫的书房里藏着西蒙的回响。

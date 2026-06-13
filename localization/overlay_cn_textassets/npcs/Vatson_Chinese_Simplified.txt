@@ -1,3 +1,0 @@
-﻿{Npcs.Vatson.Name} 雅科夫·利特尔
-{Npcs.Vatson.FullName} 我的助手
-{Npcs.Vatson.Description} 他怎么会出现？究竟从哪里冒出来的？这里连学校都没有。我没要过助手。我也没要他随我一同钻进瘟疫的虎口。\n这一切——我从未索求。

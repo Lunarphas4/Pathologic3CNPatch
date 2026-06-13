@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_1_MM_Execution.Name} 曲径
-{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_1_MM_Execution.Description} 若我不替军方处理这些麻烦——卡佩拉会被处决。

@@ -1,2 +1,0 @@
-{PersonalFiles.Lun.Name} 伦
-{PersonalFiles.Lun.Description} 寡言。入院时不愿放开一块黏土。

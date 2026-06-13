@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_SilverBulletRetort.44925} 用于复杂反应的装置
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_SilverBulletRetort.10340} 用于复杂反应的装置
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_SilverBulletRetort.56689} 会派上用场，用来仔细研究瘟疫
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_SilverBulletRetort.57922} 需要它来激活瘟疫街区的样本
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_SilverBulletRetort.61752} 只有这样才能摧毁瘟疫病灶

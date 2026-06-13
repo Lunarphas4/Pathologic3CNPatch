@@ -1,5 +1,0 @@
-{Dialogs2.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_Caretaker_TakeALook.4473} 已经好了？真快。
-{Dialogs2.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_Caretaker_TakeALook.5651} 我不明白。我看见了……剪影，还在下雨。那雨从哪里来？屋顶漏了吗？
-{Dialogs2.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_Caretaker_TakeALook.1247} 你这样说，是因为你违反了第三条规矩。你进了教堂，浪费了时间。你本该生产时间。你以为那些拉杆是给谁用的？你拉了其中一根，还是只盯着它们看？
-{Dialogs2.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_Caretaker_TakeALook.13529} 原谅我，我没有乱拉陌生拉杆的习惯。不过既然你坚持，我会回去试一根。
-{Dialogs2.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_Caretaker_TakeALook.5755} 这里相当宽敞。开医院倒不坏。

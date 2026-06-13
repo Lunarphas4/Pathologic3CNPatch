@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_4.Day6_Q10_4_MM_HaveMask.Name} 孩子的信念
-{Minds2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_4.Day6_Q10_4_MM_HaveMask.Description} 一只面具，便能把一只草原"怪物"变回人。

@@ -1,2 +1,0 @@
-{Symptoms.KashelBlood.Name} 咯血
-{Symptoms.KashelBlood.Description} 更严重的咳嗽形式，提示呼吸器官受损严重。

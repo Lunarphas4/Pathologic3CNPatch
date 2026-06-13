@@ -1,2 +1,0 @@
-{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_OpenStreet.Name} 实验之镇
-{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_OpenStreet.Description} 凯恩家的两件怪物让我心惊：头顶上的多面体，与脚下中庭里的那条街。它仍然开放着。

@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Trammel.Cloud_Trammel_OtherSchemes.44925} 像是用道路缠住一个庞大的活物
-{Clouds2.FlavorNew.Indoor.Trammel.Cloud_Trammel_OtherSchemes.10340} 像是用道路缠住一个庞大的活物
-{Clouds2.FlavorNew.Indoor.Trammel.Cloud_Trammel_OtherSchemes.56689} 把路灯的针扎进去，把房屋增生上去
-{Clouds2.FlavorNew.Indoor.Trammel.Cloud_Trammel_OtherSchemes.35388} 巨人暂且沉睡
-{Clouds2.FlavorNew.Indoor.Trammel.Cloud_Trammel_OtherSchemes.61752} 但总有一天它会注意到你们

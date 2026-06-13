@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_Trammel.Name} 套笼
-{QuestMarkers.Days.Day3.Day3_Q9_CathedralInspection.Day3_Q9_Trammel.Description} 我打算拜访尤利娅·柳里切娃，向她请教大教堂的内部构造。

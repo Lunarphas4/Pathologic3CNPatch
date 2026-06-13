@@ -1,3 +1,0 @@
-﻿{Items.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_MoldSample_Analyser.Name} 奇异霉菌刮样（已检查）
-{Items.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_MoldSample_Analyser.Description} 这团东西是感染雾气的凝结物。
-{Items.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_MoldSample_Analyser.Description2} 这团东西是感染雾气的残留物。任何不戴手套触碰它的人都有患病风险。明天，小镇将充满空气传播的感染。

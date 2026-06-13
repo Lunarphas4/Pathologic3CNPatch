@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day8.Mirosya.Hospital_Mirosya_MM_Steppe.Name} 民间偏方掺了一脚
-{Minds2.Hospital.Day8.Mirosya.Hospital_Mirosya_MM_Steppe.Description} 妹妹告诉我：来医院之前，母亲不知出于何故把托派带到了草原上。

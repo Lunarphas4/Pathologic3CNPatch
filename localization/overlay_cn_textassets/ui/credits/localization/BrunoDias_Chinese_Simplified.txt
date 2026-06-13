@@ -1,2 +1,0 @@
-{UI.Credits.Localization.BrunoDias.Name} Bruno Dias
-{UI.Credits.Localization.BrunoDias.Description} 翻译编辑（英语）

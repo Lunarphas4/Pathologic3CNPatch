@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q10_GriefStealsRations.Day9_Q10_MM_Consequences.Name} 后果
-{Minds2.Days.Day9.Day9_Q10_GriefStealsRations.Day9_Q10_MM_Consequences.Description} 无论好坏，我已采取措施。

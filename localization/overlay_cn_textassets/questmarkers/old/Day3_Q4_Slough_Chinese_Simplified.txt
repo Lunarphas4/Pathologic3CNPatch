@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Old.Day3_Q4_Slough.Name} 静水宅
-{QuestMarkers.Old.Day3_Q4_Slough.Description} 小弗拉德的"药"得用我那套实验设备好好查一查。

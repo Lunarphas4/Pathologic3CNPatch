@@ -1,4 +1,0 @@
-{ArchiveDialogs.Decrees.Decree_Receiving.Decree_Receiving_NoLights.20264} 这是你最新的信件，老板。
-{ArchiveDialogs.Decrees.Decree_Receiving.Decree_Receiving_NoLights.9890} 三颗来自伊娃的心，两颗来自玛丽亚的心，一颗来自布拉赫的心......请把它们放在冰川上......这是什么？！
-{ArchiveDialogs.Decrees.Decree_Receiving.Decree_Receiving_NoLights.22904} 这些是电费单。
-{ArchiveDialogs.Decrees.Decree_Receiving.Decree_Receiving_NoLights.17535} 写下来！我接受一项新法令：大家紧急节约用电！晚上只需关掉灯即可，无需夜间闲逛。

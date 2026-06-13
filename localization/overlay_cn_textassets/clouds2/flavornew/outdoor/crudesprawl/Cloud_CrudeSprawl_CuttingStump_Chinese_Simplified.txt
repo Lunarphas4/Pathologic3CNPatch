@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.CrudeSprawl.Cloud_CrudeSprawl_CuttingStump.44925} 若瘟疫发生在冬天，人们会死于疾病和寒冷
-{Clouds2.FlavorNew.Outdoor.CrudeSprawl.Cloud_CrudeSprawl_CuttingStump.10340} 若瘟疫发生在冬天，人们会死于疾病和寒冷
-{Clouds2.FlavorNew.Outdoor.CrudeSprawl.Cloud_CrudeSprawl_CuttingStump.51150} 春天河水泛滥，夏天卫生状况更糟
-{Clouds2.FlavorNew.Outdoor.CrudeSprawl.Cloud_CrudeSprawl_CuttingStump.56689} 瘟疫秋天才来，我们算是走运
-{Clouds2.FlavorNew.Outdoor.CrudeSprawl.Cloud_CrudeSprawl_CuttingStump.61752} 像溺死的人一样走运

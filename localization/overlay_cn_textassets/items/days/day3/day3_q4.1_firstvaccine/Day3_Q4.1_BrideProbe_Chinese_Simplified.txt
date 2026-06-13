@@ -1,3 +1,0 @@
-{Items.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_BrideProbe.Name} 库兰的样本
-{Items.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_BrideProbe.Description} 一名病程异常的草原女子的血液。
-{Items.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_BrideProbe.Description2} 取自一位异常长寿的酒馆舞者的珍贵样本。以它为基础，我希望制成粗糙但可用的原型疫苗。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q12_RotSiege.Day7_Q12_MM_EmptyHouse.Name} 无谓的残忍
-{Minds2.Days.Day7.Day7_Q12_RotSiege.Day7_Q12_MM_EmptyHouse.Description} 那帮自封的"卫士"莫名其妙地冲进了一座空宅。

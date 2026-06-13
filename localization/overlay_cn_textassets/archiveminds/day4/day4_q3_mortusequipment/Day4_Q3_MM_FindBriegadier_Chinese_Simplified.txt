@@ -1,2 +1,0 @@
-﻿{ArchiveMinds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_MM_FindBriegadier.Name} 工头正在分发未经许可的疫苗。我必须找到他！
-{ArchiveMinds.Day4.Day4_Q3_MortusEquipment.Day4_Q3_MM_FindBriegadier.Description} 志愿者们有某种疫苗。我得找到他们的工头，弄清它从何而来。

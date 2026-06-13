@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Late.Name} 夜
-{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_1_MM_Late.Description} ……太迟了。我来不及配出血清。

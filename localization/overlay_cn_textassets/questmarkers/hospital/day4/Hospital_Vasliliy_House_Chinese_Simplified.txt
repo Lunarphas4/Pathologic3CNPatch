@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Hospital.Day4.Hospital_Vasliliy_House.Name} 菲拉特的宅子
-{QuestMarkers.Hospital.Day4.Hospital_Vasliliy_House.Description} 有时下诊断要先看看病人的居住状况。

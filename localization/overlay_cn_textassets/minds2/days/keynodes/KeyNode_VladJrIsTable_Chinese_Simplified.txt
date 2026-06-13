@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_VladJrIsTable.Name} 卡戎
-{Minds2.Days.KeyNodes.KeyNode_VladJrIsTable.Description} 小弗拉德·奥尔金斯基与家族决裂，向玛丽亚·凯娜发了效忠之誓。

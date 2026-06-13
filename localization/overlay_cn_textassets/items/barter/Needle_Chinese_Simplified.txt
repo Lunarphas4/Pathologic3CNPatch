@@ -1,3 +1,0 @@
-{Items.Barter.Needle.Name} 针
-{Items.Barter.Needle.Description} 锋利而透彻，如医生的目光。
-{Items.Barter.Needle.Description2} 锋利而透彻，如医生的目光。

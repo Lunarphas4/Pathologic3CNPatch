@@ -1,3 +1,0 @@
-﻿{Items.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_RottenMeat.Name} 士兵口粮
-{Items.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_RottenMeat.Description} 一个鼓胀的罐头，标签已经无法辨认。彻底锈穿了。
-{Items.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_RottenMeat.Description2} 一份来自车站屠宰现场的肉样。味道很糟。有人想感染士兵吗？

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_MM_Loss.Name} 失
-{Minds2.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_MM_Loss.Description} 今日凯恩家少了某件要紧之物。

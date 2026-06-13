@@ -1,2 +1,0 @@
-{Prologue.Notifications.Hints.Notification_Hint_RiotQuarter.Name} ⁠
-{Prologue.Notifications.Hints.Notification_Hint_RiotQuarter.Description} 这片区域暴徒横行。可用左轮手枪威慑暴徒，但随便开枪是下下策，最好赶紧离开

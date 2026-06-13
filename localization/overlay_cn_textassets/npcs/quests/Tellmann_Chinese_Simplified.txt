@@ -1,3 +1,0 @@
-﻿{Npcs.Quests.Tellmann.Name} 泰尔曼教授
-{Npcs.Quests.Tellmann.FullName} 另一所实验室之主
-{Npcs.Quests.Tellmann.Description} 他太自信地认为，所有答案都藏在人心的深处。当答案不在时——泰尔曼便高高兴兴地往里"埋"上一个。\n仅此一桩已愚不可恕。更糟的是——我曾称他为友，而他这个鼠辈却把审查委员会唤上了我的头。

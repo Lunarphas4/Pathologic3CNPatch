@@ -1,3 +1,0 @@
-{Clouds2.FlavorNew.Indoor.StamatinAttic.Cloud_StamatinAttic_Bed.44925} 像是有人躲在毯子下面
-{Clouds2.FlavorNew.Indoor.StamatinAttic.Cloud_StamatinAttic_Bed.10340} 像是有人躲在毯子下面
-{Clouds2.FlavorNew.Indoor.StamatinAttic.Cloud_StamatinAttic_Bed.56689} 有时事实也确实如此

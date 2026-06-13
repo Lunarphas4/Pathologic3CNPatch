@@ -1,2 +1,0 @@
-{UI.Credits.Audio.ArturRomanovsky.Name} Artur Romanovsky
-{UI.Credits.Audio.ArturRomanovsky.Description} 声音设计

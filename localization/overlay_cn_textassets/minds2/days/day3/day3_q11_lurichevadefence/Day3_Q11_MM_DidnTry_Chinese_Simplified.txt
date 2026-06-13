@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q11_LurichevaDefence.Day3_Q11_MM_DidnTry.Name} 唉
-{Minds2.Days.Day3.Day3_Q11_LurichevaDefence.Day3_Q11_MM_DidnTry.Description} 我未能信守诺言。

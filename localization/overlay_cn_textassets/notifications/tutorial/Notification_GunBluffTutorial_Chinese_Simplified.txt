@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_GunBluffTutorial.Name} 战斗
-{Notifications.Tutorial.Notification_GunBluffTutorial.Description} 外面危险。我必须随时准备 <InputActions/Weapon/Slot2> 持械自卫。

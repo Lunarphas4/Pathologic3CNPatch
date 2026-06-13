@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_2_MM_MentalHooks.Name} 钩
-{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_2_MM_MentalHooks.Description} 克拉拉对布洛克做了可怕之事，把他的信念翻了个底朝天。一分钟前还禁止之事，他如今亲自下令！

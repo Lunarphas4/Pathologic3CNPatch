@@ -1,2 +1,0 @@
-{Prologue.Notifications.Hints.Notification_Hint_RevolverEquipAgain.Name} ⁠
-{Prologue.Notifications.Hints.Notification_Hint_RevolverEquipAgain.Description} 进入危险区域才会拔枪

@@ -1,2 +1,0 @@
-{Note.Hospital.Day10.Hospital_Kira.Hospital_Kira_NoteHandbook.Name} 世上一切疾病手册
-{Note.Hospital.Day10.Hospital_Kira.Hospital_Kira_NoteHandbook.Description} 红胸吞噬者\n\n症状：\n\n— 红色黏液，必须吐出来\n— 虚弱（黏液吞吃病人）\n— 胸口受折磨（黏液填满不该填满的地方）\n— 红鼻子（黏液钻到皮肤下面）\n\n治疗：\n— 儿童茶大概不行\n— 成人茶？

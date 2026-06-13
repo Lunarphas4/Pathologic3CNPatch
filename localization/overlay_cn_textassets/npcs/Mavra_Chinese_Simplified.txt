@@ -1,3 +1,0 @@
-{Npcs.Mavra.Name} 访客莫拉
-{Npcs.Mavra.FullName} ⁠
-{Npcs.Mavra.Description} ⁠

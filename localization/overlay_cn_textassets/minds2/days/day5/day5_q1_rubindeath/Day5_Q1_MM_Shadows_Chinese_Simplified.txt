@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_MM_Shadows.Name} 阴影
-{Minds2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_MM_Shadows.Description} 我一定是发烧了：我听见阴影中有低语。但低语中关于前天的话已无法验证。

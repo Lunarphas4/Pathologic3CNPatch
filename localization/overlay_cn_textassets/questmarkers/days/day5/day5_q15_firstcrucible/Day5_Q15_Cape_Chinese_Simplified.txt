@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day5.Day5_Q15_FirstCrucible.Day5_Q15_Cape.Name} 岬角
-{QuestMarkers.Days.Day5.Day5_Q15_FirstCrucible.Day5_Q15_Cape.Description} 据说今天能在岬角找到维克多。

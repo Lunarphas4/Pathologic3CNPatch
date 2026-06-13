@@ -1,5 +1,0 @@
-{UI.CharacterWindow.Categories.Category} 棋局之外
-{UI.CharacterWindow.Categories.Category2} 王后
-{UI.CharacterWindow.Categories.Category3} 棋子
-{UI.CharacterWindow.Categories.Category4} 进兵
-{UI.CharacterWindow.Categories.Category5} 兵卒

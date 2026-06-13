@@ -1,2 +1,0 @@
-{Prologue.Notifications.Hints.Notification_Hint_Matches.Name} ⁠
-{Prologue.Notifications.Hints.Notification_Hint_Matches.Description} 按<InputActions/Weapon/Match>擦亮火柴扔出去

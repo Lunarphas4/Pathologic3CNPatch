@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_ToTheHospital.Name} 画面成形
-{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_ToTheHospital.Description} 那位"巫师"并不传人——倒是他的同伙才是传染源。为保险起见，我该再看牛蒡一眼。

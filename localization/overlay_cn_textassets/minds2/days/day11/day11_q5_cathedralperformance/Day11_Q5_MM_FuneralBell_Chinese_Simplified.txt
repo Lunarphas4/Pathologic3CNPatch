@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_MM_FuneralBell.Name} 警钟
-{Minds2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_MM_FuneralBell.Description} 大教堂的钟在响。是谁死了？

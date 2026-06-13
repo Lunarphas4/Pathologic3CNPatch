@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_MM_Resentment.Name} 灭鼠
-{Minds2.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_MM_Resentment.Description} 鼠先知本来乐意相助——可他因我曾消灭土拨鼠一事对我心存芥蒂。难道连瘟疫我也不该治？

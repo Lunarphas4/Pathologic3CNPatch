@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_2_MM_Closed.Name} 无路可入
-{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_2_MM_Closed.Description} 该死，根本碰不到安德烈！所有出入口都有人把守！

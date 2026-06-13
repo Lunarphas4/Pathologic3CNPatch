@@ -1,7 +1,0 @@
-{UI.Inspection.InspectionControl.Torso} 胸部
-{UI.Inspection.InspectionControl.Back} 背部
-{UI.Inspection.InspectionControl.Arms} 手臂
-{UI.Inspection.InspectionControl.ArmsBack} 手臂内侧
-{UI.Inspection.InspectionControl.Legs} 小腿
-{UI.Inspection.InspectionControl.LegsBack} 小腿后方
-{UI.Inspection.InspectionControl.Exit} 退出

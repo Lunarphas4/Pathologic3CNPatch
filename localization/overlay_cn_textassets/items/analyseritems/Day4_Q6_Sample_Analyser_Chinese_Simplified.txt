@@ -1,3 +1,0 @@
-﻿{Items.AnalyserItems.Day4_Q6_Sample_Analyser.Name} 甘珠尔的残余（已检查）
-{Items.AnalyserItems.Day4_Q6_Sample_Analyser.Description} 带有感染迹象的组织。
-{Items.AnalyserItems.Day4_Q6_Sample_Analyser.Description2} 死亡组织中没有微生物培养物，病原体会随宿主一同死亡。死亡样本毫无用处。

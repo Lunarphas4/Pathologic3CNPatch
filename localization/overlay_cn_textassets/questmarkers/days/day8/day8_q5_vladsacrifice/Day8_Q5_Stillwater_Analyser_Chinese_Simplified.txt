@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_Stillwater_Analyser.Name} 静水观星台
-{QuestMarkers.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_Stillwater_Analyser.Description} 化验仪能查出血中沙疫的死痕——或证其无。

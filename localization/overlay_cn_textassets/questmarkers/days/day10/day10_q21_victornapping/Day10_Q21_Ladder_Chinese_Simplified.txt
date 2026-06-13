@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_Ladder.Name} 通天阶梯
-{QuestMarkers.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_Ladder.Description} 有人把维克多扔在了通天阶梯的顶端。他自己下不来。

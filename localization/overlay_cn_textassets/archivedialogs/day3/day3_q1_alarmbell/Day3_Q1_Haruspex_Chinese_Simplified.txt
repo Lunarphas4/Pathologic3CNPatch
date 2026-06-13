@@ -1,8 +1,0 @@
-{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Haruspex.17605} 所以，算搭档了？
-{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Haruspex.23509} 你比我更熟悉这座城。所以在我看来，你是最合适的同僚。有些事，我只能交给你这样懂行的人。
-{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Haruspex.32010} 啊，也就是说，我现在成了你们跑腿的，大家都同意？那我——一个世袭门库，受过教育的医生——能换来什么？
-{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Haruspex.15727} 我会同你讨论我的研究结果。
-{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Haruspex.10864} 漂亮。
-{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Haruspex.9829} 你为什么不满？你觉得协助制备疫苗配不上你？比如，只有你能给我弄来牛血，甚至整头牛。明白吗？
-{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Haruspex.31924} 牛血？你指望牛的免疫能帮你培养出抗体？得想想。
-{ArchiveDialogs.Day3.Day3_Q1_AlarmBell.Day3_Q1_Haruspex.9359} 请把思考的结果放在合作这边，同僚。我会让你积累很好的经验。

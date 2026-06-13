@@ -1,5 +1,0 @@
-{Clouds2.Days.Intro.Old.Intro_Cloud_CapitalWindow.23127} ……首都的街道是怎样沉寂下来的……仿佛这恐怖也已经抵达这里。
-{Clouds2.Days.Intro.Old.Intro_Cloud_CapitalWindow.24610} ……首都的街道是怎样沉寂下来的……仿佛这恐怖也已经抵达这里。
-{Clouds2.Days.Intro.Old.Intro_Cloud_CapitalWindow.16274} ……卡洛维奇背叛了我，齐格勒否认了我……但我不会以牙还牙。
-{Clouds2.Days.Intro.Old.Intro_Cloud_CapitalWindow.7149} ……审讯时最重要的是不要慌张……说话前数到五，丹尼尔。
-{Clouds2.Days.Intro.Old.Intro_Cloud_CapitalWindow.19852} ……“当沙子在你脚底吱嘎作响，而你只剩下灵魂时，你也会发现这是真的”

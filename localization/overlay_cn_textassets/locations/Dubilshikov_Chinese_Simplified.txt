@@ -1,2 +1,0 @@
-{Locations.Dubilshikov.Name} 鞣匠街
-{Locations.Dubilshikov.Description} 鞣匠街

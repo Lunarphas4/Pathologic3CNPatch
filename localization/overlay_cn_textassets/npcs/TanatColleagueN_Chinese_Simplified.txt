@@ -1,3 +1,0 @@
-{Npcs.TanatColleagueN.Name} 助手N
-{Npcs.TanatColleagueN.FullName} ⁠
-{Npcs.TanatColleagueN.Description} ⁠

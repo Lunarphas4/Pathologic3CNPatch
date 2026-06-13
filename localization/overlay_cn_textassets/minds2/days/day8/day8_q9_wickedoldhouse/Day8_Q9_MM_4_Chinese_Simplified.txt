@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_MM_4.Name} 另一出口
-{Minds2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_MM_4.Description} 我得试着从二楼窗户出去。

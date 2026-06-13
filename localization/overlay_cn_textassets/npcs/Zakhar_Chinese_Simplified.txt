@@ -1,3 +1,0 @@
-{Npcs.Zakhar.Name} 访客雨燕
-{Npcs.Zakhar.FullName} ⁠
-{Npcs.Zakhar.Description} ⁠

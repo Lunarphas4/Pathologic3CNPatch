@@ -1,3 +1,0 @@
-{Npcs.patient_Kira_Mandarinka.Name} 柑橘
-{Npcs.patient_Kira_Mandarinka.FullName} ⁠
-{Npcs.patient_Kira_Mandarinka.Description} ⁠

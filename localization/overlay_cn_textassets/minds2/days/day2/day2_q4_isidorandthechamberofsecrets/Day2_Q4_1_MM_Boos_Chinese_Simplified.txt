@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_1_MM_Boos.Name} 和镇上的所有人一样
-{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_1_MM_Boos.Description} 这个草原人为老奥尔金斯基效力。我相信，搭上他东家这条线，会成为对付他的一张王牌。

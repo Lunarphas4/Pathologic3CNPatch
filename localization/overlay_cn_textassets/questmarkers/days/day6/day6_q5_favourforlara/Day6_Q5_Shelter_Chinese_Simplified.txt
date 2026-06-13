@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day6.Day6_Q5_FavourForLara.Day6_Q5_Shelter.Name} 庇护所
-{QuestMarkers.Days.Day6.Day6_Q5_FavourForLara.Day6_Q5_Shelter.Description} 鲁宾不大舒服，需要人陪伴。

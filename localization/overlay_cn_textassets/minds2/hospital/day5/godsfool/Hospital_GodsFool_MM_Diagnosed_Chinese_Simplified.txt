@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day5.GodsFool.Hospital_GodsFool_MM_Diagnosed.Name} 确认诊断
-{Minds2.Hospital.Day5.GodsFool.Hospital_GodsFool_MM_Diagnosed.Description} 坦白说，一个流浪汉的身体竟能抵抗瘟疫，本身就令人惊讶。

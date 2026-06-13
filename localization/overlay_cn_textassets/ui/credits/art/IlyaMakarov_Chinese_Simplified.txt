@@ -1,2 +1,0 @@
-{UI.Credits.Art.IlyaMakarov.Name} Ilya Makarov
-{UI.Credits.Art.IlyaMakarov.Description} 首席动画师

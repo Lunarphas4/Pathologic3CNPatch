@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day8.Mirosya.Hospital_Mirosya_MM_BedBugs.Name} 卫生堪忧
-{Minds2.Hospital.Day8.Mirosya.Hospital_Mirosya_MM_BedBugs.Description} 托派背上的疹子多半是虫叮所致。值得记入病例本。

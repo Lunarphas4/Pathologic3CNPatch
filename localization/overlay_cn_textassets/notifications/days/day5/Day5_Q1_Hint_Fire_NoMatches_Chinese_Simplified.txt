@@ -1,2 +1,0 @@
-{Notifications.Days.Day5.Day5_Q1_Hint_Fire_NoMatches.Name} ⁠
-{Notifications.Days.Day5.Day5_Q1_Hint_Fire_NoMatches.Description} 到市政厅或城区门口的勤杂工那里去取火柴。

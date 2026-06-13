@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_TimeForDiagnose.Name} 推心置腹
-{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_TimeForDiagnose.Description} 菲拉特连他打算保守的秘密都告诉了我。诊断无须再拖。

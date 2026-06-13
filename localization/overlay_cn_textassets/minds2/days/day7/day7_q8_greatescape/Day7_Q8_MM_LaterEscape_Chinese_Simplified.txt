@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_LaterEscape.Name} 机器已启动
-{Minds2.Days.Day7.Day7_Q8_GreatEscape.Day7_Q8_MM_LaterEscape.Description} 我已尽力。今日不会启程，但接下来两三天将定下出逃的成败。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_DontUnderstand.Name} 我不懂
-{Minds2.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_MM_DontUnderstand.Description} 我哪里做错了。

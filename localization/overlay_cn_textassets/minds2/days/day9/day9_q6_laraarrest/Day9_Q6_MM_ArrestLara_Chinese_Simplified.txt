@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q6_LaraArrest.Day9_Q6_MM_ArrestLara.Name} 牢房
-{Minds2.Days.Day9.Day9_Q6_LaraArrest.Day9_Q6_MM_ArrestLara.Description} 布洛克做了唯一正确的决定：把拉拉关起来。

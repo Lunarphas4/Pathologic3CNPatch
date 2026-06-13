@@ -1,5 +1,0 @@
-{Clouds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_Cloud_Corpses.12015} 他们为什么不清理尸体？
-{Clouds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_Cloud_Corpses.1483} 他们为什么不清理尸体？
-{Clouds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_Cloud_Corpses.2860} 这会招来老鼠，也就是瘟疫携带者
-{Clouds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_Cloud_Corpses.8649} 没有医生，这座城镇就完了
-{Clouds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_Cloud_Corpses.1239} 这是犯罪般的疏忽

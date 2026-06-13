@@ -1,3 +1,0 @@
-{Npcs.Simon.Name} 西蒙·凯恩
-{Npcs.Simon.FullName} 不朽者
-{Npcs.Simon.Description} 他死了。

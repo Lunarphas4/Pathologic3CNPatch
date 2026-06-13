@@ -1,3 +1,0 @@
-{Npcs.Watson.WaterWatson.Name} 希帕特运水人
-{Npcs.Watson.WaterWatson.FullName} ⁠
-{Npcs.Watson.WaterWatson.Description} ⁠

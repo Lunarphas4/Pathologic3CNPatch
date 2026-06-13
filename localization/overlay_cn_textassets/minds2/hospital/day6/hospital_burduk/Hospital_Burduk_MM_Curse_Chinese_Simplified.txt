@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_Curse.Name} 拜访那位卖灵魂的"巫师"
-{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_Curse.Description} 他多半没诅咒牛蒡。但他可能把病传给了他。

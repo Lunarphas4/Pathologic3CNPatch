@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q2_Kidnapping.Day6_Q2_MM_AnnaNotGuilty.Name} 安娜之言
-{Minds2.Days.Day6.Day6_Q2_Kidnapping.Day6_Q2_MM_AnnaNotGuilty.Description} 安娜·安琪尔否认绑架孩子的指控，并声称那些孩子只是在她窗下转悠。

@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_TrainsCemetery_Mask.Name} 火车坟场
-{QuestMarkers.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_TrainsCemetery_Mask.Description} 这里栖着一头怪物。让它复人形——在我能力之内。

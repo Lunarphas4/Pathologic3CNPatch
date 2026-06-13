@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day7.Day7_Q10_Switchman.Day7_Q10_Switchman2.Name} 扳道工
-{QuestMarkers.Days.Day7.Day7_Q10_Switchman.Day7_Q10_Switchman2.Description} 他儿子的命攥在我手里。我说什么——便会成什么。

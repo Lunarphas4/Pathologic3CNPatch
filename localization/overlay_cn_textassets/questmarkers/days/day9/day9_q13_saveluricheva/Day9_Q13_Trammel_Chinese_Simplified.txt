@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day9.Day9_Q13_SaveLuricheva.Day9_Q13_Trammel.Name} 束网
-{QuestMarkers.Days.Day9.Day9_Q13_SaveLuricheva.Day9_Q13_Trammel.Description} 走过那条诅咒之街后，尤利娅可还安好？

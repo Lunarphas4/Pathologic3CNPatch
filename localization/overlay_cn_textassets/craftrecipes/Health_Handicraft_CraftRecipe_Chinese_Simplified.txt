@@ -1,2 +1,0 @@
-﻿{CraftRecipes.Health_Handicraft_CraftRecipe.Name} 自制药
-{CraftRecipes.Health_Handicraft_CraftRecipe.Description} 恢复少量精力

@@ -1,6 +1,0 @@
-﻿{ArchiveDialogs.Test.Stash_Day4_HrebtovkaStash.27829} 您有片刻吗？一位重病的老兵整夜胡言乱语。他说起某个特别的地方……
-{ArchiveDialogs.Test.Stash_Day4_HrebtovkaStash.29114} 我赶时间。在哪儿？
-{ArchiveDialogs.Test.Stash_Day4_HrebtovkaStash.19636} 那个老兵？很遗憾，他已经去世了。那个特别的地方——在脊梁区。一段楼梯。
-{ArchiveDialogs.Test.Stash_Day4_HrebtovkaStash.16816} 离市政厅不远？
-{ArchiveDialogs.Test.Stash_Day4_HrebtovkaStash.8866} 如果你面朝市政厅——往右走到街尽头，再左转。一段很大的楼梯。通往天堂的楼梯。
-{ArchiveDialogs.Test.Stash_Day4_HrebtovkaStash.30384} 谢谢你告诉我。

@@ -1,8 +1,0 @@
-{Dialogs2.Citizens.Citizens_Man_NoTreatment.7522} 够了……这事我不会就这么算了！我要去告状。
-{Dialogs2.Citizens.Citizens_Man_NoTreatment.10876} 你是在跟我说话？我只是路过。要是不小心踩了你的脚，宽恕我，我不是有意的。
-{Dialogs2.Citizens.Citizens_Man_NoTreatment.27208} 你看看周围。他们说剧院里有家医院。我一瘸一拐地挪过去，说：“我的腿疼，帮帮我。”你猜他们怎么做？把我赶出来了。说他们不管这种事。那算什么医院？他们不是给人治病，是拿人做研究。
-{Dialogs2.Citizens.Citizens_Man_NoTreatment.13615} 镇上正在闹瘟疫，你却拿扭伤脚这种事去分散人手。
-{Dialogs2.Citizens.Citizens_Man_NoTreatment.12074} 那是应急医院，目的在于研究疾病。
-{Dialogs2.Citizens.Citizens_Man_NoTreatment.25153} 别跟我来这套，听见没有？那里要是不治人，就别叫医院，叫实验室，叫研究所去。
-{Dialogs2.Citizens.Citizens_Man_NoTreatment.32533} 慢着。你气成这样做什么？
-{Dialogs2.Citizens.Citizens_Man_NoTreatment.11746} 我只是来问几句，抱怨先收一收。

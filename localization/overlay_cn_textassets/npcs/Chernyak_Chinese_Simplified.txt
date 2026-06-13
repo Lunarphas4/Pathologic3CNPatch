@@ -1,3 +1,0 @@
-{Npcs.Chernyak.Name} 病人小黑
-{Npcs.Chernyak.FullName} ⁠
-{Npcs.Chernyak.Description} ⁠

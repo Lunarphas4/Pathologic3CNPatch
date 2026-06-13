@@ -1,2 +1,0 @@
-﻿{Notifications.Old.Intro.Notification_Intro_DayCutscene.Name} 首都
-{Notifications.Old.Intro.Notification_Intro_DayCutscene.Description} 证人审讯正在进行。我已经等了四个小时。等着我的——是牢狱，还是死刑？

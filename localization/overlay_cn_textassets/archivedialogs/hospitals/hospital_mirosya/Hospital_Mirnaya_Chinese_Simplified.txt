@@ -1,2 +1,0 @@
-{ArchiveDialogs.Hospitals.Hospital_Mirosya.Hospital_Mirnaya.10211} 您是来找我们的。可家里没人。
-{ArchiveDialogs.Hospitals.Hospital_Mirosya.Hospital_Mirnaya.8164} 我知道，你妈妈和姐姐在医院。我来看看你们过得怎么样。

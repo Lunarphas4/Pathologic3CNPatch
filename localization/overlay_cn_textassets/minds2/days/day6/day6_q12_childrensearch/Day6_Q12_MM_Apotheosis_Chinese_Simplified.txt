@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q12_ChildrenSearch.Day6_Q12_MM_Apotheosis.Name} 神化
-{Minds2.Days.Day6.Day6_Q12_ChildrenSearch.Day6_Q12_MM_Apotheosis.Description} 静水观星台外的草原上，一群孩子正翻看一堆死尸。他们已经沦落到盗墓劫尸了？

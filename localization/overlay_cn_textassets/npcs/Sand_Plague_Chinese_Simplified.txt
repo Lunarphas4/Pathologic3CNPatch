@@ -1,3 +1,0 @@
-{Npcs.Sand_Plague.Name} 沙疫
-{Npcs.Sand_Plague.FullName} ⁠
-{Npcs.Sand_Plague.Description} ⁠

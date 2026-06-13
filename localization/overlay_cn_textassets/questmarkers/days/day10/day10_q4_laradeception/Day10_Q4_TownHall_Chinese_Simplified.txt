@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_TownHall.Name} 市政厅
-{QuestMarkers.Days.Day10.Day10_Q4_LaraDeception.Day10_Q4_TownHall.Description} 布洛克又死了。可拉拉答应过不动他！

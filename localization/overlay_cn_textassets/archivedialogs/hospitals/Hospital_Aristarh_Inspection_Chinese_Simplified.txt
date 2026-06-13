@@ -1,7 +1,0 @@
-{ArchiveDialogs.Hospitals.Hospital_Aristarh_Inspection.5216} ⁠
-{ArchiveDialogs.Hospitals.Hospital_Aristarh_Inspection.21850} 开始检查
-{ArchiveDialogs.Hospitals.Hospital_Aristarh_Inspection.29570} ⁠
-{ArchiveDialogs.Hospitals.Hospital_Aristarh_Inspection.11620} 检查头部
-{ArchiveDialogs.Hospitals.Hospital_Aristarh_Inspection.31084} 眼睛发红
-{ArchiveDialogs.Hospitals.Hospital_Aristarh_Inspection.23320} 鼻子泛红
-{ArchiveDialogs.Hospitals.Hospital_Aristarh_Inspection.20008} 结束检查

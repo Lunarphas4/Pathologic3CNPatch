@@ -1,2 +1,0 @@
-﻿{Locations.Lara_Ravel.Name} 庇护所
-{Locations.Lara_Ravel.Description} 庇护所

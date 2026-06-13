@@ -1,2 +1,0 @@
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PartTwo_MM_ThreeDiagnoses.Name} 诊断已定
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PartTwo_MM_ThreeDiagnoses.Description} 判断无误，那么这疫苗可以拯救几百人。出了差错，他们的人命血债就会记在我的名下。

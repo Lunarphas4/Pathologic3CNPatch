@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q1_2_RubinResurrection.Day5_Q1_2_2_MM_Research.Name} 研究不可能
-{Minds2.Days.Day5.Day5_Q1_2_RubinResurrection.Day5_Q1_2_2_MM_Research.Description} 我的科学分析会如何评价白色疫苗？也许它甚至能被复制。

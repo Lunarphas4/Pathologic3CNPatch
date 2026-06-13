@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q3_MM_Meeting.Name} 不惜一切代价
-{Minds2.Days.Day3.Day3_Q3_LayOffVlad.Day3_Q3_MM_Meeting.Description} 镇上的统治者们已决意与沙疫死战到底，不计代价。

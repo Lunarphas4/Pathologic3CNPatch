@@ -1,2 +1,0 @@
-{UI.Credits.Art.KristinaSergeeva.Name} Kristina Sergeeva
-{UI.Credits.Art.KristinaSergeeva.Description} Character 3D 美术

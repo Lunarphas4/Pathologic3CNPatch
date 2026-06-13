@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_BuyBull.Name} 买头牛！
-{Minds2.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_MM_BuyBull.Description} 那块乌鸦形状的大石下，牧人说过要卖一头公牛。如今我可以谈交易了。

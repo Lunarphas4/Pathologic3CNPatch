@@ -1,2 +1,0 @@
-{Clouds.Flavor.Cloud_RegionMost_Gate.17796} 不会出现在试玩版里。
-{Clouds.Flavor.Cloud_RegionMost_Gate.11185} 现代派。

@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Maw.Name} 喉口区
-{QuestMarkers.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_Maw.Description} 看来孩子们又在玩打仗了。

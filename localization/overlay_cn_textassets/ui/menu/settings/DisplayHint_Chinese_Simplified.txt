@@ -1,4 +1,0 @@
-{UI.Menu.Settings.DisplayHint.Resolution} 控制游戏窗口分辨率。
-{UI.Menu.Settings.DisplayHint.WindowType} 控制游戏窗口类型，推荐选择无边框模式。
-{UI.Menu.Settings.DisplayHint.VSyncCount} 控制屏幕同步，消除水平撕裂伪影。
-{UI.Menu.Settings.DisplayHint.Gamma} 控制屏幕亮度

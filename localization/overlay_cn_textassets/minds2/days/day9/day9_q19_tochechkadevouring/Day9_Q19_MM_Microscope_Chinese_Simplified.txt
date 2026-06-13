@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q19_TochechkaDevouring.Day9_Q19_MM_Microscope.Name} 显微镜里的默剧
-{Minds2.Days.Day9.Day9_Q19_TochechkaDevouring.Day9_Q19_MM_Microscope.Description} 昨日我送了一个特殊病人给利特尔。我被别的事缠住，没顾得上看。结果——错过了一出好戏！

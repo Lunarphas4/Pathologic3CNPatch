@@ -1,2 +1,0 @@
-{Notifications.Tutorial.Notification_UseProbe.Name} 采样
-{Notifications.Tutorial.Notification_UseProbe.Description} 这是制服Shabnak（泥魔女）的关键。我得 <InputActions/Interact/DefaultInteract> 从地上把孢子收进原型器具。Shabnak（泥魔女）不会乐意——但我不能久久把视线移开，也不能逃跑。

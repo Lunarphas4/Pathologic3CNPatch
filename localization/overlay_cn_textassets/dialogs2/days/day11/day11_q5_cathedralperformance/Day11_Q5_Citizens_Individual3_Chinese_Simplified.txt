@@ -1,5 +1,0 @@
-{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Individual3.16545} 好了，我们完了……你听见信号了吗？那是给军队的！他们马上就要用迫击炮轰这座城了。你我并不相识，可还是——如果我曾对你做过什么坏事，请原谅我……
-{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Individual3.26636} 我原谅你。
-{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Individual3.43375} 胡说。没人会炮击任何人。
-{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Individual3.8037} 不如让他们干下去吧。我已经受够这一切了——我身上什么都不剩了。
-{Dialogs2.Days.Day11.Day11_Q5_CathedralPerformance.Day11_Q5_Citizens_Individual3.41097} 嗯。每个人都按自己的意思解读这钟声。就像特尔曼那些抽象图案的牌：“你在墨迹里看见了什么？”

@@ -1,2 +1,0 @@
-{ArchiveDialogs.Hospitals.Poshinok.Hospital_Poshinok_Son.22003} 爸爸怎么了？他什么时候回来？
-{ArchiveDialogs.Hospitals.Poshinok.Hospital_Poshinok_Son.18201} 及时，或者稍晚一些。

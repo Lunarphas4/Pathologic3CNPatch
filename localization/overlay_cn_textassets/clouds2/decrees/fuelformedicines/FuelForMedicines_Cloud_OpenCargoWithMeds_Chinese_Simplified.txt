@@ -1,4 +1,0 @@
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_OpenCargoWithMeds.28931} 普通人手里能有多少药？
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_OpenCargoWithMeds.25976} 普通人手里能有多少药？
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_OpenCargoWithMeds.17735} 希望安瓿别碎
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_OpenCargoWithMeds.19202} 但这些应该够了。不然我们就只能用草药治疗

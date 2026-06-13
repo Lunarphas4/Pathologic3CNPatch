@@ -1,3 +1,0 @@
-﻿{Items.Metabolism.Swevery.Name} 斯韦维提取物
-{Items.Metabolism.Swevery.Description} 最温和的本地草药；与其他成分混合时可作为天然兴奋剂。\n这种化合物对健康人价值不大，却可能大大减轻绝症患者临终时的痛苦。
-{Items.Metabolism.Swevery.Description2} 可作为天然兴奋剂。若能栽培本地草药就好了……

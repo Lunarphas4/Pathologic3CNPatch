@@ -1,2 +1,0 @@
-{Minds2.Days.Day2.Day2_Q5.3_AfterIsidorFuneral.Day2_Q5.3_MM_Detective.Name} 侦探丹科夫斯基
-{Minds2.Days.Day2.Day2_Q5.3_AfterIsidorFuneral.Day2_Q5.3_MM_Detective.Description} 白天合乎逻辑的做法，是尽可能查清伊西多尔之死的一切

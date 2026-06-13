@@ -1,2 +1,0 @@
-{Locations.Jilniki.Name} 后躯区
-{Locations.Jilniki.Description} 后躯区

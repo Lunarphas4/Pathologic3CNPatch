@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Stillwater.Name} 静水宅
-{QuestMarkers.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_Stillwater.Description} 我应该用化验仪研究这位病人的样本。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_AglayaInTown.Name} 零号审判官
-{Minds2.Days.KeyNodes.KeyNode_AglayaInTown.Description} 阿格拉娅·莉莉奇自西蒙死的那一天起便已在这镇上。

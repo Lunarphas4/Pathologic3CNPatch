@@ -1,5 +1,0 @@
-{Clouds2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Cloud_PatientHands.7723} 循环系统受损
-{Clouds2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Cloud_PatientHands.53733} 循环系统受损
-{Clouds2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Cloud_PatientHands.928} 骨痛
-{Clouds2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Cloud_PatientHands.5291} 视力恶化
-{Clouds2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Cloud_PatientHands.36735} 幻听

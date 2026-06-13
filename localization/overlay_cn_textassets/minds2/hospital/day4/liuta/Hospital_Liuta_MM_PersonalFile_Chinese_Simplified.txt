@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day4.Liuta.Hospital_Liuta_MM_PersonalFile.Name} 医院的第一位病人
-{Minds2.Hospital.Day4.Liuta.Hospital_Liuta_MM_PersonalFile.Description} 卢塔。从染疫城区迁来。她等得最久，我的助手让我从她开始。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_MM_IsidorsFriend.Name} 暗影已落
-{Minds2.Days.Day5.Day5_Q16_LockedIsidorsHouse.Day5_Q16_MM_IsidorsFriend.Description} 通向西蒙的所有线索都已磨断，我必须抓住任何机会。

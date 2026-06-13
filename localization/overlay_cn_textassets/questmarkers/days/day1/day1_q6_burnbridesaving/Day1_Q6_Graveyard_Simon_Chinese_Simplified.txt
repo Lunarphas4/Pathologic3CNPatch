@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Graveyard_Simon.Name} 墓地，西蒙之墓
-{QuestMarkers.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Graveyard_Simon.Description} 西蒙没有被埋在这里

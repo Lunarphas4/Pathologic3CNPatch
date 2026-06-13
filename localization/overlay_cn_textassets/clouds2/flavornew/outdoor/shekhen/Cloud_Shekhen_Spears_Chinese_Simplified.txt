@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_Spears.44925} 该把长钩发给护理员
-{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_Spears.10340} 该把长钩发给护理员
-{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_Spears.56689} 中世纪用它们收集瘟疫尸体
-{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_Spears.61752} 草原人看起来是在捕鱼

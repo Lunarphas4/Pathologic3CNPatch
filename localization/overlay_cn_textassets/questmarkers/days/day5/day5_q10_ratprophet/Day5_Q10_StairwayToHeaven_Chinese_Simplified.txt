@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day5.Day5_Q10_RatProphet.Day5_Q10_StairwayToHeaven.Name} 通天阶梯
-{QuestMarkers.Days.Day5.Day5_Q10_RatProphet.Day5_Q10_StairwayToHeaven.Description} 鼠先知？这又是什么古怪？今晚便见分晓。

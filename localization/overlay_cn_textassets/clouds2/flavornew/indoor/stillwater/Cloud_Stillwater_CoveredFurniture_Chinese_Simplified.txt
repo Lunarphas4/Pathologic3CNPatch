@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_CoveredFurniture.44925} 静水观星台仿佛多年无人使用
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_CoveredFurniture.10340} 静水观星台仿佛多年无人使用
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_CoveredFurniture.59764} 仿佛艾娃不需要物件
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_CoveredFurniture.56689} 也不需要空间
-{Clouds2.FlavorNew.Indoor.Stillwater.Cloud_Stillwater_CoveredFurniture.61752} 可没有人，她就会枯萎

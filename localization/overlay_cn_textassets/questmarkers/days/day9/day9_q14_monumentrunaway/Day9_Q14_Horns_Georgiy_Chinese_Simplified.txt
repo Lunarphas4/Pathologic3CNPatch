@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Horns_Georgiy.Name} 熔炉，格奥尔基的工坊
-{QuestMarkers.Days.Day9.Day9_Q14_MonumentRunaway.Day9_Q14_Horns_Georgiy.Description} 凯恩家家主格奥尔基必须知晓这次对家族记忆的冒犯。

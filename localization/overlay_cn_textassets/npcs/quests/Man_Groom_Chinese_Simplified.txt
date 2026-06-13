@@ -1,3 +1,0 @@
-{Npcs.Quests.Man_Groom.Name} 匪
-{Npcs.Quests.Man_Groom.FullName} ⁠
-{Npcs.Quests.Man_Groom.Description} ⁠

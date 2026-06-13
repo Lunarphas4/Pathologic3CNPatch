@@ -1,3 +1,0 @@
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_ShadowSticky_Final.50040} 最后那扇门很难。小钉还在摆弄……可惜你没法把开锁工具偷渡到那一边……有了工具，小钉就能溜出来，回到活人中间。
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_ShadowSticky_Final.7347} 你说的那扇门，是棺材盖。它从里面打不开。
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_ShadowSticky_Final.15178} 确实可惜。我来这座镇子，正是为了寻找一个不死者。想想这讽刺吧：若最后证明逃脱死亡的贤者不是西蒙·凯恩，而是只靠撬锁工具打开一扇门的小钉。

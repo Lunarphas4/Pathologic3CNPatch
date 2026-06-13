@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_MicroscopeTimerTutorial.Name} 微观世界
-{Notifications.Tutorial.Notification_MicroscopeTimerTutorial.Description} 培养物存续时间有限，我必须动作迅速。死样毫无用处。

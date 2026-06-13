@@ -1,9 +1,0 @@
-﻿{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Interview.31273} ？
-{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Interview.13946} 你哪里不舒服？
-{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Interview.17444} 虚弱，体温升高。
-{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Interview.30509} 记下。
-{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Interview.16221} ？
-{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Interview.32089} 你的住址
-{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Interview.15809} 在制革区。奥尔金斯基工人的公寓里。
-{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Interview.29433} 二楼。
-{ArchiveDialogs.Hospitals.Hospital_Vasiliy_Interview.32612} 谢谢。

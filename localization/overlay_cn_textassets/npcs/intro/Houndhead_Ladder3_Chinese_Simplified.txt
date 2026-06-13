@@ -1,3 +1,0 @@
-{Npcs.Intro.Houndhead_Ladder3.Name} 姜头
-{Npcs.Intro.Houndhead_Ladder3.FullName} ⁠
-{Npcs.Intro.Houndhead_Ladder3.Description} ⁠

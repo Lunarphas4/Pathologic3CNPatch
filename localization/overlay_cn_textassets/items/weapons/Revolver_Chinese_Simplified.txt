@@ -1,3 +1,0 @@
-{Items.Weapons.Revolver.Name} 左轮手枪
-{Items.Weapons.Revolver.Description} 我无意成为死神的爪牙。但有人要想欺凌我，索求无度，或是践踏尊严，那他们就大错特错了。
-{Items.Weapons.Revolver.Description2} 我无意成为死神的爪牙。但有人要想欺凌我，索求无度，或是践踏尊严，那他们就大错特错了。

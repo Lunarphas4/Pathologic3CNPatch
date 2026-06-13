@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_InvestigationNotOverTutorial_Prologue.Name} 还未完成
-{Prologue.Notifications.Tutorial.Notification_InvestigationNotOverTutorial_Prologue.Description} 按<InputActions/Weapon/Tags>仔细检查每条线索，再向知情人询问患者情况

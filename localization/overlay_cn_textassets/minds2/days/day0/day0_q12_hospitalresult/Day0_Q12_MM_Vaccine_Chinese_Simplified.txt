@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_MM_Vaccine.Name} 再进一步
-{Minds2.Days.Day0.Day0_Q12_HospitalResult.Day0_Q12_MM_Vaccine.Description} 所有诊断都正确。一剂可用的原型疫苗已经备好。小镇又从瘟疫的爪下夺回了一天。

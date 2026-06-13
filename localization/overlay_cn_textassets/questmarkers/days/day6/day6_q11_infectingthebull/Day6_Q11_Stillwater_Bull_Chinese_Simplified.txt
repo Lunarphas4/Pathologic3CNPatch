@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_Stillwater_Bull.Name} 静水宅
-{QuestMarkers.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_Stillwater_Bull.Description} 老奥尔金斯基答应给我一头牛。它应该会被送到静水观星台附近。

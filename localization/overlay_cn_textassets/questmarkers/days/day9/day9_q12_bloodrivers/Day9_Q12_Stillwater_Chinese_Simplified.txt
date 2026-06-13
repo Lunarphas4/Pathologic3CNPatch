@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_Stillwater.Name} 静水观星台
-{QuestMarkers.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_Stillwater.Description} 我的助手们连把化验仪洗净都来不及——我又带着新的血样回来了。

@@ -1,3 +1,0 @@
-﻿{Items.Days.Day4.Day4_Q17_ArchivesDelivered.Day4_Q17_ItemArchives.Name} 第一次暴发档案
-{Items.Days.Day4.Day4_Q17_ArchivesDelivered.Day4_Q17_ItemArchives.Description} 一个厚文件夹，里面装着伊西多·布拉赫的笔记。
-{Items.Days.Day4.Day4_Q17_ArchivesDelivered.Day4_Q17_ItemArchives.Description2} 一个厚文件夹，里面是伊西多·布拉赫关于五年前第一次瘟疫暴发的研究。

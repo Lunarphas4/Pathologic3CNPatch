@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_MM_Invitation.Name} 招募
-{Minds2.Days.Day12.Day12_Q5_BeforeTheFinals.Day12_Q5_MM_Invitation.Description} 阿格拉娅邀我前往大教堂：去观看律法之意志如何执行，秩序如何恢复。我只能旁观。

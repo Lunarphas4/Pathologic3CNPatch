@@ -1,6 +1,0 @@
-{Clouds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_Cloud_FalseBlueprint.6359} 图纸是新的
-{Clouds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_Cloud_FalseBlueprint.28817} 图纸是新的
-{Clouds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_Cloud_FalseBlueprint.9489} 彼得已经建成了多面体，却仍一遍遍画它
-{Clouds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_Cloud_FalseBlueprint.20501} 一遍
-{Clouds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_Cloud_FalseBlueprint.22243} 又一遍
-{Clouds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_Cloud_FalseBlueprint.12622} ……他永远也发明不出新东西了

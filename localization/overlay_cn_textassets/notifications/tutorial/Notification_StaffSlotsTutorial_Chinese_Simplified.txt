@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_StaffSlotsTutorial.Name} 法令系统
-{Notifications.Tutorial.Notification_StaffSlotsTutorial.Description} 我获授权每日最多签发三道政令。我对这镇研究得越深——能影响它的法子便越多。

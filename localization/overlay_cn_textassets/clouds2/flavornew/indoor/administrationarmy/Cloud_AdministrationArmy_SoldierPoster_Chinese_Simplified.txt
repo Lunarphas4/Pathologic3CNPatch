@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Indoor.AdministrationArmy.Cloud_AdministrationArmy_SoldierPoster.44925} 灰烬将军——人们这样叫他
-{Clouds2.FlavorNew.Indoor.AdministrationArmy.Cloud_AdministrationArmy_SoldierPoster.10340} 灰烬将军——人们这样叫他
-{Clouds2.FlavorNew.Indoor.AdministrationArmy.Cloud_AdministrationArmy_SoldierPoster.33966} 他们把他派到我们这里，是为了让他的军服和城镇一起烧掉
-{Clouds2.FlavorNew.Indoor.AdministrationArmy.Cloud_AdministrationArmy_SoldierPoster.56689} 否则烧起来的就会是首都
-{Clouds2.FlavorNew.Indoor.AdministrationArmy.Cloud_AdministrationArmy_SoldierPoster.61752} 当局现在怎么看他？

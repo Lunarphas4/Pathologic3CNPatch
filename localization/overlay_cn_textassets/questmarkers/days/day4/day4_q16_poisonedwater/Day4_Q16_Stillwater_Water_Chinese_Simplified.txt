@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_Stillwater_Water.Name} 静水宅
-{QuestMarkers.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_Stillwater_Water.Description} 水的化验耗时——但必不可少。

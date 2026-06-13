@@ -1,2 +1,0 @@
-{Prologue.PersonalFiles.PatientThree.Name} 菲拉特
-{Prologue.PersonalFiles.PatientThree.Description} 蚁巢的看守，疫情爆发前一直在那儿看蚁巢。

@@ -1,3 +1,0 @@
-{Items.Barter.Nutshell.Name} 坚果壳
-{Items.Barter.Nutshell.Description} 本地孩子相信坚果能在死后捕捉灵魂。他们说坚果“像多面体”，不管那是什么意思。
-{Items.Barter.Nutshell.Description2} 本地孩子相信坚果能在死后捕捉灵魂。他们说坚果“像多面体”，不管那是什么意思。

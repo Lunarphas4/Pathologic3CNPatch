@@ -1,5 +1,0 @@
-{Clouds.Flavor.Cloud_RegionKhebtovka_Crib.17796} 不会出现在试玩版里。
-{Clouds.Flavor.Cloud_RegionKhebtovka_Crib.10845} 倒是很会省地方。
-{Clouds.Flavor.Cloud_RegionKhebtovka_Crib.16176} 小床看起来很旧。
-{Clouds.Flavor.Cloud_RegionKhebtovka_Crib.1647} 已经很久没用过了？
-{Clouds.Flavor.Cloud_RegionKhebtovka_Crib.30274} 是从年长的孩子那里留下来的？

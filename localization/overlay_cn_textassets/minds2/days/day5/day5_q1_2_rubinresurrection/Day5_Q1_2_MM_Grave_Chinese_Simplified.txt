@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q1_2_RubinResurrection.Day5_Q1_2_MM_Grave.Name} 从地下拔出
-{Minds2.Days.Day5.Day5_Q1_2_RubinResurrection.Day5_Q1_2_MM_Grave.Description} 我把鲁宾从坟墓里救了出来。出于感激，他最好努力活到我去见他。

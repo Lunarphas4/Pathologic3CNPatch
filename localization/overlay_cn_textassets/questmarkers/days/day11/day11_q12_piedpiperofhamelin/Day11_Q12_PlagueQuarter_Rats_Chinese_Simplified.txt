@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_PlagueQuarter_Rats.Name} 染疫城区之心
-{QuestMarkers.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_PlagueQuarter_Rats.Description} 克拉拉和鼠先知的"巡演队"正在染疫城区中央演出。

@@ -1,3 +1,0 @@
-{Npcs.Odong_Boulder.Name} 巨石
-{Npcs.Odong_Boulder.FullName} ⁠
-{Npcs.Odong_Boulder.Description} ⁠

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_Scientist.Name} 学者
-{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_1_MM_Scientist.Description} 尤利娅是这镇街道的设计者——她知道这些街是建在什么样的地下隧道之上吗？

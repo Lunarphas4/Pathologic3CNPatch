@@ -1,2 +1,0 @@
-﻿{Notifications.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_Hint_FreeToGo.Name} ⁠
-{Notifications.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_Hint_FreeToGo.Description} 染疫的脊梁区里烽火正燃。出路已通。

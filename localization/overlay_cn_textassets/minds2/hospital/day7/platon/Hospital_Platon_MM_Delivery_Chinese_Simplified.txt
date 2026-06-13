@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_Delivery.Name} 狼吞之欲
-{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_Delivery.Description} 那个跑腿少年每日给夜莺送来令人咋舌的大量食物。看起来像是一种症状。

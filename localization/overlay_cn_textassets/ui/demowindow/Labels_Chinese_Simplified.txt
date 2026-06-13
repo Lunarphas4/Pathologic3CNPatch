@@ -1,5 +1,0 @@
-{UI.DemoWindow.Labels.Wishlist} 感谢你陪学者走过一段路。\n这还不是终点。
-{UI.DemoWindow.Labels.WishlistEnd} 感谢你陪学者走过一段路。\n这只是开端。
-{UI.DemoWindow.Labels.ReleaseDateHeader} 发行日期：
-{UI.DemoWindow.Labels.ReleaseDate} 2026年1月9日
-{UI.DemoWindow.Labels.WorkInProgress} 界面仍在制作中，当前版本不代表最终质量

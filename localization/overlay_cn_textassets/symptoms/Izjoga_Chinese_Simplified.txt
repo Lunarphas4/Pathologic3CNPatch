@@ -1,2 +1,0 @@
-{Symptoms.Izjoga.Name} 胃灼热
-{Symptoms.Izjoga.Description} 胃灼热不同于胸痛或心痛，是由胃液引起、位于胸骨后的烧灼感。

@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Hospital.Day7.Hospital_Platon.Hospital_Platon_House.Name} 夜莺的宅子
-{QuestMarkers.Hospital.Day7.Hospital_Platon.Hospital_Platon_House.Description} 又一次——我得演侦探，才弄得出诊断。

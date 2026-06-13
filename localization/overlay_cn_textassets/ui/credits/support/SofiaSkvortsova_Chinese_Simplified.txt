@@ -1,2 +1,0 @@
-{UI.Credits.Support.SofiaSkvortsova.Name} Sofia Skvortsova
-{UI.Credits.Support.SofiaSkvortsova.Description} Office Manager, 创意总监助理

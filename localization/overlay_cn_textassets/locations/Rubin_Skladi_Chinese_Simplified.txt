@@ -1,2 +1,0 @@
-﻿{Locations.Rubin_Skladi.Name} 鲁宾的藏身处
-{Locations.Rubin_Skladi.Description} 鲁宾的藏身处

@@ -1,3 +1,0 @@
-{Items.Craft.OxBile.Name} 公牛胆汁
-{Items.Craft.OxBile.Description} 远古时代起，血液、胆汁与黏液便是医生忠实的伙伴。我们用灼人的胆汁制作药物
-{Items.Craft.OxBile.Description2} 远古时代起，血液、胆汁与黏液便是医生忠实的伙伴。我们用灼人的胆汁制作药物

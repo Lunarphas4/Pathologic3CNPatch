@@ -1,2 +1,0 @@
-﻿{Locations.Polyhedron_Region.Name} 多面体阶梯
-{Locations.Polyhedron_Region.Description} 多面体阶梯

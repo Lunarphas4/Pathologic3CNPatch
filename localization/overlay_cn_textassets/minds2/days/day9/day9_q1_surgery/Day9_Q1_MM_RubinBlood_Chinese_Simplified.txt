@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_RubinBlood.Name} 又一瓶
-{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_RubinBlood.Description} 我手里有一份鲁宾的血样。

@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day0.Day0_Q16_ShardsKintsugi.Day0_Q16_Cathedral_Kintsugi.Name} 大教堂
-{QuestMarkers.Days.Day0.Day0_Q16_ShardsKintsugi.Day0_Q16_Cathedral_Kintsugi.Description} 今天，大教堂可以修复已被毁坏之物。

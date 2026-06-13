@@ -1,2 +1,0 @@
-{UI.Credits.HypeTrain.Localization.EnricoPizzolato.EnricoPizzolato} Enrico "Peats" Pizzolato
-{UI.Credits.HypeTrain.Localization.EnricoPizzolato.ApprenticeAbsurdist} Apprentice Absurdist

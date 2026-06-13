@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Changelling.Name} 换生灵
-{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Changelling.Description} 精神离开西蒙身体的那一刻，大地生下了一个奇迹般的怪物。又或者，是一个受祝福的乞丐跌进了坟墓？

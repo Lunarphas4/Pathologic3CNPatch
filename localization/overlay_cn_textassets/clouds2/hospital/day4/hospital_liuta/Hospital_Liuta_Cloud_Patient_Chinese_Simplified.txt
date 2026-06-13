@@ -1,4 +1,0 @@
-{Clouds2.Hospital.Day4.Hospital_Liuta.Hospital_Liuta_Cloud_Patient.29082} 第一位病人
-{Clouds2.Hospital.Day4.Hospital_Liuta.Hospital_Liuta_Cloud_Patient.16949} 第一位病人
-{Clouds2.Hospital.Day4.Hospital_Liuta.Hospital_Liuta_Cloud_Patient.41547} 好奇，四处张望
-{Clouds2.Hospital.Day4.Hospital_Liuta.Hospital_Liuta_Cloud_Patient.50733} 她不害怕，可我害怕……

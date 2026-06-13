@@ -1,2 +1,0 @@
-{PersonalFiles.Day10.SergeantDront.Name} 德龙特中士
-{PersonalFiles.Day10.SergeantDront.Description} 随军抵达，受长官指派来到医院。

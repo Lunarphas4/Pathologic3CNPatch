@@ -1,6 +1,0 @@
-﻿{UI.CharacterWindow.Tooltips.TochechkaTooltips.Death} 第11天，因已病入膏肓，被军队烧死
-{UI.CharacterWindow.Tooltips.TochechkaTooltips.Intro} 来自平民的自学助手
-{UI.CharacterWindow.Tooltips.TochechkaTooltips.Watson} 第4天，加入医院
-{UI.CharacterWindow.Tooltips.TochechkaTooltips.Discovery} 第8天，对瘟疫性质作出重要发现
-{UI.CharacterWindow.Tooltips.TochechkaTooltips.Understanding} 第10天，帮助彻底理解瘟疫的性质
-{UI.CharacterWindow.Tooltips.TochechkaTooltips.Plague} 第10天，染上沙疫

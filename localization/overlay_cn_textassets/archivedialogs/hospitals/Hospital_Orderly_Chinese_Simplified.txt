@@ -1,6 +1,0 @@
-{ArchiveDialogs.Hospitals.Hospital_Orderly.20461} 日安，医生，今天您有两名患者。
-{ArchiveDialogs.Hospitals.Hospital_Orderly.12866} 他们主诉什么？
-{ArchiveDialogs.Hospitals.Hospital_Orderly.24287} 我不做检查，没受过训练。但我能说，第一个是蚁巢的守卫，为奥尔金斯基家工作，叫瓦西里。
-{ArchiveDialogs.Hospitals.Hospital_Orderly.15567} 第二个呢？
-{ArchiveDialogs.Hospitals.Hospital_Orderly.13080} 不是本地人，某个学生，工程师。自称阿里斯塔尔赫，整天在酒馆里晃。
-{ArchiveDialogs.Hospitals.Hospital_Orderly.6105} 已经检查过他们了？

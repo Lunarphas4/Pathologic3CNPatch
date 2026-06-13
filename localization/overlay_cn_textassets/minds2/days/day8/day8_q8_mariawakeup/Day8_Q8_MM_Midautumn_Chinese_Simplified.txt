@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_MM_Midautumn.Name} 仲夏夜之梦
-{Minds2.Days.Day8.Day8_Q8_MariaWakeUp.Day8_Q8_MM_Midautumn.Description} 唯有今日，卡佩拉才肯助我阻止玛丽亚的预言。

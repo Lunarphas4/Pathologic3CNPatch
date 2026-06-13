@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.RavenRock.Cloud_RavenRock_RavenRock.44925} 非人力造就的巨石，草原人眼中的特殊之地
-{Clouds2.FlavorNew.Outdoor.RavenRock.Cloud_RavenRock_RavenRock.10340} 非人力造就的巨石，草原人眼中的特殊之地
-{Clouds2.FlavorNew.Outdoor.RavenRock.Cloud_RavenRock_RavenRock.56689} 不懂因果时，任何石头都特殊
-{Clouds2.FlavorNew.Outdoor.RavenRock.Cloud_RavenRock_RavenRock.61752} 蠢鸟！

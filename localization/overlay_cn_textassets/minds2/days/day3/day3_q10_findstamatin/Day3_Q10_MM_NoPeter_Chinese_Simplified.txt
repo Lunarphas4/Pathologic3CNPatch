@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_NoPeter.Name} 不走运
-{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_NoPeter.Description} 彼得·斯塔马京不是个容易找到的人。至少我没找到他。

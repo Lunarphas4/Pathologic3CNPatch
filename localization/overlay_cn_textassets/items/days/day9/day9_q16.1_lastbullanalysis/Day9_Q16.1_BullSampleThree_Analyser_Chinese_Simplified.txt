@@ -1,3 +1,0 @@
-{Items.Days.Day9.Day9_Q16.1_LastBullAnalysis.Day9_Q16.1_BullSampleThree_Analyser.Name} 第三次公牛分析（已检查）
-{Items.Days.Day9.Day9_Q16.1_LastBullAnalysis.Day9_Q16.1_BullSampleThree_Analyser.Description} 公牛的免疫力成功抵抗了沙疫！
-{Items.Days.Day9.Day9_Q16.1_LastBullAnalysis.Day9_Q16.1_BullSampleThree_Analyser.Description2} 公牛的免疫系统已被激活——血液几乎不再对沙疫反应。但这种免疫能维持多久？

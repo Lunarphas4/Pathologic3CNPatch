@@ -1,2 +1,0 @@
-﻿{ArchiveMinds.Day3.Day3_Q4_MorningExhumation.Day3_Q4_MM_WrongGrave.Name} 我昨天选错了坟！
-{ArchiveMinds.Day3.Day3_Q4_MorningExhumation.Day3_Q4_MM_WrongGrave.Description} 该死！我标记的坟不是西蒙的，他们拒绝把它挖开。我昨天本该观察得更仔细。

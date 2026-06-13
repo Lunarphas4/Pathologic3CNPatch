@@ -1,3 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_Projector.44925} 胶片的明胶是用公牛骨熬出来的
-{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_Projector.10340} 胶片的明胶是用公牛骨熬出来的
-{Clouds2.FlavorNew.Indoor.Cathedral.Cloud_Cathedral_Projector.56689} 如果城镇活下来，可以开一家电影胶片厂

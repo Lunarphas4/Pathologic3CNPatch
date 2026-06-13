@@ -1,3 +1,0 @@
-﻿{Items.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_InfectedBlood.Name} 感染者之血
-{Items.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_InfectedBlood.Description} 试管里的死亡。
-{Items.Days.Day6.Day6_Q11_InfectingTheBull.Day6_Q11_InfectedBlood.Description2} 喝吧，公牛，喝人血吧。

@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Stillwater.Name} 静水观星台
-{QuestMarkers.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_Stillwater.Description} 我不敢相信——这么大的牛，竟能在这么小的静水观星台里走丢。

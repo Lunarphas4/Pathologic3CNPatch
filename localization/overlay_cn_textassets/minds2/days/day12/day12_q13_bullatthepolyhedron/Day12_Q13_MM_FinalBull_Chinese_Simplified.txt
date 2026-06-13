@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q13_BullAtThePolyhedron.Day12_Q13_MM_FinalBull.Name} 尾声中的相遇
-{Minds2.Days.Day12.Day12_Q13_BullAtThePolyhedron.Day12_Q13_MM_FinalBull.Description} 这位讨人嫌的公牛又来了。但愿他别撞碎那座玻璃塔。

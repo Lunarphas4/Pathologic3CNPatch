@@ -1,3 +1,0 @@
-{Npcs.BullProject_Worker.Name} 工人
-{Npcs.BullProject_Worker.FullName} ⁠
-{Npcs.BullProject_Worker.Description} ⁠

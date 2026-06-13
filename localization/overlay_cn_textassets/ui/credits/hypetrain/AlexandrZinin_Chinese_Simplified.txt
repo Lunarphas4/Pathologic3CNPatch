@@ -1,1 +1,0 @@
-{UI.Credits.HypeTrain.AlexandrZinin.Name} Alexandr Zinin

@@ -1,3 +1,0 @@
-{Items.Hospital.Day8.Hospital_Mirosya.Hospital_Mirosya_Bowl_Analyser.Name} 仪式碗（已检查）
-{Items.Hospital.Day8.Hospital_Mirosya.Hospital_Mirosya_Bowl_Analyser.Description} 我的直觉是对的：病人被喂了生血和生肉。不管那动物患了什么病，她现在也染上了。
-{Items.Hospital.Day8.Hospital_Mirosya.Hospital_Mirosya_Bowl_Analyser.Description2} 我的直觉是对的：病人被喂了生血和生肉。不管那动物患了什么病，她现在也染上了。

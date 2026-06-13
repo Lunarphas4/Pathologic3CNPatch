@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q3_YouKnowNothing_Ending.Day12_Q3_MM_Deferment.Name} 延后必然
-{Minds2.Days.Day12.Day12_Q3_YouKnowNothing_Ending.Day12_Q3_MM_Deferment.Description} 凭我的努力，这座小镇撑到了第十二天。是该向它告别的时候了。

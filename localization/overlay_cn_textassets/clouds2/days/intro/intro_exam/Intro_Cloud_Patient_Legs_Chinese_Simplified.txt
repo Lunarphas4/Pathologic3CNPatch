@@ -1,5 +1,0 @@
-{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Legs.11322} 嗯？这是什么？
-{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Legs.19933} 嗯？这是什么？
-{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Legs.5245} 瘀伤，红肿……粗暴注射？
-{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Legs.54562} 她似乎出现了过敏反应。
-{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Legs.32860} 她签署了在研究所接受实验性治疗的同意书。

@@ -1,5 +1,0 @@
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Flyer_Cloud_WarmHome.18961} “寒冷——病痛的朋油！”
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Flyer_Cloud_WarmHome.31138} “寒冷——病痛的朋油！”
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Flyer_Cloud_WarmHome.27748} “别省柴伙！”
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Flyer_Cloud_WarmHome.9711} “让房子热呼！”
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Flyer_Cloud_WarmHome.4468} 我真想把排字工的手扯下来

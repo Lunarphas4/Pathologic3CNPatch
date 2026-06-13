@@ -1,2 +1,0 @@
-{UI.SymptomGroupTooltips.Zrenie.Name} 眼部培养细胞
-{UI.SymptomGroupTooltips.Zrenie.Description} 从结膜处用无菌棉签采集的眼部分泌物，用于分离眼部感染病原体。

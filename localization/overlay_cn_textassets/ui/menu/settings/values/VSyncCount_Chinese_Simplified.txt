@@ -1,5 +1,0 @@
-{UI.Menu.Settings.Values.VSyncCount.None} 关闭
-{UI.Menu.Settings.Values.VSyncCount.One} 打开
-{UI.Menu.Settings.Values.VSyncCount.Half} 1月2日
-{UI.Menu.Settings.Values.VSyncCount.Third} 1月3日
-{UI.Menu.Settings.Values.VSyncCount.Fourth} 1月4日

@@ -1,2 +1,0 @@
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_Vasil.Prologue_Vasil_MM_Alcoholic.Name} 邻居证言
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_Vasil.Prologue_Vasil_MM_Alcoholic.Description} 据称菲拉特酗酒成性，砸屋摔物，还常与幻听对骂。

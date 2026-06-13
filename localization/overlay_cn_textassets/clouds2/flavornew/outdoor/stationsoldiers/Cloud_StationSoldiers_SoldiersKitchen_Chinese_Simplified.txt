@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_SoldiersKitchen.44925} 城镇挨饿时，士兵们吃得肚满肠肥
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_SoldiersKitchen.10340} 城镇挨饿时，士兵们吃得肚满肠肥
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_SoldiersKitchen.56689} 如果当局真想拯救城镇……
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_SoldiersKitchen.61752} 就会送来食物和药品

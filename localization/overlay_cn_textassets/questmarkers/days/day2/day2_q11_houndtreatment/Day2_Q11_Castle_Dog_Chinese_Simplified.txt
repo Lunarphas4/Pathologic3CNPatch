@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_Castle_Dog.Name} 一魂半族要塞
-{QuestMarkers.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_Castle_Dog.Description} 一魂半族的小帮派住在这里。他们的麻烦是……一只小狗？

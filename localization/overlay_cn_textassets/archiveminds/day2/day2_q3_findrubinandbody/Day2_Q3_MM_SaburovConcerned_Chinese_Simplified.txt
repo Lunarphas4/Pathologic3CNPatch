@@ -1,2 +1,0 @@
-﻿{ArchiveMinds.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MM_SaburovConcerned.Name} 萨布罗夫指望我来抗击瘟疫。
-{ArchiveMinds.Day2.Day2_Q3_FindRubinAndBody.Day2_Q3_MM_SaburovConcerned.Description} 萨布罗夫认为我们必须准备面对瘟疫。他指望我帮忙，不会放我走。

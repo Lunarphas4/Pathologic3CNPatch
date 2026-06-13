@@ -1,3 +1,0 @@
-﻿{Items.CraftRecipes.Sedative_RecipeItem.Name} 配方：草药混合物
-{Items.CraftRecipes.Sedative_RecipeItem.Description} 镇静剂。轻微增加冷漠。
-{Items.CraftRecipes.Sedative_RecipeItem.Description2} 镇静剂。轻微增加冷漠。

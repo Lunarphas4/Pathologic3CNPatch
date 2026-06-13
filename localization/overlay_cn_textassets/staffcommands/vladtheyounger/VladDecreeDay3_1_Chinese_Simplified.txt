@@ -1,2 +1,0 @@
-{StaffCommands.VladTheYounger.VladDecreeDay3_1.Name} 全民接种
-{StaffCommands.VladTheYounger.VladDecreeDay3_1.Description} 让所有健康居民接种由草原药材'死粥'提炼出的药剂。

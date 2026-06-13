@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_PersonalFile.Name} 最后一名病人
-{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_PersonalFile.Description} 傍晚一名叫基拉的病人出现，带着风寒类病征。她自己来的，且专程找我。

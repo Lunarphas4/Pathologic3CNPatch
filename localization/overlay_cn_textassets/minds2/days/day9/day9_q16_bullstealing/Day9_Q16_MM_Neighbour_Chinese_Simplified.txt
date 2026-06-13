@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_Neighbour.Name} 菲拉特的邻居
-{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_Neighbour.Description} 她住的那栋宅子，正是我入镇后接手的第一位棘手病人之家。去看看那里如今变成什么样子。

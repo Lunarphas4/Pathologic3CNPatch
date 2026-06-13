@@ -1,6 +1,0 @@
-{UI.Menu.Settings.CategorieStateEnum.None} 无
-{UI.Menu.Settings.CategorieStateEnum.Graphics} 图形
-{UI.Menu.Settings.CategorieStateEnum.Other} 其他
-{UI.Menu.Settings.CategorieStateEnum.Audio} 音频
-{UI.Menu.Settings.CategorieStateEnum.Display} 显示
-{UI.Menu.Settings.CategorieStateEnum.Controls} 控制

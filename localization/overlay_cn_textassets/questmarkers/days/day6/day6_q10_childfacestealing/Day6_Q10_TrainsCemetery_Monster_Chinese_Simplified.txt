@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_TrainsCemetery_Monster.Name} 火车坟场
-{QuestMarkers.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_TrainsCemetery_Monster.Description} 这里有人听见怪物的嗥声。草原上有狼吗？

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Answers.Name} 无门可入
-{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Answers.Description} 我进不了多面体。唯一的办法，是去找彼得·斯塔马京谈一谈。

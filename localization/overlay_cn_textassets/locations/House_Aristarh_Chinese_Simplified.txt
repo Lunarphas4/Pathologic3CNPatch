@@ -1,2 +1,0 @@
-﻿{Locations.House_Aristarh.Name} 阿里斯塔尔赫的宅子
-{Locations.House_Aristarh.Description} 阿里斯塔尔赫的宅子

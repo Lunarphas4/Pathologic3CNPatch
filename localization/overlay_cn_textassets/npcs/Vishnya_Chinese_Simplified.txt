@@ -1,3 +1,0 @@
-{Npcs.Vishnya.Name} 樱桃
-{Npcs.Vishnya.FullName} ⁠
-{Npcs.Vishnya.Description} ⁠

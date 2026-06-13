@@ -1,3 +1,0 @@
-﻿{Items.AnalyserItems.Day5_Q7_Heart_Analyser.Name} 娜拉的心（已检查）
-{Items.AnalyserItems.Day5_Q7_Heart_Analyser.Description} 也许这是战胜瘟疫的第一步。
-{Items.AnalyserItems.Day5_Q7_Heart_Analyser.Description2} 微生物被捕获在活组织中！可以用活微生物制备疫苗，保护其他国家和城市免受这种疾病侵袭。

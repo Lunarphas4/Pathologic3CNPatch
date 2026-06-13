@@ -1,3 +1,0 @@
-{Items.Barter.Safety_Pin.Name} 别针
-{Items.Barter.Safety_Pin.Description} 毒刺被藏起来了，并未移除。
-{Items.Barter.Safety_Pin.Description2} 毒刺被藏起来了，并未移除。

@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_Clues.Name} 寻线索
-{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_Clues.Description} 查家清出了一些线索。现在得弄清这些发现与病人的症状有何联系。

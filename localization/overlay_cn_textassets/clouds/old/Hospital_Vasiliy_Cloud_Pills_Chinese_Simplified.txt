@@ -1,6 +1,0 @@
-{Clouds.Old.Hospital_Vasiliy_Cloud_Pills.4254} 没有包装的药片。
-{Clouds.Old.Hospital_Vasiliy_Cloud_Pills.32148} 没有包装的药片。
-{Clouds.Old.Hospital_Vasiliy_Cloud_Pills.7764} 不是偷来的，就是借来的。
-{Clouds.Old.Hospital_Vasiliy_Cloud_Pills.20577} 看起来像退烧药。
-{Clouds.Old.Hospital_Vasiliy_Cloud_Pills.26382} 治头痛？
-{Clouds.Old.Hospital_Vasiliy_Cloud_Pills.7201} 我该问问病人这些药片的事吗？

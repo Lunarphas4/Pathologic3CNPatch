@@ -1,2 +1,0 @@
-{Notifications.Days.Day5.Day5_Q1_Hint_PlagueAdministration.Name} ⁠
-{Notifications.Days.Day5.Day5_Q1_Hint_PlagueAdministration.Description} 外面不安全。我得从柜台上拿走抗瘟原型器具。

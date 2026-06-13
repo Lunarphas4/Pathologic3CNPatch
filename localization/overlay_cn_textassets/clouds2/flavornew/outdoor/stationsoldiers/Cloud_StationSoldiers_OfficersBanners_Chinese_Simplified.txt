@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_OfficersBanners.44925} 低级军官驻扎在这里
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_OfficersBanners.10340} 低级军官驻扎在这里
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_OfficersBanners.56689} 军衔更高的军官占据了空房
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_OfficersBanners.61752} 但在瘟疫车上，军衔没有区别

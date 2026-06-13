@@ -1,3 +1,0 @@
-﻿{Items.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_VladDrawerKey.Name} 小弗拉德箱子的钥匙
-{Items.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_VladDrawerKey.Description} 他在隐瞒什么？
-{Items.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_VladDrawerKey.Description2} 在把某人从可怕命运中救出来时，个人秘密没那么重要。

@@ -1,3 +1,0 @@
-{Npcs.Platon.Name} 访客海雀
-{Npcs.Platon.FullName} ⁠
-{Npcs.Platon.Description} ⁠

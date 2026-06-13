@@ -1,2 +1,0 @@
-{Minds2.Days.Day5.Day5_Q5.1_TimeTravelTutorial.Day5_Q5.1_2_MM_Clock.Name} 过去为未来着色
-{Minds2.Days.Day5.Day5_Q5.1_TimeTravelTutorial.Day5_Q5.1_2_MM_Clock.Description} 我需要找一座机械钟来重启时间。听起来很容易。像我在这座小镇做过的其他事一样容易

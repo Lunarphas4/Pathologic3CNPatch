@@ -1,2 +1,0 @@
-﻿{ArchiveMinds.Day2.Day2_Q1_Powder.Day2_Q1_MM_NoPowder.Name} 这种粉末无害，就让孩子们玩吧。
-{ArchiveMinds.Day2.Day2_Q1_Powder.Day2_Q1_MM_NoPowder.Description} 孩子们在玩那种“疗愈”粉末，但它看起来并不危险。而我急需用它换来的时间。

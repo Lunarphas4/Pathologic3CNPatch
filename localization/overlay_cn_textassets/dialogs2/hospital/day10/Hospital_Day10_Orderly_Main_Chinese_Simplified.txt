@@ -1,9 +1,0 @@
-{Dialogs2.Hospital.Day10.Hospital_Day10_Orderly_Main.20896} 您好，医生。今天我们这里……剧院里“满座”的反义词是什么？我们现在就是那个反义词。我们没有患者——至少没有那种染上瘟疫却没有立刻死掉的患者。今天的疫苗要怎么做？
-{Dialogs2.Hospital.Day10.Hospital_Day10_Orderly_Main.28863} 但至少有几个病人吧？
-{Dialogs2.Hospital.Day10.Hospital_Day10_Orderly_Main.31675} 有。结果发现，今天你唯一的病人正是在下。我已经把档案填好了。
-{Dialogs2.Hospital.Day10.Hospital_Day10_Orderly_Main.53921} 有，两个。第一个病人是基拉，一位有学问的女人。她是自己来的——不过不是作为病人，而是来请愿。说有事找你。我注意到她发烧，就取了血样。
-{Dialogs2.Hospital.Day10.Hospital_Day10_Orderly_Main.24432} 第二个呢？
-{Dialogs2.Hospital.Day10.Hospital_Day10_Orderly_Main.47468} 偏偏今天，我也成了病人。我已经把档案填好了。
-{Dialogs2.Hospital.Day10.Hospital_Day10_Orderly_Main.30124} 好吧，我震惊了。把文件给我，我们详细谈谈。
-{Dialogs2.Hospital.Day10.Hospital_Day10_Orderly_Main.21306} 你是怎么染上瘟疫的，雅科夫……
-{Dialogs2.Hospital.Day10.Hospital_Day10_Orderly_Main.10541} 我先和基拉谈，她说有事要办。可能很重要。

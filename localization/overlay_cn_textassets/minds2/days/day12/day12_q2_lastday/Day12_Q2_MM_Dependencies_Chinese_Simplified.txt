@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q2_LastDay.Day12_Q2_MM_Dependencies.Name} 相互依存
-{Minds2.Days.Day12.Day12_Q2_LastDay.Day12_Q2_MM_Dependencies.Description} 过去的诸多抉择，我的成与败，我的所知与无知——都将影响最终结局。

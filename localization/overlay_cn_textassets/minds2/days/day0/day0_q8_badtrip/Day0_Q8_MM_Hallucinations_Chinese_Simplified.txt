@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day0.Day0_Q8_BadTrip.Day0_Q8_MM_Hallucinations.Name} 噩梦
-{Minds2.Days.Day0.Day0_Q8_BadTrip.Day0_Q8_MM_Hallucinations.Description} 我看见了塔纳提卡被关停、我的全部研究遭禁的幻象。那正是我害怕的事。

@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_CrucibleVictor.Name} 熔炉，维克多的偏厅
-{QuestMarkers.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_CrucibleVictor.Description} 维克多被卡明斯基处罚。刚到镇上没多久——头一批受害者已经出现。

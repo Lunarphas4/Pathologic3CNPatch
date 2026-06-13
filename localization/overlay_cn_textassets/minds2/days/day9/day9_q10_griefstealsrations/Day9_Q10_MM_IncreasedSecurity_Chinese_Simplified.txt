@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q10_GriefStealsRations.Day9_Q10_MM_IncreasedSecurity.Name} 特别措施
-{Minds2.Days.Day9.Day9_Q10_GriefStealsRations.Day9_Q10_MM_IncreasedSecurity.Description} 我坚持要军队加强对粮食的看守。

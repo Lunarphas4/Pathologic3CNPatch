@@ -1,3 +1,0 @@
-﻿{Items.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_Microscope.Name} 显微镜
-{Items.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_Microscope.Description} 光学的奇迹。
-{Items.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_Microscope.Description2} 通往微观世界的仪器。

@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_StaffGraphTutorial.Name} 预测
-{Notifications.Tutorial.Notification_StaffGraphTutorial.Description} 镇活，则我活。为此，我必须靠政令把"疫情"与"骚乱"压在可接受的范围。更好的是——还要另寻他法。

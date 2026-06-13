@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_BanditsSurrenderTutorial_Prologue.Name} 可用武器威慑暴徒
-{Prologue.Notifications.Tutorial.Notification_BanditsSurrenderTutorial_Prologue.Description} 举枪即可暂时阻止暴徒行动。按<InputActions/Weapon/Aim>举起左轮手枪瞄准并威慑

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_JustWork.Name} 并无不当
-{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_JustWork.Description} 尤利娅不过是就她的工作与成就回答了几个问题。

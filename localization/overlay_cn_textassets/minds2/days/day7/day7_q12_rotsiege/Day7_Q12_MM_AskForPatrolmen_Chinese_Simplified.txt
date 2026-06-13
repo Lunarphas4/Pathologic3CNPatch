@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q12_RotSiege.Day7_Q12_MM_AskForPatrolmen.Name} 睁一只眼，闭一只眼
-{Minds2.Days.Day7.Day7_Q12_RotSiege.Day7_Q12_MM_AskForPatrolmen.Description} 我不指望萨布罗夫会帮我出逃。可也没人禁止我去试。

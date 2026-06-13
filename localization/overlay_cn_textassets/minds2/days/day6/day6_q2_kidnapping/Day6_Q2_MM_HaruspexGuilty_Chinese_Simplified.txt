@@ -1,2 +1,0 @@
-{Minds2.Days.Day6.Day6_Q2_Kidnapping.Day6_Q2_MM_HaruspexGuilty.Name} 肠卜师之罪
-{Minds2.Days.Day6.Day6_Q2_Kidnapping.Day6_Q2_MM_HaruspexGuilty.Description} 肠卜师把本地的孩子领到了某处。

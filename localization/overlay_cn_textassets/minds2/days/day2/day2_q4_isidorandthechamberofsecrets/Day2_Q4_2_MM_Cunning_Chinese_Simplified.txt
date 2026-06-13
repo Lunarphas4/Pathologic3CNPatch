@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_2_MM_Cunning.Name} 狡诈
-{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_2_MM_Cunning.Description} 我成功地把奥伊温引开了。他不会离开太久。是时候做最后一遍勘查，然后离开这屋子。

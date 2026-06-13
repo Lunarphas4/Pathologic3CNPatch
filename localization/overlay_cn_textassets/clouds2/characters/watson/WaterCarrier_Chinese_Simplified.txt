@@ -1,6 +1,0 @@
-{Clouds2.Characters.Watson.WaterCarrier.57075} 普通人
-{Clouds2.Characters.Watson.WaterCarrier.27818} 普通人
-{Clouds2.Characters.Watson.WaterCarrier.52560} 普通的脸
-{Clouds2.Characters.Watson.WaterCarrier.1644} 普通的名字
-{Clouds2.Characters.Watson.WaterCarrier.5374} 他替我带着装备到处走
-{Clouds2.Characters.Watson.WaterCarrier.19757} 相当明智地避开感染区和暴乱街区

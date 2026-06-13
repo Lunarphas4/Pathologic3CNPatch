@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_PersonalFile.Name} 医院里的打手
-{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_PersonalFile.Description} 牛蒡正是那种让人不敢一人穿行废弃城区的家伙。

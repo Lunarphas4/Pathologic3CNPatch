@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_MM_SandPlague.Name} 粥之化验
-{Minds2.Days.Day3.Day3_Q4_CureAndrey.Day3_Q4_MM_SandPlague.Description} 弗拉德那"血清"里含有沙疫的培养物。

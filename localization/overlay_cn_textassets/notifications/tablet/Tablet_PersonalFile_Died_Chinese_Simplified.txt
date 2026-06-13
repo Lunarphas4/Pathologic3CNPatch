@@ -1,2 +1,0 @@
-{Notifications.Tablet.Tablet_PersonalFile_Died.Name} ⁠
-{Notifications.Tablet.Tablet_PersonalFile_Died.Description} 治疗失败了，病人已去世。

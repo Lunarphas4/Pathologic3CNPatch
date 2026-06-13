@@ -1,2 +1,0 @@
-{ArchiveMinds.OldNew.Day4_Q1_RescueGrif.Day4_Q1_MM_GrifKilled.Name} 恶徒格里夫不在了
-{ArchiveMinds.OldNew.Day4_Q1_RescueGrif.Day4_Q1_MM_GrifKilled.Description} 我没能救下格里夫。他被杀了。

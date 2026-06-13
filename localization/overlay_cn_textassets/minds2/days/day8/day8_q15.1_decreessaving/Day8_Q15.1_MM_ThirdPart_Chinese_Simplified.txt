@@ -1,2 +1,0 @@
-{Minds2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_MM_ThirdPart.Name} 数字
-{Minds2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_MM_ThirdPart.Description} 我拿到执行法令所需的资源计算了！

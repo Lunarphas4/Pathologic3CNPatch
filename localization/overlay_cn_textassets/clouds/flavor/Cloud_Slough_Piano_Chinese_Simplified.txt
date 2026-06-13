@@ -1,5 +1,0 @@
-{Clouds.Flavor.Cloud_Slough_Piano.17256} 古董。
-{Clouds.Flavor.Cloud_Slough_Piano.9163} 古董。
-{Clouds.Flavor.Cloud_Slough_Piano.31092} 有四个琴键被灰尘擦亮了。一个和弦。
-{Clouds.Flavor.Cloud_Slough_Piano.16639} 唉，我没有乐感……
-{Clouds.Flavor.Cloud_Slough_Piano.11477} 把乐器放在这么潮湿的环境里，不会伤到它吗？

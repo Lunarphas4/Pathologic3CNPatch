@@ -1,9 +1,0 @@
-﻿{UI.Headquarters.Tendencies.TendenciesTitle} 趋向
-{UI.Headquarters.Tendencies.DayTitle} 天
-{UI.Headquarters.Tendencies.CommandsTitle} 法令
-{UI.Headquarters.Tendencies.Plague} 传染
-{UI.Headquarters.Tendencies.Rebel} 不安
-{UI.Headquarters.Tendencies.Tyrant} 已消除感染源
-{UI.Headquarters.Tendencies.CriticalPoint} 关键事件
-{UI.Headquarters.Tendencies.DeadEndRebel} 暴乱爆发
-{UI.Headquarters.Tendencies.DeadEndPlague} 小镇已死

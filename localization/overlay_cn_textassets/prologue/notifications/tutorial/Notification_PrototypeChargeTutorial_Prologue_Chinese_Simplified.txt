@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_PrototypeChargeTutorial_Prologue.Name} 长按充能
-{Prologue.Notifications.Tutorial.Notification_PrototypeChargeTutorial_Prologue.Description} 长按<InputActions/Weapon/Shoot>给原型工具充能，摆锤停止后松开手

@@ -1,3 +1,0 @@
-﻿{Items.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_MariasMedallion.Name} 玛丽娅的徽章
-{Items.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_MariasMedallion.Description} 记忆在宝石中盘旋。
-{Items.Days.Day10.Day10_Q16_StationFarewell.Day10_Q16_MariasMedallion.Description2} 徽章本身并不发烫，但如果亲吻它，金属会在唇上留下灼痕。

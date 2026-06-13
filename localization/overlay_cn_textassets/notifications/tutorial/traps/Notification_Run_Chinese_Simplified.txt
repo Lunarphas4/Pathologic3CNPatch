@@ -1,2 +1,0 @@
-{Notifications.Tutorial.Traps.Notification_Run.Name} 从Shabnak（泥魔女）面前逃开
-{Notifications.Tutorial.Traps.Notification_Run.Description} 从Shabnak（泥魔女）面前逃开。出口是城区里的一道拱门。

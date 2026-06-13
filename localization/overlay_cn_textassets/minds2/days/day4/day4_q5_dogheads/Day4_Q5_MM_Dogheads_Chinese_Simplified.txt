@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q5_Dogheads.Day4_Q5_MM_Dogheads.Name} 狗头巡查队
-{Minds2.Days.Day4.Day4_Q5_Dogheads.Day4_Q5_MM_Dogheads.Description} 玻璃塔就在河对岸。但唯一的入口被一群戴着怪兽面具的孩子把守着。

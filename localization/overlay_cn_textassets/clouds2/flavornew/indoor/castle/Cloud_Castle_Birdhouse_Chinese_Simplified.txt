@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Castle.Cloud_Castle_Birdhouse.44925} 灵魂的笼子
-{Clouds2.FlavorNew.Indoor.Castle.Cloud_Castle_Birdhouse.10340} 灵魂的笼子
-{Clouds2.FlavorNew.Indoor.Castle.Cloud_Castle_Birdhouse.56689} 甚至是一整座宿舍
-{Clouds2.FlavorNew.Indoor.Castle.Cloud_Castle_Birdhouse.61752} 微缩的白蚁巢

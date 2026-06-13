@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_Horns_Khan.Name} 熔炉
-{QuestMarkers.Days.Day2.Day2_Q11_HoundTreatment.Day2_Q11_Horns_Khan.Description} 凯恩家的儿子统率镇上第二个帮派——狗头帮。要把那个被囚的孩子之事告诉他吗？

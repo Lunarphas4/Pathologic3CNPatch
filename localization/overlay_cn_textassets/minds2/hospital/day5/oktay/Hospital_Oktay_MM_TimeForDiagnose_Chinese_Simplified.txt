@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day5.Oktay.Hospital_Oktay_MM_TimeForDiagnose.Name} 诊断时间
-{Minds2.Hospital.Day5.Oktay.Hospital_Oktay_MM_TimeForDiagnose.Description} 奥克泰不仅回答了我所有问题，还说明了自己可能如何感染。这足够诊断了。

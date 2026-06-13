@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Hospital_Sticky.Name} 医院
-{QuestMarkers.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Hospital_Sticky.Description} 今日医院里能找到一个叫小钉的男孩。他会撬锁。

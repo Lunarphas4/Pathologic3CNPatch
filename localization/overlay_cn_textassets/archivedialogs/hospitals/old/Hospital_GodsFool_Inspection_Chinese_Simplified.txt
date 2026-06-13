@@ -1,4 +1,0 @@
-{ArchiveDialogs.Hospitals.Old.Hospital_GodsFool_Inspection.19876} 药丸准备好了吗，医生？
-{ArchiveDialogs.Hospitals.Old.Hospital_GodsFool_Inspection.16970} 一直催问不会让它更快准备好。
-{ArchiveDialogs.Hospitals.Old.Hospital_GodsFool_Inspection.193} 还没准备好。我需要再检查你一次。
-{ArchiveDialogs.Hospitals.Old.Hospital_GodsFool_Inspection.28152} 我需要从你身上取些样本。为了那颗药。

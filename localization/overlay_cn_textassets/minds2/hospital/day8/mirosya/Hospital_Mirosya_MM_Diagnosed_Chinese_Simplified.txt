@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day8.Mirosya.Hospital_Mirosya_MM_Diagnosed.Name} 已下诊断
-{Minds2.Hospital.Day8.Mirosya.Hospital_Mirosya_MM_Diagnosed.Description} 可惜托派要躲她那母亲，只能靠住进医院。

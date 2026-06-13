@@ -1,3 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.BridgeSquare.Cloud_BridgeSquare_ClosedGate.44925} 要是能从这里过去就方便了
-{Clouds2.FlavorNew.Outdoor.BridgeSquare.Cloud_BridgeSquare_ClosedGate.10340} 要是能从这里过去就方便了
-{Clouds2.FlavorNew.Outdoor.BridgeSquare.Cloud_BridgeSquare_ClosedGate.56689} 但凯恩家不愿让俗人从他们屋后穿行

@@ -1,2 +1,0 @@
-﻿{Notifications.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_Hint_FirstDayIsOpen.Name} 第一天已可进入
-{Notifications.Days.Day9.Day9_Q15_SimonMoth.Day9_Q15_Hint_FirstDayIsOpen.Description} 现在我可以多讲一些过去的事了。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_MM_Word.Name} 审判官之令
-{Minds2.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_MM_Word.Description} 多面体的存在威胁世界的诸法——因此阿格拉娅下令将其摧毁。决议已定，不可更改。

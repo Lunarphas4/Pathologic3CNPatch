@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_CasebookDiagnosesGamepadTutorial.Name} 诊断
-{Notifications.Tutorial.Notification_CasebookDiagnosesGamepadTutorial.Description} <i>按 <InputActions/UI/TabletDiagnosis> 选择诊断，再按一次 <InputActions/UI/TabletDiagnosis> 确认。</i>

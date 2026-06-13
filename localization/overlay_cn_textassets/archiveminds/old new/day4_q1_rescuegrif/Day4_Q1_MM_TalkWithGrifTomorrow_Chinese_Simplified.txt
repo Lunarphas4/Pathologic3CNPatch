@@ -1,2 +1,0 @@
-{ArchiveMinds.OldNew.Day4_Q1_RescueGrif.Day4_Q1_MM_TalkWithGrifTomorrow.Name} 格里夫昏迷不醒
-{ArchiveMinds.OldNew.Day4_Q1_RescueGrif.Day4_Q1_MM_TalkWithGrifTomorrow.Description} 恶徒格里夫需要时间恢复。我明天再和他谈。

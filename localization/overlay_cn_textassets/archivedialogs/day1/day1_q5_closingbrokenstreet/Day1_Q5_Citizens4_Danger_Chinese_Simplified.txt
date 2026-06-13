@@ -1,3 +1,0 @@
-﻿{ArchiveDialogs.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Citizens4_Danger.1860} 你要干嘛，叔叔？
-{ArchiveDialogs.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Citizens4_Danger.14634} 我们不带你玩？
-{ArchiveDialogs.Day1.Day1_Q5_ClosingBrokenStreet.Day1_Q5_Citizens4_Danger.28007} 这条街很危险！快跑，小子们！

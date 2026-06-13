@@ -1,2 +1,0 @@
-{Symptoms.UhudshenieZreniya.Name} 视力下降
-{Symptoms.UhudshenieZreniya.Description} 表现各异：远处或近处看不清、复视等。共同点是患者不再像以前那样清晰地感知周围世界。

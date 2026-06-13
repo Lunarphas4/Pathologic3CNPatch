@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_ShabnakFirst.Name} 草原之物
-{Notifications.Tutorial.Notification_ShabnakFirst.Description} 原型器具能减缓她。篝火能减缓她。但她无法被阻止。当心。

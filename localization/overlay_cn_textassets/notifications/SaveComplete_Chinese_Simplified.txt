@@ -1,2 +1,0 @@
-{Notifications.SaveComplete.Name} 保存完成
-{Notifications.SaveComplete.Description} ⁠

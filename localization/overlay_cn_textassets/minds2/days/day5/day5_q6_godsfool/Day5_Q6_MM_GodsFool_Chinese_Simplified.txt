@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q6_GodsFool.Day5_Q6_MM_GodsFool.Name} 持异议的病人
-{Minds2.Days.Day5.Day5_Q6_GodsFool.Day5_Q6_MM_GodsFool.Description} 有一名病人拒绝接受治疗。

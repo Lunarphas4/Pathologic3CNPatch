@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_MM_dF3_DiseasedKilled.Name} 慈悲
-{Minds2.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_MM_dF3_DiseasedKilled.Description} 勤杂工会把尸体抬走。安乐死本是慈悲，可谁在乎？流言在镇上爬行，人们开始逃离。

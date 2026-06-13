@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_3_MM_EmptyAdministration.Name} 旗帜降下
-{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_3_MM_EmptyAdministration.Description} 司令不在指挥部。

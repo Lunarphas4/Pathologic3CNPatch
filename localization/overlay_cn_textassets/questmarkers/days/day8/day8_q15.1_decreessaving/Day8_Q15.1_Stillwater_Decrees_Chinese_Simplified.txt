@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Stillwater_Decrees.Name} 静水观星台
-{QuestMarkers.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Stillwater_Decrees.Description} 空荡荡的指挥板在这里等着法令归位

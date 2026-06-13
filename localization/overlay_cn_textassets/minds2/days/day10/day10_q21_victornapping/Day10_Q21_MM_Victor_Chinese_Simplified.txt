@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_MM_Victor.Name} 危困中的弃置
-{Minds2.Days.Day10.Day10_Q21_Victornapping.Day10_Q21_MM_Victor.Description} 维克多·凯恩被发现站在通天阶梯的顶端，险至边缘！

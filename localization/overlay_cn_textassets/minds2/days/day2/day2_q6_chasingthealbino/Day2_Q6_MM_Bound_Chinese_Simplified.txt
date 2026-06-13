@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_MM_Bound.Name} 伊西多尔的孩子们
-{Minds2.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_MM_Bound.Description} 小钉去追那个凶手，那位阴郁的同伴提议去车站找他。他们打算在那里搞一场手摇车赛。

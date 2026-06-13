@@ -1,2 +1,0 @@
-{Symptoms.Diareya.Name} 腹泻
-{Symptoms.Diareya.Description} 也称肠胃不适。通常见于中毒，也可能由感染、炎症或菌群失调引起。

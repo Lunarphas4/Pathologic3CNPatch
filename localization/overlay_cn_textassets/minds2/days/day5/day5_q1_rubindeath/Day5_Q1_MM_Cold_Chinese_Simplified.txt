@@ -1,2 +1,0 @@
-{Minds2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_MM_Cold.Name} 极冷
-{Minds2.Days.Day5.Day5_Q1_RubinDeath.Day5_Q1_MM_Cold.Description} 仓库的孩子们传来消息：鲁宾躲在旧锅炉房里。我得找到那里！秘密越近，管道越热。

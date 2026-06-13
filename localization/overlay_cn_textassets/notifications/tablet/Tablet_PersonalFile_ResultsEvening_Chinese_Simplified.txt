@@ -1,2 +1,0 @@
-{Notifications.Tablet.Tablet_PersonalFile_ResultsEvening.Name} ⁠
-{Notifications.Tablet.Tablet_PersonalFile_ResultsEvening.Description} 医院的报告预计今晚送达。

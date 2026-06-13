@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Classroom.Cloud_Classroom_Portraits.44925} 你曾是科学的神殿，alma mater（母校）
-{Clouds2.FlavorNew.Indoor.Classroom.Cloud_Classroom_Portraits.10340} 你曾是科学的神殿，alma mater（母校）
-{Clouds2.FlavorNew.Indoor.Classroom.Cloud_Classroom_Portraits.56689} 学者阿特拉斯们曾支撑你的穹顶
-{Clouds2.FlavorNew.Indoor.Classroom.Cloud_Classroom_Portraits.61752} 如今只有野蛮人在图书馆废墟里游荡
-{Clouds2.FlavorNew.Indoor.Classroom.Cloud_Classroom_Portraits.24691} 我们怎么会让事情变成这样？

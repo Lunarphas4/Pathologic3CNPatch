@@ -1,2 +1,0 @@
-{Symptoms.Bulymiya.Name} 暴食症
-{Symptoms.Bulymiya.Description} 一种精神障碍，表现为暴食与减重冲动并存，例如催吐或过度运动。

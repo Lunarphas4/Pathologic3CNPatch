@@ -1,3 +1,0 @@
-{Npcs.Tolkoviy.Name} 病人嘲鸫
-{Npcs.Tolkoviy.FullName} ⁠
-{Npcs.Tolkoviy.Description} ⁠

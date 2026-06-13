@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_1_MM_Beholder.Name} 观者效应
-{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_1_MM_Beholder.Description} 耐人寻味的是，最先发现那栋疑似染疫之屋的，正是萨布罗夫家的养女——克拉拉。也许她去之前，屋上根本没有霉斑？

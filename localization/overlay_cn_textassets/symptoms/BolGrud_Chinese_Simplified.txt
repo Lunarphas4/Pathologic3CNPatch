@@ -1,2 +1,0 @@
-{Symptoms.BolGrud.Name} 胸痛
-{Symptoms.BolGrud.Description} 呼吸道受损时，疼痛遍布胸腔，不同于胃灼热特有的烧灼感。

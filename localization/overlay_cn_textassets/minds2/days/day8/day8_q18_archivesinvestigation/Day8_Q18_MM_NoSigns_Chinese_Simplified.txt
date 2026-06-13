@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_MM_NoSigns.Name} 无痕
-{Minds2.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_MM_NoSigns.Description} 乍看之下没有失窃的痕迹，但主人或许能说得更多——如果他们愿意。

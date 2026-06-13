@@ -1,3 +1,0 @@
-{Npcs.Watson.TypewriterWatson.Name} 艾盖尔
-{Npcs.Watson.TypewriterWatson.FullName} ⁠
-{Npcs.Watson.TypewriterWatson.Description} ⁠

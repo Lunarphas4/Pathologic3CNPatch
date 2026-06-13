@@ -1,2 +1,0 @@
-{QuestMarkers.Old.Intro_Maw_QuestMarker_Center.Name} ⁠
-{QuestMarkers.Old.Intro_Maw_QuestMarker_Center.Description} ⁠

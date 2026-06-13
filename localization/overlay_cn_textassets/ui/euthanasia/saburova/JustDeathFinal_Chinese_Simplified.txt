@@ -1,2 +1,0 @@
-﻿{UI.Euthanasia.Saburova.JustDeathFinal.Name} 浅眠
-{UI.Euthanasia.Saburova.JustDeathFinal.Description} 因滥用吗啡而虚弱的身体需要更多药物

@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_SprayWeaponChargeButtonTutorial.Name} 充能原型器具
-{Notifications.Tutorial.Notification_SprayWeaponChargeButtonTutorial.Description} 得把物品放进对应槽位，然后按下"装填"键。

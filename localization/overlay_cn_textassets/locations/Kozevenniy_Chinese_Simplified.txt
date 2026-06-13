@@ -1,2 +1,0 @@
-{Locations.Kozevenniy.Name} 剥皮场
-{Locations.Kozevenniy.Description} 剥皮场

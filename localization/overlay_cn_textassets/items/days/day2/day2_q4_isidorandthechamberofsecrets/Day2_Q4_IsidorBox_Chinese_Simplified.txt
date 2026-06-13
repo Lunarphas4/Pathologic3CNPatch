@@ -1,3 +1,0 @@
-﻿{Items.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_IsidorBox.Name} 伊西多的盒子
-{Items.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_IsidorBox.Description} 一个形状奇特的秘密盒子。
-{Items.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_IsidorBox.Description2} 伊西多办公室里的精巧机关盒。无论如何都打不开。里面有某件重要的东西在自由滚动。

@@ -1,4 +1,0 @@
-{Clouds.Flavor.Cloud_Slough_Stove.17796} 我的火车车厢就是用这样的炉子取暖的。
-{Clouds.Flavor.Cloud_Slough_Stove.11185} 我的火车车厢就是用这样的炉子取暖的。
-{Clouds.Flavor.Cloud_Slough_Stove.12104} 在北方车站，一节货车厢接到了我的列车上。
-{Clouds.Flavor.Cloud_Slough_Stove.11103} 看来柴火就是从那里来的。

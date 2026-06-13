@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Cleanliness.Name} 洁净
-{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Cleanliness.Description} 尚未见任何感染痕迹。也许病气真的离开了此处？

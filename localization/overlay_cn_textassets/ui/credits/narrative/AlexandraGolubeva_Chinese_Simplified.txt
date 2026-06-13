@@ -1,2 +1,0 @@
-{UI.Credits.Narrative.AlexandraGolubeva.Name} Alexandra „Alphyna“ Golubeva
-{UI.Credits.Narrative.AlexandraGolubeva.Description} 叙事总监

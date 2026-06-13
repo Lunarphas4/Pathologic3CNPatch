@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Shelter.Name} 庇护所
-{QuestMarkers.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_Shelter.Description} 据说医院里的全部设备都被搬去了那间已腾空的庇护所。

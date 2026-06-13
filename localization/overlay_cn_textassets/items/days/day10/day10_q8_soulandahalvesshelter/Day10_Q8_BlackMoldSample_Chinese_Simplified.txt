@@ -1,3 +1,0 @@
-﻿{Items.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_BlackMoldSample.Name} 粗建地的霉菌
-{Items.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_BlackMoldSample.Description} 来自那栋房子的物质。孩子们想把那房子当作游乐场。
-{Items.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_BlackMoldSample.Description2} 从孩子们想当作游乐场的房屋墙上刮下来的样本。它不像普通瘟疫凝结物。可能是无害的低等植物，也可能是沙疫的新形态。

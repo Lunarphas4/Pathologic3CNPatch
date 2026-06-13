@@ -1,3 +1,0 @@
-﻿{Items.Metabolism.Bromide.Name} 溴化物
-{Items.Metabolism.Bromide.Description} 增强大脑皮层的抑制作用。换句话说：让脑子迟钝些。有时候，你需要的正是这个。
-{Items.Metabolism.Bromide.Description2} 增强大脑皮层的抑制作用。换句话说：让脑子迟钝些。有时候，你需要的正是这个。

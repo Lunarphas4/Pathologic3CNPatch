@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Traps.Notification_UseTool.Name} 按住 <InputActions/Weapon/Shoot> 为原型器具蓄力
-{Notifications.Tutorial.Traps.Notification_UseTool.Description} 按住 <InputActions/Weapon/Shoot> 为原型器具蓄力。

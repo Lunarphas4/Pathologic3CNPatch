@@ -1,5 +1,0 @@
-{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Body.45967} 苍白消瘦
-{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Body.26416} 苍白消瘦
-{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Body.29681} 疲惫不堪的模样
-{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Body.24401} 我应该看看她的血样。
-{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Body.3297} 难怪；她的血样指向白血病。

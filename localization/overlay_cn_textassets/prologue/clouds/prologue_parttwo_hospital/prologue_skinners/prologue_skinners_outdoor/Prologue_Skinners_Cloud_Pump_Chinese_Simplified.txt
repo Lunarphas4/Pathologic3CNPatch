@@ -1,5 +1,0 @@
-{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_Skinners.Prologue_Skinners_Outdoor.Prologue_Skinners_Cloud_Pump.1150} ⁠
-{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_Skinners.Prologue_Skinners_Outdoor.Prologue_Skinners_Cloud_Pump.10257} 镇子里禁止挖掘土地
-{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_Skinners.Prologue_Skinners_Outdoor.Prologue_Skinners_Cloud_Pump.8132} 管道工程是禁忌
-{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_Skinners.Prologue_Skinners_Outdoor.Prologue_Skinners_Cloud_Pump.31665} 我是个人类学家，一定要写篇关于神话化工业进程的论文
-{Prologue.Clouds.Prologue_PartTwo_Hospital.Prologue_Skinners.Prologue_Skinners_Outdoor.Prologue_Skinners_Cloud_Pump.18687} 但现在，我只能撰写死亡证明

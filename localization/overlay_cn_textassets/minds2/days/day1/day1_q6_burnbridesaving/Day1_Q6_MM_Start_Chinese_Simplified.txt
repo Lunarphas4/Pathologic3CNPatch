@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Start.Name} 我的案子从一开始就输了
-{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Start.Description} 今天，我第一次踏上小镇的石路。西蒙已经死了。他的死讯正在扩散，并把小镇撕开。

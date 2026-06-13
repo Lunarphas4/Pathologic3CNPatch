@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_MindMapTutorial_Gamepad_Prologue.Name} 脑图
-{Prologue.Notifications.Tutorial.Notification_MindMapTutorial_Gamepad_Prologue.Description} 每天都会发生重要的事情。按<InputActions/UI/SelectorLeft>和<InputActions/UI/SelectorRIght>切换日期。按<InputActions/UI/Submit>回忆当天发生了什么

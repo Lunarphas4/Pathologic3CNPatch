@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Theater.Cloud_Theater_Spotlights.44925} 我讨厌强光直刺眼睛
-{Clouds2.FlavorNew.Indoor.Theater.Cloud_Theater_Spotlights.10340} 我讨厌强光直刺眼睛
-{Clouds2.FlavorNew.Indoor.Theater.Cloud_Theater_Spotlights.56689} 想起在大会上发言的时候
-{Clouds2.FlavorNew.Indoor.Theater.Cloud_Theater_Spotlights.61752} 那些害怕未来、眼界狭窄的蠢货，成群大笑

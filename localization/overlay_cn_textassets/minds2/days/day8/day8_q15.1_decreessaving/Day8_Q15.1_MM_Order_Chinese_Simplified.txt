@@ -1,2 +1,0 @@
-{Minds2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_MM_Order.Name} 秩序恢复
-{Minds2.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_MM_Order.Description} 想想吧——一头公牛在合适的地方能制造多大的混乱！

@@ -1,3 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_SunkenBoat.44925} 从这里能看见门廊
-{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_SunkenBoat.10340} 从这里能看见门廊
-{Clouds2.FlavorNew.Outdoor.Flank.Cloud_Flank_SunkenBoat.61752} 春汛怎么没淹掉庇护所？

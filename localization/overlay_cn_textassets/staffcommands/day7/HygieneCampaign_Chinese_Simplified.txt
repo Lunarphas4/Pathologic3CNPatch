@@ -1,2 +1,0 @@
-{StaffCommands.Day7.HygieneCampaign.Name} 卫生宣传
-{StaffCommands.Day7.HygieneCampaign.Description} 派出工作队，向民众宣传卫生守则。

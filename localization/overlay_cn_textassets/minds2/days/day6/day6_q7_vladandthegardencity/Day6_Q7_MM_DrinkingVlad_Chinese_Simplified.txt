@@ -1,2 +1,0 @@
-{Minds2.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_MM_DrinkingVlad.Name} 绿蛇
-{Minds2.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_MM_DrinkingVlad.Description} 今天，小弗拉德·奥尔金斯基坐在twyrine（特维酒）馆里。

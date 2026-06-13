@@ -1,6 +1,0 @@
-{Clouds2.Hospital.Day6.Hospital_Astrild.Hospital_Astrild_Cloud_Patient.3678} 她似乎在发抖
-{Clouds2.Hospital.Day6.Hospital_Astrild.Hospital_Astrild_Cloud_Patient.59480} 她似乎在发抖
-{Clouds2.Hospital.Day6.Hospital_Astrild.Hospital_Astrild_Cloud_Patient.45691} 还一直摸头——疼？
-{Clouds2.Hospital.Day6.Hospital_Astrild.Hospital_Astrild_Cloud_Patient.18950} 若不是日复一日发热，她不会来的
-{Clouds2.Hospital.Day6.Hospital_Astrild.Hospital_Astrild_Cloud_Patient.30384} 典型病例
-{Clouds2.Hospital.Day6.Hospital_Astrild.Hospital_Astrild_Cloud_Patient.20208} 不愿放下自己的事，把自己逼到极限

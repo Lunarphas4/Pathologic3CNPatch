@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Hospital.Day9.Hospital_Aristarkh.Hospital_Aristarkh_House.Name} 阿里斯塔尔赫的宅子
-{QuestMarkers.Hospital.Day9.Hospital_Aristarkh.Hospital_Aristarkh_House.Description} 到他的住处看一看——或可让诊断豁然开朗。

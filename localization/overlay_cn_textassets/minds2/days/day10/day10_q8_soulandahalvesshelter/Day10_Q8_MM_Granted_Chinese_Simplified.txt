@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Granted.Name} 准予
-{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_Granted.Description} 我允许孩子们入住这栋荒屋。这里并不比全镇任何地方更危险……他们没有越过我擅自占屋——这种作风值得鼓励。

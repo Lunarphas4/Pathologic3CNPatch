@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q6_Haruspex.Day3_Q6_MM_Rejected.Name} 拒绝
-{Minds2.Days.Day3.Day3_Q6_Haruspex.Day3_Q6_MM_Rejected.Description} 布拉赫提议合作抗疫。我拒绝了。

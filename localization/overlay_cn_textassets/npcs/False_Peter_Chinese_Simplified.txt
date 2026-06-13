@@ -1,3 +1,0 @@
-{Npcs.False_Peter.Name} 彼得·斯塔马京
-{Npcs.False_Peter.FullName} ⁠
-{Npcs.False_Peter.Description} ⁠

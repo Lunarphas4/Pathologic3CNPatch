@@ -1,2 +1,0 @@
-{Minds2.Days.Day9.Day9_Q16.1_LastBullAnalysis.Day9_Q16.1_MM_ThirdAnalysisNeed.Name} 返回
-{Minds2.Days.Day9.Day9_Q16.1_LastBullAnalysis.Day9_Q16.1_MM_ThirdAnalysisNeed.Description} 从公牛的角度看，今天是观察的第三天。没人吞吃它，我……错了。我得检查它的状况

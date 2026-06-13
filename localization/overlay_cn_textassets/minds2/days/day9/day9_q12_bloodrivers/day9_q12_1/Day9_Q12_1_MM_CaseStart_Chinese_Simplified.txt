@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_1.Day9_Q12_1_MM_CaseStart.Name} 丹科夫斯基探长一案
-{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_1.Day9_Q12_1_MM_CaseStart.Description} 今日军队入了镇。而其中一名士兵——立刻便被杀。

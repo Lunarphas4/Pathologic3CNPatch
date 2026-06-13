@@ -1,2 +1,0 @@
-﻿{Locations.Isidoor_House_1.Name} 伊西多尔的宅子
-{Locations.Isidoor_House_1.Description} 伊西多尔的宅子

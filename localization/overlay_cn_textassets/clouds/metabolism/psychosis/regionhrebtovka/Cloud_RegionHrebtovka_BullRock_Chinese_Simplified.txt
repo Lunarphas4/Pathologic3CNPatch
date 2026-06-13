@@ -1,4 +1,0 @@
-{Clouds.Metabolism.Psychosis.RegionHrebtovka.Cloud_RegionHrebtovka_BullRock.14384} 它像一颗公牛的头。
-{Clouds.Metabolism.Psychosis.RegionHrebtovka.Cloud_RegionHrebtovka_BullRock.27703} 它像一颗公牛的头。
-{Clouds.Metabolism.Psychosis.RegionHrebtovka.Cloud_RegionHrebtovka_BullRock.6463} 公牛是本地崇拜。
-{Clouds.Metabolism.Psychosis.RegionHrebtovka.Cloud_RegionHrebtovka_BullRock.28511} 疯狂。

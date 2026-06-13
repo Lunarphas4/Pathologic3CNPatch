@@ -1,2 +1,0 @@
-{UI.Credits.HypeTrain.QA.DmitryViryasov.DmitryViryasov} Dmitry Viryasov
-{UI.Credits.HypeTrain.QA.DmitryViryasov.MasterOfMinors} 大小事务大师

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_UnergroundBloodRivers.Name} 地下之疫
-{Minds2.Days.KeyNodes.KeyNode_UnergroundBloodRivers.Description} 这座镇——确确实实——建在血上。沙疫之菌来自远古公牛的遗骸。

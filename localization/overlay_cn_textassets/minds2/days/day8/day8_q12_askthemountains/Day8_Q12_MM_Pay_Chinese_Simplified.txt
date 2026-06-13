@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q12_AskTheMountains.Day8_Q12_MM_Pay.Name} Opus pretium est（成事自有其值）
-{Minds2.Days.Day8.Day8_Q12_AskTheMountains.Day8_Q12_MM_Pay.Description} 我给他的那点东西，在帝都毫无用处；可在染疫之镇却至关紧要。

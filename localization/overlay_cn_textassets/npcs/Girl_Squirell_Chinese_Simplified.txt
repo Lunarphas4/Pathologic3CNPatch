@@ -1,3 +1,0 @@
-{Npcs.Girl_Squirell.Name} 鼩鼱
-{Npcs.Girl_Squirell.FullName} ⁠
-{Npcs.Girl_Squirell.Description} ⁠

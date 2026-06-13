@@ -1,2 +1,0 @@
-{Notifications.Days.Day5.Day5_Q1_Hint_Fire_Done.Name} ⁠
-{Notifications.Days.Day5.Day5_Q1_Hint_Fire_Done.Description} 现在他们必须放我离开这片城区。

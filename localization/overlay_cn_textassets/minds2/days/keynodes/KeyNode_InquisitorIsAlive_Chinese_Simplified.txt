@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_InquisitorIsAlive.Name} 审判庭之法
-{Minds2.Days.KeyNodes.KeyNode_InquisitorIsAlive.Description} 审判官安然无恙。

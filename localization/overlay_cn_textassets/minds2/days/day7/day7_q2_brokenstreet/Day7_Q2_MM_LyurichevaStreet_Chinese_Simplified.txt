@@ -1,2 +1,0 @@
-{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_LyurichevaStreet.Name} 城市规划
-{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_LyurichevaStreet.Description} 受凯恩家委托，柳里切娃设计了一条能繁衍实在的街道。这便是维克多之罪。

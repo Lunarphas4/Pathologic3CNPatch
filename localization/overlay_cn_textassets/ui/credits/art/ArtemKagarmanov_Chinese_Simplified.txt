@@ -1,2 +1,0 @@
-{UI.Credits.Art.ArtemKagarmanov.Name} Artem Kagarmanov
-{UI.Credits.Art.ArtemKagarmanov.Description} 特效美术

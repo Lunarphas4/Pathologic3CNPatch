@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q13_BlackForest.Day6_Q8_MM_Illusion.Name} 幻象
-{Minds2.Days.Day6.Day6_Q13_BlackForest.Day6_Q8_MM_Illusion.Description} 好得不像真的。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_OnAir.Name} 透气
-{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_OnAir.Description} 那头公牛"出去散步"了。它怎么会不喜欢静水观星台周遭的开阔地？它八成就在附近。

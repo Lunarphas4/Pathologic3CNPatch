@@ -1,5 +1,0 @@
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_Poster_IgnisSanant.2769} “Quae ferrum non sanat, ignis sanat.”（铁不能治愈的，火能治愈。）
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_Poster_IgnisSanant.13130} “Quae ferrum non sanat, ignis sanat.”（铁不能治愈的，火能治愈。）
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_Poster_IgnisSanant.24721} “铁不能治愈的——火能治愈。”
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_Poster_IgnisSanant.18314} 后面还有……“火不能治愈的，便无药可救”
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_Poster_IgnisSanant.16242} 这里除了我，还有人懂拉丁语吗？

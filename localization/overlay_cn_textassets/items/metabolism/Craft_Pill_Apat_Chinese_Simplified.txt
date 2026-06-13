@@ -1,3 +1,0 @@
-{Items.Metabolism.Craft_Pill_Apat.Name} 临时补剂药片
-{Items.Metabolism.Craft_Pill_Apat.Description} 可部分缓解冷漠的负面影响。效果未知。
-{Items.Metabolism.Craft_Pill_Apat.Description2} ⁠

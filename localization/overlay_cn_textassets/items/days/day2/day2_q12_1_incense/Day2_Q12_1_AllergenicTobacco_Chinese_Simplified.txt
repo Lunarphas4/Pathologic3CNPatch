@@ -1,3 +1,0 @@
-﻿{Items.Days.Day2.Day2_Q12_1_Incense.Day2_Q12_1_AllergenicTobacco.Name} 致敏烟草
-{Items.Days.Day2.Day2_Q12_1_Incense.Day2_Q12_1_AllergenicTobacco.Description} 浸过颠茄的烟草。会导致打喷嚏和幻觉。
-{Items.Days.Day2.Day2_Q12_1_Incense.Day2_Q12_1_AllergenicTobacco.Description2} 学生之间最新的时髦玩意：浸过颠茄的烟草。有些人为了逃避学习什么都干得出来。去年他们还往鸡尾酒里加镭。

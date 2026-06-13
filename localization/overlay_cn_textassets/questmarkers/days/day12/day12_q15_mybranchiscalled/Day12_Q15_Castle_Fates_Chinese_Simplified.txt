@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Castle_Fates.Name} 一魂半族要塞
-{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_Castle_Fates.Description} 一魂半族要塞还有一些我尚未得知的命运。

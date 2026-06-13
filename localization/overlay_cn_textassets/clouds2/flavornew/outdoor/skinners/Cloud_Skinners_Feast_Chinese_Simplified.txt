@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.Skinners.Cloud_Skinners_Feast.44925} 摆好的盘子
-{Clouds2.FlavorNew.Outdoor.Skinners.Cloud_Skinners_Feast.10340} 摆好的盘子
-{Clouds2.FlavorNew.Outdoor.Skinners.Cloud_Skinners_Feast.56689} 炉子上沸腾的咖啡
-{Clouds2.FlavorNew.Outdoor.Skinners.Cloud_Skinners_Feast.61752} 陆地上的幽灵船

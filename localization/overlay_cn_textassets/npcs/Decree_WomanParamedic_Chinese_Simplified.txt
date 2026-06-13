@@ -1,3 +1,0 @@
-{Npcs.Decree_WomanParamedic.Name} 女勤杂工
-{Npcs.Decree_WomanParamedic.FullName} ⁠
-{Npcs.Decree_WomanParamedic.Description} ⁠

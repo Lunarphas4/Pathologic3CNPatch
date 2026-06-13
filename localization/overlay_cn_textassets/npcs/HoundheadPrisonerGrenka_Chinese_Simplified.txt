@@ -1,3 +1,0 @@
-{Npcs.HoundheadPrisonerGrenka.Name} 格伦基
-{Npcs.HoundheadPrisonerGrenka.FullName} ⁠
-{Npcs.HoundheadPrisonerGrenka.Description} ⁠

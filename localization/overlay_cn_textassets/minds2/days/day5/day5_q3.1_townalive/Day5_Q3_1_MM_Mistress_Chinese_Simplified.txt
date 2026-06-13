@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q3.1_TownAlive.Day5_Q3_1_MM_Mistress.Name} 猩红女主人
-{Minds2.Days.Day5.Day5_Q3.1_TownAlive.Day5_Q3_1_MM_Mistress.Description} 我不相信女先知。但我很好奇，玛丽亚·凯娜在另一种情形下曾预言小镇毁灭，现在她会说什么。

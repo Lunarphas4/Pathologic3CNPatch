@@ -1,3 +1,0 @@
-{Items.OLD.Q_Day9_Prob.Name} 第6天样本
-{Items.OLD.Q_Day9_Prob.Description} 用于回到第6天的样本。
-{Items.OLD.Q_Day9_Prob.Description2} 用于回到第6天的样本。

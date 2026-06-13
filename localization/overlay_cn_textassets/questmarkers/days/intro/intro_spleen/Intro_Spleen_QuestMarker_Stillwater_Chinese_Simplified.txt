@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Intro.Intro_Spleen.Intro_Spleen_QuestMarker_Stillwater.Name} 静水宅
-{QuestMarkers.Days.Intro.Intro_Spleen.Intro_Spleen_QuestMarker_Stillwater.Description} 我的临时住所。我会把行李放在这里，然后立刻去拜访西蒙！

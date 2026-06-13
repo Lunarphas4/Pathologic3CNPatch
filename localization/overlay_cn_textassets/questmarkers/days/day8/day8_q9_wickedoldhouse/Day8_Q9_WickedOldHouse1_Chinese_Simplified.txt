@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_WickedOldHouse1.Name} 染疫之屋
-{QuestMarkers.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_WickedOldHouse1.Description} 粗建地里一栋染疫的木屋。必是这一栋。

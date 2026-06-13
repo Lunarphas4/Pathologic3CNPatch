@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day4.Zhitochnik.Hospital_Zhitochnik_MM_Interview.Name} 病人在臆症
-{Minds2.Hospital.Day4.Zhitochnik.Hospital_Zhitochnik_MM_Interview.Description} 哈德曼出现了幻视。但愿这不会妨碍检查。

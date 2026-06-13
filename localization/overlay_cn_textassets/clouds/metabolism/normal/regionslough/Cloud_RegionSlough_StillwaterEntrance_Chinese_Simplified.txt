@@ -1,5 +1,0 @@
-{Clouds.Metabolism.Normal.RegionSlough.Cloud_RegionSlough_StillwaterEntrance.20864} 这条路。每个夜晚。
-{Clouds.Metabolism.Normal.RegionSlough.Cloud_RegionSlough_StillwaterEntrance.17799} 这条路。每个夜晚。
-{Clouds.Metabolism.Normal.RegionSlough.Cloud_RegionSlough_StillwaterEntrance.3323} 这里现在是我的家。
-{Clouds.Metabolism.Normal.RegionSlough.Cloud_RegionSlough_StillwaterEntrance.21880} 这里很平静。
-{Clouds.Metabolism.Normal.RegionSlough.Cloud_RegionSlough_StillwaterEntrance.5680} 还有伊娃。

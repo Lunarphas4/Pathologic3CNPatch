@@ -1,1 +1,0 @@
-{UI.Credits.VoiceActing.VasilisaVoronina.Name} Vasilisa Voronina

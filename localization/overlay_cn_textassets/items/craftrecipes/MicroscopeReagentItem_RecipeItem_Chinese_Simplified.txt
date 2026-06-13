@@ -1,3 +1,0 @@
-﻿{Items.CraftRecipes.MicroscopeReagentItem_RecipeItem.Name} 配方：试剂
-{Items.CraftRecipes.MicroscopeReagentItem_RecipeItem.Description} 用于显微镜检验样本。
-{Items.CraftRecipes.MicroscopeReagentItem_RecipeItem.Description2} 用于显微镜检验样本。

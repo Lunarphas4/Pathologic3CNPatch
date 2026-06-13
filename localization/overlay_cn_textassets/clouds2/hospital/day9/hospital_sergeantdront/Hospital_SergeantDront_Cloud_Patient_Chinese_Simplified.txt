@@ -1,4 +1,0 @@
-{Clouds2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Cloud_Patient.3946} 军队来了
-{Clouds2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Cloud_Patient.9299} 军队来了
-{Clouds2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Cloud_Patient.23824} 不只是来到城里，还来到医院
-{Clouds2.Hospital.Day9.Hospital_SergeantDront.Hospital_SergeantDront_Cloud_Patient.31641} 他在避开什么？灯？

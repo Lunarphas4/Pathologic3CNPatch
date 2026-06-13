@@ -1,3 +1,0 @@
-﻿{Items.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_PolyBlood_Analyser.Name} 多面体下的血（已检查）
-{Items.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_PolyBlood_Analyser.Description} 这是谁的血？
-{Items.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_PolyBlood_Analyser.Description2} 从未见过这样的东西。士兵的血只占样本的一小部分。其余部分类似牛血，却并非牛血。这是什么意思？

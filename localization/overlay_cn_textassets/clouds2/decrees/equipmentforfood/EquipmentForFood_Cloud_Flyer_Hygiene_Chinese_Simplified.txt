@@ -1,5 +1,0 @@
-{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Flyer_Hygiene.31453} “卫生是健康的基础！”
-{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Flyer_Hygiene.13168} “卫生是健康的基础！”
-{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Flyer_Hygiene.30998} “用肥皂洗手！”
-{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Flyer_Hygiene.26043} “只用自己的餐具吃饭！”
-{Clouds2.Decrees.EquipmentForFood.EquipmentForFood_Cloud_Flyer_Hygiene.2058} “交出多余食物——换取肥皂和餐具！”

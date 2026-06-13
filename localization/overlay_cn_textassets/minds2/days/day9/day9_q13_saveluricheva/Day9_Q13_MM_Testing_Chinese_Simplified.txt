@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q13_SaveLuricheva.Day9_Q13_MM_Testing.Name} 试验
-{Minds2.Days.Day9.Day9_Q13_SaveLuricheva.Day9_Q13_MM_Testing.Description} 昨日尤利娅头一次走过她亲手设计的那条街——那条充满谬误与险机的街。今日，她为她毕生之作服丧。

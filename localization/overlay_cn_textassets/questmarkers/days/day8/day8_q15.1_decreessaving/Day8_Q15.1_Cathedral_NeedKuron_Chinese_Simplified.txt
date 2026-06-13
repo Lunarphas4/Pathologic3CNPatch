@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Cathedral_NeedKuron.Name} 大教堂
-{QuestMarkers.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_Cathedral_NeedKuron.Description} 审判官现在一定正在审问赫伦

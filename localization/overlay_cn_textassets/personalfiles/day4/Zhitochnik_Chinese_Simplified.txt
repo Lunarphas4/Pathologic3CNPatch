@@ -1,2 +1,0 @@
-{PersonalFiles.Day4.Zhitochnik.Name} 硬汉
-{PersonalFiles.Day4.Zhitochnik.Description} 喝过受感染的水。

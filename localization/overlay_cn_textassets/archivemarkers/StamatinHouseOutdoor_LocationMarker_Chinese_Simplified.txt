@@ -1,2 +1,0 @@
-{ArchiveMarkers.StamatinHouseOutdoor_LocationMarker.Name} ⁠
-{ArchiveMarkers.StamatinHouseOutdoor_LocationMarker.Description} ⁠

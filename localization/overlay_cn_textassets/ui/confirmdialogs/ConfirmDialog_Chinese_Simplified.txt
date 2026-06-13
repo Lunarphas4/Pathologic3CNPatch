@@ -1,4 +1,0 @@
-﻿{UI.ConfirmDialogs.ConfirmDialog.Confirm} <InputActions/UI/ConfirmDialog> 确认
-{UI.ConfirmDialogs.ConfirmDialog.Cancel} <InputActions/UI/Cancel> 仍不确定
-{UI.ConfirmDialogs.ConfirmDialog.TurnOn} <InputActions/UI/ConfirmDialog> 开启
-{UI.ConfirmDialogs.ConfirmDialog.TurnOff} <InputActions/UI/Cancel> 关闭

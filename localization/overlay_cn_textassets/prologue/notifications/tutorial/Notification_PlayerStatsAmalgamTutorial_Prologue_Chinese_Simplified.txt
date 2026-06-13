@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_PlayerStatsAmalgamTutorial_Prologue.Name} 混合物
-{Prologue.Notifications.Tutorial.Notification_PlayerStatsAmalgamTutorial_Prologue.Description} 用于回溯并改写其他时日。通过成功实施安乐死和打碎镜子获取

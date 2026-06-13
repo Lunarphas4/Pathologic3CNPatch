@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Stillwater_Analyser.Name} 静水观星台
-{QuestMarkers.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Stillwater_Analyser.Description} 我在静水观星台搭起了一间小实验室。在这里可以研究那份致命的药

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_MM_Duelists.Name} 决斗者
-{Minds2.Days.Day10.Day10_Q13_ChildrenDuel.Day10_Q13_MM_Duelists.Description} 好一个晴日，两个戴面具的孩子决意把彼此点燃。可能——把整镇也一并点燃。

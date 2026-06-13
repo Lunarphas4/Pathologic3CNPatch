@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_BarterHowToSellTutorial.Name} 交易
-{Notifications.Tutorial.Notification_BarterHowToSellTutorial.Description} 想要换什么——就得拿出什么。把物品放进我物品栏一侧的格子即可。

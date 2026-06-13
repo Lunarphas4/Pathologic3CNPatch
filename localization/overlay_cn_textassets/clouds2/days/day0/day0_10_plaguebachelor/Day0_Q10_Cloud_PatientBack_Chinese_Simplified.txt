@@ -1,4 +1,0 @@
-{Clouds2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Cloud_PatientBack.7723} 广泛性鱼鳞病
-{Clouds2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Cloud_PatientBack.53733} 广泛性鱼鳞病
-{Clouds2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Cloud_PatientBack.928} 化脓性脓肿
-{Clouds2.Days.Day0.Day0_10_PlagueBachelor.Day0_Q10_Cloud_PatientBack.5291} 脱水

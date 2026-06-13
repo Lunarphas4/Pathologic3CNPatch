@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q5_PersuadingLara.Day9_Q5_MM_StopLara.Name} 连锁反应
-{Minds2.Days.Day9.Day9_Q5_PersuadingLara.Day9_Q5_MM_StopLara.Description} 必须劝拉拉打消杀人的念头。否则后果难料。

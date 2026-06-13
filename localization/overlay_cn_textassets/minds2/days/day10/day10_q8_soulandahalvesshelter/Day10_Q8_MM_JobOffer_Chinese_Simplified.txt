@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_JobOffer.Name} 请专家
-{Minds2.Days.Day10.Day10_Q8_SoulAndAHalvesShelter.Day10_Q8_MM_JobOffer.Description} 孩童诺特金要给我派活儿。上一次有孩子向我求助——他们差点自相残杀。

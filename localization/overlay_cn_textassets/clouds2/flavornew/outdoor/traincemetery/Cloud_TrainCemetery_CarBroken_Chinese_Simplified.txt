@@ -1,3 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_CarBroken.44925} 车厢被公牛油脂浸透了
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_CarBroken.56689} 车厢被公牛油脂浸透了
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_CarBroken.61752} 奇怪，这片可怕的荒地竟然没烧起来

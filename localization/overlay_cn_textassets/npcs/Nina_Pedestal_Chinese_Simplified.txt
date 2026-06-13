@@ -1,3 +1,0 @@
-{Npcs.Nina_Pedestal.Name} 基座
-{Npcs.Nina_Pedestal.FullName} ⁠
-{Npcs.Nina_Pedestal.Description} ⁠

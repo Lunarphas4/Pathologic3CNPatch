@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q10_Switchman.Day7_Q10_MM_Alive.Name} 活着
-{Minds2.Days.Day7.Day7_Q10_Switchman.Day7_Q10_MM_Alive.Description} 已死却未被忘却者，便是不朽。

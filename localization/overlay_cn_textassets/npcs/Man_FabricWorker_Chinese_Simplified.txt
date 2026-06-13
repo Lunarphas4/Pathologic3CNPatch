@@ -1,3 +1,0 @@
-{Npcs.Man_FabricWorker.Name} 工厂工人
-{Npcs.Man_FabricWorker.FullName} ⁠
-{Npcs.Man_FabricWorker.Description} ⁠

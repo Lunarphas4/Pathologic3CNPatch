@@ -1,3 +1,0 @@
-{Npcs.Voronika.Name} 维罗妮卡·克罗伊
-{Npcs.Voronika.FullName} ⁠
-{Npcs.Voronika.Description} ⁠

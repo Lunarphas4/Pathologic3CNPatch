@@ -1,8 +1,0 @@
-{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Laska_Closed.10968} 今天的仪式都结束了，医生。晚上没人挖坟。
-{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Laska_Closed.48281} 伊西多尔·布拉赫今天下葬了。
-{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Laska_Closed.46950} 是的。你没能向伊西多尔告别？真可惜。
-{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Laska_Closed.6406} 是啊，可惜。我不是什么多愁善感的人，但看看他的遗体，本可以得到些有用信息。
-{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Laska_Closed.51557} 我告别了……也算是告别过，还知道了一件重要的事。
-{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Laska_Closed.4799} 伊西多尔死了，真可惜。真的。
-{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Laska_Closed.49291} 是啊，我该早些来的。
-{Dialogs2.Days.Day2.Day2_Q5_IsidorFuneral.Day2_Q5_Laska_Closed.2445} 很快他们会在傍晚开始挖，甚至在夜里挖。白天他们会忙着让自己活下去。

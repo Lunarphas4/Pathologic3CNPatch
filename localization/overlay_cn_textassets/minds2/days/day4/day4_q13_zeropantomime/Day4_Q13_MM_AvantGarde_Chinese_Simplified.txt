@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q13_ZeroPantomime.Day4_Q13_MM_AvantGarde.Name} 先锋派
-{Minds2.Days.Day4.Day4_Q13_ZeroPantomime.Day4_Q13_MM_AvantGarde.Description} 对于这些只见过火车进站的小镇观众来说——绰绰有余了。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_BlockIsDead.Name} 将军之死
-{Minds2.Days.KeyNodes.KeyNode_BlockIsDead.Description} 亚历山大·布洛克被杀。

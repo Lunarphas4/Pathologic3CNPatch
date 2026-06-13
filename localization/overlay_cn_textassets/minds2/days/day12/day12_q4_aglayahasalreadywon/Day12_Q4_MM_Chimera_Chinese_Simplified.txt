@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_MM_Chimera.Name} 幻形
-{Minds2.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_MM_Chimera.Description} 镇上的每一部分都不可避免地要把另一部分毁掉。没有了西蒙，它们无法共存。

@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_AskPatientTutorial_Prologue.Name} 二次问诊
-{Prologue.Notifications.Tutorial.Notification_AskPatientTutorial_Prologue.Description} 已发现可询问的新症状

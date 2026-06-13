@@ -1,2 +1,0 @@
-{Symptoms.VspyshkiAgressii.Name} 攻击性爆发
-{Symptoms.VspyshkiAgressii.Description} 患者突然出现强烈敌意或攻击行为，常与神经系统异常有关。

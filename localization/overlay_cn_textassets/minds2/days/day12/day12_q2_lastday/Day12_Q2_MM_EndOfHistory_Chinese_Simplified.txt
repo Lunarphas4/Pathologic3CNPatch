@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q2_LastDay.Day12_Q2_MM_EndOfHistory.Name} 故事的终篇
-{Minds2.Days.Day12.Day12_Q2_LastDay.Day12_Q2_MM_EndOfHistory.Description} 今日，一切都将定下来。

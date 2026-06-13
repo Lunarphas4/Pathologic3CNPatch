@@ -1,2 +1,0 @@
-{Notifications.Notification_FatefulDecision.Name} ⁠
-{Notifications.Notification_FatefulDecision.Description} 我的决定将在未来回响。

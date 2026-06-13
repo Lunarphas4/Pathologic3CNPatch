@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_ForgetIt.Name} 减一头牛
-{Minds2.Days.Day9.Day9_Q16_BullStealing.Day9_Q16_MM_ForgetIt.Description} 该承认：那头牛没派上什么用处。不过坦白说，有它在身边——日子倒还有点意思。

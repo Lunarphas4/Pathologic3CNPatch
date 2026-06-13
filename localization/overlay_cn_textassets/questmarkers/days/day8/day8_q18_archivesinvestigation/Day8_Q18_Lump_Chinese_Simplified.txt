@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Lump.Name} 块石宅
-{QuestMarkers.Days.Day8.Day8_Q18_ArchivesInvestigation.Day8_Q18_Lump.Description} 但愿第一次大疫的档案仍在原处。

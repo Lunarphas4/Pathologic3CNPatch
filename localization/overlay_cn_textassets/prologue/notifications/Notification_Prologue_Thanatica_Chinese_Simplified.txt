@@ -1,2 +1,0 @@
-{Prologue.Notifications.Notification_Prologue_Thanatica.Name} 前一天，
-{Prologue.Notifications.Notification_Prologue_Thanatica.Description} 学者赌上一切，离开首都，奔赴那该死的草原小镇

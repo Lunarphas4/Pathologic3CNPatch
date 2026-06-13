@@ -1,2 +1,0 @@
-{Symptoms.PoteryaVesa.Name} 体重下降
-{Symptoms.PoteryaVesa.Description} 体重明显下降，可能与营养吸收不良、消耗增加或食欲下降有关。

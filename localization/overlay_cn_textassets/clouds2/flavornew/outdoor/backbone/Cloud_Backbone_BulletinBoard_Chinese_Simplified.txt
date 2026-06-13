@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.Backbone.Cloud_Backbone_BulletinBoard.44925} “征寻医生！”
-{Clouds2.FlavorNew.Outdoor.Backbone.Cloud_Backbone_BulletinBoard.10340} “征寻医生！”
-{Clouds2.FlavorNew.Outdoor.Backbone.Cloud_Backbone_BulletinBoard.56689} “购买棺材！”
-{Clouds2.FlavorNew.Outdoor.Backbone.Cloud_Backbone_BulletinBoard.61752} “喝范胡滕可可！”

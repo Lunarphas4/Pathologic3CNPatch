@@ -1,6 +1,0 @@
-{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_KeepYourWord.5300} 你今天不该来医院。明天到来之前，不要去那里。她就是这么说的。
-{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_KeepYourWord.26340} 她？你说过了。
-{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_KeepYourWord.15266} 我说你今天不该来医院。明天到来之前，不要去那里。
-{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_KeepYourWord.2885} 别对我发号施令，疯狂的女孩。
-{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_KeepYourWord.10279} 不要自己去医院。最好永远不要去那里。
-{ArchiveDialogs.Day6.Day6_Q2_GoodBadEvil.Day6_Q2_KeepYourWord.10150} 你在这里做什么？

@@ -1,2 +1,0 @@
-{UI.Credits.Narrative.NikolayDybowski.Name} Nikolay Dybowski
-{UI.Credits.Narrative.NikolayDybowski.Description} 游戏世界观创作者

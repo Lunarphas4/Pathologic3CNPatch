@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q0_ChangelingCult.Day6_Q0_MM_IsEmpty.Name} 空荡的医院
-{Minds2.Days.Day6.Day6_Q0_ChangelingCult.Day6_Q0_MM_IsEmpty.Description} 没有病人。很难相信他们都被治好了。

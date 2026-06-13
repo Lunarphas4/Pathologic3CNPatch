@@ -1,2 +1,0 @@
-{Notifications.Days.Day5.Day5_Q1_Hint_Fire_2.Name} ⁠
-{Notifications.Days.Day5.Day5_Q1_Hint_Fire_2.Description} 还差两堆火。

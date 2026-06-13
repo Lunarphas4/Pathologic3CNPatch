@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_ArrivalOfArmy.Name} 极端手段
-{Minds2.Days.KeyNodes.KeyNode_ArrivalOfArmy.Description} 带着炮兵的部队进了镇。哪怕要让这镇上所有人陪葬——他们也要止住瘟疫。

@@ -1,2 +1,0 @@
-﻿{ArchiveDialogs.ArchiveOther.Visitors.Day3_V2_Note_Plague.Name} 给儿子的信
-{ArchiveDialogs.ArchiveOther.Visitors.Day3_V2_Note_Plague.Description} 亲爱的儿子，你好！\n你的父亲死胡同给你写信。瘟疫正在我们镇上肆虐，不分老幼，谁也逃不过……\n[后面的字迹被泥污抹花，已经看不清]\n……你的父亲。

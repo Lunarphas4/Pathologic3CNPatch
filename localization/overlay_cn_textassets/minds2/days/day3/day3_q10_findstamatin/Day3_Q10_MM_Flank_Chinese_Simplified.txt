@@ -1,2 +1,0 @@
-{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Flank.Name} 血色踪迹
-{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Flank.Description} 我们这位浑身是血的逃亡者跑去了胁腹区。他能在那里寻些什么？

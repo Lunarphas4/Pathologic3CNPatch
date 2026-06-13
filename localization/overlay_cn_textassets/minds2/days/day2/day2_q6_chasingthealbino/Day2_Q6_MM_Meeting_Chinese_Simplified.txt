@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_MM_Meeting.Name} 预约之会
-{Minds2.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_MM_Meeting.Description} 伊西多尔遇害前夕，家中有人在等他。那白化少年所见仅此而已——而今日他来到时，那已是一所死屋。

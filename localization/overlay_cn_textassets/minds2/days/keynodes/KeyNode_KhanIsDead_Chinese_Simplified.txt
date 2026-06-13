@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_KhanIsDead.Name} 可汗之死
-{Minds2.Days.KeyNodes.KeyNode_KhanIsDead.Description} 可汗自战场逃跑，背中一枪而亡。

@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Indoor.RubinApt.Cloud_RubinApt_Workplace.44925} 我见过比这更糟的县城医生诊室
-{Clouds2.FlavorNew.Indoor.RubinApt.Cloud_RubinApt_Workplace.10340} 我见过比这更糟的县城医生诊室
-{Clouds2.FlavorNew.Indoor.RubinApt.Cloud_RubinApt_Workplace.56689} 有地方做检查
-{Clouds2.FlavorNew.Indoor.RubinApt.Cloud_RubinApt_Workplace.62598} 如果能找到护士，还能做个简单手术
-{Clouds2.FlavorNew.Indoor.RubinApt.Cloud_RubinApt_Workplace.61752} 换我就把笼子撤掉

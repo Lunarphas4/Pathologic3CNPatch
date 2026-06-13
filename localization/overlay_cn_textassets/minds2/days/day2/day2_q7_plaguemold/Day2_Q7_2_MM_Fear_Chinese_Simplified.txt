@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_2_MM_Fear.Name} 旁观者
-{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_2_MM_Fear.Description} 本地人嗅到不祥，拒绝协助。

@@ -1,3 +1,0 @@
-{Npcs.Quests.MuderersBrother.Name} 凶手的兄弟
-{Npcs.Quests.MuderersBrother.FullName} ⁠
-{Npcs.Quests.MuderersBrother.Description} ⁠

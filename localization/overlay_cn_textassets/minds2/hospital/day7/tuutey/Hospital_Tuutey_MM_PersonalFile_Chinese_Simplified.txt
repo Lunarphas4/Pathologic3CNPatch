@@ -1,2 +1,0 @@
-{Minds2.Hospital.Day7.Tuutey.Hospital_Tuutey_MM_PersonalFile.Name} 在医院起舞
-{Minds2.Hospital.Day7.Tuutey.Hospital_Tuutey_MM_PersonalFile.Description} 图泰并非草药新娘，却在医院里跳起了那样的舞。

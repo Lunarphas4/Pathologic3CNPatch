@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q11_LurichevaDefence.Day3_Q11_MM_Locked.Name} 空网
-{Minds2.Days.Day3.Day3_Q11_LurichevaDefence.Day3_Q11_MM_Locked.Description} 尤利娅的家门上着锁。无人应门，屋内传来盘碟摔碎的声响。此刻我不受欢迎。还是先办别的事。

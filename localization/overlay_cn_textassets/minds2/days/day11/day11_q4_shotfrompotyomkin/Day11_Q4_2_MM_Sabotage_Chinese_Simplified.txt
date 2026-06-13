@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_2_MM_Sabotage.Name} 蓄意破坏
-{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_2_MM_Sabotage.Description} 奥尔金斯基家供出了带毒之肉。该把老奥尔金斯基逼到墙角了。

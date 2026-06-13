@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_1.Day6_Q10_1_MM_Arrival.Name} 死铁之物
-{Minds2.Days.Day6.Day6_Q10_ChildFaceStealing.Day6_Q10_1.Day6_Q10_1_MM_Arrival.Description} 瞅一眼——立刻回头。

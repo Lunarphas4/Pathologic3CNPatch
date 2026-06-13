@@ -1,2 +1,0 @@
-{Notifications.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Hint_NoEva.Name} ⁠
-{Notifications.Days.Day10.Day10_Q11_EvaOnTheStairs.Day10_Q11_Hint_NoEva.Description} 若此刻我离开这一日，伊娃便永远失去她的过去。

@@ -1,2 +1,0 @@
-{Prologue.Notifications.Hints.Notification_Hint_Concentration.Name} ⁠
-{Prologue.Notifications.Hints.Notification_Hint_Concentration.Description} 按<InputActions/Weapon/Tags>查看值得留意的地方

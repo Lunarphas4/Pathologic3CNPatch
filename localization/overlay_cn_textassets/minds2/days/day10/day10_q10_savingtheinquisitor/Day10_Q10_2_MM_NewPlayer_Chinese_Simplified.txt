@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_2_MM_NewPlayer.Name} 新入局者
-{Minds2.Days.Day10.Day10_Q10_SavingTheInquisitor.Day10_Q10_2_MM_NewPlayer.Description} 军队昨日入镇。我该不该求他们出手放安德烈？

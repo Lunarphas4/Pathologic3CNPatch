@@ -1,2 +1,0 @@
-{SymptomGroups.Slizistie.Name} 黏膜
-{SymptomGroups.Slizistie.Description} 黏膜覆盖耳道、气道等内部腔隙，并部分延伸至外部开口，也能减少摩擦，例如骨骼之间的摩擦。

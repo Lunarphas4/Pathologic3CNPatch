@@ -1,3 +1,0 @@
-{Clouds2.FlavorNew.Indoor.AdministrationArmy.Cloud_AdministrationArmy_Flamethrower.44925} 火是治疗瘟疫的最佳药物
-{Clouds2.FlavorNew.Indoor.AdministrationArmy.Cloud_AdministrationArmy_Flamethrower.10340} 火是治疗瘟疫的最佳药物
-{Clouds2.FlavorNew.Indoor.AdministrationArmy.Cloud_AdministrationArmy_Flamethrower.56689} 不愿开出它的医生有祸了

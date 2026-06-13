@@ -1,3 +1,0 @@
-{Npcs.Decree_TiredNurse.Name} 疲惫的护士
-{Npcs.Decree_TiredNurse.FullName} ⁠
-{Npcs.Decree_TiredNurse.Description} ⁠

@@ -1,3 +1,0 @@
-{Items.Barter.Collectible_Pen.Name} 钢笔
-{Items.Barter.Collectible_Pen.Description} 写得了情书，也判得了死刑
-{Items.Barter.Collectible_Pen.Description2} 写得了情书，也判得了死刑

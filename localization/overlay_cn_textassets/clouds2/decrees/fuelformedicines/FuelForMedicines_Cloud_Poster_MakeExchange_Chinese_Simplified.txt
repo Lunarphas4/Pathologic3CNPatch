@@ -1,5 +1,0 @@
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_Poster_MakeExchange.2448} “交出药品——换取柴火！”
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_Poster_MakeExchange.10303} “交出药品——换取柴火！”
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_Poster_MakeExchange.10623} 医院会有足够的药品
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_Poster_MakeExchange.18399} 市民会有足够的柴火
-{Clouds2.Decrees.FuelForMedicines.FuelForMedicines_Cloud_Poster_MakeExchange.8499} 一石二鸟

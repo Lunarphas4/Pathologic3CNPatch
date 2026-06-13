@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_AnalysisYulia.Name} 血源已得
-{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_AnalysisYulia.Description} 尤利娅的血适合卡捷琳娜！他们会去请她，我尽快赶往权杖宅。

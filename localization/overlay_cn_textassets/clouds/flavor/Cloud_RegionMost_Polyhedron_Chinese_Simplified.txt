@@ -1,2 +1,0 @@
-{Clouds.Flavor.Cloud_RegionMost_Polyhedron.6756} 不会出现在试玩版里。
-{Clouds.Flavor.Cloud_RegionMost_Polyhedron.9312} 这座塔违背了物理法则。

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q2_Kidnapping.Day6_Q2_MM_River.Name} 铁厂外，沿河而下
-{Minds2.Days.Day6.Day6_Q2_Kidnapping.Day6_Q2_MM_River.Description} 墨儿和同伴分开了。其余的孩子在工厂下方。

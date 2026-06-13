@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day7.Day7_Q10_Switchman.Day7_Q10_Switchman.Name} 扳道工
-{QuestMarkers.Days.Day7.Day7_Q10_Switchman.Day7_Q10_Switchman.Description} 扳道工住在这里。我请他扳动扳道，让我得以出逃。

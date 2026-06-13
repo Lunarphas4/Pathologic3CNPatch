@@ -1,7 +1,0 @@
-{ArchiveDialogs.Hospitals.Hospital_Kira_Orderly_Main.15459} 莫尔图斯六号奉命，长官，请命汇报！
-{ArchiveDialogs.Hospitals.Hospital_Kira_Orderly_Main.31822} 精神头倒足。报告格式得记住！你这笨蛋，是你命令我汇报？用自己的话说，没时间。
-{ArchiveDialogs.Hospitals.Hospital_Kira_Orderly_Main.20217} 您的私人助手，也就是没有编号的雅科夫·利特尔，已经按命令送去做处理。新的并发病女患者，二号，已经送来了。
-{ArchiveDialogs.Hospitals.Hospital_Kira_Orderly_Main.12086} 总算来了。新患者什么情况？
-{ArchiveDialogs.Hospitals.Hospital_Kira_Orderly_Main.2694} 患者基拉，职业是教师，出生地是雷利斯克。算是在南边的城市。症状最像普通感冒：发热、头痛、喉咙痛。她特别要求和您本人见面，并由您亲自介入。
-{ArchiveDialogs.Hospitals.Hospital_Kira_Orderly_Main.16666} 谢谢。行了，去吧，别在这儿晃。
-{ArchiveDialogs.Hospitals.Hospital_Kira_Orderly_Main.20972} 你还不如也给我编个号。

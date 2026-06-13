@@ -1,2 +1,0 @@
-{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Celebration.Name} 庆典是一场仪式
-{Minds2.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_MM_Celebration.Description} 敏感的金族人试图驱灾，但灾祸的征兆已经悬在空中。那时我还不明白庆典的缘由。

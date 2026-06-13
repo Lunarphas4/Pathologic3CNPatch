@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q1_StopKains.Day3_Q1_MM_Revenge.Name} 可怕的复仇
-{Minds2.Days.Day3.Day3_Q1_StopKains.Day3_Q1_MM_Revenge.Description} 发现鲁宾藏身处的并非只有我一人：就在这一天，追杀者找到了他，并将他杀死。

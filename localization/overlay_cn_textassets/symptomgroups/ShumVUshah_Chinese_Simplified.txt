@@ -1,2 +1,0 @@
-{SymptomGroups.ShumVUshah.Name} 耳鸣
-{SymptomGroups.ShumVUshah.Description} 耳内鸣响或杂音。

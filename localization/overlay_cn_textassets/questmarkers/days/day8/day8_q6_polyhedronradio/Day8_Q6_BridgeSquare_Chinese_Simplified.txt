@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_BridgeSquare.Name} 桥头广场
-{QuestMarkers.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_BridgeSquare.Description} 一阵哀沉的嗡鸣回荡全镇。其源——就在这一带。

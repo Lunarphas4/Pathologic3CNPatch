@@ -1,3 +1,0 @@
-{Clouds.Old.Cloud_Administration_ReceptionTable.17796} 萨布罗夫管理市政厅的每个部门。
-{Clouds.Old.Cloud_Administration_ReceptionTable.11185} 萨布罗夫管理市政厅的每个部门。
-{Clouds.Old.Cloud_Administration_ReceptionTable.12104} 那为什么没有镇医院？

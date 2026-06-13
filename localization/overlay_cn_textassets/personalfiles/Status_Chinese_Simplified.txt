@@ -1,5 +1,0 @@
-{PersonalFiles.Status.Poor} 贫困
-{PersonalFiles.Status.Rich} 富裕
-{PersonalFiles.Status.Middle} 中等收入
-{PersonalFiles.Status.SteppeFemale} 草原居民
-{PersonalFiles.Status.SteppeMale} 草原居民

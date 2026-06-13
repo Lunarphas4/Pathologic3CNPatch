@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q10_HaruspexAfterTheAbbatoir.Day11_Q10_Shelter_Haruspex.Name} 庇护所
-{QuestMarkers.Days.Day11.Day11_Q10_HaruspexAfterTheAbbatoir.Day11_Q10_Shelter_Haruspex.Description} 这里今晚有人许我一次要紧的会面。

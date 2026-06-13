@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_2_MM_NeedSample.Name} 证据
-{Minds2.Days.Day2.Day2_Q7_PlagueMold.Day2_Q7_2_MM_NeedSample.Description} 我必须取一份瘟疫样本去呈给镇上的当局。

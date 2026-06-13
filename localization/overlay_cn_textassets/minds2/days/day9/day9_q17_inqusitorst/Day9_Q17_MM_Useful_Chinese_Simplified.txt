@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_MM_Useful.Name} 危险游戏
-{Minds2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_MM_Useful.Description} 务实的卡明斯基相信那条"显化梦魇之街"可为审判庭所用。

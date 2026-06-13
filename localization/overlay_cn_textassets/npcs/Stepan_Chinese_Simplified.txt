@@ -1,3 +1,0 @@
-{Npcs.Stepan.Name} 访客交嘴雀
-{Npcs.Stepan.FullName} ⁠
-{Npcs.Stepan.Description} ⁠

@@ -1,6 +1,0 @@
-{Clouds2.Days.Intro.Intro_Exam.Intro_Exam_Cloud_Patient.45967} 她在氯气泄漏期间于停尸房醒来。
-{Clouds2.Days.Intro.Intro_Exam.Intro_Exam_Cloud_Patient.26416} 她在氯气泄漏期间于停尸房醒来。
-{Clouds2.Days.Intro.Intro_Exam.Intro_Exam_Cloud_Patient.29681} 这真会是自发复活的案例吗？
-{Clouds2.Days.Intro.Intro_Exam.Intro_Exam_Cloud_Patient.3297} 根据她的检测结果，她患有绝症。
-{Clouds2.Days.Intro.Intro_Exam.Intro_Exam_Cloud_Patient.23149} 签署了接受实验药物治疗的同意书。
-{Clouds2.Days.Intro.Intro_Exam.Intro_Exam_Cloud_Patient.59182} 唉，我不认为这是真正的复活。

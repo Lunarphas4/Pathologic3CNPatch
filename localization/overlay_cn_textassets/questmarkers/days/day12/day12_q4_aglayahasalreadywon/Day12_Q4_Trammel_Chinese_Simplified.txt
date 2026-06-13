@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_Trammel.Name} 束网
-{QuestMarkers.Days.Day12.Day12_Q4_AglayaHasAlreadyWon.Day12_Q4_Trammel.Description} 但愿尤利娅已算完她的演算。

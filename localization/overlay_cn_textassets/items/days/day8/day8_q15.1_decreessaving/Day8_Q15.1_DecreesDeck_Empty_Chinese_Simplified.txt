@@ -1,3 +1,0 @@
-{Items.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_DecreesDeck_Empty.Name} 空白法令表
-{Items.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_DecreesDeck_Empty.Description} Tabula rasa（白板）。
-{Items.Days.Day8.Day8_Q15.1_DecreesSaving.Day8_Q15.1_DecreesDeck_Empty.Description2} 顶多能在这张表上写一张吗啡处方。药房不会收的。

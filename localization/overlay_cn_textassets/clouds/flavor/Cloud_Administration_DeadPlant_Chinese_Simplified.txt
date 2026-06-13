@@ -1,2 +1,0 @@
-{Clouds.Flavor.Cloud_Administration_DeadPlant.17796} 不会出现在试玩版里。
-{Clouds.Flavor.Cloud_Administration_DeadPlant.11185} 死亡。

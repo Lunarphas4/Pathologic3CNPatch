@@ -1,3 +1,0 @@
-{Items.Craft.Belladonna.Name} 颠茄
-{Items.Craft.Belladonna.Description} 一种有毒植物，曾被用来让眼睛显得楚楚动人。剧毒，未经处理不可服用。
-{Items.Craft.Belladonna.Description2} 一种有毒植物，曾被用来让眼睛显得楚楚动人。剧毒，未经处理不可服用。

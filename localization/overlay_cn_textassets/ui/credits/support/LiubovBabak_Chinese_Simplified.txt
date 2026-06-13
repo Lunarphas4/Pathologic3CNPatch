@@ -1,2 +1,0 @@
-{UI.Credits.Support.LiubovBabak.Name} Liubov Babak
-{UI.Credits.Support.LiubovBabak.Description} Office Manager, 创意总监助理

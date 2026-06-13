@@ -1,2 +1,0 @@
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_Vasil.Prologue_Vasil_MM_PersonalFile.Name} 第三患者
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_Vasil.Prologue_Vasil_MM_PersonalFile.Description} “蚁巢”守卫——那座疫前封锁的工厂避难所。不妨顺便打听内部情况。

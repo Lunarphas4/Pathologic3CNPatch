@@ -1,3 +1,0 @@
-﻿{Items.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_RottenMeat_Analyser.Name} 士兵口粮（已检查）
-{Items.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_RottenMeat_Analyser.Description} 引发士兵骚乱的腐肉。
-{Items.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_RottenMeat_Analyser.Description2} 肉没有感染。但几天前就已经坏了！腐败的气味、糟糕的颜色、油腻的白色幼虫——就算饿坏了也不会想吃。

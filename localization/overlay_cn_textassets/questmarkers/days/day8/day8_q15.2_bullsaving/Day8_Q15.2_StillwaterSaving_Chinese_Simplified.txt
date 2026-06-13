@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day8.Day8_Q15.2_BullSaving.Day8_Q15.2_StillwaterSaving.Name} 静水观星台
-{QuestMarkers.Days.Day8.Day8_Q15.2_BullSaving.Day8_Q15.2_StillwaterSaving.Description} ……这头牛最后（？）一次在这里

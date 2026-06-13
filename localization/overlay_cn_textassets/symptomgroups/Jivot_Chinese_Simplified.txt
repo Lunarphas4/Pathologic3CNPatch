@@ -1,2 +1,0 @@
-{SymptomGroups.Jivot.Name} 胃肠道
-{SymptomGroups.Jivot.Description} 参与摄食、消化和排泄的一组器官。障碍可能导致身体成分和进食行为改变。

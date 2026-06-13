@@ -1,2 +1,0 @@
-{Prologue.StaffCommands.HouseBurning.Name} 焚疫行动
-{Prologue.StaffCommands.HouseBurning.Description} 对发现感染迹象的房屋实施焚毁

@@ -1,2 +1,0 @@
-{UI.Credits.Art.IgorPokrovsky.Name} Igor Pokrovsky
-{UI.Credits.Art.IgorPokrovsky.Description} 沉睡组电工

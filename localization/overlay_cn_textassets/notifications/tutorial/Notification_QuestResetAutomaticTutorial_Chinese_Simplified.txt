@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_QuestResetAutomaticTutorial.Name} 笔重于剑
-{Notifications.Tutorial.Notification_QuestResetAutomaticTutorial.Description} 只有讲完整的故事才会进入审讯笔录。半途而废的故事必须重头再讲。

@@ -1,3 +1,0 @@
-{Items.Craft.NovocaineCapital.Name} 研究所麻醉剂
-{Items.Craft.NovocaineCapital.Description} 轻易取得源源不断的药品，足以让人成瘾。
-{Items.Craft.NovocaineCapital.Description2} 轻易取得源源不断的药品，足以让人成瘾。

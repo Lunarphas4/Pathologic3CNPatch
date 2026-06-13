@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_Inquisitor.Name} 瘟疫年代
-{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_Inquisitor.Description} 难怪凯恩家没出现在审判席上。对他们，审判官连"公正"的外衣都懒得做。

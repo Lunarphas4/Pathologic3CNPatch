@@ -1,4 +1,0 @@
-{ArchiveDialogs.Day6.Day6_Q3_PanicChase.Day6_Q3_WonWithoutHelp.8518} 你和实体打过交道吗？而且根本没有任何帮助？这不可能是真的，你被骗了！
-{ArchiveDialogs.Day6.Day6_Q3_PanicChase.Day6_Q3_WonWithoutHelp.25471} 我没有欺骗任何事情。你想让我重复一遍吗？
-{ArchiveDialogs.Day6.Day6_Q3_PanicChase.Day6_Q3_WonWithoutHelp.17225} 好吧，不，你不会获得足够的实体。
-{ArchiveDialogs.Day6.Day6_Q3_PanicChase.Day6_Q3_WonWithoutHelp.5729} 没关系。

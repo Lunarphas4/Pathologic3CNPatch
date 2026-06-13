@@ -1,8 +1,0 @@
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_LiminalEva_Final.12386} 至少士兵们同意带我一起走。当然，里面那股味道……我还没踏进去，就已经被烟草味浸透了。不过这没什么，对吧？军官向我保证没人会碰我。
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_LiminalEva_Final.34024} 我不知道你独自离开是好是坏。
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_LiminalEva_Final.57608} 我要去的地方也会一模一样——当然会。到处都一样……换了项，和还是那个和，诸如此类。你不必给我解释。不过——至少风景会不同。
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_LiminalEva_Final.11855} 你接下来打算做什么？
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_LiminalEva_Final.16931} 我会去当电报员。或者女裁缝。类似的工作——需要手指快，而且到哪个城镇都有用。 可别再问我了。我不想谈自己。人最好彼此陌生——那样没那么窒息。
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_LiminalEva_Final.34669} 永恒的陌生人……你是我认识的伊娃的反义词。
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_LiminalEva_Final.51142} 我永远不会忘记你。
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_LiminalEva_Final.64500} 你还冷吗？

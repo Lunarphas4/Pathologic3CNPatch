@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_2_MM_Danger.Name} 危险藏于何处？
-{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_2_MM_Danger.Description} 乍一看书房并无异常。但霉斑可能潜伏在墙后——皮革、海报、家具背后。我必须把整个二层都查一遍！

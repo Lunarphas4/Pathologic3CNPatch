@@ -1,2 +1,0 @@
-﻿{CraftRecipes.Stimpack_CraftRecipe.Name} 肾上腺素
-{CraftRecipes.Stimpack_CraftRecipe.Description} 暂时提高奔跑速度

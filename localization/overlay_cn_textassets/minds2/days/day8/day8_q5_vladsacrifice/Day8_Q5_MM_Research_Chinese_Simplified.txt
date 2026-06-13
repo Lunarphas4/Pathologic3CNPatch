@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_Research.Name} 或含瘟疫
-{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_Research.Description} 血已到手，化学仪器和试剂都在分析仪里。我会快的！

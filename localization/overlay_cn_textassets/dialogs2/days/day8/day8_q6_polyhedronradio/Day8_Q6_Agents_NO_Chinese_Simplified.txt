@@ -1,3 +1,0 @@
-{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_NO.30098} 看来你没听懂，朋友。你再在这里乱翻，我就当场开枪打死你。我也能安然脱身。滚吧，行吗？我算客气地请你。
-{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_NO.47529} 你们这一行除了威胁报复，还教别的吗？
-{Dialogs2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_Agents_NO.64374} 我只是散步。冷静点。

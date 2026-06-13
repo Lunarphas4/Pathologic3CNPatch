@@ -1,2 +1,0 @@
-﻿{Locations.Polyhedron_Indoor.Name} 多面体
-{Locations.Polyhedron_Indoor.Description} 多面体

@@ -1,3 +1,0 @@
-{Npcs.Decree_Naaize.Name} 纳泽
-{Npcs.Decree_Naaize.FullName} ⁠
-{Npcs.Decree_Naaize.Description} ⁠

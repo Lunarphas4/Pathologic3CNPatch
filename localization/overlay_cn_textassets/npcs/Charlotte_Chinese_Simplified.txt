@@ -1,3 +1,0 @@
-{Npcs.Charlotte.Name} 夏洛特
-{Npcs.Charlotte.FullName} ⁠
-{Npcs.Charlotte.Description} ⁠

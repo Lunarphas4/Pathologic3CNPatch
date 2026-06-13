@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_IrreconcilableRivals.Name} 死敌
-{Minds2.Days.KeyNodes.KeyNode_IrreconcilableRivals.Description} 布拉赫和我分道扬镳。我与那个屠夫毫无共通之处。

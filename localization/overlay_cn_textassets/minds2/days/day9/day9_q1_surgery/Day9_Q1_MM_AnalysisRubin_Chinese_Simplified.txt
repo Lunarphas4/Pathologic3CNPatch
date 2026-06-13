@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_AnalysisRubin.Name} 血源已得
-{Minds2.Days.Day9.Day9_Q1_Surgery.Day9_Q1_MM_AnalysisRubin.Description} 鲁宾的血适合卡捷琳娜！他可以做血源。

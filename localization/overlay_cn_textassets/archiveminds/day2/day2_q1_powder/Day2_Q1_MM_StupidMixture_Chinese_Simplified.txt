@@ -1,2 +1,0 @@
-﻿{ArchiveMinds.Day2.Day2_Q1_Powder.Day2_Q1_MM_StupidMixture.Name} 这种混合物不能用，只会造成伤害。
-{ArchiveMinds.Day2.Day2_Q1_Powder.Day2_Q1_MM_StupidMixture.Description} 人们过去曾用一种可怕的抗生素混合物对抗瘟疫。能从这种“疗法”中活下来的人非常幸运。

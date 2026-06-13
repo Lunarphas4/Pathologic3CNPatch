@@ -1,3 +1,0 @@
-﻿{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_BloodSamplesYuliaRubin_Analyser.Name} 数瓶血液（已检查）
-{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_BloodSamplesYuliaRubin_Analyser.Description} 柳里切娃和鲁宾的血都适合输血！
-{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_BloodSamplesYuliaRubin_Analyser.Description2} 柳里切娃和鲁宾的血都适合输血！我肯定会选尤利娅，鲁宾也许还有别的用处。她会被带来。

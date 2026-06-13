@@ -1,4 +1,0 @@
-{Clouds2.Characters.Khan.57075} 一位王储
-{Clouds2.Characters.Khan.27818} 一位王储
-{Clouds2.Characters.Khan.5374} 像他这样的孩子会出于好奇解剖青蛙
-{Clouds2.Characters.Khan.19757} 或者出于残忍

@@ -1,3 +1,0 @@
-﻿{Items.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_ChildBone.Name} 失落者之骨
-{Items.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_ChildBone.Description} 干净无味的骨头。制作笛子的上等材料。
-{Items.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_ChildBone.Description2} 疑似儿童的人骨，在荒地失物堆中发现。要么已遗失数年乃至数十年，要么是不久前才被啃得干干净净。

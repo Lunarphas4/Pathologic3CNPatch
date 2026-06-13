@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_MM_Curse.Name} 禁果
-{Minds2.Days.Day10.Day10_Q20_CursedInquisitor.Day10_Q20_MM_Curse.Description} 卡明斯基为求知所驱，自己走过了那条诅咒之街。他的神智究竟在此事之前还是之后开始混乱——难以判断。

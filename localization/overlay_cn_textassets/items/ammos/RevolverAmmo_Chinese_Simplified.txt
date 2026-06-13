@@ -1,3 +1,0 @@
-{Items.Ammos.RevolverAmmo.Name} 左轮手枪子弹
-{Items.Ammos.RevolverAmmo.Description} 生命的重量。\n\n用不着口袋里的新手枪，我总在弹膛里留最后一发子弹。
-{Items.Ammos.RevolverAmmo.Description2} 生命的重量。\n\n用不着口袋里的新手枪，我总在弹膛里留最后一发子弹。

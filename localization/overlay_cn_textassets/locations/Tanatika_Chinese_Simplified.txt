@@ -1,2 +1,0 @@
-﻿{Locations.Tanatika.Name} 死亡学院
-{Locations.Tanatika.Description} 死亡学院

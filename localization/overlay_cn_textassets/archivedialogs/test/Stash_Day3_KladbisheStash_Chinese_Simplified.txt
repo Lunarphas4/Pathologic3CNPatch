@@ -1,8 +1,0 @@
-{ArchiveDialogs.Test.Stash_Day3_KladbisheStash.2963} 嘿，大城里来的小子！你能把死人带回来吗？
-{ArchiveDialogs.Test.Stash_Day3_KladbisheStash.19537} 我曾经成功过一次，但我不是魔术师。不过我能帮那些还活着的人。
-{ArchiveDialogs.Test.Stash_Day3_KladbisheStash.14566} 是啊……你说得对。我们应该帮还活着的人……
-{ArchiveDialogs.Test.Stash_Day3_KladbisheStash.14792} 很高兴你明白。但我得走了。
-{ArchiveDialogs.Test.Stash_Day3_KladbisheStash.3628} 等等！死人帮不了活人。我藏了些东西，免得落到萨布罗夫的人手里。你拿走更好。
-{ArchiveDialogs.Test.Stash_Day3_KladbisheStash.25069} 在哪儿？
-{ArchiveDialogs.Test.Stash_Day3_KladbisheStash.1002} 在墓地，靠近边界。往东有块倒下的大石头，在小丘后面。到它下面找。
-{ArchiveDialogs.Test.Stash_Day3_KladbisheStash.19029} 我去看看。

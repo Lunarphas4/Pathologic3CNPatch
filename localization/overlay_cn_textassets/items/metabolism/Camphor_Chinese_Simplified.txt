@@ -1,3 +1,0 @@
-﻿{Items.Metabolism.Camphor.Name} 樟脑
-{Items.Metabolism.Camphor.Description} 兴奋剂，也是发红剂。就跟鬼地方一样，能对人产生刺激
-{Items.Metabolism.Camphor.Description2} 兴奋剂，也是发红剂

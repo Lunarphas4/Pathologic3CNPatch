@@ -1,5 +1,0 @@
-{Clouds2.Decrees.MobilisingVigilantes.MobilisingVigilantes_Cloud_Poster_ImmunityOfTown.25856} “巡夜队是城镇的免疫力！”
-{Clouds2.Decrees.MobilisingVigilantes.MobilisingVigilantes_Cloud_Poster_ImmunityOfTown.19866} “巡夜队是城镇的免疫力！”
-{Clouds2.Decrees.MobilisingVigilantes.MobilisingVigilantes_Cloud_Poster_ImmunityOfTown.20106} 有趣的类比
-{Clouds2.Decrees.MobilisingVigilantes.MobilisingVigilantes_Cloud_Poster_ImmunityOfTown.30176} 保护机体免受感染
-{Clouds2.Decrees.MobilisingVigilantes.MobilisingVigilantes_Cloud_Poster_ImmunityOfTown.4020} 也可能引发败血性休克

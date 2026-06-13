@@ -1,2 +1,0 @@
-{UI.Credits.PR.AlexanderSouslov.Name} Alexander Souslov
-{UI.Credits.PR.AlexanderSouslov.Description}  发行商关系经理

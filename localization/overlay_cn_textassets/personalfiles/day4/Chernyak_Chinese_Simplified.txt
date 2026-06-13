@@ -1,2 +1,0 @@
-{PersonalFiles.Day4.Chernyak.Name} 乌鸦
-{PersonalFiles.Day4.Chernyak.Description} 传闻曾出售受感染的货物。

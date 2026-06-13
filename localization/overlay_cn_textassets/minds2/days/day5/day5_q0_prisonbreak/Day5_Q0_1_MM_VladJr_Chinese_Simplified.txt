@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_1_MM_VladJr.Name} 小弗拉德
-{Minds2.Days.Day5.Day5_Q0_PrisonBreak.Day5_Q0_1_MM_VladJr.Description} 我让权力滑入不配掌权者手中。后果显而易见。

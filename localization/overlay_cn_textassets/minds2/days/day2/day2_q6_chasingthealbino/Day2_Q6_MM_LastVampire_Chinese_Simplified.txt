@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_MM_LastVampire.Name} 最后的吸血鬼
-{Minds2.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_MM_LastVampire.Description} 这是些什么生灵？让我头昏脑胀得诡异！他们是在赶我走，还是把我引向更深处？

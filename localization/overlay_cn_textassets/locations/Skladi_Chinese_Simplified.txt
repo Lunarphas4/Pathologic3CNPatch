@@ -1,2 +1,0 @@
-{Locations.Skladi.Name} 仓库
-{Locations.Skladi.Description} 仓库

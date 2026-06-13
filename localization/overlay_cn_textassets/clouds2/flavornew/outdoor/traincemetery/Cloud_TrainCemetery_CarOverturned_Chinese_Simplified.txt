@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_CarOverturned.44925} 什么样的擎天巨人把车厢抛得到处都是？
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_CarOverturned.10340} 什么样的擎天巨人把车厢抛得到处都是？
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_CarOverturned.44866} 仿佛它们挡了他的路
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_CarOverturned.56689} 一只巨脚把它们踢上高空
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_CarOverturned.61752} 比起人的脚，更像公牛的脚

@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StamatinHouse_Closed.Name} 斯塔马京的阁楼
-{QuestMarkers.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_StamatinHouse_Closed.Description} 我得进斯塔马京的阁楼和彼得谈谈。怎么进去？

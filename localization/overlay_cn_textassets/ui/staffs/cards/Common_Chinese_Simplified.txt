@@ -1,5 +1,0 @@
-{UI.Staffs.Cards.Common.Header} 紧急委员会法令
-{UI.Staffs.Cards.Common.AddWorkers} 训练特别小组：
-{UI.Staffs.Cards.Common.RemoveWorkers} 分配特别小组：
-{UI.Staffs.Cards.Common.AddResources} 找回供给：
-{UI.Staffs.Cards.Common.RemoveResources} 配给供给：

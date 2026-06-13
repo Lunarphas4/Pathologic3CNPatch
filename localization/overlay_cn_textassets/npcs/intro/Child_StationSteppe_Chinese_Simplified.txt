@@ -1,3 +1,0 @@
-{Npcs.Intro.Child_StationSteppe.Name} 帖木儿
-{Npcs.Intro.Child_StationSteppe.FullName} ⁠
-{Npcs.Intro.Child_StationSteppe.Description} ⁠

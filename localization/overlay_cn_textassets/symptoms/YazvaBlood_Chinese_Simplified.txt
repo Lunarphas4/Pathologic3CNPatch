@@ -1,2 +1,0 @@
-{Symptoms.YazvaBlood.Name} 出血性溃疡
-{Symptoms.YazvaBlood.Description} 一种以出血和相应色泽为特征的溃疡。

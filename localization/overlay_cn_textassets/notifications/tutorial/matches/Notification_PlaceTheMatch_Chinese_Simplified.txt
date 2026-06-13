@@ -1,2 +1,0 @@
-{Notifications.Tutorial.Matches.Notification_PlaceTheMatch.Name} ⁠
-{Notifications.Tutorial.Matches.Notification_PlaceTheMatch.Description} 生火需手头有火柴。<InputActions/UI/Inventory> ——打开物品栏。

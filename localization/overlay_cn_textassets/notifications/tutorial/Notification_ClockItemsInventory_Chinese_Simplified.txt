@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_ClockItemsInventory.Name} 缠乱的思绪
-{Notifications.Tutorial.Notification_ClockItemsInventory.Description} 重要物品——遗物——我永远记得。小东西却容易忘。<i>消耗品不会跨日携带。它们在我捡到它们那一日的钟里等我。</i>

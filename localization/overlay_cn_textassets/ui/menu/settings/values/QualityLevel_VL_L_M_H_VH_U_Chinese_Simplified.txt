@@ -1,6 +1,0 @@
-{UI.Menu.Settings.Values.QualityLevel_VL_L_M_H_VH_U.VeryLow} 非常低
-{UI.Menu.Settings.Values.QualityLevel_VL_L_M_H_VH_U.Low} 低
-{UI.Menu.Settings.Values.QualityLevel_VL_L_M_H_VH_U.Medium} 中等
-{UI.Menu.Settings.Values.QualityLevel_VL_L_M_H_VH_U.High} 高
-{UI.Menu.Settings.Values.QualityLevel_VL_L_M_H_VH_U.VeryHigh} 非常高
-{UI.Menu.Settings.Values.QualityLevel_VL_L_M_H_VH_U.Ultra} 极高

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_Overture.Name} 囚徒
-{Minds2.Days.Day8.Day8_Q6_PolyhedronRadio.Day8_Q6_MM_Overture.Description} 我没能从安德烈口中问出多面体是否安全。看来他根本不打算回答我。

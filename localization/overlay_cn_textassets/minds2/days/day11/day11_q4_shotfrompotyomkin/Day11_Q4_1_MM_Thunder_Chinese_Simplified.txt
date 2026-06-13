@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_1_MM_Thunder.Name} 炮声如雷
-{Minds2.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_1_MM_Thunder.Description} 骇人的炮响震动了全镇。军队在搞什么？！

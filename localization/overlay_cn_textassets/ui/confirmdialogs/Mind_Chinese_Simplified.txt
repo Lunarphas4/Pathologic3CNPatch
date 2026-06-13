@@ -1,2 +1,0 @@
-﻿{UI.ConfirmDialogs.Mind.Description} 如果开始这一天，所选事件的进度将会重置。你可以重新开始它们。
-{UI.ConfirmDialogs.Mind.Description2} 取消某些关键事件会对未来产生重大影响：它们的后果也不会发生。准备好面对你的决定带来的结果。

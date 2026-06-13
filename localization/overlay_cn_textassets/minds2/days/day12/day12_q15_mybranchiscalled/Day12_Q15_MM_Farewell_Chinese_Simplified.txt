@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_MM_Farewell.Name} 该道别了
-{Minds2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_MM_Farewell.Description} 我的朋友、敌人、下属、镇上的统治者，乃至流落街头的孩子——瘟疫改变了这些不凡之人的命运。

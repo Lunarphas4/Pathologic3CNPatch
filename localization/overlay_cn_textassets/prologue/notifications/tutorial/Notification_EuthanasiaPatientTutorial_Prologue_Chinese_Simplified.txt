@@ -1,2 +1,0 @@
-{Prologue.Notifications.Tutorial.Notification_EuthanasiaPatientTutorial_Prologue.Name} 感染的患者
-{Prologue.Notifications.Tutorial.Notification_EuthanasiaPatientTutorial_Prologue.Description} 倒地的患者无法救治，只能让其不再受苦。帮助患者解脱，可为自己多争取一点时间

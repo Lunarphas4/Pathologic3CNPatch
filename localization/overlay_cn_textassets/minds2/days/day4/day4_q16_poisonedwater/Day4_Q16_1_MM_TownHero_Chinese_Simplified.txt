@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_1_MM_TownHero.Name} 披蛇袍的英雄
-{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_1_MM_TownHero.Description} 全镇抗疫之责落在我手。市民等着我下令。我的秘书也带着晨报等着我。

@@ -1,4 +1,0 @@
-{Clouds.Flavor.Cloud_AndrewBar_Pianola.30981} 一架自动钢琴。
-{Clouds.Flavor.Cloud_AndrewBar_Pianola.30925} 一架自动钢琴。
-{Clouds.Flavor.Cloud_AndrewBar_Pianola.13050} 首都曾有个钢琴家拒绝了安德烈……
-{Clouds.Flavor.Cloud_AndrewBar_Pianola.27669} ……从那以后，他就厌恶钢琴家。

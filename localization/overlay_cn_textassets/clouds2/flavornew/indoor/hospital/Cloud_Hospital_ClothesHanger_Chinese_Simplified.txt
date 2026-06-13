@@ -1,3 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Hospital.Cloud_Hospital_ClothesHanger.44925} 剧院始于衣帽架
-{Clouds2.FlavorNew.Indoor.Hospital.Cloud_Hospital_ClothesHanger.56689} 剧院始于衣帽架
-{Clouds2.FlavorNew.Indoor.Hospital.Cloud_Hospital_ClothesHanger.61752} 也终于绞刑架

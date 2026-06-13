@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_PH_SteppenWolf.Name} 多面体
-{QuestMarkers.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_PH_SteppenWolf.Description} 狗头帮应该知道哪里能找到那个野化的女孩。

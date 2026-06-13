@@ -1,4 +1,0 @@
-{Clouds.Flavor.Cloud_Hospital_HangingBed.3937} 可疑的结构。
-{Clouds.Flavor.Cloud_Hospital_HangingBed.20775} 可疑的结构。
-{Clouds.Flavor.Cloud_Hospital_HangingBed.45181} 麻烦大过用处。
-{Clouds.Flavor.Cloud_Hospital_HangingBed.47166} 不过值得一试。

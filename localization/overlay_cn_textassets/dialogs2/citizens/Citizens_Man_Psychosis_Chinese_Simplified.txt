@@ -1,9 +1,0 @@
-{Dialogs2.Citizens.Citizens_Man_Psychosis.12671} 喂，朋友，你没事吧？你浑身都在抖。这是发作了吗？要不要我去叫医生？
-{Dialogs2.Citizens.Citizens_Man_Psychosis.1373} 我是医生！
-{Dialogs2.Citizens.Citizens_Man_Psychosis.15662} 我家老头子以前也这样。先是发抖，接着嘴里冒沫，然后就完了，直进坟里。你该吃点药。你脸色糟透了。
-{Dialogs2.Citizens.Citizens_Man_Psychosis.28703} 也许你说得对。药兴许有用。
-{Dialogs2.Citizens.Citizens_Man_Psychosis.20206} 你算什么东西，也敢教我医术？！不如我教你点皮肉伤的学问？！
-{Dialogs2.Citizens.Citizens_Man_Psychosis.2521} 我不在乎！
-{Dialogs2.Citizens.Citizens_Man_Psychosis.31068} 我还好吗？我从没这么活过！哈哈哈！
-{Dialogs2.Citizens.Citizens_Man_Psychosis.16826} 你全身都在抖。我家老头子以前也这样。先是发抖，接着嘴里冒沫，然后就完了，直进坟里。你该吃点药。你脸色糟透了。
-{Dialogs2.Citizens.Citizens_Man_Psychosis.12531} 我现在被困在一座瘟疫横行的小镇里，周围全是疯子。你觉得我看起来好吗？

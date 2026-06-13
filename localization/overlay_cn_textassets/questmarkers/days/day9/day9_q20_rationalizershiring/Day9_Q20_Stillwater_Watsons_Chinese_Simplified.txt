@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day9.Day9_Q20_RationalizersHiring.Day9_Q20_Stillwater_Watsons.Name} 静水观星台
-{QuestMarkers.Days.Day9.Day9_Q20_RationalizersHiring.Day9_Q20_Stillwater_Watsons.Description} 执行者们在静水观星台等着我接见。

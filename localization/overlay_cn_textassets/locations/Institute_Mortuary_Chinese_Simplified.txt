@@ -1,2 +1,0 @@
-{Locations.Institute_Mortuary.Name} 研究所停尸房
-{Locations.Institute_Mortuary.Description} 研究所停尸房

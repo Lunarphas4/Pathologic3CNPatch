@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_MilitaryLocomotive.44925} 军用机车本身就像一枚炮弹
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_MilitaryLocomotive.10340} 军用机车本身就像一枚炮弹
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_MilitaryLocomotive.56689} ……被发射到这座垂死的城镇
-{Clouds2.FlavorNew.Outdoor.StationSoldiers.Cloud_StationSoldiers_MilitaryLocomotive.61752} 而守卫也没那么严……

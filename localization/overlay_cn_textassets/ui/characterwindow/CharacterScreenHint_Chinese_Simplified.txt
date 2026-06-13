@@ -1,1 +1,0 @@
-﻿{UI.CharacterWindow.CharacterScreenHint.OpenDossier} <Key> 打开档案

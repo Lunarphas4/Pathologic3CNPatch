@@ -1,2 +1,0 @@
-{Note.Day10.Day10_Q16_StationFarewell.Day10_Q16_EscapeLetterFailure.Name} 关于逃离的便条
-{Note.Day10.Day10_Q16_StationFarewell.Day10_Q16_EscapeLetterFailure.Description} 你只有一件事要做。好吧，三件。\n\n镇门宽阔，可白天开，日落关。丹尼尔，你没有完成自己那部分准备，我也就脱身了。我们互不相欠。再会！\n\n小镇钥匙之主，格里夫

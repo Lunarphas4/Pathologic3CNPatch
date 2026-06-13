@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Stillwater_Vaccine.Name} 静水观星台
-{QuestMarkers.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_Stillwater_Vaccine.Description} 如果有可能制成第一份粗糙的疫苗——我必须试试

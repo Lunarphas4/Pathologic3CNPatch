@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day5.Day5_Q15_FirstCrucible.Day5_Q15_MM_PastInsults.Name} 又是死路
-{Minds2.Days.Day5.Day5_Q15_FirstCrucible.Day5_Q15_MM_PastInsults.Description} 我过去深深得罪了凯恩家，现在他们拒绝和我说话。要是能重来一次就好了。

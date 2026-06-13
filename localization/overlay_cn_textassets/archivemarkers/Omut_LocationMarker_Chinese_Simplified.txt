@@ -1,2 +1,0 @@
-{ArchiveMarkers.Omut_LocationMarker.Name} 静水观星台
-{ArchiveMarkers.Omut_LocationMarker.Description} ⁠

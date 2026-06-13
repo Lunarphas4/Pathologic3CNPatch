@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q15_BullFellIntoTheStillwater.Day10_Q15_MM_SocialElevator.Name} 垂直流动
-{Minds2.Days.Day10.Day10_Q15_BullFellIntoTheStillwater.Day10_Q15_MM_SocialElevator.Description} ……这项研究从一开始对科学便是死路。至少它成了那头公牛灵性之路上的一架梯子。

@@ -1,3 +1,0 @@
-{Npcs.Old.visitor_Sych.Name} ⁠
-{Npcs.Old.visitor_Sych.FullName} ⁠
-{Npcs.Old.visitor_Sych.Description} ⁠

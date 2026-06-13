@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_NeedfulResourses.Name} 担起责任
-{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_NeedfulResourses.Description} 格奥尔基对我过去的所作所为耿耿于怀，不肯相助。我动用了指挥部的资源去封街。

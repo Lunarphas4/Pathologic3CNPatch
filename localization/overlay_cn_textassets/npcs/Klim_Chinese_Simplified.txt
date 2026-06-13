@@ -1,3 +1,0 @@
-{Npcs.Klim.Name} 夜鹰
-{Npcs.Klim.FullName} ⁠
-{Npcs.Klim.Description} ⁠

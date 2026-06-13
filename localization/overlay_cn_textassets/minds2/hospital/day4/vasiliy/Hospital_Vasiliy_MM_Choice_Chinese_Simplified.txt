@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_Choice.Name} 活生生的"幻觉"
-{Minds2.Hospital.Day4.Vasiliy.Hospital_Vasiliy_MM_Choice.Description} 他从白蚁巢救出过一个少年。邻居所听见的"自言自语"，便是这桩。

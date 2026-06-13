@@ -1,2 +1,0 @@
-{Minds2.Days.Day12.Day12_Q14_CursedStreet_Ending.Day12_Q14_MM_Suok.Name} 苏奥克街
-{Minds2.Days.Day12.Day12_Q14_CursedStreet_Ending.Day12_Q14_MM_Suok.Description} 地底的虚空反抗着凯恩家用以"剖切"全镇的那把手术刀，扭曲了街道的轮廓，把它变成对其造物者的一道诅咒。

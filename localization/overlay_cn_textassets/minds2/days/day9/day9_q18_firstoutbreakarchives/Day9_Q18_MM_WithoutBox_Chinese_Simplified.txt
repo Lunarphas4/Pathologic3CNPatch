@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_MM_WithoutBox.Name} 并无多余
-{Minds2.Days.Day9.Day9_Q18_FirstOutbreakArchives.Day9_Q18_MM_WithoutBox.Description} 我犯了一个可怕的错——把伊西多尔的盒子交给了审判官。失去它后，我有一种强烈的失落感。

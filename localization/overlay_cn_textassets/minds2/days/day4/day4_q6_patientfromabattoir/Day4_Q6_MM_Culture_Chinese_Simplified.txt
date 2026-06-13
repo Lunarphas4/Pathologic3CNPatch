@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_MM_Culture.Name} 得再深入一步
-{Minds2.Days.Day4.Day4_Q6_PatientFromAbattoir.Day4_Q6_MM_Culture.Description} 这是有意思的样本，但其中的沙疫早在死后便已离开。我们需要的是活体组织。

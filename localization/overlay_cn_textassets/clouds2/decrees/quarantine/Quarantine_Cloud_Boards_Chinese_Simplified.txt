@@ -1,4 +1,0 @@
-{Clouds2.Decrees.Quarantine.Quarantine_Cloud_Boards.30721} 我们必须记住，瘟疫永远就在我们身边
-{Clouds2.Decrees.Quarantine.Quarantine_Cloud_Boards.13172} 我们必须记住，瘟疫永远就在我们身边
-{Clouds2.Decrees.Quarantine.Quarantine_Cloud_Boards.31791} 令人恐惧的象征
-{Clouds2.Decrees.Quarantine.Quarantine_Cloud_Boards.31681} 健康街区里的一栋感染房屋

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_MM_Evidence.Name} 辩论的胜者
-{Minds2.Days.Day12.Day12_Q10_DestroyingOfPolyhedron.Day12_Q10_MM_Evidence.Description} 莉莉奇拿出了不可辩驳的证据来证明她的正确。在此前提下，审判官卡明斯基的异议无法被采纳。

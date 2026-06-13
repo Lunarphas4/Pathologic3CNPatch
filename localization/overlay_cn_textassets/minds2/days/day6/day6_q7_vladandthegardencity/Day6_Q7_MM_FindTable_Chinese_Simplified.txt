@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_MM_FindTable.Name} 侦探
-{Minds2.Days.Day6.Day6_Q7_VladAndTheGardenCity.Day6_Q7_MM_FindTable.Description} 又一次"案件复盘"。弗拉德的办公桌是哪一张？

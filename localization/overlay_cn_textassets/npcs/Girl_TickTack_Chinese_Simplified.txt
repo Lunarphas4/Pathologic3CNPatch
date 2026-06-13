@@ -1,3 +1,0 @@
-{Npcs.Girl_TickTack.Name} 滴答
-{Npcs.Girl_TickTack.FullName} ⁠
-{Npcs.Girl_TickTack.Description} ⁠

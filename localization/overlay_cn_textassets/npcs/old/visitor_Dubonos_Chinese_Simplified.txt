@@ -1,3 +1,0 @@
-{Npcs.Old.visitor_Dubonos.Name} ⁠
-{Npcs.Old.visitor_Dubonos.FullName} ⁠
-{Npcs.Old.visitor_Dubonos.Description} ⁠

@@ -1,2 +1,0 @@
-{SymptomGroups.Legkie.Name} 呼吸系统
-{SymptomGroups.Legkie.Description} 肺部受损除明显呼吸困难外，也可能在患者身体上显出可见迹象，例如血液缺氧。

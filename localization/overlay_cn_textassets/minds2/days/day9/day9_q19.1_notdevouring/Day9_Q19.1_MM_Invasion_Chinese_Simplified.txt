@@ -1,2 +1,0 @@
-{Minds2.Days.Day9.Day9_Q19.1_NotDevouring.Day9_Q19.1_MM_Invasion.Name} 入侵
-{Minds2.Days.Day9.Day9_Q19.1_NotDevouring.Day9_Q19.1_MM_Invasion.Description} 军队正在干涉医院事务。小镇各处有潜在价值的病人正在消失

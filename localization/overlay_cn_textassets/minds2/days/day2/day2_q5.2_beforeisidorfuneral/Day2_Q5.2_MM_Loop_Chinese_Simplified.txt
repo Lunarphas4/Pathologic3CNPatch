@@ -1,2 +1,0 @@
-{Minds2.Days.Day2.Day2_Q5.2_BeforeIsidorFuneral.Day2_Q5.2_MM_Loop.Name} 环
-{Minds2.Days.Day2.Day2_Q5.2_BeforeIsidorFuneral.Day2_Q5.2_MM_Loop.Description} 伊西多尔的遗体已经去往葬礼。我迟到了，但现在我确切知道了何时何地该去找它

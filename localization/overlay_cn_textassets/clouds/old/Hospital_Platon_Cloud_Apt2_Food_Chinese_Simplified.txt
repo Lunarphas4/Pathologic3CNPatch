@@ -1,5 +1,0 @@
-{Clouds.Old.Hospital_Platon_Cloud_Apt2_Food.18300} 独居，没有朋友。
-{Clouds.Old.Hospital_Platon_Cloud_Apt2_Food.10385} 独居，没有朋友。
-{Clouds.Old.Hospital_Platon_Cloud_Apt2_Food.25959} 这些都是他自己做的？
-{Clouds.Old.Hospital_Platon_Cloud_Apt2_Food.1193} 他瘦得像根杆子！
-{Clouds.Old.Hospital_Platon_Cloud_Apt2_Food.32744} ...

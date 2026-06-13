@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_AbandonedTown.Name} 这镇是个陷阱
-{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_AbandonedTown.Description} 我为这个镇感到惋惜，但它注定要毁。我毕生的事业比我自己更重要，也比一座小小的草原聚居地更重要。

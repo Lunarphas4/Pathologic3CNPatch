@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_2_MM_Fear.Name} 他认出了它
-{Minds2.Days.Day2.Day2_Q4_IsidorAndTheChamberOfSecrets.Day2_Q4_2_MM_Fear.Description} 迷信的奥伊温只瞥了那霉斑一眼，便惊恐地拿着我的样本逃走，还把我赶了出去！这样根本没法继续勘查。

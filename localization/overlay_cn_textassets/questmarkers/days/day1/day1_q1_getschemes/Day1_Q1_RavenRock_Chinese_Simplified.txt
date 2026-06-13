@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day1.Day1_Q1_GetSchemes.Day1_Q1_RavenRock.Name} 鸦石
-{QuestMarkers.Days.Day1.Day1_Q1_GetSchemes.Day1_Q1_RavenRock.Description} 彼得把多面体蓝图埋在了这里——第三天他会烧掉它们。

@@ -1,9 +1,0 @@
-﻿{Dialogs2.Days.Intro.Intro_Arrival.Intro_Arrival_SoulAndHalves_Mania.13092} 嘿！退后！离那些女孩远点！也离我远点！\n\n罗恩叔叔喝醉了我都不怕，我也不怕你！我有刀！你伤不了我们，懂了吗？
-{Dialogs2.Days.Intro.Intro_Arrival.Intro_Arrival_SoulAndHalves_Mania.35094} “喝醉”？你到底在说什么鬼话？我没醉！
-{Dialogs2.Days.Intro.Intro_Arrival.Intro_Arrival_SoulAndHalves_Mania.28408} 你的手在抖，眼睛也疯疯的。罗恩叔叔去拿第二瓶酒的时候也会有那种眼神，还会发抖——然后就找人打架。\n\n可你别想找我打架！我有真刀，真的有！
-{Dialogs2.Days.Intro.Intro_Arrival.Intro_Arrival_SoulAndHalves_Mania.24412} 你到底在胡扯什么？！
-{Dialogs2.Days.Intro.Intro_Arrival.Intro_Arrival_SoulAndHalves_Mania.59281} 而、而且耶奇卡也有！其实我们都有刀！
-{Dialogs2.Days.Intro.Intro_Arrival.Intro_Arrival_SoulAndHalves_Mania.25067} 我是个<i>科学家！</i>我来这里是为了开展突破性研究！不是像条<i>杂种狗</i>一样追着一群孩子跑……追着我的箱子跑……追着我身上最后一滴人的尊严跑！
-{Dialogs2.Days.Intro.Intro_Arrival.Intro_Arrival_SoulAndHalves_Mania.17001} 呼……我明白了。让我先冷静下来，然后我们正常谈。
-{Dialogs2.Days.Intro.Intro_Arrival.Intro_Arrival_SoulAndHalves_Mania.54330} 等等……先等一下。如果我看起来像你那个罗恩叔叔，那说明我确实需要先冷静。给我一点时间——我喘口气。
-{Dialogs2.Days.Intro.Intro_Arrival.Intro_Arrival_SoulAndHalves_Mania.65168} 我的神经只剩<i>这么</i>细的一根线吊着。你想看看它断掉以后会发生什么吗？

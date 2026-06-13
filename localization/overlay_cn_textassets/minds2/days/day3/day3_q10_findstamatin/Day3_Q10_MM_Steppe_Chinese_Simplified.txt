@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Steppe.Name} 朝向落日
-{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Steppe.Description} 烂醉的彼得从墓园向西，朝草原走去了。都说草原无垠，但我怀疑他走不出多远。

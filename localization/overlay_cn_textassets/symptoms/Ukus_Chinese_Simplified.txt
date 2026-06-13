@@ -1,2 +1,0 @@
-{Symptoms.Ukus.Name} 虫咬痕
-{Symptoms.Ukus.Description} 虫咬表现为颜色较深、尺寸较小的点状红斑，可大量分布在皮肤上。与皮疹不同，通常不肿胀。

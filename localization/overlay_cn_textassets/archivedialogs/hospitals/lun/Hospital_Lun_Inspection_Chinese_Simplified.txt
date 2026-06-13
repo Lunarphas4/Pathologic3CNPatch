@@ -1,3 +1,0 @@
-{ArchiveDialogs.Hospitals.Lun.Hospital_Lun_Inspection.25912} 怎么了，医生？我是得了沙疫吗？您觉得呢？
-{ArchiveDialogs.Hospitals.Lun.Hospital_Lun_Inspection.26751} 现在下任何结论都太早。
-{ArchiveDialogs.Hospitals.Lun.Hospital_Lun_Inspection.4908} 允许我做个检查吗？

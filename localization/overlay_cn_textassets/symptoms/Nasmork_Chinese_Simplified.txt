@@ -1,2 +1,0 @@
-{Symptoms.Nasmork.Name} 流鼻涕
-{Symptoms.Nasmork.Description} 鼻腔分泌物增多，常见于黏膜炎症或感染。

@@ -1,2 +1,0 @@
-{PersonalFiles.Day3.Lada.Name} 库兰
-{PersonalFiles.Day3.Lada.Description} 接种过民间疗法制成的疫苗。

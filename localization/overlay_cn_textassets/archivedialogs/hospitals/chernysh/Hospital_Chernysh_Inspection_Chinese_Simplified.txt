@@ -1,3 +1,0 @@
-{ArchiveDialogs.Hospitals.Chernysh.Hospital_Chernysh_Inspection.17700} 老实说，我不知道还能补充什么。
-{ArchiveDialogs.Hospitals.Chernysh.Hospital_Chernysh_Inspection.26713} 该给你检查一下。
-{ArchiveDialogs.Hospitals.Chernysh.Hospital_Chernysh_Inspection.1164} 我暂时也没什么可对您说的。

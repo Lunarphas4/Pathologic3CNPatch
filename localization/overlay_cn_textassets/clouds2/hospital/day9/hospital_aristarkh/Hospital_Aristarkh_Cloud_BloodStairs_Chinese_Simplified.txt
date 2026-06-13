@@ -1,6 +1,0 @@
-{Clouds2.Hospital.Day9.Hospital_Aristarkh.Hospital_Aristarkh_Cloud_BloodStairs.7421} 伤者跑上楼了？
-{Clouds2.Hospital.Day9.Hospital_Aristarkh.Hospital_Aristarkh_Cloud_BloodStairs.2596} 伤者跑上楼了？
-{Clouds2.Hospital.Day9.Hospital_Aristarkh.Hospital_Aristarkh_Cloud_BloodStairs.54588} 还是他正从楼上下来？
-{Clouds2.Hospital.Day9.Hospital_Aristarkh.Hospital_Aristarkh_Cloud_BloodStairs.47767} 这些创作者在整栋房子里找绷带
-{Clouds2.Hospital.Day9.Hospital_Aristarkh.Hospital_Aristarkh_Cloud_BloodStairs.37533} 慌乱地四处奔忙
-{Clouds2.Hospital.Day9.Hospital_Aristarkh.Hospital_Aristarkh_Cloud_BloodStairs.50279} 乍看之下，是犯罪现场

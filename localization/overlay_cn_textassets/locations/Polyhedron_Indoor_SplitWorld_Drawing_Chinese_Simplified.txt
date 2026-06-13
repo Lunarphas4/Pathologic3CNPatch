@@ -1,2 +1,0 @@
-﻿{Locations.Polyhedron_Indoor_SplitWorld_Drawing.Name} 绘中世界
-{Locations.Polyhedron_Indoor_SplitWorld_Drawing.Description} 绘中世界

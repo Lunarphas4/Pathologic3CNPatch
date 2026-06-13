@@ -1,2 +1,0 @@
-{Minds2.Hospital.Old.Vasiliy.MM_Vasiliy_End.Name} 病人菲拉特
-{Minds2.Hospital.Old.Vasiliy.MM_Vasiliy_End.Description} 病人菲拉特暂时稳住了。

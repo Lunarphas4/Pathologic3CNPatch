@@ -1,2 +1,0 @@
-{Prologue.QuestMarkers.Prologue_PartTwo_Hospital.Prologue_Hospital_Mark.Name} 医院
-{Prologue.QuestMarkers.Prologue_PartTwo_Hospital.Prologue_Hospital_Mark.Description} 在此处研究病患并研制疫苗。

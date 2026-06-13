@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day3.Day3_Q2_MeetingInAdministration.Day3_Q2_Administration.Name} 市政厅
-{QuestMarkers.Days.Day3.Day3_Q2_MeetingInAdministration.Day3_Q2_Administration.Description} 市政厅里正开一场决定全镇命运的会。

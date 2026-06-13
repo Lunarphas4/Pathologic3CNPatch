@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Station_Kitchen.Name} 车站
-{QuestMarkers.Days.Day11.Day11_Q4_ShotFromPotyomkin.Day11_Q4_Station_Kitchen.Description} 这里发生了一场屠杀。

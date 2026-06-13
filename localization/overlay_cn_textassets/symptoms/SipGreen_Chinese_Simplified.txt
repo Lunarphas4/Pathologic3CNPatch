@@ -1,2 +1,0 @@
-{Symptoms.SipGreen.Name} 绿色皮疹
-{Symptoms.SipGreen.Description} 皮肤上出现偏绿色斑疹，提示异常感染或毒性反应。

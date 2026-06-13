@@ -1,3 +1,0 @@
-{Items.Craft.Morphine_Compressed.Name} 吗啡结晶
-{Items.Craft.Morphine_Compressed.Description} 吗啡能钝化疼痛。它会帮你入睡，却不保证醒来。不应服用浓缩结晶形态。
-{Items.Craft.Morphine_Compressed.Description2} 吗啡能钝化疼痛。它会帮你入睡，却不保证醒来。不应服用浓缩结晶形态。

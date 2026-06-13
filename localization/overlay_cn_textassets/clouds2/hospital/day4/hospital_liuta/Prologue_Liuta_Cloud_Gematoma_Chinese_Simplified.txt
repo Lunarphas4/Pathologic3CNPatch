@@ -1,5 +1,0 @@
-{Clouds2.Hospital.Day4.Hospital_Liuta.Prologue_Liuta_Cloud_Gematoma.23809} 血肿
-{Clouds2.Hospital.Day4.Hospital_Liuta.Prologue_Liuta_Cloud_Gematoma.39509} 血肿
-{Clouds2.Hospital.Day4.Hospital_Liuta.Prologue_Liuta_Cloud_Gematoma.6531} 也许她撞到了什么，也许是症状
-{Clouds2.Hospital.Day4.Hospital_Liuta.Prologue_Liuta_Cloud_Gematoma.18506} 我该问问瘀伤是怎么来的
-{Clouds2.Hospital.Day4.Hospital_Liuta.Prologue_Liuta_Cloud_Gematoma.59387} 她不记得自己撞出过任何瘀伤！

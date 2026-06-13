@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_DeadBodies.Name} 恶臭
-{Minds2.Days.Day4.Day4_Q2_Escape.Day4_Q2_MM_DeadBodies.Description} 该死！这节车厢装满了染疫的尸体。这是陷阱！出去，快出去！

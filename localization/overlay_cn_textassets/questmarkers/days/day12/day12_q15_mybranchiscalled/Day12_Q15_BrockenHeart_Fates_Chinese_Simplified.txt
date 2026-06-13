@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_BrockenHeart_Fates.Name} 碎心人酒馆
-{QuestMarkers.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_BrockenHeart_Fates.Description} 那间酒馆里还有一些我尚未得知的命运。

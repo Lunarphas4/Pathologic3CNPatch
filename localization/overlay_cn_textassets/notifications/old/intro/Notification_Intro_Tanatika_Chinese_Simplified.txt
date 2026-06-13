@@ -1,2 +1,0 @@
-﻿{Notifications.Old.Intro.Notification_Intro_Tanatika.Name} 九月二十三日，
-{Notifications.Old.Intro.Notification_Intro_Tanatika.Description} 启程前往戈尔洪的那一天

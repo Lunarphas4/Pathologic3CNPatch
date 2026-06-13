@@ -1,5 +1,0 @@
-{UI.ContextMenu.Items.Use} 使用
-{UI.ContextMenu.Items.Split} 拆分堆叠
-{UI.ContextMenu.Items.Drop} 丢弃
-{UI.ContextMenu.Items.FastMove} 移动
-{UI.ContextMenu.Items.FastMoveBack} 移动

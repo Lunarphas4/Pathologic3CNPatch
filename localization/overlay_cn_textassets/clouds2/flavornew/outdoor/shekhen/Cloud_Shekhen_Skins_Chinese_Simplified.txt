@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_Skins.44925} 草原工艺始终依靠公牛
-{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_Skins.10340} 草原工艺始终依靠公牛
-{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_Skins.56689} 奥利姆斯基只是围着屠夫建起白蚁巢……
-{Clouds2.FlavorNew.Outdoor.Shekhen.Cloud_Shekhen_Skins.61752} ……然后把收益拿给自己

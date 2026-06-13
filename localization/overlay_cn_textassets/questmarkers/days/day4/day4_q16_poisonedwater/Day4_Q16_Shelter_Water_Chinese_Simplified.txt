@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_Shelter_Water.Name} 庇护所
-{QuestMarkers.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_Shelter_Water.Description} 拉拉在不知情下把染病的水发给众人。

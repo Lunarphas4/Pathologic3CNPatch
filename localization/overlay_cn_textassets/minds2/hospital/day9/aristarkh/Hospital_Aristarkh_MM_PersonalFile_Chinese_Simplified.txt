@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_PersonalFile.Name} 大学生阿里斯塔尔赫
-{Minds2.Hospital.Day9.Aristarkh.Hospital_Aristarkh_MM_PersonalFile.Description} 昏迷被发现，差点被勤杂工和瘟疫尸体一起拉走。是单纯醉了——还是出了更严重的问题？

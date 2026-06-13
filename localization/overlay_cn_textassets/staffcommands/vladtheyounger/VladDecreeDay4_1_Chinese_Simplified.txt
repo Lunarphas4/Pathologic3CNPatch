@@ -1,2 +1,0 @@
-{StaffCommands.VladTheYounger.VladDecreeDay4_1.Name} 严厉隔离
-{StaffCommands.VladTheYounger.VladDecreeDay4_1.Description} 封堵感染街区，不准任何人离开。（点火求生的街区除外。）

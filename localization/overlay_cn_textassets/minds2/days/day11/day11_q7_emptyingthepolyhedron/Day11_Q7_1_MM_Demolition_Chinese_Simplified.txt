@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_1_MM_Demolition.Name} 事后之明
-{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_1_MM_Demolition.Description} 若我不把孩子撤出——布洛克便拒绝拆塔。

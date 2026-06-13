@@ -1,2 +1,0 @@
-{UI.Credits.Art.DanielLempert.Name} Daniel Lempert
-{UI.Credits.Art.DanielLempert.Description} 概念美术

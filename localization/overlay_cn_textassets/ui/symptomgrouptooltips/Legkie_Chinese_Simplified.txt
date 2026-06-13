@@ -1,2 +1,0 @@
-{UI.SymptomGroupTooltips.Legkie.Name} 痰液样本
-{UI.SymptomGroupTooltips.Legkie.Description} 最好在早晨空腹时收集，先用开水漱口和漱喉。通过深咳来收集样本。

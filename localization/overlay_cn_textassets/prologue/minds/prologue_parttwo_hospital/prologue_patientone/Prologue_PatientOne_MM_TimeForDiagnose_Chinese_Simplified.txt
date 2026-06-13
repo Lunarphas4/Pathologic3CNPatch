@@ -1,2 +1,0 @@
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PatientOne.Prologue_PatientOne_MM_TimeForDiagnose.Name} 病历采集完毕
-{Prologue.Minds.Prologue_PartTwo_Hospital.Prologue_PatientOne.Prologue_PatientOne_MM_TimeForDiagnose.Description} 该下诊断了。

@@ -1,2 +1,0 @@
-{Notifications.GameHint.Hint_Staff_Notification.Name} ⁠
-{Notifications.GameHint.Hint_Staff_Notification.Description} 在办公桌旁按 <InputActions/Interact/DefaultInteract> 打开应急指挥部菜单。可在其中下达政令。

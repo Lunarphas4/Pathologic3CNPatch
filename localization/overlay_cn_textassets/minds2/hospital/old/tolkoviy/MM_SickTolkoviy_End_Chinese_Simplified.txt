@@ -1,2 +1,0 @@
-{Minds2.Hospital.Old.Tolkoviy.MM_SickTolkoviy_End.Name} 病人嘲鸫
-{Minds2.Hospital.Old.Tolkoviy.MM_SickTolkoviy_End.Description} 病人嘲鸫暂时稳住了。

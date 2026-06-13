@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_Permadeath.Name} 不容失误
-{Notifications.Tutorial.Notification_Permadeath.Description} 若我身上没有汞合金时死去——便是真正的死亡。务必随身常备。

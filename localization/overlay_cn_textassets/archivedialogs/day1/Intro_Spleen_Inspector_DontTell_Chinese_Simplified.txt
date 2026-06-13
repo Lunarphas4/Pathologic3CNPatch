@@ -1,2 +1,0 @@
-﻿{ArchiveDialogs.Day1.Intro_Spleen_Inspector_DontTell.52978} 您上一段插曲真是戏剧性十足。听到您描述鉴别诊断时，我都感动得落泪，差点就给您记通过了。不过，丹科夫斯基医生，我们不是为这个来的。
-{ArchiveDialogs.Day1.Intro_Spleen_Inspector_DontTell.23864} 我才刚讲到最有意思的地方！每个字都很重要！

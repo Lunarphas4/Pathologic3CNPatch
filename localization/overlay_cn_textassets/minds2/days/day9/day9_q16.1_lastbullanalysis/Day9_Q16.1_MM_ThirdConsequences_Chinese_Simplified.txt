@@ -1,2 +1,0 @@
-{Minds2.Days.Day9.Day9_Q16.1_LastBullAnalysis.Day9_Q16.1_MM_ThirdConsequences.Name} 静水
-{Minds2.Days.Day9.Day9_Q16.1_LastBullAnalysis.Day9_Q16.1_MM_ThirdConsequences.Description} 要么我还没发现这头牛脾气带来的后果，要么今天它没有造成新的损害

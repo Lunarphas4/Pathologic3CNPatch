@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.WaterTower.Cloud_WaterTower_TowerDoor.44925} 真该把这座塔据为己有
-{Clouds2.FlavorNew.Outdoor.WaterTower.Cloud_WaterTower_TowerDoor.10340} 真该把这座塔据为己有
-{Clouds2.FlavorNew.Outdoor.WaterTower.Cloud_WaterTower_TowerDoor.56689} 在屋顶下的办公室里管理一切
-{Clouds2.FlavorNew.Outdoor.WaterTower.Cloud_WaterTower_TowerDoor.61752} 从窗里看到模型，而不是城市

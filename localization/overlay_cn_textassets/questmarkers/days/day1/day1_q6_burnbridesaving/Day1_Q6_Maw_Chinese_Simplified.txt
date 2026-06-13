@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Maw.Name} 喉口区
-{QuestMarkers.Days.Day1.Day1_Q6_BurnBrideSaving.Day1_Q6_Maw.Description} 我在这里于开端处结束了故事

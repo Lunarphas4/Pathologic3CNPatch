@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_House.Name} 到夜莺家里找答案？
-{Minds2.Hospital.Day7.Platon.Hospital_Platon_MM_House.Description} 她不像在说谎，也不像在阻挠诊断——可结论就是合不拢。

@@ -1,2 +1,0 @@
-{StaffCommands.Day5.PopulationScreening.Name} 逐户排查
-{StaffCommands.Day5.PopulationScreening.Description} 逐户巡查，找出感染沙疫的人。

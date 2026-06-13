@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_NotkinIsDead.Name} 诺特金之殁
-{Minds2.Days.KeyNodes.KeyNode_NotkinIsDead.Description} 首领诺特金被沙疫带走了。

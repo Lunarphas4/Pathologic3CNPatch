@@ -1,8 +1,0 @@
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_ShadowCapella_Final.29082} 死亡是她放弃天赋所付出的代价。长辈们警告过她，人无法逃离自己——可她还是试了。
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_ShadowCapella_Final.24012} 卡佩拉是因为她父亲才被绞死的。是他把她推到了那里。
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_ShadowCapella_Final.5301} 她的死不能归咎于任何人。她心中没有怨毒。怨毒从不在她的天性里，她根本不懂它。 她接受了自己的命运，现在只想要一件事：让她父亲照顾好自己。他的状况很糟，在她死后也许会做傻事。
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_ShadowCapella_Final.61287} 卡佩拉是他们之中最明白事理的。他们对她做的事，令人无法忍受地不公。
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_ShadowCapella_Final.51384} 卡佩拉死了，是因为我没能看紧她。她仍然可以被救回来。
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_ShadowCapella_Final.13452} 不要责备自己。她对你没有怨毒。怨毒从不在她的天性里，她根本不懂它。 她接受了自己的命运，现在只想要一件事：让她父亲照顾好自己。他的状况很糟，在她死后也许会做傻事。
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_ShadowCapella_Final.63592} 我会告诉他。
-{Dialogs2.Days.Day12.Day12_Q15_MyBranchIsCalled.Day12_Q15_ShadowCapella_Final.2747} 即便死了，她还在照看父亲。真让人受不了。

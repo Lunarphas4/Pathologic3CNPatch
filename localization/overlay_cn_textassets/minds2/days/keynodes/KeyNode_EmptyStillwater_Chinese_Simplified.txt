@@ -1,2 +1,0 @@
-﻿{Minds2.Days.KeyNodes.KeyNode_EmptyStillwater.Name} 弃置的观星台
-{Minds2.Days.KeyNodes.KeyNode_EmptyStillwater.Description} 静水观星台已空置多年。

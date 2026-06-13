@@ -1,9 +1,0 @@
-{Dialogs2.Days.Day8.Day8_Q10_FalseExecution.Day8_Q10_Children_Threats.56148} 为什么，为什么要放了他们？这不公平！
-{Dialogs2.Days.Day8.Day8_Q10_FalseExecution.Day8_Q10_Children_Threats.40235} 知道我们要拿你怎么样吗？哦，你会后悔的！最好小心点！
-{Dialogs2.Days.Day8.Day8_Q10_FalseExecution.Day8_Q10_Children_Threats.46812} 考虑到你们处决人的手艺，我想我相当安全。
-{Dialogs2.Days.Day8.Day8_Q10_FalseExecution.Day8_Q10_Children_Threats.17145} 别听他的，斯威夫特！就不该请这个大城市脸来。下次不用他！肯定会干得漂亮！
-{Dialogs2.Days.Day8.Day8_Q10_FalseExecution.Day8_Q10_Children_Threats.33582} 不会有“下次”。别再玩打仗了，听见没有？你们这次越界了。
-{Dialogs2.Days.Day8.Day8_Q10_FalseExecution.Day8_Q10_Children_Threats.44103} 你们什么时候变得这么野蛮了？可汗不在，就脱了缰？
-{Dialogs2.Days.Day8.Day8_Q10_FalseExecution.Day8_Q10_Children_Threats.27629} 先辈不及祖辈，而我们又比父辈更坏。
-{Dialogs2.Days.Day8.Day8_Q10_FalseExecution.Day8_Q10_Children_Threats.39613} 哦不！请发慈悲！
-{Dialogs2.Days.Day8.Day8_Q10_FalseExecution.Day8_Q10_Children_Threats.43170} 你是危险的化身，孩子。我差点笑死。

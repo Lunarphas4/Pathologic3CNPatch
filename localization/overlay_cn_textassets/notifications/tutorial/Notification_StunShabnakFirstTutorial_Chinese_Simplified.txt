@@ -1,2 +1,0 @@
-{Notifications.Tutorial.Notification_StunShabnakFirstTutorial.Name} 一次机会
-{Notifications.Tutorial.Notification_StunShabnakFirstTutorial.Description} Shabnak（泥魔女）难以预料，我只有一次机会。开枪前，我得先用篝火或原型器具把它定住。

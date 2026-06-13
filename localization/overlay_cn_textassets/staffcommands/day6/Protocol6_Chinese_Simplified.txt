@@ -1,2 +1,0 @@
-{StaffCommands.Day6.Protocol6.Name} 第 6 号方案
-{StaffCommands.Day6.Protocol6.Description} 让民众接种应急指挥部的实验药剂。

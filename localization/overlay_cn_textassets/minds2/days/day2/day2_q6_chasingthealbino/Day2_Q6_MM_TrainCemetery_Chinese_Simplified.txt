@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_MM_TrainCemetery.Name} 活饵垂钓
-{Minds2.Days.Day2.Day2_Q6_ChasingTheAlbino.Day2_Q6_MM_TrainCemetery.Description} 尽头铁轨上堆着报废的火车，沿着轨道便可步入。那恶棍就藏在那里。勇敢的小钉竟会被他吓住？

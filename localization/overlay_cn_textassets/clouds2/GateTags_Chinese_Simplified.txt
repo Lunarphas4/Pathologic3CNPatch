@@ -1,4 +1,0 @@
-{Clouds2.GateTags.17705} 你本来打算走另一条路
-{Clouds2.GateTags.27564} 你本来打算走另一条路
-{Clouds2.GateTags.30834} 沿着地图上的路线走
-{Clouds2.GateTags.2290} 关上了？

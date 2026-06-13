@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q8_KainsReconciliation.Day2_Q8_MM_Defection.Name} 龃龉
-{Minds2.Days.Day2.Day2_Q8_KainsReconciliation.Day2_Q8_MM_Defection.Description} 唉！日暮时分，凯恩一家已对我心生不满。这本可避免，对吗？

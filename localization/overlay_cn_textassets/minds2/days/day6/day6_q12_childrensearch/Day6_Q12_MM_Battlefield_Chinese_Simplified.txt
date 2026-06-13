@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day6.Day6_Q12_ChildrenSearch.Day6_Q12_MM_Battlefield.Name} 战场
-{Minds2.Days.Day6.Day6_Q12_ChildrenSearch.Day6_Q12_MM_Battlefield.Description} 在疫病的死者堆里，孩子们寻找着自己的同伴，想替他们好好下葬。瘟疫夺走了他们的童年。

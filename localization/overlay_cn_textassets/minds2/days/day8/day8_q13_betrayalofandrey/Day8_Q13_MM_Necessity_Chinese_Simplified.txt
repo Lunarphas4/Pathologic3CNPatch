@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q13_BetrayalOfAndrey.Day8_Q13_MM_Necessity.Name} 无可奈何之理
-{Minds2.Days.Day8.Day8_Q13_BetrayalOfAndrey.Day8_Q13_MM_Necessity.Description} ……极简单的算术。没有卡明斯基，我便保不住多面体——仅此而已。

@@ -1,4 +1,0 @@
-{UI.Menu.Settings.Values.AntialiasingType.None} 无
-{UI.Menu.Settings.Values.AntialiasingType.FXAA} FXAA
-{UI.Menu.Settings.Values.AntialiasingType.SMAA} SMAA
-{UI.Menu.Settings.Values.AntialiasingType.TAAU} TAA

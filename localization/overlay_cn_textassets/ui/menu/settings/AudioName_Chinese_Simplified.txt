@@ -1,5 +1,0 @@
-{UI.Menu.Settings.AudioName.BaseAudio} 音频
-{UI.Menu.Settings.AudioName.MasterVolume} 主音量
-{UI.Menu.Settings.AudioName.VoiceVolume} 画外音
-{UI.Menu.Settings.AudioName.EffectsVolume} 效果
-{UI.Menu.Settings.AudioName.MusicVolume} 音乐

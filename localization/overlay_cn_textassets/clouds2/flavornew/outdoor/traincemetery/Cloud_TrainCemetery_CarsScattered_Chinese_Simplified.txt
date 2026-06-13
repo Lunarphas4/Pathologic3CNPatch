@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_CarsScattered.44925} 土地几乎吞掉了火车
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_CarsScattered.10340} 土地几乎吞掉了火车
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_CarsScattered.56689} 它也会这样吞掉城市和所有人类事业
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_CarsScattered.61752} 迟早如此

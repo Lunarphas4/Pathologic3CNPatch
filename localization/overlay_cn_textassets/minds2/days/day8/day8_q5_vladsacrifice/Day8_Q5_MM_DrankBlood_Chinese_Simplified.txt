@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_DrankBlood.Name} 美食家
-{Minds2.Days.Day8.Day8_Q5_VladSacrifice.Day8_Q5_MM_DrankBlood.Description} 我在草原庆典上喝了公牛的血。怪异的口味。看来我是疯了。

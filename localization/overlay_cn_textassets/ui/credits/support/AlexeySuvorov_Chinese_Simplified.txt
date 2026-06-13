@@ -1,2 +1,0 @@
-{UI.Credits.Support.AlexeySuvorov.Name} Alexey Suvorov
-{UI.Credits.Support.AlexeySuvorov.Description} 邮件事务经理

@@ -1,2 +1,0 @@
-{StaffCommands.Day8.SteppeBridesDancing.Name} 民间疗法
-{StaffCommands.Day8.SteppeBridesDancing.Description} 在城中种植草原药草。

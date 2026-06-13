@@ -1,2 +1,0 @@
-{UI.Credits.RullerProductions.StanislavOnasenko.Name} Stanislav Onasenko
-{UI.Credits.RullerProductions.StanislavOnasenko.Description} 剪辑总监

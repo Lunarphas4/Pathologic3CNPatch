@@ -1,3 +1,0 @@
-﻿{Items.CraftRecipes.Bromide_RecipeItem.Name} 配方：溴化物
-{Items.CraftRecipes.Bromide_RecipeItem.Description} 镇静剂。略微增加冷漠。
-{Items.CraftRecipes.Bromide_RecipeItem.Description2} 镇静剂。略微增加冷漠。

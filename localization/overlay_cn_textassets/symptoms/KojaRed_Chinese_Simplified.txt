@@ -1,2 +1,0 @@
-{Symptoms.KojaRed.Name} 皮肤发红
-{Symptoms.KojaRed.Description} 皮肤出现清晰斑片，颜色从轻微潮红到鲜红不等。

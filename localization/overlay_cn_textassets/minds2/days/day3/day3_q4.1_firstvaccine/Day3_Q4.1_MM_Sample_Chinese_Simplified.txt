@@ -1,2 +1,0 @@
-{Minds2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MM_Sample.Name} 奋战过的机体
-{Minds2.Days.Day3.Day3_Q4.1_FirstVaccine.Day3_Q4.1_MM_Sample.Description} 我拿到了患病草药新娘的样本。她的抗体正是小镇所需要的。该酿制真正的疫苗了

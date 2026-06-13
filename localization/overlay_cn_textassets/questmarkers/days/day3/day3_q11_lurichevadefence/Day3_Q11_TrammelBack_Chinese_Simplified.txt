@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day3.Day3_Q11_LurichevaDefence.Day3_Q11_TrammelBack.Name} 套笼
-{QuestMarkers.Days.Day3.Day3_Q11_LurichevaDefence.Day3_Q11_TrammelBack.Description} 柳里切娃来到了市政厅。剩下的，便是把坏消息交付给她。

@@ -1,2 +1,0 @@
-﻿{Locations.Polyhedron_Indoor_Entrance.Name} 多面体前厅
-{Locations.Polyhedron_Indoor_Entrance.Description} 多面体前厅

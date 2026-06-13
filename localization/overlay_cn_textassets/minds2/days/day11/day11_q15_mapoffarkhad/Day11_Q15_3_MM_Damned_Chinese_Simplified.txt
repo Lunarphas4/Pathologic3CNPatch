@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_3_MM_Damned.Name} 诅咒
-{Minds2.Days.Day11.Day11_Q15_MapOfFarkhad.Day11_Q15_3_MM_Damned.Description} 格奥尔基知道。

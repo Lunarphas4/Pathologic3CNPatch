@@ -1,2 +1,0 @@
-{Probes.ProbeDefinition_MoldOnTheHouse.Name} ⁠
-{Probes.ProbeDefinition_MoldOnTheHouse.Description} ⁠

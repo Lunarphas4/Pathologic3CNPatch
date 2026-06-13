@@ -1,2 +1,0 @@
-{Minds2.Days.Day11.Day11_Q3_DeadTownTwo.Day11_Q0_MM_NoTomorrow.Name} 没有明天
-{Minds2.Days.Day11.Day11_Q3_DeadTownTwo.Day11_Q0_MM_NoTomorrow.Description} 未来不会到来。我也几乎已抵达终幕。

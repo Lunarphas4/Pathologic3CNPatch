@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day2.Day2_Q12_SmokeOnThePeter.Day2_Q12_MM_Persuasion.Name} 无可推诿的审问
-{Minds2.Days.Day2.Day2_Q12_SmokeOnThePeter.Day2_Q12_MM_Persuasion.Description} 彼得没顶住阿格拉娅的压迫，把多面体的全部秘密都告诉了她。

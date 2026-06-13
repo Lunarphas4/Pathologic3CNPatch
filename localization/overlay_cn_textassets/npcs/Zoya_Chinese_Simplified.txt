@@ -1,3 +1,0 @@
-{Npcs.Zoya.Name} 访客金莺
-{Npcs.Zoya.FullName} ⁠
-{Npcs.Zoya.Description} ⁠

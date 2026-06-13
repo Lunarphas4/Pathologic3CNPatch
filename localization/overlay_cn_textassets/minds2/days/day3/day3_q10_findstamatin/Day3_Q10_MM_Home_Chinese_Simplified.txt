@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Home.Name} 总算
-{Minds2.Days.Day3.Day3_Q10_FindStamatin.Day3_Q10_MM_Home.Description} 心软的拉拉给彼得包扎好，又把他送回了家。我得赶在他下一次烂醉之前赶到。

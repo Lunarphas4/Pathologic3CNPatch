@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day9.Day9_Q5_PersuadingLara.Day9_Q5_Shelter.Name} 庇护所
-{QuestMarkers.Days.Day9.Day9_Q5_PersuadingLara.Day9_Q5_Shelter.Description} 我必须劝拉拉打消杀布洛克的念头。

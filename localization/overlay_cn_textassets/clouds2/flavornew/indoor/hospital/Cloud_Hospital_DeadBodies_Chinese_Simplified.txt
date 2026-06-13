@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Hospital.Cloud_Hospital_DeadBodies.44925} 尸体已经无处可放
-{Clouds2.FlavorNew.Indoor.Hospital.Cloud_Hospital_DeadBodies.10340} 尸体已经无处可放
-{Clouds2.FlavorNew.Indoor.Hospital.Cloud_Hospital_DeadBodies.56689} 缺人搬运
-{Clouds2.FlavorNew.Indoor.Hospital.Cloud_Hospital_DeadBodies.5816} 缺人挖墓
-{Clouds2.FlavorNew.Indoor.Hospital.Cloud_Hospital_DeadBodies.61752} 缺人

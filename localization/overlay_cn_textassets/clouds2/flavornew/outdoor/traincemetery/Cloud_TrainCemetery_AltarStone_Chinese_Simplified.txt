@@ -1,3 +1,0 @@
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_AltarStone.44925} 夜里这里会向炉膛里的摩洛克献祭
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_AltarStone.56689} 夜里这里会向炉膛里的摩洛克献祭
-{Clouds2.FlavorNew.Outdoor.TrainCemetery.Cloud_TrainCemetery_AltarStone.61752} ……不确定我是在开玩笑，还是认真的

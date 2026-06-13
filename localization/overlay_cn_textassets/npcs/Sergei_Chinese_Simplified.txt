@@ -1,3 +1,0 @@
-{Npcs.Sergei.Name} 鲁夫
-{Npcs.Sergei.FullName} ⁠
-{Npcs.Sergei.Description} ⁠

@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_2_MM_TooLong.Name} 人道灾难
-{Minds2.Days.Day4.Day4_Q16_PoisonedWater.Day4_Q16_2_MM_TooLong.Description} 拉拉惊骇不已！她愿意帮我今日就找出洁净的水。但化验要花多少时间？

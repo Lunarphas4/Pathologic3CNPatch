@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_Victor.Name} 割神断经
-{Minds2.Days.Day7.Day7_Q2_BrokenStreet.Day7_Q2_MM_Victor.Description} 所谓"剥夺理智"——指的莫非是流行的额叶切除？

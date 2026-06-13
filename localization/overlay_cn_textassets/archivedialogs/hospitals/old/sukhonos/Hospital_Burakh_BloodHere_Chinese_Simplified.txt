@@ -1,4 +1,0 @@
-{ArchiveDialogs.Hospitals.Old.Sukhonos.Hospital_Burakh_BloodHere.6639} 你让我取血。
-{ArchiveDialogs.Hospitals.Old.Sukhonos.Hospital_Burakh_BloodHere.3333} 你看。不是办到了吗。
-{ArchiveDialogs.Hospitals.Old.Sukhonos.Hospital_Burakh_BloodHere.29317} 不过我还是不想滥用自己的权利。
-{ArchiveDialogs.Hospitals.Old.Sukhonos.Hospital_Burakh_BloodHere.8477} 好，好。

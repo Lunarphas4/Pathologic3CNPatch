@@ -1,4 +1,0 @@
-{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_NeighbourAgain.31932} 医生！那么，究竟是什么？您在他房间里发现什么奇怪东西了吗？弄明白那个无赖到底怎么了吗？
-{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_NeighbourAgain.15881} 我已经确认了诊断。细节与你无关。
-{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_NeighbourAgain.28723} 线索拼起来了。我会立刻确认他的诊断。
-{ArchiveDialogs.Hospitals.Day4.Hospital_Vasiliy.Hospital_Vasiliy_NeighbourAgain.32149} 我打算回医院，问瓦西里几个问题。这个病例还有些缺口。

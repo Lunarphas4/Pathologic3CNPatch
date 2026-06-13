@@ -1,3 +1,0 @@
-{Clouds.Flavor.Cloud_RegionZavodi_FerrymanBoat.6605} 这是城里唯一的交通工具。
-{Clouds.Flavor.Cloud_RegionZavodi_FerrymanBoat.15197} 这是城里唯一的交通工具。
-{Clouds.Flavor.Cloud_RegionZavodi_FerrymanBoat.12036} 很快它也会被烧掉。

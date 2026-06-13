@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_2_MM_Limitation.Name} 限度
-{Minds2.Days.Day11.Day11_Q11_LastVaccination.Day11_Q11_2_MM_Limitation.Description} 克拉拉只能帮我找齐做接种所需的病人——再多便不行。这是她的条件。

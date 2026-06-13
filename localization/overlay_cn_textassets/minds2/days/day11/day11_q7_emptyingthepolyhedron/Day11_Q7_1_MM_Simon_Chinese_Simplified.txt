@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_1_MM_Simon.Name} 知者之诅
-{Minds2.Days.Day11.Day11_Q7_EmptyingThePolyhedron.Day11_Q7_1_MM_Simon.Description} 若我不撤出孩子——塔便容不下西蒙。

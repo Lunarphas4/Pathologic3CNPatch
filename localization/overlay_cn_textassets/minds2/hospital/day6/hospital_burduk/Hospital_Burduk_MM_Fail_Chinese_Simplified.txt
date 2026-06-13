@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_Fail.Name} 古屋之中有古人
-{Minds2.Hospital.Day6.Hospital_Burduk.Hospital_Burduk_MM_Fail.Description} 麻脸什么都不肯说。我不该惹恼他。

@@ -1,9 +1,0 @@
-{ArchiveDialogs.Teaser.Teaser_GeorgiyLies.29567} 医生，接下来的事严格保密。这关系到我们的名誉，也关系到您的名誉——作为我们那位著名朋友的名誉。
-{ArchiveDialogs.Teaser.Teaser_GeorgiyLies.23306} 我保证。
-{ArchiveDialogs.Teaser.Teaser_GeorgiyLies.28176} 我们不能允许您检查西蒙的遗体，因为遗体不在我们手上。
-{ArchiveDialogs.Teaser.Teaser_GeorgiyLies.6756} 你们本该立刻告诉我真相！
-{ArchiveDialogs.Teaser.Teaser_GeorgiyLies.32150} 有人偷走了遗体。而现在您也知道了这个秘密。我甚至可以称您为我们家族的亲近之人。如果您仍想见西蒙，就必须尽快找到遗体。
-{ArchiveDialogs.Teaser.Teaser_GeorgiyLies.8980} 您该死地说对了。
-{ArchiveDialogs.Teaser.Teaser_GeorgiyLies.1497} 而你们正在找他，是吗？
-{ArchiveDialogs.Teaser.Teaser_GeorgiyLies.9312} 我早有怀疑。事情是怎么发生的？
-{ArchiveDialogs.Teaser.Teaser_GeorgiyLies.14554} 没人愿意藏在您那不祥的影子里。

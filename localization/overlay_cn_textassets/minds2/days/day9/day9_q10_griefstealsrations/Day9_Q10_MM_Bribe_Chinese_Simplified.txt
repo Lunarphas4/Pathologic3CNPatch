@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q10_GriefStealsRations.Day9_Q10_MM_Bribe.Name} 小小分润
-{Minds2.Days.Day9.Day9_Q10_GriefStealsRations.Day9_Q10_MM_Bribe.Description} 我贿赂了格里夫，让他别去碰军粮。

@@ -1,4 +1,0 @@
-{Projectors.Weather.Weather_LightRain_Morning.5187} ⁠
-{Projectors.Weather.Weather_LightRain_Morning.4307} 从早上就开始下雨
-{Projectors.Weather.Weather_LightRain_Morning.7093} 早上还下着毛毛雨
-{Projectors.Weather.Weather_LightRain_Morning.5115} 如果雨没有变大就好了

@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day2.Day2_Q12_1_Incense.Day2_Q12_1_Stillwater.Name} 静水宅
-{QuestMarkers.Days.Day2.Day2_Q12_1_Incense.Day2_Q12_1_Stillwater.Description} 即便指挥部尚未开张，我也能调配药剂、做化学实验。

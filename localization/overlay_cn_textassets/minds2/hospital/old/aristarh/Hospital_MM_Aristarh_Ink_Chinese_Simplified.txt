@@ -1,2 +1,0 @@
-{Minds2.Hospital.Old.Aristarh.Hospital_MM_Aristarh_Ink.Name} 红墨水
-{Minds2.Hospital.Old.Aristarh.Hospital_MM_Aristarh_Ink.Description} 墨水池里是血？是红墨水。

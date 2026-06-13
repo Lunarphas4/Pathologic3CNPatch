@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_MM_Unacceptable.Name} 研究中止
-{Minds2.Days.Day3.Day3_Q14_CuriousWorm.Day3_Q14_MM_Unacceptable.Description} 让一只肮脏的蠕虫踏进洁净无瑕的静水观星台？绝不容许。

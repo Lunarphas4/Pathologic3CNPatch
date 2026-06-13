@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_ProbeComplete.Name} 采样
-{Notifications.Tutorial.Notification_ProbeComplete.Description} 样本到手——回静水观星台！那里有一只长嘴蒸馏器，可在其中调制装填料。眼下没空用化验仪。

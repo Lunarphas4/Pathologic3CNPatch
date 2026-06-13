@@ -1,3 +1,0 @@
-{Npcs.Quests.FarkhadsMonument.Name} 法尔哈德之像
-{Npcs.Quests.FarkhadsMonument.FullName} ⁠
-{Npcs.Quests.FarkhadsMonument.Description} ⁠

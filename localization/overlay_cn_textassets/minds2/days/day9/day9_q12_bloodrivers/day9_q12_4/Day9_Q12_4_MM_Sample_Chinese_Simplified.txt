@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_4.Day9_Q12_4_MM_Sample.Name} 重启此案
-{Minds2.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_4.Day9_Q12_4_MM_Sample.Description} 我得取样化验这份血。我有几个推断。

@@ -1,4 +1,0 @@
-{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Symptom.45967} 这里的皮肤严重受损。
-{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Symptom.26416} 这里的皮肤严重受损。
-{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Symptom.29681} 我怀疑这是她接触毒气所致。
-{Clouds2.Days.Intro.Intro_Exam.Intro_Cloud_Patient_Symptom.3297} 她眼睛发红和黏膜灼伤很可能也是同一原因。

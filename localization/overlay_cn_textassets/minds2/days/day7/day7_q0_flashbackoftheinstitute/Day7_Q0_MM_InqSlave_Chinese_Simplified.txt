@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day7.Day7_Q0_FlashbackOfTheInstitute.Day7_Q0_MM_InqSlave.Name} Judica causam tuam（自审己案）
-{Minds2.Days.Day7.Day7_Q0_FlashbackOfTheInstitute.Day7_Q0_MM_InqSlave.Description} 审判官不得动审判官的下属。这是律法。

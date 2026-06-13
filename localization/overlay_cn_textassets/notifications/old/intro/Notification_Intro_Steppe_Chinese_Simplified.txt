@@ -1,2 +1,0 @@
-﻿{Notifications.Old.Intro.Notification_Intro_Steppe.Name} 第11天
-{Notifications.Old.Intro.Notification_Intro_Steppe.Description} 疫情的——倒数第二天

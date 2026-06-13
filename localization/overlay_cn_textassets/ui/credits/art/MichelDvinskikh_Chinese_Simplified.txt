@@ -1,2 +1,0 @@
-{UI.Credits.Art.MichelDvinskikh.Name} Michel Dvinskikh
-{UI.Credits.Art.MichelDvinskikh.Description} 概念美术

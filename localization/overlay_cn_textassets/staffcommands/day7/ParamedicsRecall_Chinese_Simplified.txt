@@ -1,2 +1,0 @@
-{StaffCommands.Day7.ParamedicsRecall.Name} 招募护理员
-{StaffCommands.Day7.ParamedicsRecall.Description} 额外招募志愿护理员，补充应急指挥部人手。

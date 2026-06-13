@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_TrainsCemetery_Exact.Name} 火车坟场
-{QuestMarkers.Days.Day11.Day11_Q12_PiedPiperOfHamelin.Day11_Q12_TrainsCemetery_Exact.Description} 我得去那群草原生灵的巢穴里找人骨。错不了。

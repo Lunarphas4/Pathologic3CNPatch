@@ -1,2 +1,0 @@
-﻿{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_Papers.Name} 大夫萨夫卡
-{Minds2.Hospital.Day10.Kira.Hospital_Kira_MM_Papers.Description} 我的同行萨夫卡把他父亲的病况写得极详细。我的不少前辈大夫，可未必这般细致。

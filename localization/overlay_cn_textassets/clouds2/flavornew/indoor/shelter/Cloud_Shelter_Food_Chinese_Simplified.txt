@@ -1,4 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_Food.44925} 食物经过仔细检查，确认是否带疫
-{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_Food.10340} 食物经过仔细检查，确认是否带疫
-{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_Food.56689} 最安全的是瘟疫前储备的食物
-{Clouds2.FlavorNew.Indoor.Shelter.Cloud_Shelter_Food.61752} 很快就不会剩下这种东西了

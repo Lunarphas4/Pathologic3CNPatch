@@ -1,3 +1,0 @@
-{Npcs.Grach.Name} 白嘴鸦
-{Npcs.Grach.FullName} ⁠
-{Npcs.Grach.Description} ⁠

@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Trammel.Name} 束网
-{QuestMarkers.Days.Day9.Day9_Q1_Surgery.Day9_Q1_Trammel.Description} 在这里我能采尤利娅·柳里切娃的血。

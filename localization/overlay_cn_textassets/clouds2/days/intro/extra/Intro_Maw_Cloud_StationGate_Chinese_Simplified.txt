@@ -1,3 +1,0 @@
-{Clouds2.Days.Intro.Extra.Intro_Maw_Cloud_StationGate.57075} 无需返回车站。
-{Clouds2.Days.Intro.Extra.Intro_Maw_Cloud_StationGate.27818} 无需返回车站。
-{Clouds2.Days.Intro.Extra.Intro_Maw_Cloud_StationGate.5374} 没时间了。

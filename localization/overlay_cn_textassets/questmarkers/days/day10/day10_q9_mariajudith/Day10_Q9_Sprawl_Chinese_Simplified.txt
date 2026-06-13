@@ -1,2 +1,0 @@
-﻿{QuestMarkers.Days.Day10.Day10_Q9_MariaJudith.Day10_Q9_Sprawl.Name} 粗建地
-{QuestMarkers.Days.Day10.Day10_Q9_MariaJudith.Day10_Q9_Sprawl.Description} 第一次大疫中，这片城区被付之一炬。但愿玛丽亚和卡明斯基别重蹈覆辙。

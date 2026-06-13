@@ -1,2 +1,0 @@
-{CraftRecipes.OdongMixture_CraftRecipe.Name} Odongh（金族牧人）混合物
-{CraftRecipes.OdongMixture_CraftRecipe.Description} 增加躁狂

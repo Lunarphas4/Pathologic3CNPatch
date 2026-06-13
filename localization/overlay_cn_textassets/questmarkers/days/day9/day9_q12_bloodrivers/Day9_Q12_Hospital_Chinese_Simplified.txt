@@ -1,2 +1,0 @@
-{QuestMarkers.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_Hospital.Name} 医院
-{QuestMarkers.Days.Day9.Day9_Q12_BloodRivers.Day9_Q12_Hospital.Description} 肠卜师在医院里帮我。他熟稔与血有关之事。

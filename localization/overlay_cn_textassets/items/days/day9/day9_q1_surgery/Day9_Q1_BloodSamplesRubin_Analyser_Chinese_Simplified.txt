@@ -1,3 +1,0 @@
-﻿{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_BloodSamplesRubin_Analyser.Name} 数瓶血液（已检查）
-{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_BloodSamplesRubin_Analyser.Description} 鲁宾的血适合输血！
-{Items.Days.Day9.Day9_Q1_Surgery.Day9_Q1_BloodSamplesRubin_Analyser.Description2} 鲁宾的血适合输血！幸好他已经在这里。但他能一边手术一边当供血者吗？

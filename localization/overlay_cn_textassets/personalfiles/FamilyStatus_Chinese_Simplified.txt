@@ -1,6 +1,0 @@
-{PersonalFiles.FamilyStatus.Single} 未婚
-{PersonalFiles.FamilyStatus.SingleF} 未婚
-{PersonalFiles.FamilyStatus.Widower} 鳏居
-{PersonalFiles.FamilyStatus.Married} 已婚
-{PersonalFiles.FamilyStatus.WidowF} 寡居
-{PersonalFiles.FamilyStatus.MarriedF} 已婚

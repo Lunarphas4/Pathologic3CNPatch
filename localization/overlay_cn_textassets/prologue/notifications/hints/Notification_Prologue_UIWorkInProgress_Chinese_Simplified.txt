@@ -1,2 +1,0 @@
-{Prologue.Notifications.Hints.Notification_Prologue_UIWorkInProgress.Name} ⁠
-{Prologue.Notifications.Hints.Notification_Prologue_UIWorkInProgress.Description} UI仍在制作中，当前版本不代表最终质量

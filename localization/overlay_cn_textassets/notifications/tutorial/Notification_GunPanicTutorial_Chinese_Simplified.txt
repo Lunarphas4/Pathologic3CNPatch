@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_GunPanicTutorial.Name} 寻常之人
-{Notifications.Tutorial.Notification_GunPanicTutorial.Description} 他们害怕。朝天一枪，或者倒下几个同伙——迟早会把他们吓退。

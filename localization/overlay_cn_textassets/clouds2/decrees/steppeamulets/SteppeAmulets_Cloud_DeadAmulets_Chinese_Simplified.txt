@@ -1,4 +1,0 @@
-{Clouds2.Decrees.SteppeAmulets.SteppeAmulets_Cloud_DeadAmulets.39759} 草药护符
-{Clouds2.Decrees.SteppeAmulets.SteppeAmulets_Cloud_DeadAmulets.47705} 草药护符
-{Clouds2.Decrees.SteppeAmulets.SteppeAmulets_Cloud_DeadAmulets.36508} 只是稍微枯萎了
-{Clouds2.Decrees.SteppeAmulets.SteppeAmulets_Cloud_DeadAmulets.18469} 它们已经失去“魔力”了吗？

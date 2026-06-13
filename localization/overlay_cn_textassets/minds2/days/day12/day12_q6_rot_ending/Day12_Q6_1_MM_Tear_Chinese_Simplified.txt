@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_1_MM_Tear.Name} 孩童的泪
-{Minds2.Days.Day12.Day12_Q6_Rot_Ending.Day12_Q6_1_MM_Tear.Description} 司令宁愿因抗命被推上行刑队，也不愿摧毁一座装满孩童的高塔。审判权也是有边界的。

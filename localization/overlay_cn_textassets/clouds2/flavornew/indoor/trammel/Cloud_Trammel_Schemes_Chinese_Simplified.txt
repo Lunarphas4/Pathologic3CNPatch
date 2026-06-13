@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Trammel.Cloud_Trammel_Schemes.44925} 我看不见熟悉的道路
-{Clouds2.FlavorNew.Indoor.Trammel.Cloud_Trammel_Schemes.10340} 我看不见熟悉的道路
-{Clouds2.FlavorNew.Indoor.Trammel.Cloud_Trammel_Schemes.56689} 另一座同样迷失在草原里的小城？
-{Clouds2.FlavorNew.Indoor.Trammel.Cloud_Trammel_Schemes.8255} 河对岸城市的设计？
-{Clouds2.FlavorNew.Indoor.Trammel.Cloud_Trammel_Schemes.61752} 还是我看错了地方？

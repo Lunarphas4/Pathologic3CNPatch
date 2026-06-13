@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_MM_OpticalAxis.Name} 折射之光
-{Minds2.Days.Day10.Day10_Q14_KhansRoom.Day10_Q14_MM_OpticalAxis.Description} 可汗要做他家族风格的光学实验，需要透镜。他发誓会小心。

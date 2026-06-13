@@ -1,5 +1,0 @@
-{Clouds2.FlavorNew.Indoor.Rod.Cloud_Rod_KaterinasBed.44925} 永远凌乱的床铺
-{Clouds2.FlavorNew.Indoor.Rod.Cloud_Rod_KaterinasBed.10340} 永远凌乱的床铺
-{Clouds2.FlavorNew.Indoor.Rod.Cloud_Rod_KaterinasBed.56689} 永远有指甲掐进床单的痕迹
-{Clouds2.FlavorNew.Indoor.Rod.Cloud_Rod_KaterinasBed.60022} 没有一个准确的梦
-{Clouds2.FlavorNew.Indoor.Rod.Cloud_Rod_KaterinasBed.61752} 我可以不信女主人的力量，但我相信她的无力

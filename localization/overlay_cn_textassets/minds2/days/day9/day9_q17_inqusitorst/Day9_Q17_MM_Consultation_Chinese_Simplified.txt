@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_MM_Consultation.Name} 会商
-{Minds2.Days.Day9.Day9_Q17_InqusitorSt.Day9_Q17_MM_Consultation.Description} 我和审判官的会面越来越频繁。这次——至少我还有选择。

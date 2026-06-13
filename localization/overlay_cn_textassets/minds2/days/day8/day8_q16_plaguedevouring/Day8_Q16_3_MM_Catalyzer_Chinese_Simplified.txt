@@ -1,2 +1,0 @@
-﻿{Minds2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_3_MM_Catalyzer.Name} 催化
-{Minds2.Days.Day8.Day8_Q16_PlagueDevouring.Day8_Q16_3_MM_Catalyzer.Description} 利特尔有发现。赶紧赶去医院！

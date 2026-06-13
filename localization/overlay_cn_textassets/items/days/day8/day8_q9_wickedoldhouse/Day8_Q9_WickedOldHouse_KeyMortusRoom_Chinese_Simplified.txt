@@ -1,3 +1,0 @@
-﻿{Items.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_WickedOldHouse_KeyMortusRoom.Name} 带褐色斑点的钥匙
-{Items.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_WickedOldHouse_KeyMortusRoom.Description} 在二楼找到的钥匙。
-{Items.Days.Day8.Day8_Q9_WickedOldHouse.Day8_Q9_WickedOldHouse_KeyMortusRoom.Description2} 那是锈，还是血？

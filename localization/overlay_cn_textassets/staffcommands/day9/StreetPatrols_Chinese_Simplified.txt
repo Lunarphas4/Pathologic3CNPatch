@@ -1,2 +1,0 @@
-{StaffCommands.Day9.StreetPatrols.Name} 街头巡逻
-{StaffCommands.Day9.StreetPatrols.Description} 组织守卫小队进行街面巡逻。

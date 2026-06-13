@@ -1,2 +1,0 @@
-﻿{Notifications.Tutorial.Notification_CasebookDiagnosesTutorial.Name} 诊断
-{Notifications.Tutorial.Notification_CasebookDiagnosesTutorial.Description} <i>在此点击疾病名称，然后按 <InputActions/UI/TabletDiagnosis> 确认诊断。</i>
