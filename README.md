@@ -4,7 +4,7 @@ Pathologic 3 简体中文本地化补丁工程仓库。
 补丁非官方、非商业、无盈利。
 The patch is unofficial, non-commercial and unprofitable.
 
-本仓库用于维护源码、脚本、术语表、翻译 overlay 和报告文档；玩家实际安装请下载 GitHub Release 中的压缩包。
+本仓库用于维护源码、脚本、术语表、翻译 overlay 和报告文档；玩家实际安装请下载 GitHub Release 中的压缩包。（暂时删除了localization文件夹，整理后重新上传）
 
 ## 发布许可
 
