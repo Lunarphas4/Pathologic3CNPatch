@@ -6,6 +6,9 @@ The patch is unofficial, non-commercial and unprofitable.
 
 本仓库用于维护源码、脚本、术语表、翻译 overlay 和报告文档；玩家实际安装请下载 GitHub Release 中的压缩包。（暂时删除了localization文件夹，整理后重新上传）
 
+## 当前版本补丁需要以下前置操作
+**下载后，先右键点击压缩包，选择属性，选择“解除锁定”并应用，然后再解压**
+
 ## 发布许可
 
 <img width="1199" height="3275" alt="Screenshot_2026-06-13-15-42-32-937_com discord_17" src="https://github.com/user-attachments/assets/0257b2fb-f291-4505-b558-c7993e572f6b" />
